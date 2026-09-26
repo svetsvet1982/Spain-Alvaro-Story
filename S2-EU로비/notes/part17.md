@@ -443,3 +443,356 @@
   - `choca` → chocar | 직설법 현재 | 지문 | 규칙
   - `viene` → venir | 직설법 현재 | 앞에서 설명
 
+## 장면 82. 하비에르에게 전하는 확대 소식
+> 알바로가 하비에르에게 독일 수사 확대 소식을 전하며, 다음 장을 예고합니다.
+
+### 82-1. **Javier:** Álvaro, me contaron que esto se ha expandido a cuatro países más.
+- **해석:** 알바로, 이게 네 나라로 더 확대됐다고 들었어.
+- **주요 단어:** `contar` (동사) 이야기해 주다 / `expandirse` (재귀동사) 확대되다
+- **문법:** me contaron = (누군가가) 나에게 말해 줬다(3인칭 복수 비인칭). 재귀 se + 현재완료.
+- **표현:** Me contaron que... = ~라고 들었다.
+- **시제:**
+  - `contaron` → contar | 직설법 단순과거, 3인칭 복수 | 전해 들은 완결된 과거 행위 | 단순과거는 규칙(현재형만 o→ue)
+  - `se ha expandido` → expandirse | 직설법 현재완료, 3인칭 단수 | 현재까지 영향이 이어지는 결과 | 규칙
+  - 비교: 한 문장 안에 단순과거(들은 행위)와 현재완료(아직 유효한 상황)가 공존.
+
+### 82-2. **Álvaro:** Así es.
+- **해석:** 그래, 맞아.
+- **주요 단어:** `así` 그렇게
+- **문법:** 긍정 관용 표현.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 관용 | 불규칙
+
+### 82-3. **Álvaro:** Alemania, Países Bajos, Polonia, y Estados Unidos.
+- **해석:** 독일, 네덜란드, 폴란드, 그리고 미국.
+- **주요 단어:** 앞에서 설명
+- **문법:** 나열.
+- **시제:** 동사 없음
+
+### 82-4. **Javier:** Eso es una escala completamente distinta a cualquier cosa que hayamos cubierto antes.
+- **해석:** 그건 우리가 전에 다뤘던 어떤 것과도 완전히 다른 규모네.
+- **주요 단어:** `escala` (명사) 규모 / `distinto a` ~와 다른 / `cualquier` 어떤 ~든 / `cubrir` (동사) (기사로) 다루다, 취재하다
+- **문법:** cualquier cosa que + 접속법 = 불특정 선행사("어떤 것이든"). 
+- **표현:** cubrir una noticia = 뉴스를 취재하다(기자 용어).
+- **시제:**
+  - `es` → ser | 직설법 현재 | 앞에서 설명
+  - `hayamos cubierto` → cubrir | 접속법 현재완료 pretérito perfecto de subjuntivo, 1인칭 복수 | 불특정 선행사 cualquier cosa 뒤라 접속법, 지금까지의 경험이라 완료 | 과거분사 불규칙 cubierto
+
+### 82-5. **Álvaro:** Lo sé.
+- **해석:** 알아.
+- **주요 단어:** —
+- **문법:** 앞에서 설명
+- **시제:**
+  - `sé` → saber | 직설법 현재 | 앞에서 설명
+
+### 82-6. **Álvaro:** Va a llevar meses, quizás años, desmantelar todo esto.
+- **해석:** 이걸 전부 해체하려면 몇 달, 어쩌면 몇 년이 걸릴 거야.
+- **주요 단어:** `llevar` (동사) (시간이) 걸리다 / `quizás` 아마 / `desmantelar` (동사) 해체하다
+- **문법:** 부정사 desmantelar가 문장의 실제 주어. llevar + 시간 = 시간이 걸리다.
+- **시제:**
+  - `va` → ir | 직설법 현재 | ir a + 부정사 미래 | 불규칙
+  - `llevar` → llevar | 부정사 | 규칙
+  - `desmantelar` → desmantelar | 부정사 | 주어 역할 | 규칙
+
+### 82-7. **Javier:** ¿Y seguirás con esto, con Camila a tu lado?
+- **해석:** 그럼 카밀라와 함께 이 일을 계속할 거야?
+- **주요 단어:** `seguir con` ~을 계속하다 / `a tu lado` 네 곁에
+- **문법:** con + 명사 + 부사구(부대상황).
+- **시제:**
+  - `seguirás` → seguir | 직설법 미래, 2인칭 단수 | 앞으로의 의지를 물음 | 미래형은 규칙(현재는 sigo, e→i)
+
+### 82-8. **Álvaro:** Sin duda.
+- **해석:** 물론이지.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 82-9. **Álvaro:** Ahora somos un equipo, en todos los sentidos.
+- **해석:** 이제 우리는 모든 의미에서 한 팀이야.
+- **주요 단어:** `equipo` (명사) 팀 / `sentido` (명사) 의미
+- **문법:** ser + 명사.
+- **표현:** en todos los sentidos = 모든 면에서(일과 연애 둘 다 암시).
+- **시제:**
+  - `somos` → ser | 직설법 현재, 1인칭 복수 | 현재의 정체성 | 불규칙
+
+### 82-10. **Javier:** Me alegra mucho por los dos, de verdad.
+- **해석:** 두 사람 일이라 정말 기뻐.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `por` ~때문에, ~를 위해
+- **문법:** me alegra = (그것이) 나를 기쁘게 한다(gustar형 구문, 주어 생략: eso). 흔히 Me alegro por... 형태도 씀.
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재, 3인칭 단수 | 현재 감정 | 규칙
+
+### 82-11. **Álvaro:** Gracias, Javier.
+- **해석:** 고마워, 하비에르.
+- **주요 단어:** `gracias` 고마워
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 82-12. **Álvaro:** Prepárate, porque esto va a dar para mucho más de lo que imaginamos al principio.
+- **해석:** 준비해 둬, 이건 우리가 처음에 상상했던 것보다 훨씬 커질 거니까.
+- **주요 단어:** `prepararse` (재귀동사) 준비하다 / `dar para` ~할 만큼 되다 / `imaginar` (동사) 상상하다 / `al principio` 처음에
+- **문법:** 긍정 명령 + 재귀대명사 부착(prepárate). más de lo que + 절(비교).
+- **표현:** dar para mucho = 할 거리가 많다, 이야기가 길어진다(구어).
+- **시제:**
+  - `prepárate` → prepararse | 명령법, 2인칭 단수(tú) | 친구에게 하는 지시 | 규칙
+  - `va` → ir | 직설법 현재 | ir a 미래 | 앞에서 설명
+  - `dar` → dar | 부정사 | 불규칙 동사
+  - `imaginamos` → imaginar | 직설법 단순과거, 1인칭 복수 | "처음에"라는 끝난 과거 시점 | 규칙(현재형과 형태 동일, al principio로 과거임을 앎)
+
+### 82-13. **Javier:** Estoy listo.
+- **해석:** 준비됐어.
+- **주요 단어:** `listo` (형용사) 준비된
+- **문법:** estar listo = 준비된(상태) vs ser listo = 영리하다. ser/estar에 따라 의미가 달라지는 대표 형용사.
+- **시제:**
+  - `estoy` → estar | 직설법 현재, 1인칭 단수 | 현재 상태 | 불규칙
+
+### 82-14. **Javier:** Al fin y al cabo, es lo que mejor hacemos, ¿no?
+- **해석:** 결국 그게 우리가 제일 잘하는 일이잖아, 안 그래?
+- **주요 단어:** `al fin y al cabo` 결국, 어쨌든
+- **문법:** lo que mejor hacemos = 우리가 가장 잘하는 것(lo que 관계사 + 부사 최상급).
+- **표현:** ¿no? = 부가의문 "그렇지?"
+- **시제:**
+  - `es` → ser | 직설법 현재 | 앞에서 설명
+  - `hacemos` → hacer | 직설법 현재, 1인칭 복수 | 일반적 사실 | nosotros형 규칙(hago만 불규칙)
+
+### 82-15. **Álvaro:** Es lo que mejor hacemos, sí.
+- **해석:** 우리가 제일 잘하는 일이지, 맞아.
+- **주요 단어:** 앞에서 설명
+- **문법:** 반복 동의.
+- **시제:**
+  - `es` → ser | 앞에서 설명
+  - `hacemos` → hacer | 앞에서 설명
+
+### 82-16. **Álvaro:** Empecemos con lo de Alemania, entonces.
+- **해석:** 그럼 독일 건부터 시작하자.
+- **주요 단어:** `lo de` ~에 관한 일 / `entonces` 그럼
+- **문법:** 1인칭 복수 명령(청유) = 접속법 현재. lo de + 명사 = "~ 건".
+- **표현:** lo de Alemania = 독일 건(구어).
+- **시제:**
+  - `empecemos` → empezar | 접속법 현재(명령법 nosotros), 1인칭 복수 | "~하자" 청유 | 철자 변화 z→c(e 앞), nosotros는 어간 변화 없음
+
+## 장면 83. 새로운 공조 체계
+> 카를로스가 독일·네덜란드·폴란드·미국과의 공조 체계 구성 계획을 알바로와 카밀라에게 설명합니다.
+
+### 83-1. **Carlos:** Álvaro, Camila, esto va a requerir una estructura de coordinación completamente nueva.
+- **해석:** 알바로, 카밀라, 이건 완전히 새로운 공조 체계가 필요할 거예요.
+- **주요 단어:** `requerir` (동사) 필요로 하다 / `estructura` (명사) 구조, 체계 / `nuevo` (형용사) 새로운
+- **문법:** ir a + 부정사.
+- **시제:**
+  - `va` → ir | 직설법 현재 | ir a 미래 | 앞에서 설명
+  - `requerir` → requerir | 부정사 | 어간 변화 동사(requiero, e→ie)
+
+### 83-2. **Camila:** ¿Cómo lo estás planteando?
+- **해석:** 어떻게 구상하고 있어요?
+- **주요 단어:** `plantear` (동사) 구상하다, 제기하다
+- **문법:** 대명사 lo가 진행형 앞. 카밀라가 카를로스를 tú로 부름.
+- **표현:** plantear algo = (계획·문제를) 어떤 식으로 짜다.
+- **시제:**
+  - `estás` → estar | 직설법 현재, 2인칭 단수 | 진행형 조동사 | 불규칙
+  - `planteando` → plantear | 현재분사 | 지금 구상 중인 것 | 규칙
+
+### 83-3. **Carlos:** Un grupo de trabajo permanente, con representantes de los cinco países implicados, reuniéndose semanalmente hasta que esto se resuelva.
+- **해석:** 관련된 다섯 나라 대표들로 구성된 상설 실무 그룹이 이 일이 해결될 때까지 매주 모이는 방식이에요.
+- **주요 단어:** `grupo de trabajo` 실무 그룹 / `permanente` 상설의 / `representante` 대표 / `implicado` (implicar·과거분사) 관련된 / `reunirse` (재귀동사) 모이다 / `semanalmente` 매주 / `resolverse` (재귀동사) 해결되다
+- **문법:** 현재분사(reuniéndose)가 명사구를 설명. hasta que + 접속법(미래 시점). se resuelva = 수동적 재귀.
+- **시제:**
+  - `implicados` → implicar | 과거분사 (남성 복수) | 형용사 "관련된" | 규칙
+  - `reuniéndose` → reunirse | 현재분사 + 재귀 | 계속되는 활동 방식 | 규칙(현재형 reúno에 강세)
+  - `se resuelva` → resolverse | 접속법 현재, 3인칭 단수 | hasta que 뒤 아직 일어나지 않은 미래 | 어간 변화(o→ue), 과거분사 불규칙 resuelto
+
+### 83-4. **Álvaro:** ¿Y Estados Unidos?
+- **해석:** 미국은요?
+- **주요 단어:** 앞에서 설명
+- **문법:** 생략 의문문.
+- **시제:** 동사 없음
+
+### 83-5. **Álvaro:** ¿Cómo encaja en la cooperación?
+- **해석:** 공조에 어떻게 들어맞나요?
+- **주요 단어:** `encajar` (동사) 들어맞다 / `cooperación` (명사) 협력
+- **문법:** encajar en ~ = ~에 맞다.
+- **시제:**
+  - `encaja` → encajar | 직설법 현재, 3인칭 단수 | 현재 상황에 대한 질문 | 규칙
+
+### 83-6. **Carlos:** A través de su oficina de investigación financiera, con la que ya tenemos canales de cooperación establecidos desde el caso de Rueda.
+- **해석:** 그쪽 금융수사국을 통해서요. 루에다 사건 이후로 이미 협력 채널이 구축돼 있거든요.
+- **주요 단어:** `a través de` ~을 통해 / `oficina` (명사) 사무국 / `financiero` (형용사) 금융의 / `canal` (명사) 채널 / `establecido` (establecer·과거분사) 구축된 / `desde` ~이래로
+- **문법:** 전치사 + 관계사 con la que(선행사 oficina, 여성). tener + 목적어 + 과거분사 = ~를 ~된 상태로 가지고 있다.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재 | 현재 보유 상태 | 앞에서 설명
+  - `establecidos` → establecer | 과거분사 (남성 복수) | canales에 일치, 완료된 상태 | 규칙(현재 1인칭 establezco만 불규칙)
+
+### 83-7. **Camila:** Todo sigue conectándose, al final.
+- **해석:** 결국 모든 게 계속 연결되네요.
+- **주요 단어:** `seguir` (동사) 계속하다 / `conectarse` (재귀동사) 연결되다 / `al final` 결국
+- **문법:** seguir + 현재분사 = 계속 ~하다.
+- **시제:**
+  - `sigue` → seguir | 직설법 현재, 3인칭 단수 | 지속 | 불규칙(e→i, gu→g)
+  - `conectándose` → conectarse | 현재분사 + 재귀 | seguir와 결합한 지속 | 규칙
+
+### 83-8. **Carlos:** Así es este tipo de redes.
+- **해석:** 이런 종류의 조직망은 원래 그래요.
+- **주요 단어:** `tipo` (명사) 종류
+- **문법:** 주어 este tipo(단수) → 동사 es.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 일반적 성질 | 앞에서 설명
+
+### 83-9. **Carlos:** Nunca son tan aisladas como parecen al principio.
+- **해석:** 처음에 보이는 것만큼 고립돼 있는 경우는 결코 없어요.
+- **주요 단어:** `nunca` 결코 ~않다 / `aislado` (aislar·과거분사→형용사) 고립된
+- **문법:** tan + 형용사 + como = ~만큼 ~한(동등비교). 주어는 redes(여성 복수)라 aisladas.
+- **시제:**
+  - `son` → ser | 직설법 현재, 3인칭 복수 | 일반적 성질 | 불규칙
+  - `aisladas` → aislar | 과거분사 (여성 복수) | 형용사 | 규칙(현재형 aíslo 강세)
+  - `parecen` → parecer | 직설법 현재, 3인칭 복수 | 일반적 사실 | 앞에서 설명
+
+### 83-10. **Álvaro:** ¿Cuál sería nuestro papel específico en esta nueva fase?
+- **해석:** 이번 새로운 단계에서 우리의 구체적인 역할은 뭐가 될까요?
+- **주요 단어:** `papel` (명사) 역할 / `específico` (형용사) 구체적인 / `fase` (명사) 단계
+- **문법:** cuál + ser(선택지 중 무엇).
+- **시제:**
+  - `sería` → ser | 조건법, 3인칭 단수 | 가정적·공손한 질문 | 규칙 어미(ser + ía)
+
+### 83-11. **Carlos:** Camila, análisis financiero central, coordinando con los analistas de cada país.
+- **해석:** 카밀라는 각국 분석가들과 조율하면서 중앙 금융 분석을 맡아요.
+- **주요 단어:** `análisis` (명사, 단복수 동형) 분석 / `central` 중앙의 / `coordinar` (동사) 조율하다 / `analista` (명사) 분석가
+- **문법:** 동사 생략 명사구 + 현재분사(방식).
+- **시제:**
+  - `coordinando` → coordinar | 현재분사 | 역할 수행 방식 | 규칙
+
+### 83-12. **Carlos:** Álvaro, enlace de investigación periodística, para cuando llegue el momento de publicar.
+- **해석:** 알바로는 보도 시점이 오면 대비해 탐사보도 연락 담당이에요.
+- **주요 단어:** `enlace` (명사) 연락 담당, 연결 고리 / `periodístico` (형용사) 언론의 / `momento` (명사) 때 / `publicar` (동사) 발행하다, 보도하다
+- **문법:** cuando + 접속법 = 미래 시점(아직 오지 않음). para cuando = ~할 때를 위해.
+- **시제:**
+  - `llegue` → llegar | 접속법 현재, 3인칭 단수 | 미래 시점을 나타내는 cuando 뒤 | 철자 변화 g→gu
+  - `publicar` → publicar | 부정사 | 전치사 de 뒤 | 규칙
+  - 비교: cuando + 직설법은 습관·과거 사실(cuando llega, siempre...).
+
+### 83-13. **Camila:** Un papel enorme, la verdad.
+- **해석:** 정말 큰 역할이네요.
+- **주요 단어:** `enorme` (형용사) 거대한 / `la verdad` 정말, 솔직히
+- **문법:** 동사 없는 감탄.
+- **시제:** 동사 없음
+
+### 83-14. **Carlos:** Os lo habéis ganado, los dos.
+- **해석:** 두 사람 다 그럴 자격이 있어요.
+- **주요 단어:** `ganarse` (재귀동사) (노력으로) 얻다
+- **문법:** os = vosotros 재귀/간접목적, lo = 그것(역할). 대명사 순서 os + lo.
+- **표현:** vosotros 사용(스페인식). Te lo has ganado = 넌 그럴 자격 있어.
+- **시제:**
+  - `habéis ganado` → ganarse | 직설법 현재완료, 2인칭 복수(vosotros) | 지금까지의 노력의 결과가 현재에 유효 | 규칙
+
+### 83-15. **Carlos:** Esta investigación no habría llegado tan lejos sin vuestro trabajo.
+- **해석:** 여러분의 노력 없이는 이 수사가 여기까지 오지 못했을 거예요.
+- **주요 단어:** `lejos` (부사) 멀리 / `vuestro` (소유형용사) 너희의
+- **문법:** 가정: sin + 명사 = "~이 없었다면"(si 절 대신). 과거 사실 반대 → 조건완료.
+- **시제:**
+  - `habría llegado` → llegar | 조건법 완료 condicional compuesto, 3인칭 단수 | 과거 사실과 반대되는 가정의 결과 | haber 조건법 habr- 불규칙
+  - 비교: no llegaría(단순 조건)는 현재·미래 가정, habría llegado는 이미 일어난 일의 반대 가정.
+
+### 83-16. **Álvaro:** Entonces, empecemos con esta nueva fase.
+- **해석:** 그럼 이 새로운 단계를 시작하죠.
+- **주요 단어:** 앞에서 설명
+- **문법:** 청유 접속법.
+- **시제:**
+  - `empecemos` → empezar | 접속법 현재(nosotros 명령) | 앞에서 설명
+
+### 83-17. **Camila:** Empecemos.
+- **해석:** 시작해요.
+- **주요 단어:** 앞에서 설명
+- **문법:** 청유.
+- **시제:**
+  - `empecemos` → empezar | 앞에서 설명
+
+## 장면 84. 창가에서 되새기는 여정
+> 그날 밤, 알바로와 카밀라가 창가에 서서 앞으로의 여정을 되새깁니다.
+
+### 84-1. **Camila:** (Mirando por la ventana, hacia las luces de Madrid) Cinco países, Álvaro.
+- **해석:** (창밖으로 마드리드의 불빛을 바라보며) 다섯 나라야, 알바로.
+- **주요 단어:** `mirar` (동사) 보다 / `ventana` (명사) 창문 / `hacia` ~쪽으로 / `luz` (명사, 복수 luces) 빛
+- **문법:** mirar por la ventana = 창을 통해 보다.
+- **시제:**
+  - `mirando` → mirar | 현재분사 | 지문 동시 동작 | 규칙
+
+### 84-2. **Camila:** Hace un año, ni siquiera podía imaginar algo así.
+- **해석:** 1년 전엔 이런 건 상상조차 못 했어.
+- **주요 단어:** `hace + 기간` ~전에 / `ni siquiera` ~조차 않다 / `imaginar` (동사) 상상하다 / `algo así` 이런 것
+- **문법:** hace + 기간 = ~전(비인칭 hacer). poder + 부정사.
+- **시제:**
+  - `hace` → hacer | 직설법 현재, 3인칭 단수(비인칭) | "~전" 관용 | 불규칙 동사
+  - `podía` → poder | 직설법 불완료과거, 1인칭 단수 | 과거의 지속적 상태·능력(당시 상황 묘사) | 규칙형 어미
+  - `imaginar` → imaginar | 부정사 | 규칙
+  - 비교: no pude imaginar(단순과거)는 특정 시도의 실패, podía는 그 무렵의 일반적 상태.
+
+### 84-3. **Álvaro:** Yo tampoco, la verdad.
+- **해석:** 나도 그래, 솔직히.
+- **주요 단어:** `tampoco` ~도 아니다
+- **문법:** 부정문에 대한 동의는 también이 아니라 tampoco.
+- **시제:** 동사 없음
+
+### 84-4. **Álvaro:** Pero contigo a mi lado, siento que podemos con esto.
+- **해석:** 하지만 네가 곁에 있으니, 우리가 이걸 감당할 수 있을 것 같아.
+- **주요 단어:** `contigo` 너와 함께 / `sentir` (동사) 느끼다 / `poder con` ~을 감당하다
+- **문법:** sentir que + 직설법. contigo = con + ti 특수형.
+- **표현:** poder con algo = ~을 이겨 내다, 감당하다(구어).
+- **시제:**
+  - `siento` → sentir | 직설법 현재, 1인칭 단수 | 현재 느낌 | 어간 변화(e→ie)
+  - `podemos` → poder | 직설법 현재, 1인칭 복수 | 현재의 능력 확신 | nosotros형 규칙
+
+### 84-5. **Camila:** (Se apoya en él) Vamos a encontrarlo, algún día.
+- **해석:** (그에게 기대며) 언젠가 그를 찾아낼 거야.
+- **주요 단어:** `apoyarse en` ~에 기대다 / `encontrar` (동사) 찾다
+- **문법:** 대명사 lo가 부정사 뒤 부착(encontrarlo).
+- **시제:**
+  - `se apoya` → apoyarse | 직설법 현재 | 지문 | 규칙
+  - `vamos` → ir | 직설법 현재 | ir a 미래(확신) | 앞에서 설명
+  - `encontrarlo` → encontrar | 부정사 + 대명사 | 규칙
+
+### 84-6. **Camila:** Estoy segura.
+- **해석:** 확신해.
+- **주요 단어:** `seguro` (형용사) 확신하는
+- **문법:** estar seguro = 확신하다(상태) vs ser seguro = 안전하다.
+- **시제:**
+  - `estoy` → estar | 직설법 현재 | 앞에서 설명
+
+### 84-7. **Álvaro:** Y cuando lo hagamos, será gracias a todo lo que hemos construido, paso a paso, país a país.
+- **해석:** 그리고 그렇게 되면, 그건 우리가 한 걸음 한 걸음, 한 나라 한 나라 쌓아 온 모든 것 덕분일 거야.
+- **주요 단어:** `gracias a` ~덕분에 / `paso a paso` 한 걸음씩 / `país a país` 한 나라씩
+- **문법:** cuando + 접속법(미래) + 주절 미래. lo = 그를 찾는 일(중성).
+- **시제:**
+  - `hagamos` → hacer | 접속법 현재, 1인칭 복수 | 미래 시점 cuando | 불규칙(hago → haga)
+  - `será` → ser | 직설법 미래 | 앞에서 설명
+  - `hemos construido` → construir | 직설법 현재완료 | 앞에서 설명
+
+### 84-8. **Camila:** Contigo, y con todos los que nos han ayudado en el camino.
+- **해석:** 너와 함께, 그리고 그 길에서 우리를 도와준 모든 사람들과 함께.
+- **주요 단어:** `camino` (명사) 길
+- **문법:** los que = ~한 사람들(관계사). nos = 목적대명사.
+- **시제:**
+  - `han ayudado` → ayudar | 직설법 현재완료, 3인칭 복수 | 지금까지 이어진 도움 | 규칙
+
+### 84-9. **Álvaro:** Exacto.
+- **해석:** 맞아.
+- **주요 단어:** `exacto` 정확한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 84-10. **Álvaro:** Nunca solos, aunque a veces lo pareciera.
+- **해석:** 결코 혼자가 아니었어, 가끔 그렇게 보였을지라도.
+- **주요 단어:** `solo` (형용사) 혼자인 / `parecer` 보이다
+- **문법:** aunque + 접속법 과거 = 과거의 양보(가정적). lo = solos를 받는 중성 대명사(parecer의 보어).
+- **시제:**
+  - `pareciera` → parecer | 접속법 불완료과거, 3인칭 단수 | 과거의 인상을 양보절로 약화 | 규칙(-iera형, -iese형도 가능)
+
+### 84-11. **Camila:** (Lo mira con calidez) Nunca más sola, tampoco.
+- **해석:** (따뜻하게 그를 바라보며) 나도 이제 다시는 혼자가 아니야.
+- **주요 단어:** `calidez` (명사) 따뜻함 / `nunca más` 다시는 ~않다
+- **문법:** sola 여성 단수(카밀라 자신). tampoco = 부정 동의 "나도".
+- **시제:**
+  - `mira` → mirar | 직설법 현재 | 지문 | 규칙
+
+### 84-12. **Álvaro:** Nunca más.
+- **해석:** 다시는.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음

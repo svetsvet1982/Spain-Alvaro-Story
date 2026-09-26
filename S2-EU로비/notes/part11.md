@@ -534,3 +534,162 @@
   - `Tenemos` → tener | 직설법 현재 1인칭 복수 | 지금의 의무 | 불규칙 동사
   - `llevar` → llevar | 부정사 | tener que + 부정사 | 규칙
 
+## 장면 49. EU 반부패기구와의 공조
+> 카를로스가 EU 반부패기구와의 공식 공조를 성사시킵니다.
+
+### 49-1. **Carlos:** (En videoconferencia con un representante de la oficina europea) Con la documentación que hemos reunido, solicitamos apertura formal de investigación conjunta.
+- **해석:** (유럽 기구 대표와 화상회의 중) 저희가 수집한 자료를 근거로, 공동 수사의 공식 개시를 요청합니다.
+- **주요 단어:** `videoconferencia` (명사, 여) 화상회의 / `representante` (명사, 남/여) 대표 / `oficina` (명사, 여) 사무소, 기구 / `reunir` (동사) 모으다 / `solicitar` (동사) 요청하다 / `apertura` (명사, 여) 개시 / `conjunto` (형용사) 공동의
+- **문법:** `con + 명사` = "~을 가지고/바탕으로". 관계절 `que hemos reunido`(확정된 자료라 직설법). 공식 문체에서 관사 생략(apertura formal).
+- **표현:** 행정·사법 격식체.
+- **시제:**
+  - `hemos reunido` → reunir | 직설법 현재완료 1인칭 복수 | 지금까지 모아 현재 손에 있는 결과 | 규칙(과거분사 reunido)
+  - `solicitamos` → solicitar | 직설법 현재 1인칭 복수 | 말하는 순간의 공식 요청(수행적 현재) | 규칙
+
+### 49-2. **Representante:** Hemos revisado el material preliminar.
+- **해석:** 예비 자료는 검토했습니다.
+- **주요 단어:** `revisar` (동사) 검토하다 / `material` (명사, 남) 자료 / `preliminar` (형용사) 예비의
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Hemos revisado` → revisar | 직설법 현재완료 1인칭 복수 | 최근 완료되어 현재 판단에 영향을 주는 행위 | 규칙
+
+### 49-3. **Representante:** Es sólido, y coincide con patrones que nuestra propia oficina había empezado a sospechar de forma independiente.
+- **해석:** 탄탄한 자료이고, 저희 기구가 독자적으로 의심하기 시작했던 패턴과도 일치합니다.
+- **주요 단어:** `sólido` (형용사) 탄탄한 / `coincidir` (동사) 일치하다 / `propio` (형용사) 자신의 / `empezar a` ~하기 시작하다 / `sospechar` (동사) 의심하다 / `de forma independiente` 독자적으로
+- **문법:** `coincidir con`. 관계절 속 과거완료 — 자료를 받기 이전에 이미 의심을 시작했음을 표시. `empezar a + 부정사`.
+- **표현:** `de forma + 형용사` = 부사 대용(= independientemente).
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 평가 | 불규칙
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 현재 사실 | 규칙
+  - `había empezado` → empezar | 직설법 과거완료 3인칭 단수 (pretérito pluscuamperfecto) | 기준 시점(자료 검토)보다 더 이전에 일어난 일 | haber 불완료과거 había + 과거분사
+  - `sospechar` → sospechar | 부정사 | empezar a 뒤 | 규칙
+  - 비교: "ha empezado"(현재완료)라면 현재와 연결된 최근 일; 과거완료는 "그 전에 이미".
+
+### 49-4. **Carlos:** ¿Podemos coordinar una intervención sobre Bruselas Estrategia?
+- **해석:** 브뤼셀 에스트라테히아에 대한 압수수색을 공조할 수 있겠습니까?
+- **주요 단어:** `coordinar` (동사) 조율하다 / `intervención` (명사, 여) 개입, (수사기관의) 압수·단속
+- **문법:** poder + 부정사 의문 — 가능성 문의.
+- **표현:** `intervención`은 사법 맥락에서 "압수수색/단속 조치".
+- **시제:**
+  - `Podemos` → poder | 직설법 현재 1인칭 복수 | 가능 여부 질문 | nosotros는 어간 변화 없음
+  - `coordinar` → coordinar | 부정사 | 규칙
+
+### 49-5. **Representante:** Necesitaremos autorización judicial en Bélgica, además de la española.
+- **해석:** 스페인 쪽 영장 외에 벨기에의 사법 승인도 필요할 겁니다.
+- **주요 단어:** `autorización` (명사, 여) 승인 / `judicial` (형용사) 사법의 / `además de` ~외에도
+- **문법:** `la española` — 명사 생략(la autorización española).
+- **시제:**
+  - `Necesitaremos` → necesitar | 직설법 단순미래 1인칭 복수 | 향후 절차상 필요한 것 예고 | 규칙
+
+### 49-6. **Representante:** Puede llevar unas semanas, dado el nivel institucional implicado.
+- **해석:** 관련된 기관의 급을 고려하면 몇 주 걸릴 수 있습니다.
+- **주요 단어:** `llevar` (동사) (시간이) 걸리다 / `dado` ~을 고려하면 / `nivel` (명사, 남) 수준 / `implicado` (형용사) 관련된, 연루된
+- **문법:** `llevar + 시간` = "시간이 걸리다"(무주어적). `dado + 명사` — 과거분사 절대구문, 명사에 성·수 일치(dada la situación).
+- **표현:** 특이사항 없음.
+- **시제:**
+  - `Puede` → poder | 직설법 현재 3인칭 단수 | 가능성 | 불규칙
+  - `llevar` → llevar | 부정사 | 규칙
+  - `dado` → dar | 과거분사 | 절대구문("~이 주어졌으니") | 규칙형 과거분사
+  - `implicado` → implicar | 과거분사 | 형용사적 용법 | 규칙
+
+### 49-7. **Álvaro:** ¿Y mientras tanto?
+- **해석:** 그럼 그동안은요?
+- **주요 단어:** `mientras tanto` (부사구) 그동안
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음.
+
+### 49-8. **Álvaro:** Roselló podría reorganizar todo antes de que actuemos.
+- **해석:** 우리가 움직이기 전에 로셀요가 모든 걸 재정비해 버릴 수도 있습니다.
+- **주요 단어:** `reorganizar` (동사) 재편하다 / `antes de que` ~하기 전에 / `actuar` (동사) 행동하다
+- **문법:** `antes de que + 접속법` — 항상 접속법.
+- **시제:**
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 우려되는 가능성 | 불규칙(podr-)
+  - `reorganizar` → reorganizar | 부정사 | 규칙
+  - `actuemos` → actuar | 접속법 현재 1인칭 복수 | antes de que 뒤는 반드시 접속법 | 규칙(단수형은 actúe로 ú 강세)
+
+### 49-9. **Representante:** Por eso es crucial mantener total discreción sobre esta investigación, hasta el momento de la intervención.
+- **해석:** 그래서 압수수색 시점까지 이 수사에 대해 철저히 비밀을 유지하는 게 결정적으로 중요합니다.
+- **주요 단어:** `por eso` 그래서 / `crucial` (형용사) 결정적인 / `mantener` (동사) 유지하다 / `discreción` (명사, 여) 신중함, 비밀 유지 / `hasta` (전치사) ~까지
+- **문법:** `es + 형용사 + 부정사` 무인칭 구문(주어가 부정사). 주어가 특정되면 "es crucial que + 접속법".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 판단 | 불규칙
+  - `mantener` → mantener | 부정사 | 무인칭 구문의 주어 | 불규칙 동사
+
+### 49-10. **Carlos:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entender` (동사) 이해하다
+- **문법:** 과거분사 단독 사용 — "이해했다"는 응답.
+- **시제:**
+  - `Entendido` → entender | 과거분사 | 관용적 확인 표현 | 규칙형 과거분사
+
+### 49-11. **Carlos:** Vamos a necesitar protección reforzada para todas las fuentes implicadas, incluida la fuente interna en Bruselas.
+- **해석:** 브뤼셀의 내부 제보자를 포함해, 관련된 모든 제보자에게 강화된 보호가 필요할 겁니다.
+- **주요 단어:** `protección` (명사, 여) 보호 / `reforzar` (동사) 강화하다 / `fuente` (명사, 여) 제보자, 출처 / `incluido` ~을 포함하여
+- **문법:** `ir a + 부정사` = 가까운 미래. `incluida la fuente` — 과거분사가 뒤 명사(여성)에 일치하는 절대구문.
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수 | ir a + 부정사로 확실한 가까운 미래 | 불규칙
+  - `necesitar` → necesitar | 부정사 | 규칙
+  - `reforzada` → reforzar | 과거분사 여성 단수 | 형용사 | 규칙형 분사(현재형은 o→ue 불규칙)
+  - `implicadas` → implicar | 과거분사 여성 복수 | 형용사 | 규칙
+  - `incluida` → incluir | 과거분사 여성 단수 | 절대구문 | 규칙
+  - 비교: 49-5의 necesitaremos(단순미래)와 달리 vamos a necesitar는 더 구어적이고 확정된 계획 느낌.
+
+### 49-12. **Representante:** Coordinaremos eso con nuestra propia unidad de protección de denunciantes.
+- **해석:** 그건 저희 자체 내부고발자 보호 부서와 조율하겠습니다.
+- **주요 단어:** `coordinar` (동사) 조율하다 / `unidad` (명사, 여) 부서 / `denunciante` (명사, 남/여) 신고자, 내부고발자
+- **문법:** `eso` 중성 지시대명사가 목적어.
+- **시제:**
+  - `Coordinaremos` → coordinar | 직설법 단순미래 1인칭 복수 | 향후 조치 약속 | 규칙
+
+### 49-13. **Camila:** (Interviniendo) ¿Y para mí, y para mi hermano?
+- **해석:** (끼어들며) 그럼 저랑 제 동생은요?
+- **주요 단어:** `intervenir` (동사) 끼어들다 / `hermano` (명사, 남) 형제
+- **문법:** 전치사 뒤 대명사는 `mí`(강세 표시, 소유형 mi와 구별).
+- **시제:**
+  - `Interviniendo` → intervenir | 현재분사 | 지문 동작 | 불규칙(e→i: interviniendo)
+
+### 49-14. **Camila:** Ya hemos recibido amenazas relacionadas con esto.
+- **해석:** 이 일과 관련해 이미 협박을 받았어요.
+- **주요 단어:** `amenaza` (명사, 여) 협박 / `relacionado con` ~와 관련된
+- **문법:** `relacionadas` — amenazas에 일치.
+- **시제:**
+  - `hemos recibido` → recibir | 직설법 현재완료 1인칭 복수 | ya와 함께 현재까지 이미 일어난 일 | 규칙
+  - `relacionadas` → relacionar | 과거분사 여성 복수 | 형용사 | 규칙
+
+### 49-15. **Representante:** Absolutamente incluidos en el protocolo de protección, señora Reyes.
+- **해석:** 당연히 보호 프로토콜에 포함됩니다, 레예스 씨.
+- **주요 단어:** `absolutamente` (부사) 전적으로 / `protocolo` (명사, 남) 절차, 프로토콜
+- **문법:** 동사(están) 생략. `incluidos` — 남성 복수(카밀라+남동생, 혼성 복수는 남성형).
+- **시제:**
+  - `incluidos` → incluir | 과거분사 남성 복수 | 생략된 estar와 결합한 결과 상태 | 규칙
+
+### 49-16. **Representante:** Su colaboración es fundamental para este caso.
+- **해석:** 당신의 협조는 이 사건에 핵심적입니다.
+- **주요 단어:** `colaboración` (명사, 여) 협력 / `fundamental` (형용사) 핵심적인 / `caso` (명사, 남) 사건
+- **문법:** 특이사항 없음
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 평가 | 불규칙
+
+### 49-17. **Camila:** Se lo agradezco.
+- **해석:** 감사합니다.
+- **주요 단어:** `agradecer` (동사) 감사하다
+- **문법:** `se lo` — le(당신께) → se, lo(그것 = 보호 조치). agradecer algo a alguien 구조.
+- **표현:** 격식 있는 감사 표현.
+- **시제:**
+  - `agradezco` → agradecer | 직설법 현재 1인칭 단수 | 현재의 감사 | 불규칙(-cer → -zco)
+
+### 49-18. **Carlos:** Empecemos a preparar todo, entonces.
+- **해석:** 그럼 모든 걸 준비하기 시작합시다.
+- **주요 단어:** `empezar a` ~하기 시작하다 / `preparar` (동사) 준비하다
+- **문법:** nosotros 명령형 + a + 부정사.
+- **시제:**
+  - `Empecemos` → empezar | 명령법 1인칭 복수(접속법 현재형) | 제안·권유 | z→c 철자 변화
+  - `preparar` → preparar | 부정사 | 규칙
+
+### 49-19. **Carlos:** Cuanto antes, mejor.
+- **해석:** 빠를수록 좋습니다.
+- **주요 단어:** `cuanto antes` 가능한 한 빨리 / `mejor` 더 좋은
+- **문법:** `cuanto + 비교급, (tanto) + 비교급` = "~할수록 ~하다"의 축약.
+- **표현:** 관용 표현.
+- **시제:** 동사 없음.
+

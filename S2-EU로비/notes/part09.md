@@ -463,3 +463,235 @@
 - **표현:** `de verdad` — 감사를 강조하는 표현.
 - **시제:** 동사 없음
 
+## 장면 39. 카밀라의 자금 구조 분석
+> 카밀라가 확보된 문서를 분석하며, 브뤼셀 로비 회사와 재단의 자금 구조를 설명합니다.
+
+### 39-1. **Camila:** (Revisando documentos con Álvaro y Javier) Esto es más complejo de lo que imaginaba, pero reconozco el patrón.
+- **해석:** (알바로, 하비에르와 함께 문서를 검토하며) 이건 내가 상상했던 것보다 더 복잡하지만, 패턴은 알아보겠어.
+- **주요 단어:** `revisar` (동사) 검토하다 / `el documento` (명사) 문서 / `complejo/a` (형용사) 복잡한 / `imaginar` (동사) 상상하다 / `reconocer` (동사) 알아보다, 인정하다 / `el patrón` (명사) 패턴, 양식
+- **문법:** 비교급 뒤에 절이 올 때 `más ... de lo que` + 동사 (que가 아닌 de lo que). 지문의 현재분사는 동시 진행 동작.
+- **표현:** `más ... de lo que imaginaba` — "생각했던 것보다 더 ~한".
+- **시제:**
+  - `Revisando` → revisar | 현재분사 gerundio | 장면 속 진행 중인 동작 묘사 | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재 평가 | 불규칙
+  - `imaginaba` → imaginar | 직설법 불완료과거, 1인칭 단수 | 과거에 (보기 전까지) 갖고 있던 예상(지속적 상태) | 규칙
+  - `reconozco` → reconocer | 직설법 현재, 1인칭 단수 | 지금 알아봄 | 불규칙(-cer → -zco)
+  - 비교: `de lo que imaginé`(단순과거)보다 `imaginaba`가 "막연히 예상하고 있던" 배경적 뉘앙스에 맞음.
+
+### 39-2. **Álvaro:** Explícanoslo, despacio.
+- **해석:** 우리한테 천천히 설명해 줘.
+- **주요 단어:** `explicar` (동사) 설명하다 / `despacio` (부사) 천천히
+- **문법:** 긍정 명령에 대명사 두 개 부착: 간접목적 `nos` + 직접목적 `lo` (간접 → 직접 순서), 악센트 추가(explícanoslo).
+- **표현:** `despacio` — "천천히"(스페인에서 흔히 씀).
+- **시제:**
+  - `Explica(-nos-lo)` → explicar | 명령법 긍정, 2인칭 단수(tú) | 요청 | 규칙
+
+### 39-3. **Camila:** La fundación de Luxemburgo no financia directamente a Bruselas Estrategia.
+- **해석:** 룩셈부르크의 재단은 브뤼셀 에스트라테히아에 직접 자금을 대지 않아.
+- **주요 단어:** `financiar` (동사) 자금을 대다 / `directamente` (부사) 직접 (앞에서 설명)
+- **문법:** 회사(조직)를 목적어로 받을 때 인격화하여 `a`를 붙임.
+- **시제:**
+  - `financia` → financiar | 직설법 현재, 3인칭 단수 | 현재 작동 중인 방식(일반적 사실) 설명 | 규칙
+
+### 39-4. **Camila:** Pasa el dinero a través de dos entidades intermedias, registradas como “institutos de investigación”.
+- **해석:** '연구소'로 등록된 두 개의 중간 단체를 거쳐 돈을 넘기지.
+- **주요 단어:** `pasar` (동사) 넘기다 / `a través de` ~을 통해 / `la entidad` (명사·여성) 단체, 기관 / `intermedio/a` (형용사) 중간의 / `como` ~로서 / `el instituto de investigación` (명사구) 연구소
+- **문법:** 과거분사 `registradas`가 entidades(여성 복수)에 일치. 주어(la fundación) 생략.
+- **표현:** 따옴표는 겉으로만 그렇게 불린다는 아이러니.
+- **시제:**
+  - `Pasa` → pasar | 직설법 현재, 3인칭 단수 | 현재의 작동 방식 | 규칙
+  - `registradas` → registrar | 과거분사(여성 복수) | 형용사적 "등록된" | 규칙
+
+### 39-5. **Javier:** ¿Institutos de investigación falsos?
+- **해석:** 가짜 연구소야?
+- **주요 단어:** `falso/a` (형용사) 가짜의
+- **문법:** 동사 없는 되묻기 의문문. 형용사 `falsos`가 institutos(남성 복수)에 일치.
+- **시제:** 동사 없음
+
+### 39-6. **Camila:** No necesariamente falsos, pero con actividad mínima real, diseñados para justificar transferencias grandes sin levantar sospechas.
+- **해석:** 꼭 가짜라고는 할 수 없지만, 실제 활동은 최소한이고, 의심을 사지 않고 큰 송금을 정당화하도록 설계된 곳들이야.
+- **주요 단어:** `necesariamente` (부사) 반드시 / `la actividad` (명사·여성) 활동 / `mínimo/a` (형용사) 최소한의 / `real` (형용사) 실제의 / `diseñar` (동사) 설계하다 / `justificar` (동사) 정당화하다 / `la transferencia` (명사·여성) 송금, 이체 / `sin` + 부정사 ~하지 않고 / `levantar sospechas` 의심을 사다
+- **문법:** `diseñados`는 institutos에 일치하는 과거분사. `para` + 부정사(목적), `sin` + 부정사(부정적 방식).
+- **표현:** `levantar sospechas` — "의심을 불러일으키다", 고정 표현.
+- **시제:**
+  - `diseñados` → diseñar | 과거분사(남성 복수) | 형용사적 "설계된" | 규칙
+  - `justificar` → justificar | 부정사 | para 뒤 목적 | 규칙
+  - `levantar` → levantar | 부정사 | sin 뒤 | 규칙
+
+### 39-7. **Álvaro:** ¿Y de ahí el dinero llega a la firma de lobby?
+- **해석:** 그리고 거기서 돈이 로비 회사로 들어가는 거고?
+- **주요 단어:** `de ahí` 거기서부터 / `llegar a` (동사) ~에 도착하다
+- **문법:** 평서문 어순 그대로 억양으로 의문문.
+- **시제:**
+  - `llega` → llegar | 직설법 현재, 3인칭 단수 | 현재의 자금 흐름(일반적 과정) | 규칙
+
+### 39-8. **Camila:** Exacto.
+- **해석:** 맞아.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **문법:** 특이사항 없음
+- **표현:** 동의 표현 "바로 그거야".
+- **시제:** 동사 없음
+
+### 39-9. **Camila:** Y la firma de lobby, a su vez, contrata a antiguos funcionarios europeos como “consultores”, gente con acceso directo a los reguladores actuales.
+- **해석:** 그리고 그 로비 회사는 다시, 전직 EU 공무원들을 '컨설턴트'로 고용해. 현직 규제 당국자들에게 직접 접근할 수 있는 사람들이지.
+- **주요 단어:** `a su vez` 이번에는 또, 다시 / `contratar` (동사) 고용하다 / `antiguo/a` (형용사) 명사 앞: 전직의, 이전의 / `el funcionario` (명사) 공무원 / `el acceso` (명사) 접근 / `el regulador` (명사) 규제 당국자 / `actual` (형용사) 현재의
+- **문법:** 사람 목적어 앞 `a` (a antiguos funcionarios). `antiguo`는 명사 앞이면 "전(前)~", 뒤면 "오래된". `actual` = "현재의"(영어 actual과 다른 뜻, 거짓 짝).
+- **표현:** `a su vez` — "그 자신도 또한/차례로".
+- **시제:**
+  - `contrata` → contratar | 직설법 현재, 3인칭 단수 | 현재 반복되는 관행 | 규칙
+
+### 39-10. **Javier:** Puertas giratorias, básicamente.
+- **해석:** 한마디로 회전문 인사로군.
+- **주요 단어:** `la puerta giratoria` (명사구) 회전문 / `básicamente` (부사) 기본적으로, 요컨대
+- **문법:** 동사 없는 명사구.
+- **표현:** `puertas giratorias` — 공직과 민간(로비) 사이를 오가는 '회전문 인사'를 뜻하는 정치 용어.
+- **시제:** 동사 없음
+
+### 39-11. **Camila:** Puertas giratorias bien financiadas, sí.
+- **해석:** 그래, 돈이 잘 대어진 회전문이지.
+- **주요 단어:** `bien` (부사) 잘 / `financiado/a` (financiar의 과거분사) 자금이 대어진
+- **문법:** 과거분사 `financiadas`가 puertas(여성 복수)에 일치.
+- **시제:**
+  - `financiadas` → financiar | 과거분사(여성 복수) | 형용사적 | 규칙
+
+### 39-12. **Camila:** Es un modelo que he visto antes, aunque nunca a esta escala.
+- **해석:** 전에 본 적 있는 방식이긴 한데, 이 정도 규모는 처음이야.
+- **주요 단어:** `el modelo` (명사) 모델, 방식 / `aunque` (접속사) 비록 ~지만 / `la escala` (명사·여성) 규모
+- **문법:** 관계절 `que he visto`. `aunque` 뒤 동사 생략(aunque nunca [lo he visto] a esta escala) — 사실을 말하므로 직설법 성격.
+- **표현:** `a esta escala` — "이만한 규모로".
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 현재 평가 | 불규칙
+  - `he visto` → ver | 직설법 현재완료, 1인칭 단수 | 지금까지의 인생 경험(경험의 현재완료) | 불규칙 과거분사(visto)
+  - 비교: 경험("~한 적 있다")은 스페인식으로 현재완료. 37-9의 `habíamos visto`(과거완료)와 비교.
+
+### 39-13. **Álvaro:** ¿Podemos identificar a esos “consultores” concretos?
+- **해석:** 그 '컨설턴트'들을 구체적으로 특정할 수 있을까?
+- **주요 단어:** `identificar` (동사) 신원을 확인하다, 특정하다 / `concreto/a` (앞에서 설명)
+- **문법:** 사람 목적어 앞 `a`. `poder` + 부정사.
+- **시제:**
+  - `Podemos` → poder | 직설법 현재, 1인칭 복수 | 현재 가능성 질문 | 1·2인칭 복수는 어간 변화 없음(podemos)
+  - `identificar` → identificar | 부정사 | poder 뒤 | 규칙
+
+### 39-14. **Camila:** Con más tiempo, sí.
+- **해석:** 시간이 더 있으면, 가능해.
+- **주요 단어:** `el tiempo` (명사) 시간
+- **문법:** `con` + 명사 = 조건("~이 있으면").
+- **시제:** 동사 없음
+
+### 39-15. **Camila:** Los nombres en los contratos están parcialmente ocultos, pero hay patrones en las fechas de pago que podrían ayudarnos a cruzarlos con calendarios públicos de reuniones.
+- **해석:** 계약서의 이름들은 일부 가려져 있지만, 지급 날짜에 패턴이 있어서 그걸 공개된 회의 일정표와 대조하는 데 도움이 될 수 있어.
+- **주요 단어:** `el contrato` (명사) 계약(서) / `parcialmente` (부사) 부분적으로 / `oculto/a` (형용사) 숨겨진 / `la fecha de pago` 지급일 / `cruzar` (동사) 교차하다; (자료를) 대조하다 / `el calendario` (명사) 일정표 / `la reunión` (명사·여성) 회의
+- **문법:** `estar` + 형용사(ocultos) = 결과 상태. 관계절 `que podrían ayudarnos` (선행사 patrones). `cruzarlos`: lo s = los nombres. `ayudar a` + 부정사.
+- **표현:** `cruzar datos` — "데이터를 교차 대조하다".
+- **시제:**
+  - `están` → estar | 직설법 현재, 3인칭 복수 | 현재 상태(가려진 상태) | 불규칙
+  - `hay` → haber | 직설법 현재, 무인칭 | 존재 | 불규칙
+  - `podrían` → poder | 조건법 단순, 3인칭 복수 | 가능성 제시(확신 없이) | 불규칙 어간(podr-)
+  - `ayudar(-nos)` → ayudar | 부정사 | poder 뒤 | 규칙
+  - `cruzar(-los)` → cruzar | 부정사 | ayudar a 뒤 | 규칙
+  - 참고: `ocultos`는 여기선 형용사(과거분사형은 ocultados). `estar ocultos` = 상태.
+
+### 39-16. **Javier:** ¿Calendarios públicos?
+- **해석:** 공개 일정표?
+- **주요 단어:** `público/a` (형용사) 공개의
+- **문법:** 되묻기 의문문.
+- **시제:** 동사 없음
+
+### 39-17. **Camila:** Las instituciones europeas publican, en teoría, los registros de reuniones con lobistas.
+- **해석:** 유럽 기관들은 원칙적으로 로비스트들과의 회의 기록을 공개해.
+- **주요 단어:** `la institución` (명사·여성) 기관 / `publicar` (동사) 공개하다, 게시하다 / `en teoría` 이론상, 원칙적으로 / `el registro` (명사) 기록, 등록부 / `el/la lobista` (명사) 로비스트
+- **문법:** 특이사항 없음
+- **표현:** `en teoría` — "이론상으로는(실제론 다를 수도)"의 뉘앙스.
+- **시제:**
+  - `publican` → publicar | 직설법 현재, 3인칭 복수 | 일반적 사실·제도 | 규칙
+
+### 39-18. **Camila:** Si cruzamos fechas de pago con fechas de reuniones, podríamos encontrar coincidencias reveladoras.
+- **해석:** 지급일과 회의 날짜를 대조하면, 뭔가 드러나는 일치를 찾을 수 있을지도 몰라.
+- **주요 단어:** `cruzar` (앞에서 설명) / `encontrar` (동사) 찾다 / `la coincidencia` (명사·여성) 일치 / `revelador/a` (형용사) 드러내는, 시사적인
+- **문법:** 조건문 `si` + 직설법 현재 → 귀결절 조건법(가능성을 완곡하게). 일반적으로는 si + 현재 → 현재/미래지만, 여기선 결과를 조심스럽게 말하려 조건법 사용.
+- **시제:**
+  - `cruzamos` → cruzar | 직설법 현재, 1인칭 복수 | 실현 가능한 조건(si 뒤에는 접속법 현재 불가) | 규칙
+  - `podríamos` → poder | 조건법 단순, 1인칭 복수 | 가능성의 완곡 표현 | 불규칙 어간(podr-)
+  - `encontrar` → encontrar | 부정사 | poder 뒤 | (부정사 형태)
+
+### 39-19. **Álvaro:** Eso llevaría semanas de trabajo manual.
+- **해석:** 그러려면 몇 주 동안 수작업을 해야 할 거야.
+- **주요 단어:** `llevar` (동사) (시간이) 걸리다 / `la semana` (명사) 주 / `el trabajo manual` 수작업
+- **문법:** `llevar` + 시간 = "~만큼 시간이 걸리다".
+- **표현:** `llevar tiempo` — "시간이 걸리다".
+- **시제:**
+  - `llevaría` → llevar | 조건법 단순, 3인칭 단수 | "(그 작업을 한다면) ~걸릴 것이다" 가정적 추정 | 규칙
+
+### 39-20. **Camila:** Semanas, sí.
+- **해석:** 몇 주, 맞아.
+- **주요 단어:** `la semana` (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 39-21. **Camila:** Pero es exactamente el tipo de trabajo que sé hacer bien.
+- **해석:** 하지만 그게 바로 내가 잘하는 종류의 일이야.
+- **주요 단어:** `el tipo` (명사) 종류 / `saber` + 부정사 ~할 줄 알다
+- **문법:** `saber` + 부정사 = 능력("~할 줄 안다"). 관계절 `que sé hacer bien`.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재 판단 | 불규칙
+  - `sé` → saber | 직설법 현재, 1인칭 단수 | 현재 가진 능력 | 불규칙(1인칭 단수 sé, 악센트로 대명사 se와 구별)
+  - `hacer` → hacer | 부정사 | saber 뒤 | (부정사 형태)
+
+### 39-22. **Javier:** Entonces empecemos ya.
+- **해석:** 그럼 당장 시작하자.
+- **주요 단어:** `empezar` (동사) 시작하다 / `ya` (부사) 지금 바로
+- **문법:** 1인칭 복수 명령(청유형) = 접속법 현재 형태 사용.
+- **표현:** `ya` — 여기선 "당장, 지금".
+- **시제:**
+  - `empecemos` → empezar | 명령법 1인칭 복수(= 접속법 현재 nosotros형) | "~하자"라는 제안 | 불규칙: 철자 변화(z → c, e 앞) — 현재 접속법 1·2인칭 복수는 어간모음 e → ie 변화 없음
+
+### 39-23. **Javier:** Cuanto antes tengamos el patrón completo, antes podremos actuar.
+- **해석:** 패턴 전체를 빨리 파악할수록, 그만큼 빨리 행동할 수 있어.
+- **주요 단어:** `cuanto antes` ~할수록 빨리 / `completo/a` (형용사) 완전한 / `actuar` (동사) 행동하다
+- **문법:** `cuanto` + 비교 ..., + 비교 ... = "~할수록 ~하다" 구문. 미래의 일을 가리키는 cuanto절이라 접속법 현재.
+- **표현:** `cuanto antes, mejor` — "빠를수록 좋다"의 변형.
+- **시제:**
+  - `tengamos` → tener | 접속법 현재, 1인칭 복수 | 아직 실현되지 않은 미래 시점을 나타내는 비례절이라 접속법 | 불규칙(teng-)
+  - `podremos` → poder | 직설법 단순미래 futuro simple, 1인칭 복수 | 조건이 충족된 뒤의 미래 결과 | 불규칙 어간(podr-)
+  - `actuar` → actuar | 부정사 | poder 뒤 | (부정사 형태)
+
+### 39-24. **Camila:** Necesitaré acceso a esos registros públicos, y probablemente ayuda de alguien en Bruselas que conozca bien el sistema.
+- **해석:** 그 공개 기록들에 접근할 수 있어야 하고, 아마 브뤼셀에서 시스템을 잘 아는 누군가의 도움도 필요할 거야.
+- **주요 단어:** `necesitar` (동사) 필요하다 / `el acceso` (명사) 접근 / `probablemente` (부사) 아마 / `alguien` (부정대명사) 누군가 / `conocer` (동사) 알다 / `el sistema` (명사) 시스템
+- **문법:** 관계절 `que conozca` — 선행사 `alguien`이 아직 특정되지 않은 불특정 인물이라 접속법.
+- **시제:**
+  - `Necesitaré` → necesitar | 직설법 단순미래, 1인칭 단수 | 앞으로 작업 시 필요할 것 | 규칙
+  - `conozca` → conocer | 접속법 현재, 3인칭 단수 | 불특정 선행사(그런 사람이 있을지 모름) | 불규칙(-zc-)
+  - 비교: `alguien que conoce`(직설법)이면 특정한 사람을 이미 알고 있다는 뜻.
+
+### 39-25. **Álvaro:** Tengo un contacto periodístico allí, especializado en asuntos europeos.
+- **해석:** 거기 기자 인맥이 한 명 있어. 유럽 문제 전문이야.
+- **주요 단어:** `periodístico/a` (형용사) 언론의, 기자의 / `allí` (부사) 거기 / `especializado/a en` ~을 전문으로 하는 / `el asunto` (명사) 사안, 문제
+- **문법:** `especializado`는 과거분사가 형용사로 contacto에 일치.
+- **시제:**
+  - `Tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 보유 | 불규칙
+  - `especializado` → especializar | 과거분사(남성 단수) | 형용사적 | 규칙(z → z 유지)
+
+### 39-26. **Álvaro:** Puedo pedirle ayuda.
+- **해석:** 그에게 도움을 청할 수 있어.
+- **주요 단어:** `pedir` (동사) 요청하다
+- **문법:** `pedirle`: 부정사 + 간접목적 le (= 그 기자에게).
+- **시제:**
+  - `Puedo` → poder | 직설법 현재, 1인칭 단수 | 현재 가능성 | 어간모음 변화 불규칙(o → ue)
+  - `pedir(-le)` → pedir | 부정사 | poder 뒤 | (부정사 형태; 활용 시 e → i)
+
+### 39-27. **Camila:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` (형용사) 완벽한
+- **문법:** 특이사항 없음
+- **표현:** 동의·만족을 나타내는 "좋아/완벽해".
+- **시제:** 동사 없음
+
+### 39-28. **Camila:** Empecemos por ahí.
+- **해석:** 거기서부터 시작하자.
+- **주요 단어:** `empezar por` ~부터 시작하다 / `ahí` (부사) 거기
+- **문법:** 1인칭 복수 청유형.
+- **표현:** `empezar por ahí` — "그것부터 하자".
+- **시제:**
+  - `Empecemos` → empezar | 명령법 1인칭 복수(접속법 현재형) | 제안 | 철자 변화(z → c) (앞에서 설명)
+

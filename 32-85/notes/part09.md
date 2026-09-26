@@ -1,0 +1,424 @@
+## 장면 15. 카르타헤나 대저택의 부패한 손님들
+> 카르타헤나 외곽의 한 대저택. 파비안과 디에고(알바로)가 도착한 자리에는 뜻밖의 손님들이 기다리고 있었습니다: 스페인 정보기관 출신의 라몬 이바라(Ramón Ibarra)와 미국 쪽 기관 소속의 도일(Doyle)—둘 다 조직으로부터 은밀히 돈을 받고 수사망을 피하도록 도와주는 부패한 인물들입니다. 알바로는 이 충격적인 사실 앞에서 침착함을 유지하며 최대한 많은 정보를 머릿속에 담아두려 애씁니다.
+
+### 15-1. **Wilson:** (Recibiéndolos en la puerta) Fabián, por fin.
+- **해석:** (문 앞에서 그들을 맞이하며) 파비안, 드디어 왔군.
+- **주요 단어:** `recibir` (동사) 맞이하다, 받다 / `la puerta` (명사, 여) 문 / `por fin` (부사구) 드디어, 마침내
+- **문법:** 현재분사 + 직접목적어 대명사 결합: recibiendo + los → Recibiéndolos (대명사가 붙으면서 강세 유지를 위해 í에 강세 부호 추가).
+- **표현:** `por fin` — 기다리던 것이 이루어졌을 때 쓰는 말. 반가움과 약간의 "늦었네" 뉘앙스.
+- **시제:**
+  - `Recibiéndolos` → recibir | 현재분사 (gerundio) + 대명사 los | 지문에서 동작이 진행 중인 상황(맞이하면서)을 묘사 | 규칙: recib- + -iendo
+
+### 15-2. **Wilson:** Los estábamos esperando.
+- **해석:** 우리 모두 당신들을 기다리고 있었어요.
+- **주요 단어:** `esperar` (동사) 기다리다
+- **문법:** 진행형 estar + 현재분사. 목적어 대명사 los는 활용된 동사 앞(Los estábamos esperando) 또는 현재분사 뒤(Estábamos esperándolos) 둘 다 가능.
+- **표현:** 손님을 맞을 때 쓰는 전형적인 인사말.
+- **시제:**
+  - `estábamos` → estar | 직설법 불완료과거 1인칭 복수 (pretérito imperfecto) | 과거에 계속되던 배경 동작(도착 전까지 기다리던 중)이라 불완료과거 | 규칙 (-aba형)
+  - `esperando` → esperar | 현재분사 (gerundio) | estar와 함께 진행형 구성 | 규칙
+  - 비교: "Los esperamos"(단순과거)는 끝난 동작으로 들리고, 불완료과거 진행형은 "죽 기다리고 있던 중"이라는 지속을 강조.
+
+### 15-3. **Wilson:** Y este debe de ser el famoso Diego del que tanto hemos oído hablar.
+- **해석:** 그리고 이쪽이 그렇게 이야기를 많이 들었던 그 유명한 디에고로군요.
+- **주요 단어:** `deber de` + 부정사 (동사구) ~임에 틀림없다(추측) / `famoso` (형용사) 유명한 / `tanto` (부사) 그렇게 많이 / `oír` (동사) 듣다 / `hablar` (동사) 말하다
+- **문법:** `deber de + 부정사` = 추측("~인 것 같다"), `deber + 부정사` = 의무("~해야 한다"). 관계사 `del que` = de + el que: "oír hablar de algo(~에 대해 이야기를 듣다)"의 전치사 de가 관계사 앞으로 온 구조. `oír hablar de` = ~에 대한 소문을 듣다.
+- **표현:** "el famoso + 이름" — 소문으로만 듣던 사람을 처음 만날 때 쓰는 친근한 표현.
+- **시제:**
+  - `debe` → deber | 직설법 현재 3인칭 단수 (presente) | 눈앞의 인물에 대한 현재의 추측 | 규칙
+  - `ser` → ser | 부정사 (infinitivo) | deber de 뒤의 부정사
+  - `hemos oído` → oír | 직설법 현재완료 1인칭 복수 (pretérito perfecto compuesto) | 지금까지 여러 번 들어 온 경험(현재와 연결된 경험)이라 현재완료 | 과거분사 oído (강세 부호 주의)
+  - `hablar` → hablar | 부정사 | oír + 부정사(지각동사 구문)
+
+### 15-4. **Álvaro:** Un placer, Wilson.
+- **해석:** 반갑습니다, 윌슨.
+- **주요 단어:** `el placer` (명사, 남) 기쁨 — "Un placer" = 만나서 반갑습니다
+- **문법:** "(Es) un placer"에서 동사 생략.
+- **표현:** 격식 있는 인사. "Encantado"와 비슷.
+- **시제:** 동사 없음
+
+### 15-5. **Álvaro:** Fabián me ha hablado muy bien de usted también.
+- **해석:** 파비안이 당신에 대해서도 아주 좋게 말해 주었어요.
+- **주요 단어:** `hablar bien de` (동사구) ~에 대해 좋게 말하다 / `también` (부사) ~도
+- **문법:** 간접목적어 me(나에게). `de usted` — 전치사 뒤 격식 2인칭 usted.
+- **표현:** 인사에 대한 예의 바른 답례.
+- **시제:**
+  - `ha hablado` → hablar | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | 시점이 정해지지 않은 최근/현재와 연결된 일이라 현재완료(스페인식 용법) | 규칙
+  - 비교: Wilson은 15-7에서 "llegaron"(단순과거)를 쓰는데, 이는 중남미식. 스페인 사람 알바로는 현재완료를 선호.
+
+### 15-6. **Wilson:** Pasen, pasen.
+- **해석:** 들어오세요, 들어오세요.
+- **주요 단어:** `pasar` (동사) 들어오다, 지나가다
+- **문법:** ustedes에 대한 명령형(= 접속법 현재 형태).
+- **표현:** 반복은 환영과 재촉의 뉘앙스. 손님을 안으로 들일 때 관용적으로 씀.
+- **시제:**
+  - `Pasen` (×2) → pasar | 명령법 3인칭 복수(ustedes) (imperativo, 접속법 현재형 차용) | 손님들에게 정중하게 권하는 명령 | 규칙 -ar → -en
+
+### 15-7. **Wilson:** Ya llegaron los otros invitados; están en la terraza.
+- **해석:** 다른 손님들은 벌써 도착했어요. 테라스에 있어요.
+- **주요 단어:** `ya` (부사) 이미, 벌써 / `llegar` (동사) 도착하다 / `el invitado` (명사) 손님 / `la terraza` (명사) 테라스
+- **문법:** 위치를 나타낼 때 estar(están en la terraza).
+- **표현:** Wilson은 콜롬비아 사람이라 "ya + 단순과거"를 씀. 스페인에서는 보통 "Ya han llegado".
+- **시제:**
+  - `llegaron` → llegar | 직설법 단순과거 3인칭 복수 (pretérito indefinido/perfecto simple) | 완료된 동작; 중남미에서는 방금 일어난 일도 단순과거로 표현 | 규칙
+  - `están` → estar | 직설법 현재 3인칭 복수 (presente) | 현재 위치 | 불규칙(estoy, estás, está...에 강세)
+  - 비교: 스페인식 현재완료 han llegado vs 중남미식 단순과거 llegaron.
+
+### 15-8. **Fabián:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` (형용사) 완벽한 → 여기서는 "좋다, 잘됐다"
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 15-9. **Fabián:** Quiero que Diego los conozca cuanto antes.
+- **해석:** 디에고가 그들을 되도록 빨리 알고 지냈으면 좋겠어.
+- **주요 단어:** `querer que` (동사구) ~하기를 원하다 / `conocer` (동사) (사람을) 알다, 만나다 / `cuanto antes` (부사구) 가능한 한 빨리
+- **문법:** 주절 주어(yo)와 종속절 주어(Diego)가 다르고 희망을 나타내므로 que 뒤 접속법. los = los otros invitados.
+- **표현:** `cuanto antes` = lo antes posible.
+- **시제:**
+  - `Quiero` → querer | 직설법 현재 1인칭 단수 (presente) | 현재의 바람 | 어간모음변화 e→ie
+  - `conozca` → conocer | 접속법 현재 3인칭 단수 (presente de subjuntivo) | querer que(희망) 뒤라 접속법 | 불규칙: 1인칭 conozco에서 conozc- 어간
+
+### 15-10. **Ramón:** (Se levanta al verlos entrar en la terraza) Fabián, cuánto tiempo.
+- **해석:** (그들이 테라스에 들어오는 것을 보고 일어서며) 파비안, 오랜만이야.
+- **주요 단어:** `levantarse` (재귀동사) 일어서다 / `ver` (동사) 보다 / `entrar en` (동사) ~에 들어가다 / `cuánto tiempo` 오랜만이다
+- **문법:** `al + 부정사` = ~할 때. ver + 목적어 + 부정사(지각동사 구문): verlos entrar = 그들이 들어오는 것을 보다. 재귀동사 levantarse.
+- **표현:** `¡Cuánto tiempo!` = "(못 본 지) 얼마나 오래됐나!" — 오랜만에 만났을 때의 인사.
+- **시제:**
+  - `Se levanta` → levantarse | 직설법 현재 3인칭 단수 (presente) | 지문은 현재형으로 동작 묘사 | 규칙 재귀동사
+  - `ver(los)` → ver | 부정사 | al + 부정사 구문
+  - `entrar` → entrar | 부정사 | 지각동사 ver 뒤 부정사
+
+### 15-11. **Ramón:** Empezaba a pensar que este año no vendrías.
+- **해석:** 올해는 안 오는 줄 알기 시작했어.
+- **주요 단어:** `empezar a` + 부정사 (동사구) ~하기 시작하다 / `pensar` (동사) 생각하다 / `venir` (동사) 오다
+- **문법:** 과거 시점에서 본 미래(과거의 미래)는 조건법으로 표현: "pienso que no vendrás" → "pensaba que no vendrías".
+- **표현:** 늦게 온 상대를 가볍게 놀리는 말.
+- **시제:**
+  - `Empezaba` → empezar | 직설법 불완료과거 1인칭 단수 (pretérito imperfecto) | 과거에 진행 중이던 생각(배경 상태) | 규칙 (-aba)
+  - `pensar` → pensar | 부정사 | empezar a 뒤
+  - `vendrías` → venir | 조건법 단순 2인칭 단수 (condicional simple) | 과거 시점에서 본 미래라 조건법 | 불규칙 어간 vendr-
+
+### 15-12. **Fabián:** Ramón, siempre es un placer.
+- **해석:** 라몬, 언제 봐도 반갑군.
+- **주요 단어:** `siempre` (부사) 항상 / `el placer` 기쁨(앞에서 설명)
+- **문법:** 일반적 사실·평가에는 ser.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 (presente) | 늘 그렇다는 일반적 진술 | 불규칙
+
+### 15-13. **Fabián:** Te presento a Diego, mi nuevo socio en la parte española del negocio.
+- **해석:** 디에고를 소개하지. 사업의 스페인 쪽 일을 맡은 내 새 파트너야.
+- **주요 단어:** `presentar` (동사) 소개하다 / `el socio` (명사) 동업자, 파트너 / `la parte` (명사) 부분 / `el negocio` (명사) 사업
+- **문법:** 사람 직접목적어 앞 전치사 a(a Diego). te = 간접목적어(너에게). "mi nuevo socio..."는 Diego에 대한 동격.
+- **표현:** `Te presento a...` — 사람을 소개하는 기본 표현.
+- **시제:**
+  - `presento` → presentar | 직설법 현재 1인칭 단수 (presente) | 말하는 순간 수행하는 행위(수행문) | 규칙
+
+### 15-14. **Ramón:** (Le tiende la mano) Encantado, Diego.
+- **해석:** (그에게 손을 내밀며) 반갑네, 디에고.
+- **주요 단어:** `tender la mano` (동사구) 손을 내밀다 / `encantado` (형용사) 만나서 반가운
+- **문법:** le = 간접목적어(그에게). 신체 부위에는 소유사 대신 정관사(la mano).
+- **표현:** `Encantado/a` — 화자의 성에 맞춤(남성 화자라 encantado).
+- **시제:**
+  - `tiende` → tender | 직설법 현재 3인칭 단수 (presente) | 지문의 현재형 동작 묘사 | 어간모음변화 e→ie
+
+### 15-15. **Ramón:** Ramón Ibarra, para servirle.
+- **해석:** 라몬 이바라일세, 잘 부탁하네.
+- **주요 단어:** `servir` (동사) 섬기다, 도움이 되다
+- **문법:** 부정사 + 간접목적어 대명사 le(당신께) 결합.
+- **표현:** `para servirle` = "당신을 모시기 위해" → 자기소개 뒤에 붙이는 격식 있고 약간 예스러운 관용구("분부만 하십시오").
+- **시제:**
+  - `servir(le)` → servir | 부정사 | 목적을 나타내는 para + 부정사 | (활용 시 e→i 변화 동사지만 여기서는 원형)
+
+### 15-16. **Álvaro:** (Estrechándole la mano, disimulando la sorpresa) Un placer, Ramón.
+- **해석:** (그와 악수하며 놀람을 감추고) 반갑습니다, 라몬.
+- **주요 단어:** `estrechar la mano` (동사구) 악수하다 / `disimular` (동사) 감추다, 티 내지 않다 / `la sorpresa` (명사) 놀람
+- **문법:** 현재분사 + 대명사 결합(estrechando + le → Estrechándole, 강세 부호 추가). 두 개의 현재분사가 동시 동작을 나타냄.
+- **시제:**
+  - `Estrechándole` → estrechar | 현재분사 (gerundio) + le | 말하는 동안 동시에 하는 동작 | 규칙
+  - `disimulando` → disimular | 현재분사 (gerundio) | 동시 동작(놀람을 숨기며) | 규칙
+
+### 15-17. **Álvaro:** ¿A qué se dedica usted exactamente?
+- **해석:** 정확히 무슨 일을 하시나요?
+- **주요 단어:** `dedicarse a` (재귀동사) ~에 종사하다 / `exactamente` (부사) 정확히
+- **문법:** 재귀동사 dedicarse a의 전치사 a가 의문사 앞으로: ¿A qué...? 격식체 usted.
+- **표현:** `¿A qué te dedicas / se dedica?` — 직업을 묻는 표준 표현. exactamente를 붙여 탐색하는 느낌.
+- **시제:**
+  - `se dedica` → dedicarse | 직설법 현재 3인칭 단수(usted) (presente) | 현재의 직업 | 규칙
+
+### 15-18. **Ramón:** Digamos que tengo... contactos útiles en ciertos ministerios.
+- **해석:** 말하자면... 몇몇 부처에 쓸모 있는 연줄이 있다고 해 두지.
+- **주요 단어:** `decir` (동사) 말하다 / `el contacto` (명사) 연줄, 인맥 / `útil` (형용사) 유용한 / `cierto` (형용사, 명사 앞) 어떤 / `el ministerio` (명사) 부처, 정부 부서
+- **문법:** `Digamos que` = 1인칭 복수 청유형(접속법). `cierto`가 명사 앞에 오면 "어떤", 뒤에 오면 "확실한".
+- **표현:** `Digamos que...` — "~라고 해 두자": 직접 말하기 곤란한 것을 에둘러 말할 때. 말줄임표(...)는 머뭇거림·의미심장함.
+- **시제:**
+  - `Digamos` → decir | 명령법 1인칭 복수(nosotros) (접속법 현재 형태) | "~라고 하자"는 청유 | 불규칙: digo → dig-
+  - `tengo` → tener | 직설법 현재 1인칭 단수 (presente) | 현재 가진 것 | 불규칙 1인칭 -go
+
+### 15-19. **Ramón:** Nada que deba preocuparte.
+- **해석:** 자네가 걱정할 만한 건 아무것도 아니야.
+- **주요 단어:** `nada` (대명사) 아무것도 / `deber` (동사) ~해야 하다 / `preocupar` (동사) 걱정시키다
+- **문법:** 부정 선행사(nada) 뒤 관계절은 접속법. preocupar + 대명사 te(너를 걱정시키다), 부정사 뒤에 결합.
+- **표현:** 화제를 막으며 안심시키는 말. Ramón은 Diego에게 tú로 바꿔 말함(친근함/위계).
+- **시제:**
+  - `deba` → deber | 접속법 현재 3인칭 단수 (presente de subjuntivo) | 존재하지 않는(부정된) 선행사 nada를 꾸며 접속법 | 규칙
+  - `preocupar(te)` → preocupar | 부정사 | deber 뒤
+
+### 15-20. **Doyle:** (Se acerca, con acento marcado) Y yo soy Doyle.
+- **해석:** (강한 억양으로 다가오며) 그리고 나는 도일이오.
+- **주요 단어:** `acercarse` (재귀동사) 다가오다 / `el acento` (명사) 억양 / `marcado` (형용사) 뚜렷한
+- **문법:** 신원 소개에는 ser. yo는 대조 강조를 위해 명시.
+- **시제:**
+  - `Se acerca` → acercarse | 직설법 현재 3인칭 단수 (presente) | 지문 묘사 | 규칙
+  - `soy` → ser | 직설법 현재 1인칭 단수 (presente) | 정체 소개 | 불규칙
+
+### 15-21. **Doyle:** Vengo de más lejos que Ramón, pero el negocio es el mismo.
+- **해석:** 라몬보다 더 먼 곳에서 왔지만, 사업은 같소.
+- **주요 단어:** `venir de` (동사) ~에서 오다 / `lejos` (부사) 멀리 / `el mismo` 같은 것
+- **문법:** 비교급 `más ... que`. `el mismo` — 명사 생략된 "같은 것".
+- **표현:** 자신이 외국(미국) 기관 사람임을 암시.
+- **시제:**
+  - `Vengo` → venir | 직설법 현재 1인칭 단수 (presente) | 출신/출발지를 나타내는 현재 | 불규칙 1인칭 -go
+  - `es` → ser | 직설법 현재 3인칭 단수 (presente) | 동일성 | 불규칙
+
+### 15-22. **Álvaro:** Diego.
+- **해석:** 디에고입니다.
+- **주요 단어:** 이름만 말하는 자기소개
+- **문법:** "(Soy) Diego"의 생략.
+- **시제:** 동사 없음
+
+### 15-23. **Álvaro:** Encantado.
+- **해석:** 반갑습니다.
+- **주요 단어:** `encantado` (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음 (과거분사에서 온 형용사 encantado ← encantar이지만 여기서는 형용사로 쓰임)
+
+### 15-24. **Álvaro:** ¿Usted también tiene contactos “útiles”, como dice Ramón?
+- **해석:** 당신도 라몬 말처럼 "쓸모 있는" 연줄이 있으신가요?
+- **주요 단어:** `también` ~도 / `como` (접속사) ~처럼
+- **문법:** `como dice X` = X가 말하듯이. 따옴표는 비꼬거나 에두른 의미를 강조.
+- **표현:** 상대의 표현을 인용해 은근히 속을 떠보는 말투.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수(usted) (presente) | 현재 상태 | 불규칙 e→ie
+  - `dice` → decir | 직설법 현재 3인칭 단수 (presente) | 방금 한 말을 현재형으로 인용 | 불규칙 e→i
+
+### 15-25. **Doyle:** (Ríe) Se podría decir que sí.
+- **해석:** (웃으며) 그렇다고 할 수 있겠지.
+- **주요 단어:** `reír` (동사) 웃다 / `poder` (동사) ~할 수 있다 / `decir` 말하다
+- **문법:** 무인칭 se(se podría decir = 사람들이 말할 수 있다 → "~라고 할 수 있다"). `que sí` = 긍정의 대답을 절로 받음.
+- **표현:** `Se podría decir que sí` — 에둘러 긍정하는 표현.
+- **시제:**
+  - `Ríe` → reír | 직설법 현재 3인칭 단수 (presente) | 지문 묘사 | 불규칙 e→i, 강세 부호(ríe)
+  - `podría` → poder | 조건법 단순 3인칭 단수 (condicional simple) | 단정을 피하는 완곡·조심스러운 표현이라 조건법 | 불규칙 어간 podr-
+  - `decir` → decir | 부정사 | poder 뒤
+
+### 15-26. **Doyle:** Digamos que sé cuándo ciertas agencias van a mirar hacia otro lado, y cuándo no.
+- **해석:** 말하자면, 어떤 기관들이 언제 못 본 척할지, 그리고 언제는 그러지 않을지를 알고 있다고 해 두지.
+- **주요 단어:** `saber` (동사) 알다 / `la agencia` (명사) (정부) 기관 / `mirar hacia otro lado` (관용구) 못 본 척하다, 눈감아 주다
+- **문법:** 간접의문문 `cuándo`(강세 유지). `ir a + 부정사` 근접미래.
+- **표현:** `mirar hacia otro lado` = 다른 쪽을 보다 → 묵인하다. `Digamos que` 앞에서 설명.
+- **시제:**
+  - `Digamos` → decir | 명령법 1인칭 복수(접속법 현재 형태) | 앞에서 설명
+  - `sé` → saber | 직설법 현재 1인칭 단수 (presente) | 현재 가진 지식 | 불규칙(sé)
+  - `van` → ir | 직설법 현재 3인칭 복수 (presente) | ir a + 부정사로 미래 표현 | 불규칙
+  - `mirar` → mirar | 부정사 | ir a 뒤
+  - 비교: "van a mirar"는 계획·예정된 미래 느낌, "mirarán"(단순미래)보다 구어적.
+
+### 15-27. **Fabián:** Diego es nuevo en esta parte del negocio, así que sed amables con él esta noche.
+- **해석:** 디에고는 사업의 이 부분엔 처음이니까, 오늘 밤엔 다들 친절하게 대해 줘.
+- **주요 단어:** `nuevo` (형용사) 새로운, 처음인 / `así que` (접속사) 그러니까 / `amable` (형용사) 친절한
+- **문법:** `ser nuevo en` = ~에 신참이다. `sed` = ser의 vosotros 긍정 명령.
+- **표현:** 스페인식 vosotros 명령형 `sed`(스페인 사람 파비안의 말투). 중남미라면 "sean amables".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 (presente) | 현재 상태·특성 | 불규칙
+  - `sed` → ser | 명령법 2인칭 복수(vosotros) (imperativo afirmativo) | 여럿에게 친근한 당부 | 원형의 -r → -d (ser → sed)
+
+### 15-28. **Ramón:** Por supuesto.
+- **해석:** 물론이지.
+- **주요 단어:** `por supuesto` (부사구) 물론
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 15-29. **Ramón:** Aunque, Fabián, ¿estás seguro de que es prudente traer gente nueva a estas reuniones?
+- **해석:** 그런데 파비안, 이런 모임에 새 사람을 데려오는 게 신중한 일이라고 확신하나?
+- **주요 단어:** `aunque` (접속사) 하지만 / `estar seguro de` ~을 확신하다 / `prudente` (형용사) 신중한 / `traer` (동사) 데려오다 / `la reunión` (명사) 모임
+- **문법:** `estar seguro de que` + 직설법(확신). 무인칭 `es + 형용사 + 부정사` (es prudente traer). `gente`는 단수 집합명사.
+- **표현:** `Aunque` 문두 — "그렇긴 한데" 하고 이의를 제기.
+- **시제:**
+  - `estás` → estar | 직설법 현재 2인칭 단수 (presente) | 현재의 심리 상태(estar) | 불규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 (presente) | 평가 | 불규칙
+  - `traer` → traer | 부정사 | 주어로 쓰인 부정사
+
+### 15-30. **Fabián:** Diego ha demostrado ser de confianza.
+- **해석:** 디에고는 믿을 만하다는 걸 증명했어.
+- **주요 단어:** `demostrar` (동사) 증명하다 / `de confianza` (형용사구) 믿을 만한
+- **문법:** `demostrar + 부정사` = ~임을 보여주다. `ser de confianza` — ser + de + 명사로 성질 표현.
+- **시제:**
+  - `ha demostrado` → demostrar | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | 지금까지의 행적이 현재 신뢰로 이어짐 | 규칙 과거분사 (현재형은 o→ue: demuestra)
+  - `ser` → ser | 부정사 | demostrar 뒤
+
+### 15-31. **Fabián:** Lo ha demostrado con creces, de hecho.
+- **해석:** 사실 충분하고도 남을 만큼 증명했지.
+- **주요 단어:** `con creces` (부사구) 넘치도록, 충분히 이상으로 / `de hecho` (부사구) 사실은
+- **문법:** 중성 대명사 lo = 앞 문장 내용(믿을 만하다는 것).
+- **표현:** `con creces` — "기대 이상으로" 강조.
+- **시제:**
+  - `ha demostrado` → demostrar | 앞에서 설명 (현재완료)
+
+### 15-32. **Doyle:** Espero que sea así, por el bien de todos los presentes.
+- **해석:** 여기 있는 모두를 위해서라도 그렇길 바라오.
+- **주요 단어:** `esperar que` ~하기를 바라다 / `así` (부사) 그렇게 / `por el bien de` ~을 위해 / `los presentes` (명사) 참석자들
+- **문법:** esperar que(희망) + 접속법.
+- **표현:** `por el bien de todos` — 은근한 경고의 뉘앙스.
+- **시제:**
+  - `Espero` → esperar | 직설법 현재 1인칭 단수 (presente) | 현재의 바람 | 규칙
+  - `sea` → ser | 접속법 현재 3인칭 단수 (presente de subjuntivo) | 희망 동사 뒤라 접속법 | 불규칙
+
+### 15-33. **Álvaro:** (Manteniendo la calma) Entiendo la cautela.
+- **해석:** (침착함을 유지하며) 조심하시는 거 이해합니다.
+- **주요 단어:** `mantener` (동사) 유지하다 / `la calma` (명사) 침착 / `entender` (동사) 이해하다 / `la cautela` (명사) 신중, 경계
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Manteniendo` → mantener | 현재분사 (gerundio) | 동시 동작 | 규칙 형태(mantener ← tener 계열이지만 현재분사는 규칙)
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 (presente) | 현재의 이해 | 어간모음변화 e→ie
+
+### 15-34. **Álvaro:** Yo mismo la tendría en su lugar.
+- **해석:** 제가 당신 입장이라도 그렇게 조심했을 겁니다.
+- **주요 단어:** `mismo` (형용사) 자신 / `en su lugar` 당신 입장이라면
+- **문법:** la = la cautela. `en su lugar`가 가정 조건 역할(= si yo estuviera en su lugar).
+- **표현:** 상대를 존중하며 긴장을 푸는 말.
+- **시제:**
+  - `tendría` → tener | 조건법 단순 1인칭 단수 (condicional simple) | 가정적 상황("당신 입장이라면")의 결과라 조건법 | 불규칙 어간 tendr-
+
+### 15-35. **Wilson:** Vamos, siéntense, que la cena ya está lista.
+- **해석:** 자, 앉으세요, 저녁 준비 다 됐으니까요.
+- **주요 단어:** `vamos` (감탄사) 자, 어서 / `sentarse` (재귀동사) 앉다 / `la cena` (명사) 저녁 식사 / `listo` (형용사) 준비된
+- **문법:** 긍정 명령에서 대명사는 뒤에 붙음: sienten + se → siéntense(강세 부호). `que` = 이유(구어체 "~니까"). `estar listo` = 준비되다(ser listo = 똑똑하다).
+- **표현:** `Vamos` — 재촉·권유의 감탄사.
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수 (여기서는 감탄사화) | 권유 | 불규칙
+  - `siéntense` → sentarse | 명령법 3인칭 복수(ustedes) (접속법 현재 형태) | 정중한 권유 | 어간모음변화 e→ie
+  - `está` → estar | 직설법 현재 3인칭 단수 (presente) | 상태 | 불규칙
+
+### 15-36. **Wilson:** Hay mucho de qué hablar esta noche.
+- **해석:** 오늘 밤엔 이야기할 게 많아요.
+- **주요 단어:** `haber` (무인칭) 있다 / `hablar de` ~에 대해 말하다
+- **문법:** 무인칭 hay. `mucho de qué hablar` — hablar de의 de가 의문사 앞에 오는 구조 (= mucho de lo que hablar).
+- **시제:**
+  - `Hay` → haber | 직설법 현재 3인칭 단수 무인칭 (presente) | 존재 | 불규칙
+  - `hablar` → hablar | 부정사 | de qué + 부정사
+
+### 15-37. **Ramón:** (Ya en la mesa) Fabián, cuéntame, ¿cómo va todo por España?
+- **해석:** (이미 식탁에 앉아) 파비안, 말해 봐. 스페인 쪽은 다 어떻게 돼 가나?
+- **주요 단어:** `contar` (동사) 이야기하다 / `ir` (동사) (일이) 되어 가다
+- **문법:** tú 긍정 명령 + 대명사: cuenta + me → cuéntame(강세 부호). `por España` = 스페인 쪽/근방.
+- **표현:** `¿Cómo va todo?` — 근황을 묻는 표현.
+- **시제:**
+  - `cuéntame` → contar | 명령법 2인칭 단수(tú) (imperativo) | 친근한 요청 | 어간모음변화 o→ue
+  - `va` → ir | 직설법 현재 3인칭 단수 (presente) | 현재 진행 상황 | 불규칙
+
+### 15-38. **Ramón:** Tengo entendido que hubo cierto... contratiempo hace unas semanas.
+- **해석:** 몇 주 전에 뭔가... 차질이 좀 있었다고 들었는데.
+- **주요 단어:** `tener entendido` (관용구) ~라고 알고 있다, 들었다 / `el contratiempo` (명사) 차질, 불상사 / `hace + 기간` ~ 전에
+- **문법:** `tener + 과거분사` = 결과 상태 강조(tengo entendido). `hace unas semanas` = 몇 주 전.
+- **표현:** `Tengo entendido que...` — 전해 들은 정보를 조심스럽게 꺼낼 때. 말줄임표로 완곡하게.
+- **시제:**
+  - `Tengo` → tener | 직설법 현재 1인칭 단수 (presente) | 현재 알고 있는 상태 | 불규칙 -go
+  - `entendido` → entender | 과거분사 (participio) | tener와 함께 결과 상태 | 규칙
+  - `hubo` → haber | 직설법 단순과거 3인칭 단수 무인칭 (pretérito indefinido) | 특정 과거 시점(hace unas semanas)에 일어난 사건이라 단순과거 | 불규칙(hub-)
+  - `hace` → hacer | 직설법 현재 3인칭 단수 (presente) | 시간 경과 표현 | 불규칙
+
+### 15-39. **Fabián:** Nada que no pudiéramos resolver.
+- **해석:** 우리가 해결하지 못할 정도의 일은 아니었어.
+- **주요 단어:** `resolver` (동사) 해결하다
+- **문법:** 부정 선행사 nada + 관계절 → 접속법. 과거 사건이라 접속법 과거.
+- **표현:** 문제를 가볍게 넘기는 말.
+- **시제:**
+  - `pudiéramos` → poder | 접속법 과거 1인칭 복수 (pretérito imperfecto de subjuntivo) | 부정 선행사 + 과거 맥락이라 접속법 과거 | 불규칙(단순과거 pudieron → pud-)
+  - `resolver` → resolver | 부정사 | poder 뒤
+
+### 15-40. **Fabián:** Aunque agradecería que la próxima vez me avisaras con más antelación si hay movimientos raros en el puerto.
+- **해석:** 그래도 다음번엔 항구에 이상한 움직임이 있으면 좀 더 미리 알려 주면 고맙겠어.
+- **주요 단어:** `agradecer` (동사) 감사하다 / `avisar` (동사) 알리다 / `con antelación` 미리 / `raro` (형용사) 이상한 / `el puerto` (명사) 항구
+- **문법:** 조건법 주절(agradecería) + que + 접속법 과거(avisaras) — 시제 일치. si + 직설법 현재(현실 조건).
+- **표현:** `Agradecería que...` — 공손하지만 불만이 담긴 요청.
+- **시제:**
+  - `agradecería` → agradecer | 조건법 단순 1인칭 단수 (condicional simple) | 공손한 요청이라 조건법 | 규칙 어미
+  - `avisaras` → avisar | 접속법 과거 2인칭 단수 (pretérito imperfecto de subjuntivo) | 조건법 주절 뒤 que절이라 접속법 과거 | 규칙
+  - `hay` → haber | 직설법 현재 무인칭 (presente) | si 조건절(실현 가능한 조건) | 불규칙
+  - 비교: "Agradezco que me avises"(현재·직접적) vs "Agradecería que me avisaras"(더 공손·완곡).
+
+### 15-41. **Ramón:** Hago lo que puedo, Fabián.
+- **해석:** 할 수 있는 건 다 하고 있어, 파비안.
+- **주요 단어:** `hacer` (동사) 하다 / `lo que` ~하는 것
+- **문법:** 관계사 lo que(중성).
+- **표현:** `Hago lo que puedo` — 변명조의 관용 표현.
+- **시제:**
+  - `Hago` → hacer | 직설법 현재 1인칭 단수 (presente) | 습관적·현재 행위 | 불규칙 -go
+  - `puedo` → poder | 직설법 현재 1인칭 단수 (presente) | 현재 능력 | 어간모음변화 o→ue
+
+### 15-42. **Ramón:** Pero si empiezo a levantar sospechas, ya no le sirvo a nadie.
+- **해석:** 하지만 내가 의심을 사기 시작하면, 더는 누구에게도 쓸모가 없게 돼.
+- **주요 단어:** `levantar sospechas` (관용구) 의심을 사다 / `servir a` ~에게 도움이 되다 / `ya no` 더 이상 ~않다 / `nadie` 아무도
+- **문법:** si + 직설법 현재 → 주절 직설법 현재(현실 조건). 중복 간접목적어 le ... a nadie. 이중부정 no ... nadie.
+- **시제:**
+  - `empiezo` → empezar | 직설법 현재 1인칭 단수 (presente) | 현실적 조건 | e→ie
+  - `levantar` → levantar | 부정사 | empezar a 뒤
+  - `sirvo` → servir | 직설법 현재 1인칭 단수 (presente) | 조건의 결과(일반적 사실) | e→i
+
+### 15-43. **Ramón:** Tengo que ser cuidadoso con cuánta información paso y cuándo.
+- **해석:** 정보를 얼마나 넘기는지, 언제 넘기는지 조심해야 해.
+- **주요 단어:** `tener que` ~해야 하다 / `cuidadoso` (형용사) 조심스러운 / `pasar` (동사) 넘기다, 전달하다
+- **문법:** 의무 tener que + 부정사. 간접의문 cuánta(명사 información에 성 일치).
+- **시제:**
+  - `Tengo` → tener | 직설법 현재 1인칭 단수 (presente) | 현재 의무 | 불규칙
+  - `ser` → ser | 부정사 | tener que 뒤 (성격·태도로서의 조심성)
+  - `paso` → pasar | 직설법 현재 1인칭 단수 (presente) | 습관적 행위 | 규칙
+
+### 15-44. **Álvaro:** (Aprovechando el momento) ¿Y usted, Doyle?
+- **해석:** (기회를 틈타) 당신은요, 도일?
+- **주요 단어:** `aprovechar` (동사) 기회를 활용하다 / `el momento` 순간
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Aprovechando` → aprovechar | 현재분사 (gerundio) | 동시 동작 | 규칙
+
+### 15-45. **Álvaro:** ¿También tiene que tener ese cuidado?
+- **해석:** 당신도 그렇게 조심해야 하나요?
+- **주요 단어:** `el cuidado` (명사) 주의 / `tener cuidado` 조심하다
+- **문법:** tener que + tener cuidado — tener가 두 번(의무 + 관용구).
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수(usted) (presente) | 현재 의무 | 불규칙
+  - `tener` → tener | 부정사 | tener que 뒤
+
+### 15-46. **Doyle:** Más que Ramón, te lo aseguro.
+- **해석:** 라몬보다 더하지, 장담하네.
+- **주요 단어:** `asegurar` (동사) 장담하다, 보증하다
+- **문법:** 이중 목적어 대명사 te(간접) + lo(직접, 중성). 순서: 간접 → 직접.
+- **표현:** `Te lo aseguro` — "정말이야".
+- **시제:**
+  - `aseguro` → asegurar | 직설법 현재 1인칭 단수 (presente) | 말하는 순간의 수행문 | 규칙
+
+### 15-47. **Doyle:** En mi país las cosas se investigan de otra manera.
+- **해석:** 우리나라에선 일들이 다른 방식으로 수사되지.
+- **주요 단어:** `investigar` (동사) 수사하다 / `de otra manera` 다른 방식으로
+- **문법:** 수동의 se(pasiva refleja): 주어 las cosas에 맞춰 복수 investigan.
+- **시제:**
+  - `se investigan` → investigar | 직설법 현재 3인칭 복수 (presente, 수동의 se) | 일반적 사실 | 규칙
+
+### 15-48. **Doyle:** Si algo sale mal, no hay “contratiempo”: hay una comisión del Congreso.
+- **해석:** 뭔가 잘못되면 "차질" 정도로 안 끝나. 의회 조사위원회가 열리지.
+- **주요 단어:** `salir mal` (동사구) 잘못되다 / `la comisión` (명사) 위원회 / `el Congreso` 의회
+- **문법:** si + 직설법 현재 → 직설법 현재(일반적 조건). 
+- **표현:** 앞서 Ramón이 쓴 "contratiempo"를 따옴표로 비꼬며 인용.
+- **시제:**
+  - `sale` → salir | 직설법 현재 3인칭 단수 (presente) | 일반·현실 조건 | 불규칙(1인칭 salgo, 여기선 규칙형)
+  - `hay` (×2) → haber | 직설법 현재 무인칭 (presente) | 결과로서의 존재 | 불규칙
+
+### 15-49. **Fabián:** Por eso les pago tan bien a los dos, para que ese riesgo valga la pena.
+- **해석:** 그래서 내가 두 사람에게 그렇게 돈을 두둑이 주는 거지. 그 위험을 감수할 가치가 있도록.
+- **주요 단어:** `por eso` 그래서 / `pagar` (동사) 지불하다 / `el riesgo` (명사) 위험 / `valer la pena` (관용구) ~할 가치가 있다
+- **문법:** 중복 간접목적어 les ... a los dos. `para que` + 접속법(목적).
+- **시제:**
+  - `pago` → pagar | 직설법 현재 1인칭 단수 (presente) | 습관적 행위 | 규칙
+  - `valga` → valer | 접속법 현재 3인칭 단수 (presente de subjuntivo) | para que(목적) 뒤는 항상 접속법 | 불규칙: valgo → valg-
+

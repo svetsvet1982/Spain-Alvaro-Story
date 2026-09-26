@@ -304,3 +304,264 @@
 - **표현:** `Sigamos así` 격려의 마무리 표현.
 - **시제:** `sigamos` → seguir, 접속법 현재 1인칭 복수(권유 명령)
 
+## 장면 12. 키푸를 둘러싼 교착 상태
+> 키푸(매듭문자) 건을 다루기 위해 지역 박물관장 호아킨(Joaquín)이 새로 참석하면서, 협상은 예상치 못한 강경 반발에 부딪힙니다. 대화는 점점 날카로워지고, 결국 명백한 교착 상태에 이릅니다.
+
+### 12-1. **Fernando:** Bienvenido, Joaquín.
+- **해석:** 환영합니다, 호아킨 씨.
+- **주요 단어:** `bienvenido` (형용사) 환영받는
+- **문법:** 상대의 성·수에 일치(남성 단수). 여성이면 bienvenida.
+- **시제:** 동사 없음
+
+### 12-2. **Fernando:** Gracias por unirse a esta sesión para tratar el caso del quipu.
+- **해석:** 키푸 건을 논의하기 위해 이번 회의에 함께해 주셔서 감사합니다.
+- **주요 단어:** `unirse` (재귀동사) 합류하다 / `tratar` (동사) 다루다, 논의하다
+- **문법:** `gracias por` + 동사원형. `unirse` 재귀동사의 원형에서 se는 usted에 맞춘 형태(unirse a ~에 합류하다). `para` + 원형 = 목적.
+- **표현:** `tratar un tema/caso` "안건을 다루다".
+- **시제:** `unirse` → unirse, 동사원형(재귀) / `tratar` → 동사원형
+
+### 12-3. **Joaquín:** Fernando, con todo respeto, me temo que no vengo con buenas noticias.
+- **해석:** 페르난도 씨, 외람되지만 좋은 소식을 가지고 온 것 같지는 않습니다.
+- **주요 단어:** `temerse` (재귀동사) ~일까 염려하다 / `venir` (동사) 오다 / `noticia` (명사, f.) 소식
+- **문법:** `me temo que` + 직설법: 유감스러운 사실을 완곡하게 전달(두려움 자체가 아니라 "유감이지만"의 의미이므로 직설법). 
+- **표현:** `me temo que...` "유감스럽지만 ~인 것 같습니다" — 나쁜 소식 전달의 정중한 도입.
+- **시제:** `temo` → temer(se), 직설법 현재 1인칭 단수 / `vengo` → venir, 직설법 현재 1인칭 단수(불규칙)
+
+### 12-4. **Joaquín:** Nuestra postura es que esa pieza no debería ni siquiera estar en esta lista.
+- **해석:** 저희 입장은 그 유물이 애초에 이 목록에 있어서도 안 된다는 것입니다.
+- **주요 단어:** `postura` (명사, f.) 입장 / `ni siquiera` ~조차 아닌
+- **문법:** `es que` + 직설법(입장의 내용 제시). `debería` 조건법으로 당위. `no ... ni siquiera` 부정 강조.
+- **표현:** `ni siquiera` "~조차도 (아니다)" 강한 부정.
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `debería` → deber, 조건법 현재 3인칭 단수 / `estar` → 동사원형
+
+### 12-5. **Alonso:** (Sorprendido) ¿Puede explicar por qué?
+- **해석:** (놀라며) 왜 그런지 설명해 주시겠습니까?
+- **주요 단어:** `sorprender` (동사) 놀라게 하다 / `explicar` (동사) 설명하다
+- **문법:** 지문 `Sorprendido`는 과거분사로 주어(Alonso)의 상태 묘사. `por qué`(띄어 쓰고 강세) = 의문사 "왜". `puede` usted에 대한 공손한 요청.
+- **시제:** `Sorprendido` → sorprender, 과거분사(남성 단수) / `puede` → poder, 직설법 현재 3인칭 단수(usted) / `explicar` → 동사원형
+
+### 12-6. **Joaquín:** Porque el quipu llegó a nuestra institución mediante una donación privada, no directamente desde el museo nacional.
+- **해석:** 그 키푸는 국립 박물관에서 직접 온 것이 아니라, 개인 기증을 통해 저희 기관에 들어왔기 때문입니다.
+- **주요 단어:** `llegar` (동사) 도착하다 / `mediante` (전치사) ~을 통해 / `donación` (명사, f.) 기증 / `privado` (형용사) 개인의, 사적인 / `directamente` (부사) 직접
+- **문법:** 이유를 답하는 `porque`(붙여 쓰고 강세 없음). 완결된 과거 사건 → 단순과거.
+- **시제:** `llegó` → llegar, 직설법 단순과거 3인칭 단수
+
+### 12-7. **Joaquín:** La cadena de responsabilidad es distinta.
+- **해석:** 책임의 연결 고리가 다릅니다.
+- **주요 단어:** `cadena` (명사, f.) 사슬, 연쇄 / `responsabilidad` (명사, f.) 책임 / `distinto` 앞에서 설명
+- **문법:** 특이사항 없음
+- **표현:** `cadena de responsabilidad` "책임 소재의 연결 고리".
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수
+
+### 12-8. **Alonso:** Una donación no cambia el origen ilícito de la pieza, Joaquín.
+- **해석:** 호아킨 씨, 기증이라고 해서 그 유물의 불법적 출처가 바뀌지는 않습니다.
+- **주요 단어:** `cambiar` (동사) 바꾸다 / `ilícito` (형용사) 불법의, 부정한
+- **문법:** 특이사항 없음
+- **시제:** `cambia` → cambiar, 직설법 현재 3인칭 단수
+
+### 12-9. **Alonso:** Si salió de Perú sin autorización, sigue siendo una exportación ilegal, sin importar cuántas manos haya pasado después.
+- **해석:** 허가 없이 페루를 떠났다면, 이후 몇 사람의 손을 거쳤든 상관없이 여전히 불법 반출입니다.
+- **주요 단어:** `autorización` (명사, f.) 허가 / `seguir` 앞에서 설명 / `importar` (동사) 중요하다 / `mano` (명사, f.) 손 / `pasar` (동사) 거치다
+- **문법:** `si` + 직설법 단순과거(과거 사실에 대한 가정). `seguir` + 현재분사 = "여전히 ~이다". `sin importar` + 간접의문(cuántas...) + 접속법 → `haya pasado`(접속법 현재완료, 불확실·양보). 
+- **표현:** `sin importar...` "~와 상관없이". `pasar por muchas manos` "여러 사람 손을 거치다"(원문은 por 생략된 구어적 형태).
+- **시제:** `salió` → salir, 직설법 단순과거 3인칭 단수 / `sigue` → seguir, 직설법 현재 3인칭 단수 / `siendo` → ser, 현재분사 / `importar` → 동사원형 / `haya pasado` → pasar, 접속법 현재완료 3인칭 단수
+
+### 12-10. **Joaquín:** Discrepo totalmente.
+- **해석:** 전적으로 동의하지 않습니다.
+- **주요 단어:** `discrepar` 앞에서 설명 / `totalmente` (부사) 완전히
+- **문법:** 특이사항 없음
+- **시제:** `discrepo` → discrepar, 직설법 현재 1인칭 단수
+
+### 12-11. **Joaquín:** Nosotros actuamos de buena fe al aceptar la donación.
+- **해석:** 저희는 기증을 받을 때 선의로 행동했습니다.
+- **주요 단어:** `actuar` (동사) 행동하다 / `fe` (명사, f.) 믿음, 신의 / `aceptar` 앞에서 설명
+- **문법:** `actuamos`는 현재와 단순과거 형태가 같음(-ar 동사 nosotros). 문맥상 과거(단순과거). `al` + 동사원형 = "~할 때".
+- **표현:** `de buena fe` "선의로"(법률 용어: 선의 취득).
+- **시제:** `actuamos` → actuar, 직설법 단순과거 1인칭 복수 / `aceptar` → 동사원형
+
+### 12-12. **Joaquín:** Penalizarnos por eso sienta un precedente peligrosísimo para cualquier institución que reciba donaciones en el futuro.
+- **해석:** 그걸로 저희를 처벌하는 건 앞으로 기증을 받는 모든 기관에 극히 위험한 선례를 남기는 겁니다.
+- **주요 단어:** `penalizar` (동사) 처벌하다, 불이익을 주다 / `peligroso` (형용사) 위험한 / `recibir` (동사) 받다 / `futuro` (명사, m.) 미래
+- **문법:** 동사원형 `penalizarnos`가 주어 역할(nos 부착). `peligrosísimo` 절대최상급(-ísimo). `cualquier institución que` + 접속법(불특정 선행사) → `reciba`.
+- **표현:** `sentar un precedente` 앞에서 설명.
+- **시제:** `penalizarnos` → penalizar, 동사원형 / `sienta` → sentar, 직설법 현재 3인칭 단수 / `reciba` → recibir, 접속법 현재 3인칭 단수
+
+### 12-13. **Mariano:** Joaquín tiene un punto, Alonso.
+- **해석:** 알론소 씨, 호아킨 씨 말에도 일리가 있습니다.
+- **주요 단어:** `punto` 앞에서 설명
+- **문법:** 특이사항 없음
+- **표현:** `tener un punto` 앞에서 설명.
+- **시제:** `tiene` → tener, 직설법 현재 3인칭 단수
+
+### 12-14. **Mariano:** Si empezamos a exigir devoluciones de piezas donadas de buena fe, ningún museo va a querer aceptar donaciones nunca más.
+- **해석:** 선의로 기증된 유물까지 반환을 요구하기 시작하면, 어떤 박물관도 다시는 기증을 받으려 하지 않을 겁니다.
+- **주요 단어:** `empezar` 앞에서 설명 / `donar` (동사) 기증하다 / `querer` (동사) 원하다
+- **문법:** `si` + 직설법 현재 → 주절 `ir a` + 원형(미래). `empezar a` + 원형. `donadas` 과거분사(여성 복수, piezas 일치). `ningún ... nunca más` 부정어 중복.
+- **표현:** `nunca más` "두 번 다시 ~않다".
+- **시제:** `empezamos` → empezar, 직설법 현재 1인칭 복수 / `exigir` → 동사원형 / `donadas` → donar, 과거분사(여성 복수) / `va` → ir, 직설법 현재 3인칭 단수 / `querer`, `aceptar` → 동사원형
+
+### 12-15. **Alonso:** Con todo respeto, eso suena más a una amenaza que a un argumento.
+- **해석:** 외람되지만, 그건 논거라기보다는 협박처럼 들립니다.
+- **주요 단어:** `sonar` (동사) 들리다, 울리다 / `amenaza` (명사, f.) 위협, 협박
+- **문법:** `sonar a` + 명사 "~처럼 들리다". `más a X que a Y` 비교 구문에서 전치사 a 반복. `sonar`는 o→ue 어간변화.
+- **표현:** `sonar a amenaza` "협박처럼 들리다".
+- **시제:** `suena` → sonar, 직설법 현재 3인칭 단수
+
+### 12-16. **Joaquín:** No es una amenaza, es una consecuencia lógica.
+- **해석:** 협박이 아니라 논리적 귀결입니다.
+- **주요 단어:** `consecuencia` (명사, f.) 결과, 귀결 / `lógico` (형용사) 논리적인
+- **문법:** 특이사항 없음
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수(2회)
+
+### 12-17. **Joaquín:** Y, francamente, empiezo a sentir que este proceso se está convirtiendo en una cacería, más que en una negociación de buena fe.
+- **해석:** 그리고 솔직히 말해, 이 과정이 선의의 협상이라기보다는 사냥으로 변해 가고 있다는 느낌이 들기 시작합니다.
+- **주요 단어:** `francamente` (부사) 솔직히 / `sentir` (동사) 느끼다 / `proceso` (명사, m.) 과정, 절차 / `convertirse` (재귀동사) ~로 변하다 / `cacería` (명사, f.) 사냥 / `negociación` (명사, f.) 협상
+- **문법:** `empezar a` + 원형. `sentir que` + 직설법. `estar` + 현재분사 진행형, 재귀대명사 `se`는 estar 앞에 위치(convirtiéndose도 가능). `convertirse en` "~이 되다". `más que en` 비교에서 전치사 en 반복.
+- **표현:** `cacería` 비유적으로 "마녀사냥"과 비슷한 뉘앙스.
+- **시제:** `empiezo` → empezar, 직설법 현재 1인칭 단수(e→ie) / `sentir` → 동사원형 / `está convirtiendo` → convertir(se), 직설법 현재진행 3인칭 단수(`convirtiendo` 현재분사, e→i)
+
+### 12-18. **Fernando:** Joaquín, por favor, moderemos el tono.
+- **해석:** 호아킨 씨, 부디 어조를 좀 누그러뜨립시다.
+- **주요 단어:** `moderar` (동사) 조절하다, 누그러뜨리다 / `tono` (명사, m.) 어조
+- **문법:** `moderemos` 접속법 현재 1인칭 복수(권유). 상대만 지적하지 않고 "우리"로 포함시켜 완곡하게 말함.
+- **표현:** `moderar el tono` "말투를 가라앉히다".
+- **시제:** `moderemos` → moderar, 접속법 현재 1인칭 복수(권유 명령)
+
+### 12-19. **Joaquín:** Perdón, pero no voy a aceptar que mi institución sea tratada como cómplice de un delito que no cometió.
+- **해석:** 죄송하지만, 저희 기관이 저지르지도 않은 범죄의 공범 취급을 받는 건 받아들이지 않겠습니다.
+- **주요 단어:** `perdón` (명사, m.) 용서, 죄송 / `tratar` (동사) 대하다, 취급하다 / `cómplice` (명사) 공범 / `delito` (명사, m.) 범죄 / `cometer` (동사) 저지르다
+- **문법:** `aceptar que` + 접속법 → `sea tratada`(접속법 현재 수동태). `tratar como` "~로 취급하다". `que no cometió` 관계절(특정 사실이므로 직설법).
+- **시제:** `voy` → ir, 직설법 현재 1인칭 단수 / `aceptar` → 동사원형 / `sea` → ser, 접속법 현재 3인칭 단수 / `tratada` → tratar, 과거분사(여성 단수) / `cometió` → cometer, 직설법 단순과거 3인칭 단수
+
+### 12-20. **Óscar:** Si me permiten, quizás el problema aquí es que estamos mezclando dos cuestiones distintas: la legitimidad del origen de la pieza, y la responsabilidad de quien la posee actualmente.
+- **해석:** 괜찮으시다면, 여기서 문제는 우리가 서로 다른 두 문제를 섞고 있다는 점일지도 모릅니다. 유물 출처의 정당성, 그리고 현재 그것을 소유한 자의 책임 말입니다.
+- **주요 단어:** `mezclar` (동사) 섞다 / `cuestión` (명사, f.) 문제, 사안 / `poseer` (동사) 소유하다
+- **문법:** `permiten` ustedes(여러분)에게 말함. `quizás` 뒤지만 직설법 `es` 사용(확신이 비교적 높을 때 직설법 가능). `estar` + 현재분사 진행형. `quien la posee` 선행사 포함 관계사, `la` = la pieza.
+- **표현:** `Si me permiten` 여러 명에게 발언 허락을 구하는 표현.
+- **시제:** `permiten` → permitir, 직설법 현재 3인칭 복수(ustedes) / `es` → ser, 직설법 현재 3인칭 단수 / `estamos mezclando` → mezclar, 직설법 현재진행 1인칭 복수 / `posee` → poseer, 직설법 현재 3인칭 단수
+
+### 12-21. **Óscar:** Son cosas separadas.
+- **해석:** 별개의 문제입니다.
+- **주요 단어:** `separado` (형용사) 분리된, 별개의
+- **문법:** 특이사항 없음
+- **시제:** `son` → ser, 직설법 현재 3인칭 복수
+
+### 12-22. **Joaquín:** Para mí no son separadas en absoluto.
+- **해석:** 제게는 전혀 별개가 아닙니다.
+- **주요 단어:** `absoluto` (형용사) 절대적인
+- **문법:** `para mí` 전치사 뒤 대명사 mí(강세 있음). `en absoluto` 부정문에서 "전혀".
+- **표현:** `en absoluto` "전혀 (아니다)".
+- **시제:** `son` → ser, 직설법 현재 3인칭 복수
+
+### 12-23. **Joaquín:** Si me quitan la pieza, la responsabilidad recae sobre mí, lo entienda usted como lo entienda.
+- **해석:** 그 유물을 빼앗기면 책임은 제게 떨어집니다. 당신이 어떻게 이해하시든 말이죠.
+- **주요 단어:** `quitar` (동사) 빼앗다, 치우다 / `recaer` (동사) (책임 등이) 떨어지다, 귀속되다
+- **문법:** `me quitan` 3인칭 복수 비인칭(주어 불특정 "그들이"), `me` = 간접목적(나에게서). `recaer sobre` "~에게 돌아가다". `lo entienda usted como lo entienda` 접속법 반복 양보 구문("어떻게 ~하든"). 
+- **표현:** 반복 접속법 양보 구문(예: digan lo que digan "뭐라 하든").
+- **시제:** `quitan` → quitar, 직설법 현재 3인칭 복수 / `recae` → recaer, 직설법 현재 3인칭 단수 / `entienda` → entender, 접속법 현재 3인칭 단수(usted, 2회)
+
+### 12-24. **Alonso:** (Con la voz más tensa) Llevamos dos sesiones avanzando con buena voluntad, y ahora aparece una nueva institución diciendo que ni siquiera reconoce el marco que hemos acordado.
+- **해석:** (더 긴장된 목소리로) 우리는 두 번의 회의 동안 선의로 진전을 이뤄 왔는데, 이제 와서 새로운 기관이 나타나 우리가 합의한 틀조차 인정하지 않는다고 말하고 있습니다.
+- **주요 단어:** `voz` (명사, f.) 목소리 / `tenso` (형용사) 긴장된 / `llevar` (동사) (시간을) 보내다 / `voluntad` (명사, f.) 의지 / `aparecer` 앞에서 설명 / `reconocer` (동사) 인정하다 / `acordar` (동사) 합의하다
+- **문법:** `llevar` + 기간 + 현재분사 = "~동안 계속 …해 오다". `aparece ... diciendo` 현재분사로 동시 동작. `que hemos acordado` 관계절, 현재완료.
+- **표현:** `buena voluntad` "선의, 호의". `llevar + 시간 + -ndo` 스페인어에서 매우 흔한 지속 표현.
+- **시제:** `llevamos` → llevar, 직설법 현재 1인칭 복수 / `avanzando` → avanzar, 현재분사 / `aparece` → aparecer, 직설법 현재 3인칭 단수 / `diciendo` → decir, 현재분사(불규칙) / `reconoce` → reconocer, 직설법 현재 3인칭 단수 / `hemos acordado` → acordar, 직설법 현재완료 1인칭 복수
+
+### 12-25. **Fernando:** Entiendo la frustración, Alonso, pero necesitamos que todas las partes se sientan representadas en este proceso.
+- **해석:** 답답하신 마음은 이해합니다, 알론소 씨. 하지만 모든 당사자가 이 과정에서 대표되고 있다고 느끼는 것이 필요합니다.
+- **주요 단어:** `frustración` (명사, f.) 좌절, 답답함 / `parte` (명사, f.) 당사자, 측 / `sentirse` (재귀동사) ~하게 느끼다
+- **문법:** `necesitar que` + 접속법 → `se sientan`. `sentirse` + 과거분사/형용사(representadas, 여성 복수 일치). `sientan`은 sentir의 접속법(e→ie).
+- **시제:** `entiendo` → entender, 직설법 현재 1인칭 단수 / `necesitamos` → necesitar, 직설법 현재 1인칭 복수 / `sientan` → sentir(se), 접속법 현재 3인칭 복수 / `representadas` → representar, 과거분사(여성 복수)
+
+### 12-26. **Alonso:** Empiezo a dudar de que este proceso vaya a llegar a ningún sitio, si cada vez que avanzamos aparece una nueva objeción.
+- **해석:** 우리가 진전할 때마다 새로운 이의가 나온다면, 이 과정이 어디에든 도달할 수 있을지 의심스러워지기 시작합니다.
+- **주요 단어:** `dudar` (동사) 의심하다 / `sitio` (명사, m.) 장소 / `vez` (명사, f.) 번, 회 / `objeción` 앞에서 설명
+- **문법:** `dudar de que` + 접속법(의심) → `vaya`. `ir a` + 원형이 접속법으로 쓰임. 의심 문맥이라 긍정문에서도 `ningún` 사용(부정적 의미 함축). `cada vez que` + 직설법 "~할 때마다".
+- **표현:** `no llegar a ningún sitio` "아무런 성과가 없다"(스페인식; 중남미는 lugar/parte).
+- **시제:** `empiezo` → empezar, 직설법 현재 1인칭 단수 / `dudar` → 동사원형 / `vaya` → ir, 접속법 현재 3인칭 단수 / `llegar` → 동사원형 / `avanzamos` → avanzar, 직설법 현재 1인칭 복수 / `aparece` → aparecer, 직설법 현재 3인칭 단수
+
+### 12-27. **Mariano:** Eso no es justo, Alonso.
+- **해석:** 그건 공정하지 않습니다, 알론소 씨.
+- **주요 단어:** `justo` (형용사) 공정한
+- **문법:** 특이사항 없음
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수
+
+### 12-28. **Mariano:** Hemos cedido en varios puntos ya.
+- **해석:** 저희는 이미 여러 부분에서 양보했습니다.
+- **주요 단어:** `ceder` (동사) 양보하다 / `varios` (형용사) 여러
+- **문법:** 현재완료로 지금까지의 결과 강조. `ceder en` "~에서 양보하다".
+- **시제:** `hemos cedido` → ceder, 직설법 현재완료 1인칭 복수
+
+### 12-29. **Alonso:** Han cedido en los casos más fáciles.
+- **해석:** 가장 쉬운 사례들에서만 양보하셨죠.
+- **주요 단어:** `fácil` (형용사) 쉬운
+- **문법:** `los casos más fáciles` 정관사 + más + 형용사 = 최상급.
+- **시제:** `han cedido` → ceder, 직설법 현재완료 3인칭 복수(ustedes)
+
+### 12-30. **Alonso:** El quipu es exactamente el tipo de caso donde se ve si hay voluntad real, o solo gestos simbólicos.
+- **해석:** 키푸야말로 진짜 의지가 있는지, 아니면 상징적인 제스처뿐인지가 드러나는 바로 그런 사례입니다.
+- **주요 단어:** `ver` (동사) 보다 / `real` (형용사) 진짜의 / `gesto` (명사, m.) 몸짓, 제스처 / `simbólico` (형용사) 상징적인
+- **문법:** `donde` 관계부사(선행사 caso). `se ve` 비인칭 se("드러나다"). `si` 간접의문("~인지").
+- **표현:** `gestos simbólicos` "보여주기식 제스처".
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `ve` → ver, 직설법 현재 3인칭 단수 / `hay` → haber, 직설법 현재(비인칭)
+
+### 12-31. **Joaquín:** Sigo sin estar dispuesto a devolver esa pieza sin una revisión legal completa, independiente de este comité.
+- **해석:** 저는 여전히 이 위원회와 독립된 완전한 법적 검토 없이는 그 유물을 반환할 생각이 없습니다.
+- **주요 단어:** `dispuesto` (형용사) ~할 용의가 있는 / `devolver` (동사) 돌려주다 / `revisión` (명사, f.) 검토 / `completo` (형용사) 완전한 / `independiente` (형용사) 독립적인 / `comité` (명사, m.) 위원회
+- **문법:** `seguir sin` + 원형 = "여전히 ~하지 않다". `estar dispuesto a` + 원형 "~할 용의가 있다".
+- **표현:** `seguir sin + 원형` 구어에서 자주 쓰는 지속 부정 표현.
+- **시제:** `sigo` → seguir, 직설법 현재 1인칭 단수 / `estar`, `devolver` → 동사원형
+
+### 12-32. **Alonso:** (Se levanta) Entonces no sé qué sentido tiene seguir en esta mesa hoy.
+- **해석:** (자리에서 일어나며) 그렇다면 오늘 이 자리에 계속 있어야 할 이유가 뭔지 모르겠습니다.
+- **주요 단어:** `levantarse` (재귀동사) 일어나다 / `saber` (동사) 알다 / `sentido` (명사, m.) 의미, 의의
+- **문법:** 지문 `Se levanta` 재귀동사 현재형. `qué sentido tiene` + 원형 = 간접의문("~하는 게 무슨 의미가 있는지"). 동사원형 `seguir`가 주어.
+- **표현:** `¿Qué sentido tiene...?` "~해서 무슨 소용이 있나".
+- **시제:** `levanta` → levantarse, 직설법 현재 3인칭 단수 / `sé` → saber, 직설법 현재 1인칭 단수(불규칙) / `tiene` → tener, 직설법 현재 3인칭 단수 / `seguir` → 동사원형
+
+### 12-33. **Fernando:** Alonso, por favor, no lleguemos a eso.
+- **해석:** 알론소 씨, 제발 그렇게까지는 하지 맙시다.
+- **주요 단어:** `llegar` 앞에서 설명
+- **문법:** 부정 권유 `no` + 접속법 현재 1인칭 복수. `llegar`는 g→gu 철자 변화(lleguemos).
+- **표현:** `llegar a eso` "그 지경까지 가다".
+- **시제:** `lleguemos` → llegar, 접속법 현재 1인칭 복수(부정 권유)
+
+### 12-34. **Fernando:** Propongo una pausa.
+- **해석:** 잠시 휴정을 제안합니다.
+- **주요 단어:** `proponer` (동사) 제안하다 / `pausa` (명사, f.) 휴식, 중단
+- **문법:** 특이사항 없음
+- **시제:** `propongo` → proponer, 직설법 현재 1인칭 단수(불규칙 -go)
+
+### 12-35. **Alonso:** (Se sienta de nuevo, con esfuerzo) Una pausa, sí.
+- **해석:** (애써 다시 자리에 앉으며) 네, 휴정하죠.
+- **주요 단어:** `sentarse` (재귀동사) 앉다 / `de nuevo` 다시 / `esfuerzo` (명사, m.) 노력, 애씀
+- **문법:** 지문 `se sienta` 재귀동사(e→ie).
+- **표현:** `con esfuerzo` "억지로, 애써".
+- **시제:** `sienta` → sentarse, 직설법 현재 3인칭 단수
+
+### 12-36. **Alonso:** Pero quiero que quede claro: si esto no avanza pronto, mi gobierno va a considerar llevar el caso a instancias internacionales.
+- **해석:** 하지만 분명히 해두고 싶습니다. 이 일이 곧 진전되지 않으면, 우리 정부는 이 사안을 국제 기구로 가져가는 것을 검토할 것입니다.
+- **주요 단어:** `quedar` (동사) ~한 상태가 되다 / `claro` 앞에서 설명 / `pronto` (부사) 곧 / `gobierno` (명사, m.) 정부 / `considerar` (동사) 고려하다 / `llevar` (동사) 가져가다 / `instancia` (명사, f.) 기관, 심급
+- **문법:** `querer que` + 접속법(주어가 다름) → `quede`. `si` + 직설법 현재 → `ir a` + 원형.
+- **표현:** `quede claro` "분명히 해 두다". `instancias internacionales` "국제 기구/국제 사법 기관" — 외교적 압박.
+- **시제:** `quiero` → querer, 직설법 현재 1인칭 단수 / `quede` → quedar, 접속법 현재 3인칭 단수 / `avanza` → avanzar, 직설법 현재 3인칭 단수 / `va` → ir, 직설법 현재 3인칭 단수 / `considerar`, `llevar` → 동사원형
+
+### 12-37. **Joaquín:** Eso sería, en mi opinión, un error innecesario.
+- **해석:** 제 생각에 그건 불필요한 실수가 될 겁니다.
+- **주요 단어:** `opinión` (명사, f.) 의견 / `error` (명사, m.) 실수 / `innecesario` (형용사) 불필요한
+- **문법:** 조건법 `sería`로 가정적 판단("그렇게 한다면 ~일 것이다").
+- **시제:** `sería` → ser, 조건법 현재 3인칭 단수
+
+### 12-38. **Óscar:** (En voz baja, a Fernando) Esto se ha complicado más de lo esperado.
+- **해석:** (페르난도에게 낮은 목소리로) 이거 예상보다 더 복잡해졌네요.
+- **주요 단어:** `bajo` (형용사) 낮은 / `complicarse` (재귀동사) 복잡해지다 / `esperar` 앞에서 설명
+- **문법:** `se ha complicado` 재귀동사 현재완료(오늘 일어난 변화). `más de lo esperado` = 중성 lo + 과거분사("예상된 것보다").
+- **표현:** `en voz baja` "작은 목소리로". `más de lo esperado/previsto` 자주 쓰는 비교 표현.
+- **시제:** `ha complicado` → complicarse, 직설법 현재완료 3인칭 단수 / `esperado` → esperar, 과거분사
+
+### 12-39. **Fernando:** (Asiente, preocupado) Necesitamos encontrar una salida antes de la próxima sesión, o corremos el riesgo de perder todo lo avanzado.
+- **해석:** (걱정스럽게 고개를 끄덕이며) 다음 회의 전까지 돌파구를 찾아야 합니다. 그렇지 않으면 지금까지 이룬 진전을 모두 잃을 위험이 있어요.
+- **주요 단어:** `asentir` (동사) 고개를 끄덕이다, 동의하다 / `preocupado` (형용사) 걱정하는 / `encontrar` (동사) 찾다 / `salida` (명사, f.) 출구, 해결책 / `correr` (동사) 달리다; (위험을) 무릅쓰다 / `riesgo` (명사, m.) 위험 / `perder` 앞에서 설명
+- **문법:** 지문 `asiente` asentir(e→ie). `preocupado` 과거분사 형용사로 상태. `o` "그렇지 않으면". `todo lo avanzado` = todo + 중성 lo + 과거분사("진전된 모든 것").
+- **표현:** `correr el riesgo de` + 원형 "~할 위험이 있다". `encontrar una salida` "출구(해법)를 찾다".
+- **시제:** `asiente` → asentir, 직설법 현재 3인칭 단수 / `preocupado` → preocupar, 과거분사 / `necesitamos` → necesitar, 직설법 현재 1인칭 복수 / `encontrar` → 동사원형 / `corremos` → correr, 직설법 현재 1인칭 복수 / `perder` → 동사원형 / `avanzado` → avanzar, 과거분사

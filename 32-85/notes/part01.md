@@ -216,3 +216,178 @@
   - `acercarse` → acercarse | 부정사 (재귀) | poder 뒤 부정사, 재귀대명사 se가 뒤에 붙음
   - `levantar` → levantar | 부정사 | sin 뒤 부정사
   - 비교: "Conozco a alguien que puede..."(실재하는 사람 → 직설법) vs "Necesitamos a alguien que pueda..."(찾는 중인 사람 → 접속법)
+
+### 1-25. **Álvaro:** Espera, ¿me estás pidiendo que me infiltre en una organización criminal?
+- **해석:** 잠깐, 지금 나더러 범죄 조직에 잠입하라는 거야?
+- **주요 단어:** `esperar` (동사) 기다리다 / `pedir` (동사) 요청하다 / `infiltrarse` (재귀동사) 잠입하다 / `organización` (명사, 여성) 조직 / `criminal` (형용사) 범죄의
+- **문법:** "pedir que + 접속법": 요청·명령 동사 뒤 que절은 접속법. 간접목적대명사 me가 estar 앞, 재귀대명사 me가 infiltre 앞에 위치.
+- **표현:** "Espera" = 잠깐만 (상대 말을 끊을 때).
+- **시제:**
+  - `Espera` → esperar | 긍정 명령법, tú | 상대에게 잠깐 멈추라고 요청 | 규칙 (tú 명령 = 직설법 현재 3인칭 단수 형태)
+  - `estás pidiendo` → pedir | 현재진행형 (estar 현재 2인칭 단수 + 현재분사) | 지금 이 대화에서 하고 있는 요청을 강조 | 현재분사 불규칙 e→i (pidiendo)
+  - `infiltre` → infiltrarse | 접속법 현재, 1인칭 단수 | pedir que 뒤라 접속법 | 규칙
+
+### 1-26. **Álvaro:** Eso suena a una locura.
+- **해석:** 그건 미친 짓처럼 들리는데.
+- **주요 단어:** `sonar` (동사) 소리 나다, ~처럼 들리다 / `locura` (명사, 여성) 미친 짓, 광기
+- **문법:** "sonar a + 명사" = ~처럼 들리다. (원문에서 두 줄로 나뉜 문장을 하나로 합침)
+- **표현:** "Es una locura" = 말도 안 되는 일이다.
+- **시제:**
+  - `suena` → sonar | 직설법 현재, 3인칭 단수 | 현재의 인상·판단 | 어간모음변화 o→ue (son- → suen-)
+
+### 1-27. **Carlos:** Cuando me asignaron el caso, ya había leído varios de tus reportajes de investigación, y supe que eras la persona adecuada.
+- **해석:** 내가 이 사건을 맡았을 때, 이미 네 탐사 보도 기사를 여러 편 읽은 뒤였고, 네가 적임자라는 걸 알았지.
+- **주요 단어:** `asignar` (동사) 배정하다 / `caso` (명사) 사건 / `leer` (동사) 읽다 / `varios` (형용사/대명사) 여러 / `reportaje` (명사) 기사, 르포 / `adecuado` (형용사) 적합한
+- **문법:** "me asignaron"은 주어를 밝히지 않는 3인칭 복수 비인칭 구문(= 나에게 배정되었다). 과거완료로 '그 이전'을 표시.
+- **표현:** "reportaje de investigación" = 탐사 보도. "la persona adecuada" = 적임자.
+- **시제:**
+  - `asignaron` → asignar | 직설법 단순과거, 3인칭 복수 | 과거의 한 시점에 완결된 사건; 3인칭 복수로 행위자(상부)를 흐림 | 규칙
+  - `había leído` → leer | 직설법 과거완료 pretérito pluscuamperfecto, 1인칭 단수 | 사건 배정(과거)보다 더 앞서 이미 완료된 일 | 과거분사 leído에 강세 부호
+  - `supe` → saber | 직설법 단순과거, 1인칭 단수 | 그 순간 '알게 됐다(확신했다)'는 완결된 인식 | 불규칙 (sup-)
+  - `eras` → ser | 직설법 불완료과거, 2인칭 단수 | 과거 시점의 상태·자질 묘사 (시제 일치) | 불규칙
+  - 비교: supe(단순과거) = 깨달음의 순간 / sabía(불완료과거) = 알고 있던 상태
+
+### 1-28. **Álvaro:** ¿Y por qué no lo hacéis vosotros mismos?
+- **해석:** 그럼 왜 너희가 직접 하지 않는 거야?
+- **주요 단어:** `hacer` (동사) 하다 / `vosotros` (대명사) 너희 / `mismo` (형용사) 스스로, 직접
+- **문법:** 중성 직접목적대명사 lo(= 잠입하는 일)가 동사 앞. "vosotros mismos" = 너희 스스로.
+- **표현:** vosotros는 스페인식 2인칭 복수(중남미는 ustedes). 활용 -éis.
+- **시제:**
+  - `hacéis` → hacer | 직설법 현재, 2인칭 복수 (vosotros) | 일반적인 사실/현재의 선택을 물음 | vosotros형은 규칙적 (1인칭 단수만 hago로 불규칙)
+
+### 1-29. **Álvaro:** Para eso está el CNI, ¿no?
+- **해석:** 그러라고 CNI가 있는 거잖아, 안 그래?
+- **주요 단어:** `para eso` 그러기 위해 / `estar` (동사) 있다
+- **문법:** 존재·목적을 나타내는 "estar para ~" = ~을 위해 존재하다. 문미의 "¿no?"는 확인 의문.
+- **표현:** "Para eso está..." = 그러라고 있는 거잖아 (약간 따지는 어조).
+- **시제:**
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 현재의 존재 목적 | 불규칙 (강세 está)
+
+### 1-30. **Carlos:** Si enviáramos a un agente y lo descubrieran, sería un escándalo diplomático entre los dos países.
+- **해석:** 만약 우리가 요원을 보냈다가 들키기라도 하면, 두 나라 사이에 외교적 스캔들이 될 거야.
+- **주요 단어:** `enviar` (동사) 보내다 / `agente` (명사) 요원 / `descubrir` (동사) 발견하다, 들키다 / `escándalo` (명사) 스캔들 / `diplomático` (형용사) 외교의 / `país` (명사) 나라
+- **문법:** 가정문 "si + 접속법 과거, 조건법" = 현재·미래의 비현실적(또는 가능성이 낮은) 가정. 인칭 a (a un agente). lo = 그 요원.
+- **시제:**
+  - `enviáramos` → enviar | 접속법 과거 pretérito imperfecto de subjuntivo, 1인칭 복수 | 실행하지 않을 가상 상황의 가정 | 규칙 (-ra형, 강세 부호)
+  - `descubrieran` → descubrir | 접속법 과거, 3인칭 복수 | 같은 가정절 안의 가상 사건; 3인칭 복수 비인칭(그들이 = 조직원들) | 규칙
+  - `sería` → ser | 조건법 단순, 3인칭 단수 | 가정의 결과 | 규칙 조건법 (ser+ía)
+  - 비교: "Si enviamos... será"(현실적 가능성) vs "Si enviáramos... sería"(가상적 가정)
+
+### 1-31. **Carlos:** Un periodista investigando tiene una cobertura mucho más creíble.
+- **해석:** 취재하는 기자라면 훨씬 더 그럴듯한 위장이 되거든.
+- **주요 단어:** `periodista` (명사) 기자 / `investigar` (동사) 조사하다 / `cobertura` (명사, 여성) 위장, 엄호, 커버 / `creíble` (형용사) 믿을 만한
+- **문법:** 현재분사 investigando가 명사를 수식하듯 쓰임(= que investiga). mucho más + 형용사 = 훨씬 더 ~한.
+- **표현:** "cobertura" = (첩보) 위장 신분, 커버 스토리.
+- **시제:**
+  - `investigando` → investigar | 현재분사 | '조사하고 있는'이라는 상황 설명 | 규칙
+  - `tiene` → tener | 직설법 현재, 3인칭 단수 | 일반적 사실 | 불규칙 e→ie
+
+### 1-32. **Álvaro:** Ya veo.
+- **해석:** 그렇구나.
+- **주요 단어:** `ver` (동사) 보다, 이해하다
+- **문법:** 특이사항 없음
+- **표현:** "Ya veo" = 알겠어, 그렇구나 (이해를 표시하는 표현).
+- **시제:**
+  - `veo` → ver | 직설법 현재, 1인칭 단수 | 지금 이해했다는 표현 | 불규칙 1인칭 veo
+
+### 1-33. **Álvaro:** ¿Y si a mí me descubren?
+- **해석:** 그럼 만약 내가 들키면?
+- **주요 단어:** `descubrir` (동사) 들키게 하다, 발견하다 (앞에서 설명)
+- **문법:** "a mí"로 목적대명사 me를 강조(중복). 실현 가능한 조건 "si + 직설법 현재".
+- **시제:**
+  - `descubren` → descubrir | 직설법 현재, 3인칭 복수 (비인칭) | 실제로 일어날 수 있는 조건이라 직설법 현재 | 규칙
+  - 비교: 카를로스는 가상의 요원에 접속법 과거(descubrieran), 알바로는 자기 일이라 실제 가능성으로 직설법 현재(descubren)
+
+### 1-34. **Álvaro:** ¿Qué pasa entonces?
+- **해석:** 그럼 어떻게 되는데?
+- **주요 단어:** `pasar` (동사) 일어나다 / `entonces` (부사) 그럼, 그때
+- **문법:** 특이사항 없음
+- **시제:**
+  - `pasa` → pasar | 직설법 현재, 3인칭 단수 | 조건문(si + 현재)의 결과로 미래 대신 현재 사용 | 규칙
+
+### 1-35. **Carlos:** Te mentiría si te dijera que no hay riesgo.
+- **해석:** 위험이 없다고 하면 거짓말이겠지.
+- **주요 단어:** `mentir` (동사) 거짓말하다 / `decir` (동사) 말하다 / `riesgo` (명사) 위험
+- **문법:** 가정문 "조건법 + si + 접속법 과거" (주절과 조건절 순서 바뀜). 간접목적대명사 te 두 번.
+- **표현:** "Te mentiría si te dijera..." = ~라고 하면 거짓말이다 (솔직히 인정할 때의 관용 표현). "No hay riesgo" = 위험이 없다.
+- **시제:**
+  - `mentiría` → mentir | 조건법 단순, 1인칭 단수 | 가상 조건의 결과 | 규칙 조건법 (현재형은 e→ie로 불규칙이지만 조건법은 규칙)
+  - `dijera` → decir | 접속법 과거, 1인칭 단수 | 실제로 하지 않을 가상의 말 | 불규칙 (dij- : dijera, dijeras...)
+  - `hay` → haber | 직설법 현재, 비인칭 | 존재 표현 '~이 있다' | 불규칙 특수형
+
+### 1-36. **Carlos:** Si te identificaran, la situación podría ponerse muy peligrosa para ti.
+- **해석:** 만약 네 정체가 드러나면, 상황이 너한테 아주 위험해질 수 있어.
+- **주요 단어:** `identificar` (동사) 신원을 밝히다 / `situación` (명사, 여성) 상황 / `ponerse` (재귀동사) ~해지다 / `peligroso` (형용사) 위험한
+- **문법:** si + 접속법 과거, 조건법. "ponerse + 형용사" = (일시적으로) ~한 상태가 되다. para + ti (전치격 대명사 ti, 강세 없음).
+- **시제:**
+  - `identificaran` → identificar | 접속법 과거, 3인칭 복수 (비인칭) | 가능성을 낮게 보려는 가상적 가정 | 규칙
+  - `podría` → poder | 조건법 단순, 3인칭 단수 | 가정의 결과이자 가능성 추측 | 불규칙 어간 podr-
+  - `ponerse` → ponerse | 부정사 (재귀) | poder 뒤 부정사
+
+### 1-37. **Álvaro:** Genial, justo lo que quería oír.
+- **해석:** 좋네, 딱 듣고 싶던 말이야. (반어)
+- **주요 단어:** `genial` (형용사) 멋진, 좋은 / `justo` (부사) 딱, 바로 / `querer` (동사) 원하다 / `oír` (동사) 듣다
+- **문법:** "lo que" = ~하는 것 (중성 관계사).
+- **표현:** 반어법(ironía). "Justo lo que quería oír" = 딱 듣고 싶던 말이네 (실제로는 반대). "genial"은 스페인 구어에서 매우 흔함.
+- **시제:**
+  - `quería` → querer | 직설법 불완료과거, 1인칭 단수 | 말하기 전부터 가지고 있던 바람을 묘사 (관용적으로 불완료과거) | 이 형태는 규칙
+  - `oír` → oír | 부정사 | querer 뒤 부정사
+
+### 1-38. **Álvaro:** ¿Qué sabéis exactamente de esta red?
+- **해석:** 이 조직에 대해 너희가 정확히 뭘 알고 있어?
+- **주요 단어:** `saber` (동사) 알다 / `exactamente` (부사) 정확히 / `red` (명사) 조직망
+- **문법:** "saber de algo" = ~에 대해 알다.
+- **표현:** vosotros형 sabéis (스페인식).
+- **시제:**
+  - `sabéis` → saber | 직설법 현재, 2인칭 복수 | 현재 가진 정보를 물음 | vosotros형 규칙
+
+### 1-39. **Carlos:** Compran armamento en Europa del Este y lo mueven hacia Colombia a través de varios puertos españoles.
+- **해석:** 동유럽에서 무기를 사들여서 스페인의 여러 항구를 거쳐 콜롬비아로 옮겨.
+- **주요 단어:** `comprar` (동사) 사다 / `armamento` (명사) 무기류, 군비 / `Europa del Este` 동유럽 / `mover` (동사) 옮기다 / `hacia` (전치사) ~쪽으로 / `a través de` ~을 통해 / `puerto` (명사) 항구
+- **문법:** 주어(그들) 생략. 직접목적대명사 lo = armamento.
+- **시제:**
+  - `Compran` → comprar | 직설법 현재, 3인칭 복수 | 현재 반복되는 활동(습관적 현재) | 규칙
+  - `mueven` → mover | 직설법 현재, 3인칭 복수 | 같은 반복 활동 | 어간모음변화 o→ue
+
+### 1-40. **Carlos:** Llevan operando así casi tres años.
+- **해석:** 거의 3년째 그런 식으로 움직이고 있어.
+- **주요 단어:** `operar` (동사) 활동하다, 작전하다 / `casi` (부사) 거의
+- **문법:** llevar + 현재분사 + 기간 (기간이 뒤로 가도 됨).
+- **시제:**
+  - `Llevan` → llevar | 직설법 현재, 3인칭 복수 | 과거부터 현재까지 지속 | 규칙
+  - `operando` → operar | 현재분사 | 지속 동작 | 규칙
+
+### 1-41. **Álvaro:** ¿Y no habéis podido detenerlos hasta ahora?
+- **해석:** 그런데 지금까지 그들을 잡지 못한 거야?
+- **주요 단어:** `detener` (동사) 체포하다, 멈추게 하다 / `hasta ahora` 지금까지
+- **문법:** 대명사 los가 부정사 뒤에 붙음(detenerlos). 현재완료는 조동사와 과거분사를 떼지 않음.
+- **시제:**
+  - `habéis podido` → poder | 직설법 현재완료, 2인칭 복수 | "hasta ahora"처럼 현재까지 이어지는 기간 안의 일이라 현재완료 | haber 불규칙(habéis), 과거분사 podido 규칙
+  - `detenerlos` → detener | 부정사 + los | poder 뒤 부정사 (tener처럼 불규칙 동사)
+
+### 1-42. **Carlos:** Si tuviéramos pruebas sólidas, ya los habríamos detenido.
+- **해석:** 확실한 증거가 있었다면, 벌써 그들을 체포했을 거야.
+- **주요 단어:** `tener` (동사) 가지다 / `prueba` (명사, 여성) 증거 / `sólido` (형용사) 확실한, 탄탄한
+- **문법:** 혼합 가정문: "si + 접속법 과거(현재의 비현실) + 조건완료(과거의 결과)". 지금 증거가 없어서, 과거에 체포하지 못했다.
+- **표현:** "pruebas sólidas" = 확실한 증거.
+- **시제:**
+  - `tuviéramos` → tener | 접속법 과거, 1인칭 복수 | 현재 사실과 반대되는 가정 | 불규칙 (tuv- : tuviera...)
+  - `habríamos detenido` → detener | 조건완료 condicional compuesto, 1인칭 복수 | 이미 실현됐을 결과 (과거 사실의 반대) | haber 조건법 불규칙 habr-, 과거분사 detenido 규칙
+  - 비교: "si hubiéramos tenido..."(과거 사실 반대) 대신 "si tuviéramos"를 써서 '지금도 없다'는 현재 상태를 강조
+
+### 1-43. **Carlos:** Pero cada vez que nos acercamos, cambian de método y desaparecen.
+- **해석:** 그런데 우리가 다가갈 때마다 방법을 바꾸고 사라져 버려.
+- **주요 단어:** `cada vez que` ~할 때마다 / `acercarse` (재귀동사) 다가가다 / `cambiar de` ~을 바꾸다 / `método` (명사) 방법 / `desaparecer` (동사) 사라지다
+- **문법:** "cada vez que + 직설법" (반복되는 사실). "cambiar de + 무관사 명사" = ~을 바꾸다.
+- **시제:**
+  - `acercamos` → acercarse | 직설법 현재, 1인칭 복수 | 반복적 사실 | 규칙
+  - `cambian` → cambiar | 직설법 현재, 3인칭 복수 | 반복적 사실 | 규칙
+  - `desaparecen` → desaparecer | 직설법 현재, 3인칭 복수 | 반복적 사실 | -cer 동사: 1인칭 단수만 desaparezco로 불규칙, 이 형태는 규칙
+
+### 1-44. **Álvaro:** Entonces necesitáis a alguien dentro que consiga esas pruebas.
+- **해석:** 그러니까 그 증거를 확보할 내부 사람이 필요하다는 거네.
+- **주요 단어:** `dentro` (부사) 안에 / `conseguir` (동사) 얻다, 확보하다
+- **문법:** 불특정 선행사(alguien)를 수식하는 관계절 → 접속법. 인칭 a.
+- **시제:**
+  - `necesitáis` → necesitar | 직설법 현재, 2인칭 복수 | 현재의 필요 | 규칙
+  - `consiga` → conseguir | 접속법 현재, 3인칭 단수 | 아직 정해지지 않은 사람을 수식 | 불규칙 e→i + 철자 변화 gu→g (consigo → consiga)

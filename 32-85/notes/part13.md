@@ -303,3 +303,207 @@
 - **문법:** 화제(Ramón)를 앞에 두고 의문문.
 - **시제:**
   - `se comporta` → comportarse | 직설법 현재 3인칭 단수 | 평소 태도 | 규칙
+
+### 19-40. **Álvaro:** Más reservado.
+- **해석:** 더 말수가 적어.
+- **주요 단어:** `reservado` (형용사) 내성적인, 과묵한
+- **문법:** 비교급 생략형(Es más reservado).
+- **시제:** 동사 없음
+
+### 19-41. **Álvaro:** Habla poco a menos que se le pregunte directamente.
+- **해석:** 직접 물어보지 않는 한 말을 거의 안 해.
+- **주요 단어:** `a menos que` (접속사구) ~하지 않는 한 / `preguntar` (동사) 묻다 / `directamente` (부사) 직접
+- **문법:** `a menos que`는 항상 접속법. `se le pregunte`: 비인칭 se + 간접목적 le ("누군가 그에게 묻다").
+- **시제:**
+  - `Habla` → hablar | 직설법 현재 3인칭 단수 | 습관 | 규칙
+  - `pregunte` → preguntar | 접속법 현재 3인칭 단수 (presente de subjuntivo) | a menos que(조건·예외 접속사) 뒤라 접속법 필수 | 규칙
+
+### 19-42. **Álvaro:** Y observa mucho, como si estuviera todo el tiempo evaluando a la gente.
+- **해석:** 그리고 많이 관찰해, 마치 내내 사람들을 평가하고 있는 것처럼.
+- **주요 단어:** `observar` (동사) 관찰하다 / `evaluar` (동사) 평가하다
+- **문법:** `como si + 접속법 불완료` = 현재 사실에 대한 비유적 가정. `estar + 현재분사` 진행형. 사람 목적어 앞 a(a la gente).
+- **시제:**
+  - `observa` → observar | 직설법 현재 3인칭 단수 | 습관 | 규칙
+  - `estuviera` → estar | 접속법 불완료과거 3인칭 단수 (pretérito imperfecto de subjuntivo) | como si 뒤 + 현재와 동시적 가정이라 불완료 (19-11의 hubiera sido와 비교: 그쪽은 과거 가정) | 불규칙 (estuv-)
+  - `evaluando` → evaluar | 현재분사 | estar와 함께 진행 중 동작 | 규칙
+
+### 19-43. **Carlos:** Suena a alguien con formación de inteligencia real, no un simple corrupto de poca monta.
+- **해석:** 그냥 하찮은 부패 관료가 아니라 진짜 정보기관 훈련을 받은 사람 같네.
+- **주요 단어:** `sonar a` (동사구) ~처럼 들리다, ~같다 / `formación` (여성명사) 교육, 훈련 / `inteligencia` (여성명사) 정보기관, 첩보 / `corrupto` (명사) 부패한 사람 / `de poca monta` 하찮은, 별 볼 일 없는
+- **문법:** `sonar a + 명사` ~같은 느낌이 들다. `simple`이 명사 앞에서 "그저 ~에 불과한".
+- **표현:** `de poca monta` 급이 낮은 — 관용구.
+- **시제:**
+  - `Suena` → sonar | 직설법 현재 3인칭 단수 | 지금 들은 묘사에서 받은 인상 | 어간 o→ue
+
+### 19-44. **Álvaro:** Eso mismo pensé yo.
+- **해석:** 나도 딱 그렇게 생각했어.
+- **주요 단어:** `mismo` (형용사) 바로 그
+- **문법:** 주어 yo를 문장 끝에 두어 "나도" 강조. eso mismo = 바로 그것.
+- **시제:**
+  - `pensé` → pensar | 직설법 단순과거 1인칭 단수 | 앞에서 설명(19-5), 식사 때 떠올린 완결된 생각
+
+### 19-45. **Álvaro:** Ah, y una cosa más: Ramón mencionó que tiene mujer y dos hijas adolescentes, y que vive en Madrid desde hace casi veinte años, aunque es de Valladolid originalmente.
+- **해석:** 아, 그리고 하나 더. 라몬이 아내와 십 대 딸 둘이 있고, 원래 바야돌리드 출신이지만 마드리드에 거의 20년째 살고 있다고 했어.
+- **주요 단어:** `mujer` (여성명사) 아내(구어) / `hija` (여성명사) 딸 / `adolescente` (형용사·명사) 십 대의 / `desde hace` ~전부터
+- **문법:** 간접화법 que ... y que ... (두 번째 que 반복). 현재에도 유효한 사실이라 현재 유지. `desde hace + 기간 + 현재` = "~전부터 지금까지 ~하고 있다".
+- **표현:** `tener mujer` 아내가 있다(관사 없이). 스페인에서 mujer = esposa로 흔히 씀.
+- **시제:**
+  - `mencionó` → mencionar | 직설법 단순과거 3인칭 단수 | 완결된 발언 | 규칙
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재의 가족 상황 | 불규칙
+  - `vive` → vivir | 직설법 현재 3인칭 단수 | desde hace와 함께 과거부터 이어지는 현재 (영어 현재완료진행에 해당, 스페인어는 현재형) | 규칙
+  - `es` → ser | 직설법 현재 | 출신 | 불규칙
+
+### 19-46. **Carlos:** Eso es oro puro, Álvaro.
+- **해석:** 그건 완전 금덩어리야, 알바로.
+- **주요 단어:** `oro` (남성명사) 금 / `puro` (형용사) 순수한
+- **표현:** `ser oro puro` "굉장히 값진 것" — 비유 표현.
+- **문법:** 특이사항 없음
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 가치 평가 | 불규칙
+
+### 19-47. **Carlos:** Con eso podemos empezar a cruzar bases de datos de funcionarios con ese perfil.
+- **해석:** 그걸로 그런 프로필의 공무원 데이터베이스를 교차 대조하기 시작할 수 있어.
+- **주요 단어:** `empezar a + 부정사` ~하기 시작하다 / `cruzar` (동사) 교차 대조하다 / `base de datos` 데이터베이스 / `funcionario` (명사) 공무원 / `perfil` (남성명사) 프로필
+- **문법:** poder + empezar a + 부정사 — 동사 사슬.
+- **표현:** `cruzar datos` 데이터를 교차 비교하다.
+- **시제:**
+  - `podemos` → poder | 직설법 현재 1인칭 복수 | 지금 생긴 가능성 | 1인칭 복수는 어간 변화 없음
+  - `empezar` → empezar | 부정사 | poder 뒤
+  - `cruzar` → cruzar | 부정사 | empezar a 뒤
+
+### 19-48. **Álvaro:** Espero que sirva.
+- **해석:** 쓸모 있으면 좋겠어.
+- **주요 단어:** `esperar` (동사) 바라다 / `servir` (앞에서 설명)
+- **문법:** `esperar que + 접속법` 희망.
+- **시제:**
+  - `Espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙
+  - `sirva` → servir | 접속법 현재 3인칭 단수 | 희망 동사 뒤라 접속법 | 어간 e→i
+
+### 19-49. **Álvaro:** Aunque me preocupa que, si lo localizáis mal o demasiado rápido, sospechen de dónde vino la información.
+- **해석:** 다만 너희가 그를 잘못 찾거나 너무 빨리 찾아내면, 정보가 어디서 나왔는지 의심받을까 봐 걱정이야.
+- **주요 단어:** `preocupar` (동사) 걱정시키다 / `localizar` (동사) 위치를 찾다 / `demasiado` (부사) 너무 / `sospechar` (동사) 의심하다 / `venir de` ~에서 오다
+- **문법:** `preocupar`는 gustar형: me preocupa + que절(주어). 감정 표현 뒤 que절은 접속법(sospechen). `si + 직설법 현재` = 현실적 조건. 간접의문 `de dónde`.
+- **표현:** 문두 `Aunque` — "그렇긴 한데" 앞 말에 단서를 다는 구어 용법. `localizáis` vosotros형(스페인식).
+- **시제:**
+  - `preocupa` → preocupar | 직설법 현재 3인칭 단수 | 현재의 걱정; 주어는 que절 | 규칙
+  - `localizáis` → localizar | 직설법 현재 2인칭 복수 (vosotros) | si 조건절에서는 미래 대신 현재 (접속법 현재 금지) | 규칙
+  - `sospechen` → sospechar | 접속법 현재 3인칭 복수 | 감정(걱정) 동사 뒤 접속법; 주어는 막연한 "그들"(적들) | 규칙
+  - `vino` → venir | 직설법 단순과거 3인칭 단수 | 정보가 나온 것은 이미 일어난 완결 사건 | 불규칙 (강변화 어간 vin-)
+
+### 19-50. **Carlos:** Tendremos mucho cuidado con eso, te lo prometo.
+- **해석:** 그건 아주 조심할게, 약속해.
+- **주요 단어:** `tener cuidado con` ~을 조심하다 / `prometer` (동사) 약속하다
+- **문법:** `te lo prometo`: 간접 te + 직접 lo(그것을) 순서.
+- **시제:**
+  - `Tendremos` → tener | 직설법 미래 1인칭 복수 (futuro simple) | 앞으로의 행동에 대한 다짐·약속이라 단순미래 | 불규칙 (어간 tendr-)
+  - `prometo` → prometer | 직설법 현재 1인칭 단수 | 말하는 순간 수행하는 행위(수행문) | 규칙
+
+### 19-51. **Carlos:** No vamos a exponerte por precipitarnos.
+- **해석:** 서두르다가 널 노출시키는 일은 없을 거야.
+- **주요 단어:** `exponer` (동사) 노출시키다, 위험에 드러내다 / `precipitarse` (재귀동사) 서두르다, 성급히 굴다
+- **문법:** `ir a + 부정사` 미래. `por + 부정사` = 원인(~해서). 대명사 부정사 부착: exponerte, precipitarnos.
+- **시제:**
+  - `vamos` → ir | 직설법 현재 1인칭 복수 | ir a + 부정사로 확실한 의지·미래 | 불규칙
+  - `exponer(te)` → exponer | 부정사 | 불규칙 동사(poner 계열: expongo, expuse)
+  - `precipitar(nos)` → precipitarse | 부정사 | por 뒤 원인
+
+### 19-52. **Álvaro:** Gracias.
+- **해석:** 고마워.
+- **주요 단어:** `gracias` 감사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 19-53. **Álvaro:** Doyle también mencionó un hijo que vive con la madre, tras un divorcio.
+- **해석:** 도일도 이혼 후에 엄마랑 사는 아들이 하나 있다고 했어.
+- **주요 단어:** `tras` (전치사) ~후에 / `divorcio` (남성명사) 이혼
+- **문법:** 관계대명사 que(주격). `la madre` = 아이의 엄마(정관사로 소유 표현).
+- **시제:**
+  - `mencionó` → mencionar | 단순과거 | 앞에서 설명
+  - `vive` → vivir | 직설법 현재 3인칭 단수 | 현재 상황 | 규칙
+
+### 19-54. **Álvaro:** Habla con él los domingos, según dijo.
+- **해석:** 그의 말로는 일요일마다 아들과 통화한대.
+- **주요 단어:** `los domingos` 일요일마다 / `según` (전치사) ~에 따르면
+- **문법:** 요일 복수 + 정관사 = 매주 반복. `según + 동사` 가능(según dijo).
+- **시제:**
+  - `Habla` → hablar | 직설법 현재 3인칭 단수 | 반복 습관 | 규칙
+  - `dijo` → decir | 단순과거 | 앞에서 설명(19-33)
+
+### 19-55. **Carlos:** Perfecto, otro dato más para cruzar.
+- **해석:** 좋아, 대조할 데이터가 하나 더 생겼네.
+- **주요 단어:** `dato` (남성명사) 데이터, 정보 / `cruzar` (앞에서 설명)
+- **문법:** `para + 부정사` 목적. otro에는 부정관사 붙이지 않음(×un otro).
+- **시제:**
+  - `cruzar` → cruzar | 부정사 | para 뒤 목적
+
+### 19-56. **Carlos:** Álvaro, esto es un trabajo excelente, de verdad.
+- **해석:** 알바로, 이건 정말 훌륭한 작업이야, 진심으로.
+- **주요 단어:** `excelente` (형용사) 훌륭한 / `de verdad` 정말로
+- **문법:** 특이사항 없음
+- **시제:**
+  - `es` → ser | 직설법 현재 | 평가 | 불규칙
+
+### 19-57. **Álvaro:** Solo espero que valga la pena todo esto.
+- **해석:** 그저 이 모든 게 그만한 가치가 있기를 바랄 뿐이야.
+- **주요 단어:** `valer la pena` 가치가 있다, 할 만하다
+- **문법:** esperar que + 접속법. 주어 todo esto를 뒤로 도치.
+- **시제:**
+  - `espero` → esperar | 직설법 현재 | 앞에서 설명
+  - `valga` → valer | 접속법 현재 3인칭 단수 | 희망 뒤 접속법 | 불규칙 (valgo → valga, -g- 삽입)
+
+### 19-58. **Carlos:** Vale la pena, créeme.
+- **해석:** 가치 있어, 날 믿어.
+- **주요 단어:** `creer` (동사) 믿다
+- **문법:** 긍정명령 + 대명사 부착 créeme(악센트 추가).
+- **시제:**
+  - `Vale` → valer | 직설법 현재 3인칭 단수 | 확신이라 직설법 (앞 문장의 valga와 대비) | 불규칙(1인칭 valgo)
+  - `cree(me)` → creer | 명령법 2인칭 단수 tú | 친근한 권유 | 규칙
+
+### 19-59. **Carlos:** Identificar a estos dos podría ser tan importante como desmantelar la red de armas.
+- **해석:** 이 두 사람의 신원을 밝히는 게 무기 조직망을 해체하는 것만큼 중요할 수도 있어.
+- **주요 단어:** `desmantelar` (동사) 해체하다 / `red` (여성명사) 망, 조직 / `arma` (여성명사) 무기
+- **문법:** 부정사가 주어(Identificar...). 동등비교 `tan + 형용사 + como`. 사람 목적어 a.
+- **시제:**
+  - `Identificar` → identificar | 부정사 | 주어 역할의 명사적 용법
+  - `podría` → poder | 조건법 단순 3인칭 단수 (condicional simple) | 가능성을 조심스럽게 추측 | 불규칙 어간 podr-
+  - `ser` → ser | 부정사 | poder 뒤
+  - `desmantelar` → desmantelar | 부정사 | 비교 대상(명사적 용법)
+
+### 19-60. **Álvaro:** Eso espero.
+- **해석:** 그러길 바라.
+- **주요 단어:** `esperar` (앞에서 설명)
+- **문법:** 목적어 eso 전치.
+- **표현:** `Eso espero` "그러면 좋겠다" 관용 응답.
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 희망 | 규칙
+
+### 19-61. **Álvaro:** Bueno, te dejo, mañana tenemos otra reunión con Fabián y no quiero llegar cansado.
+- **해석:** 자, 이만 끊을게, 내일 파비안이랑 또 회의가 있어서 피곤한 상태로 가고 싶지 않아.
+- **주요 단어:** `dejar` (동사) 놓아주다, 두다 / `reunión` (여성명사) 회의 / `llegar` (동사) 도착하다 / `cansado` (형용사) 피곤한
+- **문법:** `llegar cansado`: 동사 + 형용사(주어 상태 서술 보어).
+- **표현:** `te dejo` "이만 끊을게/갈게" — 통화나 대화를 마칠 때의 스페인 구어.
+- **시제:**
+  - `dejo` → dejar | 직설법 현재 1인칭 단수 | 곧 할 행동을 현재로(즉시 미래) | 규칙
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 예정된 일정은 현재로 표현 | 불규칙
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재 의지 | 어간 e→ie
+  - `llegar` → llegar | 부정사 | querer 뒤
+  - `cansado` → cansar | 과거분사(형용사) | 상태 | 규칙
+
+### 19-62. **Carlos:** Descansa.
+- **해석:** 푹 쉬어.
+- **주요 단어:** `descansar` (동사) 쉬다
+- **문법:** tú 긍정명령.
+- **시제:**
+  - `Descansa` → descansar | 명령법 2인칭 단수 | 작별 인사 겸 권유 | 규칙
+
+### 19-63. **Carlos:** Y gracias, de verdad, por todo esto.
+- **해석:** 그리고 진심으로 고마워, 이 모든 것에 대해.
+- **주요 단어:** `gracias por` ~에 대해 고마워
+- **문법:** 감사 이유는 por.
+- **시제:** 동사 없음
+
+### 19-64. **Álvaro:** Buenas noches, Carlos.
+- **해석:** 잘 자, 카를로스.
+- **주요 단어:** `buenas noches` 밤 인사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음

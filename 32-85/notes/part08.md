@@ -316,3 +316,134 @@
   - `debo` → deber | 직설법 현재, 1인칭 단수 | 의무 여부 질문 | 규칙
   - `avisar` → avisar | 부정사 | deber 뒤 | 규칙
   - `estaré` → estar | 직설법 미래, 1인칭 단수 | 앞으로 있을 부재 | 미래형은 규칙(estar + é)
+
+### 13-38. **Fabián:** Cuanta menos gente lo sepa, mejor, como siempre.
+- **해석:** 늘 그렇듯, 아는 사람이 적을수록 좋아.
+- **주요 단어:** `cuanto menos... mejor` ~할수록 더 좋다 / `saber` (동사) 알다 / `como siempre` 늘 그렇듯
+- **문법:** 비례 구문 `cuanto + (más/menos) + 명사..., mejor`: cuanto가 명사 gente(여성)에 일치해 cuanta. 불특정·가정적 정도라 접속법.
+- **표현:** Cuanto antes, mejor(빠를수록 좋다)와 같은 구조.
+- **시제:**
+  - `sepa` → saber | 접속법 현재, 3인칭 단수 | cuanto 비례 구문(가정적 양) 뒤라 접속법 | 불규칙(sepa, sepas, sepa...)
+
+### 13-39. **Fabián:** Dile a quien tengas que decírselo que es un viaje de negocios normal.
+- **해석:** 말해야 하는 사람한테는 그냥 평범한 출장이라고 해.
+- **주요 단어:** `decir` (동사) 말하다 / `tener que` ~해야 하다 / `viaje de negocios` 출장
+- **문법:** 긍정 명령에 대명사가 붙음(di + le). `a quien + 접속법`: 누구인지 특정되지 않은 사람(말해야 할 누구든)이라 접속법. `decírselo`: le + lo → se lo, 부정사에 붙으며 강세 표시. que es...: 전달 내용(사실)이라 직설법. le와 a quien이 중복(간접목적어 중복 표현).
+- **표현:** viaje de negocios = 출장. 거짓말 "커버 스토리"를 지시하는 말.
+- **시제:**
+  - `di(le)` → decir | 명령법 긍정 tú imperativo | 지시 | 불규칙(tú 명령형 di)
+  - `tengas` → tener | 접속법 현재, 2인칭 단수 | 불특정 선행사 관계절(quien) | 불규칙: tengo → teng- + as
+  - `decírselo` → decir | 부정사 + se + lo | tener que 뒤 | 불규칙 동사
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 전달할 내용(사실로 제시) | 불규칙
+
+### 13-40. **Álvaro:** Así lo haré.
+- **해석:** 그렇게 하겠습니다.
+- **주요 단어:** `hacer` (동사) 하다
+- **문법:** lo = 앞 내용(그렇게 말하는 것)을 받는 중성 대명사, así로 강조.
+- **표현:** Así lo haré = 지시를 따르겠다는 정중한 대답.
+- **시제:**
+  - `haré` → hacer | 직설법 미래, 1인칭 단수 | 앞으로 할 일에 대한 약속·의지 | 불규칙 미래 어간 har-
+
+### 13-41. **Álvaro:** No hay problema.
+- **해석:** 문제없습니다.
+- **주요 단어:** `problema` (명사, 남) 문제 (-ma로 끝나지만 남성)
+- **문법:** 무인칭 hay + 무관사 명사.
+- **시제:**
+  - `hay` → haber | 앞에서 설명 (직설법 현재 무인칭)
+
+### 13-42. **Fabián:** Una cosa más, Diego: en Cartagena las reglas son distintas.
+- **해석:** 하나 더, 디에고. 카르타헤나에선 규칙이 달라.
+- **주요 단어:** `regla` (명사, 여) 규칙 / `distinto` (형용사) 다른
+- **문법:** ser + distinto: 본질적 성격(규칙 체계 자체가 다름)이라 ser.
+- **표현:** Una cosa más = 하나 더 (덧붙일 때).
+- **시제:**
+  - `son` → ser | 직설법 현재, 3인칭 복수 | 일반적 사실 | 불규칙
+
+### 13-43. **Fabián:** La gente con la que nos vamos a reunir no tiene la misma paciencia que yo.
+- **해석:** 우리가 만날 사람들은 나만큼 인내심이 있지 않아.
+- **주요 단어:** `paciencia` (명사, 여) 인내심 / `el mismo... que` ~와 같은
+- **문법:** 전치사 + 관계사 `con la que`(선행사 gente, 여성 단수). 재귀대명사 nos가 조동사 앞으로 이동(nos vamos a reunir = vamos a reunirnos). gente는 단수 동사(tiene).
+- **시제:**
+  - `vamos` → ir | 직설법 현재, 1인칭 복수 | ir a + 부정사로 가까운 미래 계획 | 불규칙
+  - `reunir(nos)` → reunirse | 부정사 | ir a 뒤 | 앞에서 설명
+  - `tiene` → tener | 직설법 현재, 3인칭 단수 | 성격(일반적 사실) | 불규칙(e→ie)
+
+### 13-44. **Fabián:** Espero que estés a la altura.
+- **해석:** 네가 그에 걸맞게 해내길 바라.
+- **주요 단어:** `esperar` (동사) 바라다 / `estar a la altura` 기대에 부응하다, 수준에 맞다
+- **문법:** `esperar que + 접속법`: 희망.
+- **표현:** estar a la altura (de las circunstancias) = 상황에 걸맞게 처신하다.
+- **시제:**
+  - `espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 바람 | 규칙
+  - `estés` → estar | 접속법 현재, 2인칭 단수 | esperar que 뒤 | 불규칙(esté, estés...) 강세 주의
+
+### 13-45. **Álvaro:** Lo estaré.
+- **해석:** 그렇게 하겠습니다(걸맞게 해내겠습니다).
+- **문법:** lo = 앞 문장의 술어 a la altura를 받는 중성 대명사. estar/ser의 보어는 lo로 대체 가능.
+- **시제:**
+  - `estaré` → estar | 직설법 미래, 1인칭 단수 | 앞으로의 다짐 | 규칙 미래
+
+### 13-46. **Álvaro:** He llegado hasta aquí; no voy a fallar justo ahora.
+- **해석:** 여기까지 왔는데, 하필 지금 실패하진 않을 겁니다.
+- **주요 단어:** `llegar` (동사) 도달하다 / `fallar` (동사) 실패하다, 실수하다 / `justo ahora` 바로 지금
+- **문법:** 세미콜론으로 이유–결론을 연결. ir a + 부정사의 부정형.
+- **표현:** llegar hasta aquí = (고생 끝에) 여기까지 오다.
+- **시제:**
+  - `he llegado` → llegar | 직설법 현재완료, 1인칭 단수 | 지금까지 쌓아 온 결과가 현재에 이어짐 | 규칙(haber + llegado)
+  - `voy` → ir | 직설법 현재, 1인칭 단수 | ir a + 부정사로 미래의 의지 | 불규칙
+  - `fallar` → fallar | 부정사 | ir a 뒤 | 규칙
+
+### 13-47. **Fabián:** Eso espero de verdad.
+- **해석:** 정말 그러길 바란다.
+- **문법:** eso(목적어)가 동사 앞에 나와 강조.
+- **표현:** Eso espero = 그러길 바라 (짧은 관용 응답).
+- **시제:**
+  - `espero` → esperar | 앞에서 설명 (직설법 현재 1단)
+
+### 13-48. **Fabián:** Bueno, prepárate.
+- **해석:** 자, 준비해.
+- **주요 단어:** `prepararse` (동사) 준비하다
+- **문법:** 긍정 명령 + 재귀대명사 te가 뒤에 붙음 → 강세 표시(prepárate).
+- **표현:** Bueno = 대화를 정리할 때 쓰는 "자, 그럼".
+- **시제:**
+  - `prepárate` → prepararse | 명령법 긍정 tú | 지시 | 규칙(tú 명령 = 직설법 3단 prepara)
+
+### 13-49. **Fabián:** Salimos el lunes que viene.
+- **해석:** 다음 주 월요일에 출발한다.
+- **주요 단어:** `el lunes que viene` 다음 주 월요일
+- **문법:** 현재형으로 확정 일정.
+- **시제:**
+  - `salimos` → salir | 앞에서 설명 (직설법 현재 1복, 확정 미래)
+  - `viene` → venir | 앞에서 설명 (que viene = 다음)
+
+### 13-50. **Álvaro:** Allí estaré, listo.
+- **해석:** 준비해서 가 있겠습니다.
+- **주요 단어:** `listo` (형용사) 준비된
+- **문법:** estar + listo = 준비된 상태 (ser listo는 "영리하다"로 의미가 다름).
+- **표현:** Allí estaré = 반드시 가겠다(약속 표현).
+- **시제:**
+  - `estaré` → estar | 앞에서 설명 (직설법 미래, 약속)
+
+### 13-51. **Álvaro:** Gracias por la confianza, Fabián.
+- **해석:** 믿어 주셔서 감사합니다, 파비안.
+- **주요 단어:** `confianza` (명사, 여) 신뢰
+- **문법:** gracias por + 명사/부정사: 감사의 이유.
+- **시제:** 동사 없음
+
+### 13-52. **Fabián:** Gracias a ti por no decepcionarme hasta ahora.
+- **해석:** 지금까지 날 실망시키지 않은 너한테 고맙지.
+- **주요 단어:** `decepcionar` (동사) 실망시키다 / `hasta ahora` 지금까지
+- **문법:** por + 부정사(no decepcionar): 이유. 목적대명사 me가 부정사 뒤에 붙음. a ti: 전치격 대명사.
+- **표현:** Gracias a ti = 오히려 내가 고맙다.
+- **시제:**
+  - `decepcionarme` → decepcionar | 부정사 + me | por 뒤 이유 | 규칙
+
+### 13-53. **Fabián:** Vamos a ver qué tal se te da Colombia.
+- **해석:** 콜롬비아에서 네가 얼마나 잘 해내는지 한번 보자고.
+- **주요 단어:** `qué tal` 어떻게, 어때 / `dársele (bien/mal) algo a alguien` ~을 잘하다/못하다
+- **문법:** `se te da`: se(무인칭적 요소) + te(간접목적어, 너에게) + da; 주어는 Colombia. 간접의문문 qué tal + 직설법.
+- **표현:** Vamos a ver = 두고 보자. Se me da bien cocinar = 나는 요리를 잘한다.
+- **시제:**
+  - `vamos` → ir | 직설법 현재, 1인칭 복수 | vamos a + 부정사 = "~해 보자"(청유) | 불규칙
+  - `ver` → ver | 부정사 | ir a 뒤 | 불규칙 동사
+  - `da` → dar | 직설법 현재, 3인칭 단수 | 앞으로의 결과지만 일반적 능력 표현이라 현재 | 불규칙(doy, das, da)

@@ -298,3 +298,117 @@
 - **문법:** `Sin él` = si no fuera/hubiera sido por él 역할을 하는 조건 표현. 주어는 무인칭 3인칭 복수(당국이). `nos` = 직접목적어.
 - **시제:**
   - `habrían parado` → parar | 조건법 완료 3인칭 복수 (condicional compuesto) | 과거 사실의 반대 가정("~했을 것이다") — 단순 조건법 pararían(지금·앞으로 ~할 것)과 달리 이미 지나간 가능성 | haber 불규칙 어간 habr-
+
+### 17-34. **Doyle:** Me halaga, Fabián, pero es la verdad.
+- **해석:** 과찬이야, 파비안. 그래도 사실이긴 하지.
+- **주요 단어:** `halagar` (동사) 칭찬하다, 우쭐하게 하다 / `verdad` (여성명사) 진실
+- **문법:** 주어 생략(eso/tu comentario가 "나를 기쁘게 한다"). `Me`는 직접목적어.
+- **표현:** `Me halaga` — "과찬이네, 기분 좋은데". 겸손한 척하면서 곧바로 "사실이다"라며 자부심을 드러내는 말투. (보통 Me halagas라고도 함 — 여기선 칭찬한 말을 주어로 봄.)
+- **시제:**
+  - `halaga` → halagar | 직설법 현재 3인칭 단수 | 지금 느끼는 감정 | 철자 변화: 접속법에서 halague (g→gu)
+  - `es` → ser | 직설법 현재 3인칭 단수 | 사실 확인 | 불규칙
+
+### 17-35. **Doyle:** El sistema tiene muchos agujeros, y yo simplemente sé dónde están.
+- **해석:** 시스템엔 구멍이 많아. 나는 그저 그게 어디 있는지 알 뿐이고.
+- **주요 단어:** `agujero` (남성명사) 구멍 / `simplemente` (부사) 단순히
+- **문법:** 간접의문 `dónde están`. 위치라 estar.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재 상태 | 불규칙 e→ie
+  - `sé` → saber | 앞에서 설명
+  - `están` → estar | 직설법 현재 3인칭 복수 | 위치(estar) | 불규칙
+
+### 17-36. **Álvaro:** Impresionante, la verdad.
+- **해석:** 정말 대단하네요.
+- **주요 단어:** `impresionante` (형용사) 인상적인, 대단한
+- **문법:** 동사 생략 (Es impresionante).
+- **표현:** `la verdad` — 문장 끝에서 "정말, 솔직히".
+- **시제:**
+  - 동사 없음
+
+### 17-37. **Ramón:** (Interviene, más serio) Fabián, ya que estamos hablando de riesgos, hay algo que debo contarte.
+- **해석:** (끼어들며, 더 진지하게) 파비안, 위험 얘기가 나온 김에, 너한테 말해야 할 게 있어.
+- **주요 단어:** `intervenir` (동사) 끼어들다, 개입하다 / `serio` (형용사) 진지한 / `riesgo` (남성명사) 위험
+- **문법:** `ya que` + 직설법. `algo que` 관계절. 대명사 te가 부정사 뒤에 붙음(contarte).
+- **시제:**
+  - `Interviene` → intervenir | 직설법 현재 3인칭 단수 | 지문 동작 | 불규칙(venir형): intervengo, interviene
+  - `estamos hablando` → 앞에서 설명(현재진행)
+  - `hay` → haber | 직설법 현재 무인칭 | 존재 | 불규칙
+  - `debo` → deber | 직설법 현재 1인칭 단수 | 의무감 | 규칙
+  - `contarte` → contar | 부정사 + te | deber 뒤 | —
+
+### 17-38. **Fabián:** Te escucho.
+- **해석:** 말해 봐.
+- **주요 단어:** `escuchar` (동사) 듣다(귀 기울이다)
+- **문법:** `Te` 직접목적어.
+- **표현:** `Te escucho` — "듣고 있어, 말해 봐". oír(들리다)와 달리 escuchar는 의도적으로 귀 기울임.
+- **시제:**
+  - `escucho` → escuchar | 직설법 현재 1인칭 단수 | 지금 이 순간 | 규칙
+
+### 17-39. **Ramón:** He oído rumores, todavía sin confirmar, de que hay un intento de infiltración en marcha.
+- **해석:** 아직 확인은 안 됐지만, 잠입 시도가 진행 중이라는 소문을 들었어.
+- **주요 단어:** `rumor` (남성명사) 소문 / `confirmar` (동사) 확인하다 / `intento` (남성명사) 시도 / `infiltración` (여성명사) 잠입 / `en marcha` 진행 중인
+- **문법:** `sin + 부정사` = "~되지 않은" (sin confirmar = 미확인). `rumores de que` + 직설법(명사 + de que 내용절).
+- **표현:** `en marcha` — "진행 중인, 가동 중인".
+- **시제:**
+  - `He oído` → oír | 직설법 현재완료 1인칭 단수 | 최근에 들은 소식으로 현재에 영향이 있어 현재완료 (스페인식) | 과거분사 oído
+  - `confirmar` → confirmar | 부정사 | sin 뒤 | 규칙
+  - `hay` → haber | 앞에서 설명
+
+### 17-40. **Ramón:** Alguien de fuera intentando meterse en organizaciones como la nuestra.
+- **해석:** 외부의 누군가가 우리 같은 조직에 들어오려고 한다는 거야.
+- **주요 단어:** `alguien` (부정대명사) 누군가 / `de fuera` 외부의 / `organización` (여성명사) 조직
+- **문법:** 주동사 없는 명사구 + 현재분사 구문(앞 문장 보충 설명). `la nuestra` = 소유대명사(nuestra organización).
+- **시제:**
+  - `intentando` → intentar | 현재분사 | 진행 중인 시도를 묘사 (정동사 없이 설명적으로) | 규칙
+  - `meterse` → meterse | 부정사 | intentar 뒤 | 규칙
+
+### 17-41. **Fabián:** (Se pone serio) ¿Rumores de dónde?
+- **해석:** (표정이 굳어지며) 어디서 나온 소문인데?
+- **주요 단어:** `ponerse` (재귀동사) + 형용사 ~해지다
+- **문법:** `ponerse + 형용사` 일시적 상태 변화.
+- **시제:**
+  - `Se pone` → ponerse | 직설법 현재 3인칭 단수 | 지문 동작 | 불규칙 1인칭 pongo
+
+### 17-42. **Ramón:** De dentro de mi propia casa.
+- **해석:** 우리 집안 안쪽에서 나온 거야.
+- **주요 단어:** `dentro de` ~안에 / `propio` (형용사) 자기 자신의
+- **문법:** 동사 생략. `mi propia casa` — propio로 소유 강조.
+- **표현:** `mi propia casa` — 여기선 "내 조직(경찰) 내부"를 비유적으로 가리킴.
+- **시제:**
+  - 동사 없음
+
+### 17-43. **Ramón:** No tengo nombres ni detalles concretos todavía, pero el rumor es que hay un periodista o un agente encubierto trabajando para meterse en redes de tráfico entre España y Colombia.
+- **해석:** 아직 이름이나 구체적인 세부사항은 없지만, 소문으로는 기자든 위장 요원이든 누군가가 스페인과 콜롬비아 사이의 밀매 조직에 들어가려고 활동 중이래.
+- **주요 단어:** `detalle` (남성명사) 세부사항 / `concreto` (형용사) 구체적인 / `agente encubierto` 위장(잠입) 요원 / `red` (여성명사) 네트워크, 망 / `tráfico` (남성명사) 밀매
+- **문법:** `no ... ni ...` 이중 부정 나열. `el rumor es que` + 직설법. 현재분사 `trabajando`가 명사를 수식하는 용법. `para + 부정사` 목적.
+- **시제:**
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 현재 상태 | 불규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 소문 내용 제시 | 불규칙
+  - `hay` → haber | 앞에서 설명
+  - `trabajando` → trabajar | 현재분사 | 진행 중인 활동 | 규칙
+  - `meterse` → 앞에서 설명
+
+### 17-44. **Álvaro:** (El pulso se le acelera, pero mantiene el gesto tranquilo) Eso suena preocupante.
+- **해석:** (맥박이 빨라지지만 표정은 차분히 유지한다) 그거 걱정스럽게 들리네요.
+- **주요 단어:** `pulso` (남성명사) 맥박 / `acelerarse` (재귀동사) 빨라지다 / `gesto` (남성명사) 표정 / `tranquilo` (형용사) 차분한 / `preocupante` (형용사) 걱정스러운
+- **문법:** `se le acelera` — 17-4와 같은 재귀 se + 간접목적 le 신체 표현. `sonar + 형용사`.
+- **시제:**
+  - `se acelera` → acelerarse | 직설법 현재 3인칭 단수 | 지문 묘사 | 규칙
+  - `mantiene` → mantener | 직설법 현재 3인칭 단수 | 지문 묘사 | 불규칙 e→ie
+  - `suena` → sonar | 직설법 현재 3인칭 단수 | 현재의 인상 | 불규칙 o→ue
+
+### 17-45. **Fabián:** Mucho.
+- **해석:** 아주.
+- **주요 단어:** `mucho` (부사) 많이, 매우
+- **문법:** 앞 문장에 대한 답 (Suena muy preocupante의 축약).
+- **시제:**
+  - 동사 없음
+
+### 17-46. **Fabián:** Ramón, necesito que averigües más, lo antes posible.
+- **해석:** 라몬, 최대한 빨리 더 알아봐 줘.
+- **주요 단어:** `necesitar` (동사) 필요하다 / `averiguar` (동사) 알아내다, 조사하다 / `lo antes posible` 가능한 한 빨리
+- **문법:** `necesitar que` + 접속법 (주어가 다르고 요구·필요 표현).
+- **표현:** `lo antes posible` = "최대한 빨리"(= cuanto antes).
+- **시제:**
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재 필요 | 규칙
+  - `averigües` → averiguar | 접속법 현재 2인칭 단수 | 필요·요구 동사 뒤 다른 주어라 접속법 | 철자 변화: gu→gü (averigüe, averigües) — 발음 [gw] 유지

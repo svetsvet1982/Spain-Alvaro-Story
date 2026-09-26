@@ -323,3 +323,106 @@
 - **시제:**
   - `recomiende` → recomendar | 접속법 현재 (presente de subjuntivo), 3인칭 단수(usted) | 불특정·미확인 선행사를 수식하는 관계절이라 접속법. 어간모음변화 불규칙(e → ie: recomienda → recomiende). 직설법 recomienda를 쓰면 이미 존재하는 특정 장소를 전제
   - `comer` → comer | 부정사 | 목적의 para + 부정사
+
+### 18-39. **Wilson:** Si quiere pescado fresco de verdad, vaya a un lugar en Bocagrande que se llama "La Cevichería".
+- **해석:** 정말 신선한 생선을 원하시면, 보카그란데에 있는 "라 세비체리아"라는 곳에 가 보세요.
+- **주요 단어:** `querer` (동사) 원하다 / `pescado` (명사, 남성) (식용) 생선 / `fresco` (형용사) 신선한 / `ir` (동사) 가다 / `lugar` (명사, 남성) 장소 / `llamarse` (재귀동사) ~라고 불리다
+- **문법:** 실현 가능한 조건문 `Si + 직설법 현재, 명령법`. `que se llama` = 관계절(선행사가 특정 장소라 직설법). `pescado`(요리용 생선) vs `pez`(살아 있는 물고기).
+- **표현:** `de verdad` = "진짜". Bocagrande는 카르타헤나의 해변 지역. cevichería = 세비체 전문점.
+- **시제:**
+  - `quiere` → querer | 직설법 현재, 3인칭 단수(usted) | si 조건절에서는 현재 직설법 사용(si 뒤 접속법 현재 불가). 불규칙(e → ie)
+  - `vaya` → ir | 명령법 (imperativo), usted형 (= 접속법 현재 형태) | 상대에게 권유·조언. 완전 불규칙(ir → vaya)
+  - `llama` (se llama) → llamarse | 직설법 현재, 3인칭 단수 | 가게 이름이라는 현재 사실. 규칙형
+
+### 18-40. **Wilson:** Se lo agradecerá toda la vida.
+- **해석:** 평생 고마워하실 거예요.
+- **주요 단어:** `agradecer` (동사) 감사하다 / `toda la vida` 평생
+- **문법:** `agradecer algo a alguien` = ~에게 ~을 감사하다. `se lo`: 간접목적어 `le`가 `lo` 앞에서 `se`로 바뀐 형태(le lo → se lo). `se` = 그 가게(혹은 추천해 준 사람)에게, `lo` = 그것(맛있는 경험). 주어는 usted. ("저한테 고마워할 거예요"를 직접 말하려면 `Me lo agradecerá`)
+- **표현:** `Se lo agradecerá toda la vida` = "평생 고마워할 거예요"라는 과장된 추천 표현.
+- **시제:**
+  - `agradecerá` → agradecer | 직설법 단순미래 (futuro simple), 3인칭 단수(usted) | 그곳에 간 뒤의 미래 결과를 확신 있게 예측하므로 단순미래. 규칙형 미래(agradecer + á) (현재형 agradezco의 -zc- 불규칙은 1인칭 현재에만)
+
+### 18-41. **Álvaro:** Se lo apunto.
+- **해석:** 적어둘게요.
+- **주요 단어:** `apuntar` (동사) 적어두다, 메모하다
+- **문법:** `se lo` = 간접목적어 le(당신께/당신 말을) → se + 직접목적어 lo(그 정보). 
+- **표현:** `Me lo apunto`(나를 위해 적어둔다)가 더 흔하지만, 여기선 "당신 추천을 적어두죠"라는 대화적 표현. 이중적으로 알바로가 정보를 "기록"하는 장면과 맞물림.
+- **시제:**
+  - `apunto` → apuntar | 직설법 현재, 1인칭 단수 | 곧 할 행동을 현재형으로 말함(즉시 미래의 현재). 규칙형
+
+### 18-42. **Álvaro:** ¿Y tiene familia aquí también?
+- **해석:** 여기에 가족도 있으세요?
+- **주요 단어:** `también` (부사) ~도, 또한
+- **문법:** 특이사항 없음
+- **표현:** 특이사항 없음
+- **시제:**
+  - `tiene` → tener | 직설법 현재, 3인칭 단수(usted) | 앞에서 설명
+
+### 18-43. **Wilson:** Mi madre, todavía viva, y tres hermanos.
+- **해석:** 아직 살아계신 어머니랑, 형제 셋이요.
+- **주요 단어:** `vivo` (형용사) 살아 있는 / `hermano` (명사, 남성) 형제; 복수는 남녀 형제 통칭
+- **문법:** `todavía viva` = 동격으로 삽입된 형용사구(madre와 성 일치). 동사 생략.
+- **표현:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 18-44. **Wilson:** Los domingos comemos todos juntos en su casa, sin falta.
+- **해석:** 일요일마다 다 같이 어머니 댁에서 꼭 점심을 먹어요.
+- **주요 단어:** `comer` (동사) 먹다, 점심 먹다 / `todos juntos` 다 같이 / `sin falta` 반드시, 빠짐없이
+- **문법:** `los domingos` = 정관사 복수 → "일요일마다"(습관). `su casa` = 어머니의 집.
+- **표현:** `sin falta` = "꼭, 어김없이". `comer`는 스페인·중남미에서 "점심 식사하다"의 뜻으로 자주 씀.
+- **시제:**
+  - `comemos` → comer | 직설법 현재, 1인칭 복수 | 반복되는 습관이라 현재. 규칙형
+
+### 18-45. **Álvaro:** Qué bonito mantener esa costumbre.
+- **해석:** 그런 전통을 지키시다니 참 좋네요.
+- **주요 단어:** `bonito` (형용사) 예쁜, 좋은 / `mantener` (동사) 유지하다 / `costumbre` (명사, 여성) 관습, 습관
+- **문법:** 감탄문 `Qué + 형용사 + 부정사` (= Qué bonito es mantener...). 부정사가 주어 역할.
+- **표현:** `¡Qué bonito!` = "참 좋네요, 멋지네요" 감탄.
+- **시제:**
+  - `mantener` → mantener | 부정사 | 감탄문의 주어(명사적 용법). tener 계열 불규칙 동사(활용 시 mantengo, mantiene 등)
+
+### 18-46. **Wilson:** Es lo único sagrado en mi semana, se lo aseguro.
+- **해석:** 제 일주일 중에 유일하게 신성한 거예요, 정말로요.
+- **주요 단어:** `lo único` 유일한 것 / `sagrado` (형용사) 신성한 / `semana` (명사, 여성) 주
+- **문법:** `lo + 형용사` = 중성 관사 lo로 추상 명사화("유일한 것"). `se lo aseguro` 앞에서 설명.
+- **표현:** `sagrado` = 절대 양보할 수 없는 것이라는 비유.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 정의·본질적 판단이라 ser 현재. 불규칙
+  - `aseguro` → asegurar | 직설법 현재, 1인칭 단수 | 앞에서 설명
+
+### 18-47. **Wilson:** Lo demás puede esperar, pero el domingo con mi madre, no.
+- **해석:** 다른 건 다 기다려도 되지만, 어머니와의 일요일은 안 돼요.
+- **주요 단어:** `lo demás` 나머지(것들) / `poder` (동사) ~할 수 있다 / `esperar` (동사) 기다리다
+- **문법:** `lo demás` = 중성 lo + demás → "나머지 모든 것". 뒷부분 `el domingo con mi madre, no` = 동사 생략(no puede esperar).
+- **표현:** `A puede esperar, pero B, no` = 우선순위를 강조하는 대조 구조.
+- **시제:**
+  - `puede` → poder | 직설법 현재, 3인칭 단수 | 일반적 원칙이라 현재. 어간모음변화 불규칙(o → ue)
+  - `esperar` → esperar | 부정사 | poder 뒤 부정사
+
+### 18-48. **Fabián:** (Interviene, con una sonrisa) Diego, parece que te estás convirtiendo en el psicólogo de la mesa.
+- **해석:** (웃으며 끼어들어) 디에고, 자네 식탁의 심리상담사가 돼 가는 것 같군.
+- **주요 단어:** `intervenir` (동사) 끼어들다, 개입하다 / `sonrisa` (명사, 여성) 미소 / `parecer` (동사) ~인 것 같다 / `convertirse en` (재귀동사) ~이 되다 / `psicólogo` (명사, 남성) 심리학자, 상담사 / `mesa` (명사, 여성) 식탁
+- **문법:** `parece que + 직설법` = 긍정적 판단이라 직설법(no parece que면 접속법). `estar + 현재분사` = 진행형. 재귀대명사 `te`는 estar 앞(te estás convirtiendo) 또는 현재분사 뒤(estás convirtiéndote) 모두 가능.
+- **표현:** 파비안은 디에고에게 tú로 말함(윗사람의 친근함). 농담 속에 경계심이 섞인 뉘앙스.
+- **시제:**
+  - `Interviene` (지문) → intervenir | 직설법 현재, 3인칭 단수 | 지문 묘사의 현재. venir 계열 불규칙(e → ie: interviene)
+  - `parece` → parecer | 직설법 현재, 3인칭 단수 | 지금 보이는 인상이라 현재. 3인칭은 규칙적 형태(1인칭 parezco만 -zc-)
+  - `estás` → estar | 직설법 현재, 2인칭 단수 | 진행형의 조동사. 불규칙
+  - `convirtiendo` → convertirse | 현재분사 (gerundio) | 지금 진행 중인 변화. 불규칙(e → i: convirtiendo)
+
+### 18-49. **Fabián:** Tanta pregunta.
+- **해석:** 질문이 참 많군.
+- **주요 단어:** `tanto/a` (형용사) 그렇게 많은 / `pregunta` (명사, 여성) 질문
+- **문법:** `tanta + 단수 명사` = 집합적으로 "그렇게 많은 ~"(구어에서 복수 대신 단수를 쓰는 강조).
+- **표현:** 감탄·약간의 핀잔이 섞인 구어 표현("웬 질문이 이렇게 많아").
+- **시제:** 동사 없음
+
+### 18-50. **Álvaro:** (Ríe) Disculpen, es la costumbre.
+- **해석:** (웃으며) 죄송해요, 습관이라서요.
+- **주요 단어:** `disculpar` (동사) 용서하다, 양해하다 / `costumbre` 앞에서 설명
+- **문법:** `Disculpen` = ustedes에 대한 명령법(여러 사람에게 사과).
+- **표현:** `es la costumbre` = "버릇이에요". 앞에서 윌슨의 가족 "costumbre"와 말이 이어짐.
+- **시제:**
+  - `Ríe` (지문) → reír | 직설법 현재, 3인칭 단수 | 앞에서 설명
+  - `Disculpen` → disculpar | 명령법 (imperativo), ustedes형 (= 접속법 현재 형태) | 여러 명에게 공손히 양해를 구하므로 ustedes 명령. 규칙형
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 습관이라는 성질. 불규칙

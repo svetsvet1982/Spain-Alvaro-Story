@@ -411,3 +411,138 @@
 - **문법:** 1인칭 복수 명령(= 접속법 현재): "~합시다". `brindar por` ~을 위해 건배하다.
 - **시제:**
   - `brindemos` → brindar | 명령법 1인칭 복수(형태는 접속법 현재) | 권유 "~하자" (vamos a brindar도 가능하지만 더 격식·정감 있음)
+
+## 장면 3. 창고에서 파비안에게 소개되다
+> 마놀로가 알바로(디에고)를 조직의 실질적인 책임자인 파비안(Fabián)—콜롬비아 출신으로 스페인 쪽 사업을 총괄하는 인물—에게 소개하는 자리입니다. 카디스 외곽의 한 창고에서 이루어지는 이 만남에서, 파비안은 디에고를 한층 더 신중하게 시험하면서도 신뢰를 얻은 대가로 그에게 첫 임무를 맡기며, 조직의 운영 방식을 조금씩 드러내기 시작합니다.
+
+### 3-1. **Manolo:** Fabián, este es Diego, el que te comenté.
+- **해석:** 파비안, 이쪽이 디에고야. 내가 얘기했던 그 사람.
+- **주요 단어:** `comentar` (동사) 언급하다, 이야기하다
+- **문법:** `este es...`: 사람 소개 시 지시대명사 + ser. `el que`: 관계대명사(선행사 없는 "~한 사람"), 여기선 comentar의 직접목적어(구어에서 de 생략하고 "comentar a alguien"처럼 씀). `te`: 간접목적어.
+- **표현:** `Este es X` — 사람을 소개하는 기본 표현.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 신원 소개
+  - `comenté` → comentar | 직설법 단순과거, 1인칭 단수 | 과거 특정 시점에 이미 끝난 대화 (현재완료 he comentado도 가능하나 완결된 사건으로 봄)
+
+### 3-2. **Manolo:** Es de fiar, lleva años moviendo contenedores por el Estrecho.
+- **해석:** 믿을 만한 사람이야. 몇 년째 해협을 통해 컨테이너를 운송하고 있어.
+- **주요 단어:** `fiar(se)` (동사) 믿다 / `el Estrecho` 해협(지브롤터 해협)
+- **문법:** `ser de fiar` = "믿을 만하다"(de + 부정사가 성질 표시). `llevar + 기간 + 현재분사`(장면 2에서 설명).
+- **표현:** `ser de fiar` 관용구. `el Estrecho`(대문자) — 스페인에서 지브롤터 해협을 가리킴.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 성품(본질)이라 ser
+  - `fiar` → fiar | 부정사 | de 뒤
+  - `lleva` → llevar | 직설법 현재, 3인칭 단수 | 지금까지 지속되는 기간
+  - `moviendo` → mover | 현재분사 | 지속 동작
+
+### 3-3. **Fabián:** Así que tú eres el famoso Diego.
+- **해석:** 그러니까 네가 그 유명한 디에고로군.
+- **주요 단어:** `famoso` (형용사) 유명한
+- **문법:** 장면 2-1과 같은 구조.
+- **표현:** `el famoso X` — 약간 비꼬거나 경계하는 "소문의 그 X".
+- **시제:**
+  - `eres` → ser | 직설법 현재, 2인칭 단수 | 앞에서 설명
+
+### 3-4. **Fabián:** Manolo me había avisado de que eras listo, pero prefiero comprobarlo yo mismo.
+- **해석:** 마놀로가 네가 똑똑하다고 미리 알려줬지만, 난 직접 확인하는 걸 선호해.
+- **주요 단어:** `avisar` (동사) 알리다, 경고하다 / `listo` (형용사) 똑똑한 / `preferir` (동사) 선호하다 / `yo mismo` 나 자신이
+- **문법:** `avisar de que...`: 전치사 de + que절. `ser listo`(영리하다) vs `estar listo`(준비되다) — ser/estar에 따라 의미가 바뀌는 형용사. `comprobarlo`: 부정사 + lo 부착.
+- **표현:** `yo mismo` "내가 직접".
+- **시제:**
+  - `había avisado` → avisar | 직설법 과거완료 pluscuamperfecto, 3인칭 단수 | 이 만남 이전에 이미 알려준 일(과거보다 앞선 과거)
+  - `eras` → ser | 직설법 불완료과거 pretérito imperfecto, 2인칭 단수 | 과거 시점의 전달 내용 속 성질 묘사 — 과거 시제의 전달문 안에서 시제 일치(간접화법: "eres listo" → "eras listo") | 불규칙(era, eras)
+  - `prefiero` → preferir | 직설법 현재, 1인칭 단수 | 현재의 성향 | e→ie 불규칙
+  - `comprobar(lo)` → comprobar | 부정사 | preferir 뒤
+
+### 3-5. **Álvaro:** Es un honor, Fabián.
+- **해석:** 영광입니다, 파비안.
+- **주요 단어:** `honor` (명사) 영광
+- **표현:** `Es un honor` 격식 있는 인사.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 평가·정의
+
+### 3-6. **Álvaro:** Manolo me ha contado que usted lleva las operaciones de este lado del Atlántico.
+- **해석:** 마놀로한테서 당신이 대서양 이쪽 편의 작전(사업)을 맡고 계신다고 들었습니다.
+- **주요 단어:** `contar` (동사) 이야기하다 / `llevar` (동사) 운영하다, 맡다 / `operación` (명사) 작전, 업무 / `lado` (명사) 편, 쪽
+- **문법:** `del` = de + el. llevar의 또 다른 의미(관리하다, 담당하다).
+- **표현:** `llevar un negocio / las operaciones` "사업·업무를 맡아 운영하다".
+- **시제:**
+  - `ha contado` → contar | 직설법 현재완료, 3인칭 단수 | 최근에 들은 정보로 지금의 인사와 연결됨 — 스페인식 현재완료 | 과거분사 규칙 contado
+  - `lleva` → llevar | 직설법 현재, 3인칭 단수 | 현재 맡고 있는 역할. 전달동사가 현재완료라 시제 일치 없이 현재 유지
+
+### 3-7. **Fabián:** Algo así.
+- **해석:** 뭐 그런 셈이지.
+- **표현:** `Algo así` "대략 그런 것" — 정보를 흐리는 대답.
+- **시제:** 동사 없음
+
+### 3-8. **Fabián:** Siéntate.
+- **해석:** 앉아.
+- **시제:**
+  - `siéntate` → sentarse | 긍정 명령, 2인칭 단수 | 앞에서 설명
+
+### 3-9. **Fabián:** Antes de hablar de negocios, quiero conocerte un poco mejor.
+- **해석:** 사업 얘기를 하기 전에, 너를 좀 더 알고 싶어.
+- **주요 단어:** `antes de` ~하기 전에 / `conocer` (동사) (사람을) 알다
+- **문법:** `antes de + 부정사`(주어 동일). `conocerte`: 부정사 + te 부착. `un poco mejor` 조금 더 잘.
+- **시제:**
+  - `hablar` → hablar | 부정사 | 전치사구 뒤
+  - `quiero` → querer | 직설법 현재, 1인칭 단수 | 현재 바람
+  - `conocer(te)` → conocer | 부정사 | querer 뒤 | 활용 시 1인칭 conozco 불규칙
+
+### 3-10. **Álvaro:** Cuando quiera.
+- **해석:** 언제든지요.
+- **문법:** `cuando + 접속법`: 불확정 시점.
+- **표현:** `Cuando quiera(s)` "원하실 때 언제든지".
+- **시제:**
+  - `quiera` → querer | 접속법 현재, 3인칭 단수(usted) | 정해지지 않은 미래 시점이라 접속법 | 불규칙(e→ie)
+
+### 3-11. **Álvaro:** Pregunte lo que necesite.
+- **해석:** 필요한 건 무엇이든 물어보세요.
+- **문법:** `pregunte`: usted 명령. `lo que + 접속법`: 불특정한 대상("무엇이든")이라 관계절에 접속법.
+- **시제:**
+  - `pregunte` → preguntar | 명령법 usted(접속법 현재형) | 정중한 권유
+  - `necesite` → necesitar | 접속법 현재, 3인칭 단수 | 아직 정해지지 않은 불특정 대상(lo que necesite = 필요한 게 뭐든) — 직설법 necesita면 '구체적으로 필요한 그것'
+
+### 3-12. **Fabián:** ¿Por qué un empresario con tu experiencia querría meterse en algo tan arriesgado como esto?
+- **해석:** 너만큼 경험 있는 사업가가 왜 이렇게 위험한 일에 뛰어들려는 거지?
+- **주요 단어:** `empresario` (명사) 사업가 / `experiencia` (명사) 경험 / `meterse en` (재귀동사) ~에 끼어들다 / `arriesgado` (형용사) 위험한
+- **문법:** `tan + 형용사 + como` 동등비교. `meterse`: 재귀대명사가 부정사에 부착.
+- **표현:** `meterse en algo` "(골치 아픈 일에) 발을 들이다".
+- **시제:**
+  - `querría` → querer | 조건법, 3인칭 단수 | 가정적 질문("도대체 왜 원하겠는가") — 의아함·의심의 뉘앙스 | 불규칙 어간 querr-
+  - `meterse` → meterse | 부정사 | querer 뒤
+
+### 3-13. **Álvaro:** Porque el negocio legal cada vez deja menos margen, y ustedes pagan mejor que cualquier naviera legítima.
+- **해석:** 합법적인 사업은 갈수록 이윤이 줄어드는데, 여러분은 어떤 정식 해운회사보다 더 잘 쳐주니까요.
+- **주요 단어:** `cada vez` 점점 / `dejar` (동사) 남기다 / `margen` (명사) 이윤, 마진 / `pagar` (동사) 지불하다 / `naviera` (명사) 해운회사 / `legítimo` (형용사) 합법적인
+- **문법:** `cada vez + menos/más` = 점점 덜/더. `mejor que` 비교급. `cualquier`: 명사 앞에서 cualquiera의 어미 탈락.
+- **시제:**
+  - `deja` → dejar | 직설법 현재, 3인칭 단수 | 현재의 경향
+  - `pagan` → pagar | 직설법 현재, 3인칭 복수 | 일반적 사실
+
+### 3-14. **Fabián:** Esa es la respuesta que todo el mundo da.
+- **해석:** 그건 누구나 하는 대답이야.
+- **주요 단어:** `respuesta` (명사) 대답 / `todo el mundo` 모든 사람
+- **문법:** `todo el mundo`는 3인칭 단수 취급(da). 관계대명사 que.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 규정
+  - `da` → dar | 직설법 현재, 3인칭 단수 | 일반적 현상 | 1인칭 doy 불규칙
+
+### 3-15. **Fabián:** Dime la verdadera.
+- **해석:** 진짜 이유를 말해 봐.
+- **주요 단어:** `verdadero` (형용사) 진짜의
+- **문법:** `la verdadera` = la (respuesta) verdadera, 명사 생략.
+- **시제:**
+  - `dime` → decir | 긍정 명령, 2인칭 단수 | 앞에서 설명
+
+### 3-16. **Álvaro:** (Duda un instante) Digamos que tengo deudas que el negocio normal no me deja saldar tan rápido.
+- **해석:** (잠시 머뭇거리며) 말하자면, 평범한 사업으로는 그렇게 빨리 갚을 수 없는 빚이 있어서요.
+- **주요 단어:** `dudar` (동사) 망설이다, 의심하다 / `instante` (명사) 순간 / `deuda` (명사) 빚 / `dejar + 부정사` ~하게 두다 / `saldar` (동사) (빚을) 청산하다
+- **문법:** `digamos que`: 1인칭 복수 명령(접속법) 관용구. `no me deja saldar`: dejar + 부정사(허락·방임).
+- **표현:** `Digamos que...` "말하자면, 이렇게 해 두죠" — 뭔가 숨기는 듯이 둘러댈 때.
+- **시제:**
+  - `duda` (지문) → dudar | 직설법 현재, 3인칭 단수 | 지문 동작 서술
+  - `digamos` → decir | 명령법 1인칭 복수(접속법 현재형) | "~라고 해 두자" 관용적 권유 | 불규칙(digo → diga-)
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 상황
+  - `deja` → dejar | 직설법 현재, 3인칭 단수 | 현재 사실
+  - `saldar` → saldar | 부정사 | dejar 뒤

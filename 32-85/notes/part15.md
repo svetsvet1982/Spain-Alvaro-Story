@@ -395,3 +395,154 @@
   - `tengas` → tener | 접속법 현재, 2인칭 단수 | 무엇을 가졌는지 불확실해 접속법 | 불규칙 (tengo → tenga)
   - `puedas` → poder | 접속법 현재, 2인칭 단수 | en cuanto + 미래 | o→ue
   - `sea` → ser | 접속법 현재, 3인칭 단수 | lo que sea 불특정 표현 | 불규칙
+
+### 22-48. **Álvaro:** Lo haré esta misma noche, en cuanto pueda estar solo un rato más.
+- **해석:** 오늘 밤 안에 할게. 조금 더 혼자 있을 수 있게 되는 대로.
+- **주요 단어:** `esta misma noche` 바로 오늘 밤 / `un rato` 잠시
+- **문법:** en cuanto + 접속법(미래).
+- **시제:**
+  - `haré` → hacer | 직설법 미래, 1인칭 단수 | 약속 | 불규칙 어간 har-
+  - `pueda` → poder | 접속법 현재, 1인칭 단수 | en cuanto 미래 | o→ue
+  - `estar` → estar | 부정사 | poder 뒤 | —
+
+### 22-49. **Carlos:** Ten mucho cuidado con el teléfono ahí.
+- **해석:** 거기서 휴대폰 정말 조심해.
+- **주요 단어:** `tener cuidado con` ~을 조심하다 / `ahí` 거기
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Ten` → tener | 명령법 긍정, 2인칭 단수 | 경고·당부 | 불규칙 명령형 (tener → ten)
+
+### 22-50. **Carlos:** Si alguien lo revisa y encuentra algo raro, no habrá forma de explicarlo.
+- **해석:** 누가 그걸 살펴보다가 이상한 걸 발견하면, 해명할 방법이 없을 거야.
+- **주요 단어:** `revisar` 점검하다 / `encontrar` 발견하다 / `raro` 이상한 / `forma` 방법 / `explicar` 설명하다
+- **문법:** si + 직설법 현재 → 미래 결과. 부정사 + lo.
+- **시제:**
+  - `revisa` → revisar | 직설법 현재, 3인칭 단수 | 조건절 | 규칙
+  - `encuentra` → encontrar | 직설법 현재, 3인칭 단수 | 조건절 | o→ue
+  - `habrá` → haber | 직설법 미래, 비인칭 | 조건의 결과 예측 | 불규칙 어간 habr-
+  - `explicar(lo)` → explicar | 부정사 | de 뒤 | 규칙
+
+### 22-51. **Álvaro:** Lo sé, estoy siendo extremadamente cuidadoso.
+- **해석:** 알아, 극도로 조심하고 있어.
+- **주요 단어:** `cuidadoso` (형용사) 조심스러운
+- **문법:** estar + siendo = 일시적 행동 태도 강조("지금 ~하게 굴고 있다").
+- **시제:**
+  - `sé` → saber | 앞에서 설명
+  - `estoy` → estar | 직설법 현재, 1인칭 단수 | 진행형 조동사 | 불규칙
+  - `siendo` → ser | 현재분사 | 지금 의식적으로 하는 행동을 강조 | 불규칙 분사 아님(규칙 siendo)
+
+### 22-52. **Carlos:** Bien.
+- **해석:** 좋아.
+- **주요 단어:** `bien` 좋아
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 22-53. **Carlos:** ¿Cuándo vuelves a Cartagena?
+- **해석:** 카르타헤나엔 언제 돌아가?
+- **주요 단어:** `volver a` ~로 돌아가다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `vuelves` → volver | 직설법 현재, 2인칭 단수 | 예정된 가까운 미래를 현재로 | o→ue
+
+### 22-54. **Álvaro:** Mañana por la tarde, según me han dicho.
+- **해석:** 내가 들은 바로는 내일 오후야.
+- **주요 단어:** `por la tarde` 오후에 / `según` ~에 따르면
+- **문법:** han dicho 주어는 불특정 3인칭 복수(= 그들이 말했다).
+- **시제:**
+  - `han dicho` → decir | 직설법 현재완료, 3인칭 복수 | 최근(오늘) 들은 정보, 스페인식 현재완료 | 불규칙 과거분사 dicho
+
+### 22-55. **Álvaro:** Desde ahí, imagino que volveremos a España en un par de días.
+- **해석:** 거기서 며칠 안에 스페인으로 돌아갈 것 같아.
+- **주요 단어:** `imaginar` 상상하다, ~일 것 같다 / `un par de` 두어 개의
+- **문법:** imaginar que + 직설법(확신에 가까운 추측).
+- **시제:**
+  - `imagino` → imaginar | 직설법 현재, 1인칭 단수 | 현재의 추측 | 규칙
+  - `volveremos` → volver | 직설법 미래, 1인칭 복수 | 미래의 예정 | 규칙 미래(어간변화 없음)
+
+### 22-56. **Carlos:** Perfecto, en cuanto pises suelo español, nos vemos en persona.
+- **해석:** 좋아, 스페인 땅을 밟자마자 직접 만나자.
+- **주요 단어:** `pisar` 밟다 / `suelo` 땅, 바닥 / `verse` 서로 만나다
+- **문법:** en cuanto + 접속법. nos vemos 상호 재귀.
+- **시제:**
+  - `pises` → pisar | 접속법 현재, 2인칭 단수 | en cuanto 미래 | 규칙
+  - `vemos` → verse | 직설법 현재, 1인칭 복수 | 확정된 약속을 현재로 | 불규칙(veo)
+
+### 22-57. **Carlos:** Hay mucho que planificar.
+- **해석:** 계획할 게 많아.
+- **주요 단어:** `planificar` 계획하다
+- **문법:** hay + 명사 + que + 부정사 = ~할 것이 있다.
+- **시제:**
+  - `Hay` → haber | 앞에서 설명
+  - `planificar` → planificar | 부정사 | que 뒤 | 규칙
+
+### 22-58. **Álvaro:** De acuerdo.
+- **해석:** 알겠어.
+- **주요 단어:** `de acuerdo` 동의해
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 22-59. **Álvaro:** Carlos... gracias por seguir ahí, aunque esta vez no haya podido avisarte a tiempo.
+- **해석:** 카를로스… 이번엔 제때 알리지 못했는데도 곁에 있어 줘서 고마워.
+- **주요 단어:** `seguir` 계속하다 / `avisar` 알리다 / `a tiempo` 제때
+- **문법:** gracias por + 부정사. aunque + 접속법.
+- **시제:**
+  - `seguir` → seguir | 부정사 | por 뒤 | e→i
+  - `haya podido` → poder | 접속법 현재완료 pretérito perfecto de subjuntivo, 1인칭 단수 | 이미 알려진 사실을 양보로 인정할 때 aunque + 접속법 | haber 접속법 haya + podido
+  - `avisar(te)` → avisar | 부정사 | poder 뒤 | 규칙
+
+### 22-60. **Carlos:** Para eso estoy, Álvaro.
+- **해석:** 그러라고 내가 있는 거야, 알바로.
+- **주요 단어:** `para eso` 그러기 위해
+- **표현:** `Para eso estoy` "그게 내 일이야".
+- **문법:** 특이사항 없음
+- **시제:**
+  - `estoy` → estar | 직설법 현재 | 존재 목적 | 불규칙
+
+### 22-61. **Carlos:** Cuídate mucho esta noche.
+- **해석:** 오늘 밤 몸조심해.
+- **주요 단어:** `cuidarse` 몸조심하다
+- **문법:** 긍정명령 + 재귀대명사 부착(강세 부호).
+- **시제:**
+  - `Cuída(te)` → cuidarse | 명령법 긍정, 2인칭 단수 | 당부 | 규칙
+
+### 22-62. **Carlos:** Y ni una luz encendida más de la cuenta, ¿me oyes?
+- **해석:** 그리고 필요 이상으로 불 하나라도 켜 두지 마, 알겠지?
+- **주요 단어:** `ni` ~조차 않다 / `luz` 불빛 / `encendido` 켜진 / `más de la cuenta` 필요 이상으로 / `oír` 듣다
+- **문법:** 동사 생략된 금지 표현. encendida는 luz에 일치.
+- **시제:**
+  - `encendida` → encender | 과거분사(형용사적) | 불이 켜진 상태 | 규칙 분사
+  - `oyes` → oír | 직설법 현재, 2인칭 단수 | 다짐을 받는 확인 | 불규칙 (oigo, oyes)
+
+### 22-63. **Álvaro:** Te oigo.
+- **해석:** 알았어.
+- **주요 단어:** `oír` 듣다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `oigo` → oír | 직설법 현재, 1인칭 단수 | 상대 확인에 대한 응답 | 불규칙 (oigo)
+
+### 22-64. **Álvaro:** Buenas noches, Carlos.
+- **해석:** 잘 자, 카를로스.
+- **주요 단어:** `buenas noches` 밤 인사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 22-65. **Carlos:** Buenas noches.
+- **해석:** 잘 자.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 22-66. **Carlos:** Y Álvaro... lo estás haciendo muy bien.
+- **해석:** 그리고 알바로… 넌 정말 잘하고 있어.
+- **주요 단어:** `hacer` 하다
+- **문법:** lo는 진행형 앞에 위치(estás haciéndolo도 가능).
+- **시제:**
+  - `estás` → estar | 직설법 현재, 2인칭 단수 | 진행형 조동사 | 불규칙
+  - `haciendo` → hacer | 현재분사 | 지금 진행 중인 일 | 규칙
+
+### 22-67. **Carlos:** Recuérdalo.
+- **해석:** 그거 기억해.
+- **주요 단어:** `recordar` 기억하다
+- **문법:** 긍정명령 + lo 부착, 강세 부호.
+- **시제:**
+  - `Recuerda(lo)` → recordar | 명령법 긍정, 2인칭 단수 | 당부 | o→ue

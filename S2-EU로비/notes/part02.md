@@ -611,3 +611,183 @@
   - `se ponen` → ponerse | 직설법 현재 3인칭 복수 | 반복되는 상황의 일반론 | poner 1인칭 pongo 불규칙
   - 비교: `cuando las cosas se pongan difíciles`(접속법)면 "앞으로 힘들어지면"이라는 특정 미래
 
+## 장면 8. 비공개 행사에서 만난 로셀료
+> 며칠 후, 카밀라가 메리디안의 비공개 클라이언트 행사에 참석해 예상치 못한 인물을 마주칩니다.
+
+### 8-1. **Íñigo:** (En una sala privada) Elena, bienvenida.
+- **해석:** (비공개 연회실에서) 엘레나, 어서 오세요.
+- **주요 단어:** `sala` (명사) 홀·방 / `bienvenido` (형용사) 환영받는
+- **문법:** `bienvenida` — 여성 상대라 여성형. 성·수 일치하는 형용사(bien + venido에서 유래).
+- **시제:** 동사 없음 (bienvenida는 venir의 과거분사 venido에서 파생된 형용사)
+
+### 8-2. **Íñigo:** Permítame presentarle a algunos de nuestros clientes más discretos.
+- **해석:** 저희의 가장 조용한 고객 몇 분을 소개해 드리겠습니다.
+- **주요 단어:** `permitir` (동사) 허락하다 / `presentar` (동사) 소개하다 / `discreto` (형용사) 조심스러운·드러나지 않는
+- **문법:** usted 긍정 명령 + me (`permítame`, 강세 부호 추가). `presentarle` — le(=usted, 소개받는 사람, 간접목적어), `a algunos` — 소개되는 사람(직접목적어, 인칭의 a). `más discretos` = 최상급(정관사 nuestros와 함께).
+- **표현:** `Permítame + 부정사` = "~하도록 해 주세요" — 격식 있는 소개 공식.
+- **시제:**
+  - `Permítame` → permitir | 명령법 usted형 (접속법 현재형 permita + me) | 공손한 요청 | 규칙
+  - `presentarle` → presentar | 부정사 | permitir 뒤 원형
+
+### 8-3. **Camila:** Encantada.
+- **해석:** 반갑습니다.
+- **주요 단어:** `encantado/a` (형용사, encantar의 과거분사) 반가운
+- **문법:** 화자가 여성이라 encantada.
+- **표현:** 소개받을 때 쓰는 인사 "처음 뵙겠습니다".
+- **시제:**
+  - `Encantada` → encantar | 과거분사 형용사 | 인사말로 굳어진 형태, 화자의 성에 일치
+
+### 8-4. **Íñigo:** Este es el señor Roselló, uno de nuestros socios estratégicos desde hace años.
+- **해석:** 이분은 로셀료 씨로, 수년 전부터 저희의 전략적 파트너이십니다.
+- **주요 단어:** `socio` (명사) 파트너·동업자 / `estratégico` (형용사) 전략적인
+- **문법:** 소개할 때 `Este es…`. **`desde hace + 기간`** = ~전부터 (지금까지 계속). 여기서 hace는 비인칭 hacer.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 신원 소개
+  - `hace` → hacer | 직설법 현재 3인칭 단수(비인칭) | 경과 시간 표현 | 불규칙 동사(hago)
+
+### 8-5. **Camila:** (El pulso se le acelera, reconociendo el apellido) Un placer, señor Roselló.
+- **해석:** (성을 알아보고 맥박이 빨라진다) 반갑습니다, 로셀료 씨.
+- **주요 단어:** `pulso` (명사) 맥박 / `acelerarse` (재귀동사) 빨라지다 / `reconocer` (동사) 알아보다 / `apellido` (명사) 성
+- **문법:** `se le acelera` — 재귀 se + 영향받는 사람을 나타내는 간접목적어 le(그녀의). 신체 부위에 정관사.
+- **표현:** `Un placer` = "(만나서) 반갑습니다"의 생략형 (Es un placer).
+- **시제:**
+  - `se acelera` → acelerarse | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `reconociendo` → reconocer | 현재분사 | 맥박이 빨라지는 이유·동시 동작 | 현재 1인칭 reconozco 불규칙, 현재분사는 규칙
+
+### 8-6. **Adrián:** (Estrechándole la mano, con una sonrisa calculada) El placer es mío, Elena.
+- **해석:** (계산된 미소와 함께 그녀와 악수하며) 제가 더 반갑습니다, 엘레나.
+- **주요 단어:** `estrechar la mano` (숙어) 악수하다 / `calculado` (형용사) 계산된
+- **문법:** 현재분사 + 대명사 결합 `estrechándole` (강세 부호 추가). le = 그녀의(손).
+- **표현:** `El placer es mío` (앞에서 설명).
+- **시제:**
+  - `Estrechándole` → estrechar | 현재분사 | 말하는 동시에 하는 동작 | 규칙
+  - `calculada` → calcular | 과거분사 형용사 | sonrisa(여성)에 일치
+  - `es` → ser | 직설법 현재 3인칭 단수
+
+### 8-7. **Adrián:** Íñigo me ha hablado bien de usted.
+- **해석:** 이니고가 당신 칭찬을 하더군요.
+- **주요 단어:** `hablar bien de` (동사구) ~에 대해 좋게 말하다
+- **문법:** me = 간접목적어(나에게), 완료형 앞 위치.
+- **시제:**
+  - `ha hablado` → hablar | 직설법 현재완료 3인칭 단수 | 시점 불특정의 경험, 결과가 현재(첫 만남)와 연결되어 현재완료 | 규칙
+
+### 8-8. **Camila:** (Manteniendo la compostura) Espero estar a la altura de esa buena opinión.
+- **해석:** (평정을 유지하며) 그 좋은 평가에 걸맞은 사람이면 좋겠네요.
+- **주요 단어:** `mantener` (동사) 유지하다 / `compostura` (명사) 침착함 / `esperar` (동사) 바라다 / `estar a la altura de` (숙어) ~에 걸맞다
+- **문법:** `esperar + 부정사` (주어가 같을 때). 주어가 다르면 `esperar que + 접속법`(8-20 참조).
+- **시제:**
+  - `Manteniendo` → mantener | 현재분사 | 동시 동작 | mantener는 tener형 불규칙(mantengo, mantiene)이지만 현재분사는 규칙
+  - `Espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙
+  - `estar` → estar | 부정사 | 숙어 estar a la altura
+
+### 8-9. **Adrián:** Seguro que sí.
+- **해석:** 분명 그러실 겁니다.
+- **주요 단어:** `seguro` (형용사) 확실한
+- **문법:** `(Es) seguro que sí`의 생략. `que sí` = 긍정을 되받음.
+- **시제:** 동사 없음
+
+### 8-10. **Adrián:** Dígame, ¿qué tipo de estructuras gestiona para sus clientes?
+- **해석:** 말씀해 보세요, 고객들을 위해 어떤 종류의 구조를 관리하시나요?
+- **주요 단어:** `decir` (동사) 말하다 / `gestionar` (동사) 관리하다·운용하다
+- **문법:** usted 긍정 명령 `diga` + me = `dígame`(강세 추가).
+- **표현:** `Dígame` = "그런데 말이죠/말씀해 보세요" — 화제를 여는 표현.
+- **시제:**
+  - `Dígame` → decir | 명령법 usted형 (접속법 현재 diga) | 대화를 이끄는 공손한 명령 | 불규칙 (decir → diga)
+  - `gestiona` → gestionar | 직설법 현재 3인칭 단수(usted) | 현재의 업무 | 규칙
+
+### 8-11. **Camila:** Principalmente protección patrimonial internacional, aunque busco entender mejor cómo adaptar las estructuras a la nueva directiva.
+- **해석:** 주로 국제 자산 보호예요. 다만 새 지침에 맞춰 구조를 어떻게 조정할지 더 잘 알고 싶어요.
+- **주요 단어:** `protección patrimonial` (명사구) 자산 보호 / `adaptar a` (동사구) ~에 맞추다
+- **문법:** `cómo + 부정사` = 어떻게 ~할지 (간접의문). `buscar + 부정사` (앞에서 설명).
+- **시제:**
+  - `busco` → buscar | 직설법 현재 1인칭 단수 | 현재 의도 | 규칙 (접속법은 철자 변화 busque)
+  - `entender` → entender | 부정사 | buscar 뒤 원형
+  - `adaptar` → adaptar | 부정사 | cómo 뒤 간접의문의 원형
+
+### 8-12. **Adrián:** (La observa con atención) Una preocupación muy razonable, en el clima regulatorio actual.
+- **해석:** (그녀를 주의 깊게 관찰한다) 현재의 규제 환경에선 아주 합리적인 걱정이지요.
+- **주요 단어:** `observar` (동사) 관찰하다 / `preocupación` (명사) 걱정·우려 / `razonable` (형용사) 합리적인 / `regulatorio` (형용사) 규제의
+- **문법:** 동사 생략 명사구 (Es una preocupación…).
+- **시제:**
+  - `observa` → observar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+
+### 8-13. **Camila:** ¿Y usted?
+- **해석:** 그럼 선생님은요?
+- **문법:** 동사 생략 되묻기.
+- **시제:** 동사 없음
+
+### 8-14. **Camila:** ¿En qué sector opera principalmente?
+- **해석:** 주로 어떤 분야에서 활동하세요?
+- **주요 단어:** `operar` (동사) 활동하다·영업하다
+- **문법:** 전치사가 의문사 앞에 옴 (`En qué…`).
+- **시제:**
+  - `opera` → operar | 직설법 현재 3인칭 단수(usted) | 현재의 활동 | 규칙
+
+### 8-15. **Adrián:** Digamos que facilito soluciones para quienes necesitan discreción en sus asuntos financieros, a nivel internacional.
+- **해석:** 말하자면, 국제적 차원에서 금융 문제에 비밀 유지가 필요한 분들께 해결책을 마련해 드리는 일을 하죠.
+- **주요 단어:** `facilitar` (동사) 제공하다·용이하게 하다 / `solución` (명사) 해결책 / `discreción` (명사) 신중함·비밀 유지 / `asunto` (명사) 일·사안
+- **문법:** `para quienes` = ~하는 사람들을 위해 (선행사 포함 관계사). 실제 고객층을 가리키므로 직설법 necesitan.
+- **표현:** `Digamos que…` (앞에서 설명) — 불법성을 감추는 완곡어법. `a nivel internacional` = 국제적 규모로.
+- **시제:**
+  - `Digamos` → decir | 접속법 현재 1인칭 복수 (앞에서 설명)
+  - `facilito` → facilitar | 직설법 현재 1인칭 단수 | 현재 직업 | 규칙
+  - `necesitan` → necesitar | 직설법 현재 3인칭 복수 | 실존 고객층이라 직설법 | 규칙
+
+### 8-16. **Camila:** (Disimulando que reconoce el patrón exacto de sus propias palabras anteriores) Suena a un trabajo fascinante.
+- **해석:** (그의 말이 이전에 들었던 표현 패턴과 똑같다는 걸 알아챘다는 사실을 숨기며) 흥미로운 일 같네요.
+- **주요 단어:** `disimular` (동사) 감추다·모르는 척하다 / `reconocer` (동사) 알아보다 / `patrón` (명사) 패턴 / `sonar a` (동사구) ~처럼 들리다 / `fascinante` (형용사) 매혹적인
+- **문법:** `disimular que` + 직설법 — 숨기는 내용이 실제 사실이라 직설법. `sonar a + 명사` = ~인 것처럼 들리다 (전치사 a 필수).
+- **시제:**
+  - `Disimulando` → disimular | 현재분사 | 말하는 동시에 하는 태도 | 규칙
+  - `reconoce` → reconocer | 직설법 현재 3인칭 단수 | 실제로 알아보고 있는 사실 | 1인칭 reconozco 불규칙(-zco)
+  - `Suena` → sonar | 직설법 현재 3인칭 단수 | 지금 들은 말에 대한 인상 | 불규칙: o→ue
+
+### 8-17. **Adrián:** Lo es, aunque exige mucha paciencia, y mucha atención a los detalles.
+- **해석:** 그렇습니다. 다만 인내심이 많이 필요하고, 세부 사항에 대한 주의도 많이 필요하죠.
+- **주요 단어:** `exigir` (동사) 요구하다 / `paciencia` (명사) 인내 / `detalle` (명사) 세부
+- **문법:** `Lo es` — 중성 lo가 앞의 속성(fascinante)을 받음 ("그렇다"). `aunque` + 직설법(사실).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수
+  - `exige` → exigir | 직설법 현재 3인칭 단수 | 일의 일반적 특성 | 1인칭 철자 변화 g→j (exijo)
+
+### 8-18. **Adrián:** Un pequeño error puede desmontar años de trabajo cuidadoso.
+- **해석:** 작은 실수 하나가 수년간의 신중한 작업을 무너뜨릴 수 있거든요.
+- **주요 단어:** `error` (명사) 실수 / `desmontar` (동사) 해체하다·무너뜨리다 / `cuidadoso` (형용사) 신중한
+- **문법:** `poder + 부정사` = 일반적 가능성.
+- **표현:** 카밀라에 대한 은근한 경고로도 읽히는 말.
+- **시제:**
+  - `puede` → poder | 직설법 현재 3인칭 단수 | 일반적 진리 | 불규칙: o→ue
+  - `desmontar` → desmontar | 부정사 | poder 뒤 원형
+
+### 8-19. **Camila:** Imagino que sí.
+- **해석:** 그렇겠죠.
+- **주요 단어:** `imaginar` (동사) 짐작하다
+- **문법:** `que sí` = 앞 내용 긍정 (Imagino que puede desmontar…).
+- **시제:**
+  - `Imagino` → imaginar | 직설법 현재 1인칭 단수 | 현재 짐작 (앞에서 설명)
+
+### 8-20. **Adrián:** Bueno, Elena, espero que sigamos coincidiendo en este tipo de eventos.
+- **해석:** 자, 엘레나, 이런 행사에서 계속 마주치게 되길 바랍니다.
+- **주요 단어:** `esperar` (동사) 바라다 / `seguir` (동사) 계속하다 / `coincidir` (동사) (우연히) 마주치다·같은 곳에 있다
+- **문법:** **`esperar que` + 접속법** — 바람의 대상(sigamos, 우리)과 주절 주어(yo)가 달라 que절 + 접속법. `seguir + 현재분사` = 계속 ~하다.
+- **표현:** `Bueno` = 대화를 마무리하는 "자, 그럼". `coincidir` = 여기서는 "(같은 자리에서) 만나다".
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람
+  - `sigamos` → seguir | 접속법 현재 1인칭 복수 | 희망 동사 뒤라 접속법 | 불규칙: e→i (sigamos), 철자 gu→g
+  - `coincidiendo` → coincidir | 현재분사 | seguir + 현재분사로 지속 표현 | 규칙
+  - 비교: 8-8의 `Espero estar…`(주어 같음 → 부정사) vs 여기 `espero que sigamos`(주어 다름 → que + 접속법)
+
+### 8-21. **Adrián:** Personas como usted, con visión clara, son valiosas.
+- **해석:** 당신처럼 분명한 비전을 가진 분들은 소중하니까요.
+- **주요 단어:** `visión` (명사) 비전·안목 / `valioso` (형용사) 소중한·가치 있는
+- **문법:** `como usted` = 당신 같은. 형용사 valiosas는 personas(여성 복수)에 일치.
+- **시제:**
+  - `son` → ser | 직설법 현재 3인칭 복수 | 일반적 가치 판단
+
+### 8-22. **Camila:** El sentimiento es mutuo, señor Roselló.
+- **해석:** 저도 같은 마음입니다, 로셀료 씨.
+- **주요 단어:** `sentimiento` (명사) 감정·마음 / `mutuo` (형용사) 상호의
+- **문법:** ser + 형용사 (특성).
+- **표현:** `El sentimiento es mutuo` = "저도 마찬가지입니다" — 격식 있는 답례 (여기서는 속내를 숨긴 의례적 답).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수

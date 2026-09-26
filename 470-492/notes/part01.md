@@ -203,3 +203,267 @@
   - `voy` → ir | 직설법 현재, 1인칭 단수 | ir a + 부정사 구문으로 이미 정한 가까운 계획. 1-20의 단순미래(약속)와 비교 | 불규칙(voy, vas, va)
   - `organizar` → organizar | 부정사 | ir a 뒤 부정사
 
+## 장면 2. 렌터카 계약과 보험
+> 알바로가 취재 이동을 위해 렌터카 업체에서 차량과 보험 조건을 협상합니다.
+
+### 2-1. **Empleado:** (En el mostrador de alquiler) Buenos días, ¿en qué puedo ayudarle?
+- **해석:** (렌터카 카운터에서) 안녕하세요, 무엇을 도와드릴까요?
+- **주요 단어:** `mostrador` (명사) 카운터 / `alquiler` (명사) 대여, 렌트 / `ayudar` (동사) 돕다
+- **문법:** `ayudarle`: 목적대명사 le가 부정사 뒤에 붙음(Le puedo ayudar도 가능). usted에 대한 존칭이라 le. 스페인에서는 사람 남성 직접목적어에 le를 쓰는 leísmo도 허용.
+- **표현:** `¿En qué puedo ayudarle?` = 매장 응대의 정형 표현.
+- **시제:**
+  - `puedo` → poder | 직설법 현재, 1인칭 단수 | 현재의 가능성(제가 무엇을 할 수 있는지) | 불규칙: o→ue
+  - `ayudar` → ayudar | 부정사 | poder 뒤 부정사
+
+### 2-2. **Álvaro:** Buenos días.
+- **해석:** 안녕하세요.
+- **주요 단어:** `buenos días` 아침·오전 인사
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 2-3. **Álvaro:** Necesito un coche para una semana, con recogida aquí en Madrid.
+- **해석:** 일주일 동안 쓸 차가 필요해요, 여기 마드리드에서 픽업으로요.
+- **주요 단어:** `necesitar` (동사) 필요하다 / `coche` (명사) 자동차(스페인식; 중남미는 carro, auto) / `recogida` (명사) 수령, 픽업
+- **문법:** `para una semana` = 일주일 기간용(예정된 기간). `con + 명사` = 조건 부가.
+- **표현:** `coche`는 스페인 표준어.
+- **시제:**
+  - `necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재의 필요 | 규칙
+
+### 2-4. **Empleado:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** `perfecto` 완벽한 → "좋아요, 알겠습니다"
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 2-5. **Empleado:** ¿Qué tipo de vehículo tenía en mente?
+- **해석:** 어떤 종류의 차량을 생각하고 계셨나요?
+- **주요 단어:** `vehículo` (명사) 차량 / `tener en mente` 염두에 두다
+- **문법:** 주어는 usted(3인칭 단수).
+- **표현:** `tener en mente` = 생각해 두다.
+- **시제:**
+  - `tenía` → tener | 직설법 불완료과거 pretérito imperfecto, 3인칭 단수(usted) | '공손의 불완료과거(imperfecto de cortesía)': 현재 의향을 과거형으로 물어 부드럽게 함. 단순과거(tuvo)는 완결된 사건이라 여기선 부적절 | 규칙형 불완료(tenía)
+
+### 2-6. **Álvaro:** Algo discreto, nada llamativo.
+- **해석:** 눈에 안 띄는 걸로요, 화려한 건 말고요.
+- **주요 단어:** `discreto` (형용사) 눈에 띄지 않는, 신중한 / `nada` 전혀 ~않은 / `llamativo` (형용사) 눈에 띄는, 화려한
+- **문법:** `algo/nada + 형용사(남성 단수)`. nada가 형용사 앞에서 부정 부사처럼 쓰임.
+- **표현:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 2-7. **Álvaro:** Un modelo mediano estaría bien.
+- **해석:** 중형 모델이면 좋겠어요.
+- **주요 단어:** `modelo` (명사) 모델 / `mediano` (형용사) 중간 크기의
+- **문법:** `estar bien` = 괜찮다, 적당하다.
+- **표현:** 조건법으로 부드럽게 희망 표현.
+- **시제:**
+  - `estaría` → estar | 조건법 단순 condicional simple, 3인칭 단수 | 공손한 제안·희망("~면 좋겠네요")이라 조건법. estará(미래)보다 완곡 | 규칙(부정사+ía)
+
+### 2-8. **Empleado:** Tenemos un Seat León disponible, categoría estándar.
+- **해석:** 세아트 레온이 한 대 있습니다, 스탠더드 등급이에요.
+- **주요 단어:** `disponible` (형용사) 이용 가능한 / `categoría` (명사) 등급
+- **문법:** `disponible`은 목적어를 수식하는 형용사.
+- **표현:** Seat는 스페인 자동차 브랜드.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재 보유 상황 | 불규칙 동사지만 nosotros형은 규칙적
+
+### 2-9. **Empleado:** ¿Le interesa?
+- **해석:** 관심 있으세요?
+- **주요 단어:** `interesar` (동사) 관심을 끌다
+- **문법:** gustar형 동사: 주어는 '그 차'(생략), `le`는 간접목적(당신에게).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `interesa` → interesar | 직설법 현재, 3인칭 단수 | 현재 의향 질문 | 규칙
+
+### 2-10. **Álvaro:** Me parece bien.
+- **해석:** 좋아요.
+- **주요 단어:** `parecer` (동사) ~처럼 보이다, ~라고 생각되다
+- **문법:** gustar형: 주어는 제안된 내용, me는 간접목적.
+- **표현:** `Me parece bien` = 괜찮네요, 좋습니다 (동의 표현).
+- **시제:**
+  - `parece` → parecer | 직설법 현재, 3인칭 단수 | 현재 판단 | 불규칙: 1인칭 parezco(-zco)
+
+### 2-11. **Álvaro:** ¿Qué opciones de seguro tienen?
+- **해석:** 보험 옵션은 어떤 게 있나요?
+- **주요 단어:** `opción` (명사) 선택지 / `seguro` (명사) 보험
+- **문법:** 여기서 `seguro`는 명사(보험). 1-18 형용사(확신하는)와 구별. 주어는 회사 측(ustedes).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `tienen` → tener | 직설법 현재, 3인칭 복수(ustedes) | 현재 제공 상황 | 불규칙: e→ie
+
+### 2-12. **Empleado:** Tenemos cobertura básica, incluida en el precio, y cobertura de todo riesgo, opcional.
+- **해석:** 요금에 포함된 기본 보장과, 선택 사항인 완전 자차 보장이 있습니다.
+- **주요 단어:** `cobertura` (명사) 보장, 커버리지 / `incluir` (동사) 포함하다 / `precio` (명사) 가격 / `todo riesgo` 종합(완전) 보험 / `opcional` (형용사) 선택의
+- **문법:** `incluida`는 cobertura(여성)에 일치하는 과거분사.
+- **표현:** `seguro a todo riesgo` = 스페인의 완전 종합보험 용어.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재 (앞에서 설명)
+  - `incluida` → incluir | 과거분사, 여성 단수 | 상태(포함된) | 규칙 과거분사(incluido), 단 현재형은 incluyo처럼 y 삽입
+
+### 2-13. **Álvaro:** ¿Cuál es la diferencia exacta?
+- **해석:** 정확한 차이가 뭔가요?
+- **주요 단어:** `diferencia` (명사) 차이 / `exacto` (형용사) 정확한
+- **문법:** `¿Cuál es...?` : ser 앞에서 '무엇'을 물을 땐 보통 qué가 아니라 cuál.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 정의 질문 | 불규칙
+
+### 2-14. **Empleado:** Con la básica, en caso de daño, usted asume una franquicia de hasta seiscientos euros.
+- **해석:** 기본 보장이면, 손상 시 고객님이 최대 600유로까지 자기부담금을 지셔야 합니다.
+- **주요 단어:** `en caso de` ~의 경우에 / `daño` (명사) 손상, 피해 / `asumir` (동사) 떠맡다, 부담하다 / `franquicia` (명사) (보험) 자기부담금, 공제액 / `hasta` ~까지
+- **문법:** `la básica` = la cobertura básica(명사 생략). `usted`를 명시해 주어 강조.
+- **표현:** `franquicia`는 보험 용어 '면책금'(프랜차이즈 뜻도 있음).
+- **시제:**
+  - `asume` → asumir | 직설법 현재, 3인칭 단수(usted) | 일반적 규정·조건 설명 | 규칙
+
+### 2-15. **Empleado:** Con la de todo riesgo, esa franquicia se reduce a cero.
+- **해석:** 완전 자차 보장이면, 그 자기부담금이 0으로 줄어듭니다.
+- **주요 단어:** `reducirse` (재귀동사) 줄어들다 / `cero` 영(0)
+- **문법:** `la de todo riesgo` = la cobertura de todo riesgo. `se reduce`: 대명동사(자동사적 '줄어들다'). `a cero` = 0으로(결과의 a).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `se reduce` → reducirse | 직설법 현재, 3인칭 단수 | 규정 설명 | 불규칙: 1인칭 reduzco, 단순과거 reduje
+
+### 2-16. **Álvaro:** Si contratamos la cobertura total, nos evitamos cualquier franquicia en caso de daño, entonces.
+- **해석:** 그럼 완전 보장에 가입하면, 손상 시에 어떤 자기부담금도 안 내도 되는 거네요.
+- **주요 단어:** `contratar` (동사) 계약하다, 가입하다 / `evitarse` (동사) 피하다, 면하다 / `cualquier` (형용사) 어떤 ~라도 / `entonces` 그렇다면
+- **문법:** 실현 가능한 조건문: `si + 직설법 현재, 직설법 현재`. `nos evitamos`: 이익의 재귀 대명사(우리 자신에게서 ~을 덜다). `cualquier`는 명사 앞 어미 탈락형(cualquiera→cualquier).
+- **표현:** `evitarse algo` = (수고·비용을) 덜다. 1인칭 복수는 '우리(고객과 회사)' 포괄적 표현.
+- **시제:**
+  - `contratamos` → contratar | 직설법 현재, 1인칭 복수 | si 조건절(실현 가능)에서는 현재형; si 뒤에 미래·접속법 현재는 쓰지 않음 | 규칙
+  - `nos evitamos` → evitarse | 직설법 현재, 1인칭 복수 | 조건 결과를 현재로 서술(일반적 사실) | 규칙
+
+### 2-17. **Empleado:** Exactamente.
+- **해석:** 정확합니다.
+- **주요 단어:** `exactamente` (부사) 정확히
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 2-18. **Empleado:** Se lo recomiendo, sobre todo si va a conducir por carreteras que no conoce bien.
+- **해석:** 추천드려요, 특히 잘 모르는 도로를 운전하실 거라면요.
+- **주요 단어:** `recomendar` (동사) 추천하다 / `sobre todo` 특히 / `conducir` (동사) 운전하다(스페인식; 중남미 manejar) / `carretera` (명사) 도로, 국도 / `conocer` (동사) 알다(경험적으로)
+- **문법:** `se lo`: le(당신에게)+lo(그것을) → se lo. `si + 직설법`: 실현 가능 조건. `que no conoce` 관계절: 선행사 carreteras가 구체적이므로 직설법.
+- **표현:** `sobre todo` = 무엇보다도, 특히.
+- **시제:**
+  - `recomiendo` → recomendar | 직설법 현재, 1인칭 단수 | 지금의 권고 | 불규칙: e→ie
+  - `va` → ir | 직설법 현재, 3인칭 단수 | ir a + 부정사로 예정된 계획 | 불규칙
+  - `conducir` → conducir | 부정사 | ir a 뒤 부정사 | (참고: conduzco, 단순과거 conduje로 불규칙)
+  - `conoce` → conocer | 직설법 현재, 3인칭 단수 | 현재의 지식 상태 | 불규칙: 1인칭 conozco
+
+### 2-19. **Álvaro:** Voy a viajar hacia el norte, zona de Cantabria, con carreteras de montaña en parte del trayecto.
+- **해석:** 북쪽, 칸타브리아 지역으로 가는데, 경로 일부는 산길이에요.
+- **주요 단어:** `viajar` (동사) 여행하다 / `hacia` ~쪽으로 / `norte` (명사) 북쪽 / `zona` (명사) 지역 / `montaña` (명사) 산 / `trayecto` (명사) 경로, 구간
+- **문법:** `ir a + 부정사`. `hacia` = 방향(~ 쪽으로), a(도착점)와 차이. `en parte de` = ~의 일부에서.
+- **표현:** `carreteras de montaña` = 산악 도로.
+- **시제:**
+  - `voy` → ir | 직설법 현재, 1인칭 단수 | ir a + 부정사로 계획된 가까운 미래 | 불규칙
+  - `viajar` → viajar | 부정사 | ir a 뒤 부정사
+
+### 2-20. **Empleado:** En ese caso, definitivamente le recomiendo la cobertura total.
+- **해석:** 그렇다면 완전 보장을 꼭 추천드립니다.
+- **주요 단어:** `en ese caso` 그런 경우라면 / `definitivamente` (부사) 확실히, 단연
+- **문법:** `le`: 간접목적(당신에게).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `recomiendo` → recomendar | 직설법 현재 (앞에서 설명)
+
+### 2-21. **Álvaro:** De acuerdo, la contrato.
+- **해석:** 좋아요, 그걸로 가입할게요.
+- **주요 단어:** `contratar` 가입하다 (앞에서 설명)
+- **문법:** `la` = la cobertura total를 받는 직접목적대명사.
+- **표현:** 현재형으로 즉석 결정을 나타냄("그걸로 할게요").
+- **시제:**
+  - `contrato` → contratar | 직설법 현재, 1인칭 단수 | 지금 내리는 결정을 현재형으로(즉각적 미래) | 규칙
+
+### 2-22. **Empleado:** ¿Y el depósito de combustible?
+- **해석:** 그리고 연료 탱크는요?
+- **주요 단어:** `depósito` (명사) 탱크; 보증금 / `combustible` (명사) 연료
+- **문법:** 동사 생략 의문문.
+- **표현:** `depósito`는 문맥상 '연료 탱크'. 다음 문장 pagar el depósito completo는 '탱크 한 통분 연료'.
+- **시제:**
+  - 동사 없음
+
+### 2-23. **Empleado:** Puede elegir devolverlo lleno usted mismo, o pagar el depósito completo ahora y devolverlo como esté.
+- **해석:** 직접 가득 채워서 반납하시거나, 지금 탱크 한 통 값을 내시고 어떤 상태든 그대로 반납하실 수 있어요.
+- **주요 단어:** `elegir` (동사) 고르다 / `devolver` (동사) 돌려주다, 반납하다 / `lleno` (형용사) 가득 찬 / `usted mismo` 당신이 직접 / `pagar` (동사) 지불하다 / `completo` (형용사) 전체의
+- **문법:** `poder + elegir + 부정사` 부정사 연쇄. `devolverlo`: 대명사가 부정사에 붙음. `lleno`는 lo(탱크)에 일치하는 목적격 보어. `como + 접속법` = 어떤 상태이든(미정·불특정).
+- **표현:** `como esté` = "있는 그대로, 어떤 상태든".
+- **시제:**
+  - `puede` → poder | 직설법 현재, 3인칭 단수(usted) | 가능성 제시 | 불규칙: o→ue
+  - `elegir` → elegir | 부정사 | poder 뒤 | (참고: 현재 elijo, e→i + g→j)
+  - `devolverlo` → devolver | 부정사 | elegir 뒤 | (참고: devuelvo, 과거분사 devuelto 불규칙)
+  - `pagar` → pagar | 부정사 | elegir 뒤 병렬
+  - `devolverlo` → devolver | 부정사 | 병렬 (앞에서 설명)
+  - `esté` → estar | 접속법 현재, 3인칭 단수 | como 뒤에서 '반납 시점에 어떤 상태일지 모르는' 불확정 상황이라 접속법. como está(직설법)는 '지금 있는 상태 그대로'로 확정 | 불규칙(강세 esté)
+
+### 2-24. **Álvaro:** Prefiero devolverlo lleno yo mismo, así controlo mejor el gasto.
+- **해석:** 제가 직접 가득 채워서 반납할게요, 그래야 비용을 더 잘 관리할 수 있으니까요.
+- **주요 단어:** `preferir` 선호하다 (앞에서 설명) / `así` 그렇게 하면 / `controlar` (동사) 관리하다 / `gasto` (명사) 지출, 비용
+- **문법:** `preferir + 부정사`. `así` = 그런 식으로 하면(결과).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `prefiero` → preferir | 직설법 현재, 1인칭 단수 | 현재 선택 | 불규칙 e→ie
+  - `devolverlo` → devolver | 부정사 (앞에서 설명)
+  - `controlo` → controlar | 직설법 현재, 1인칭 단수 | 선택의 결과를 일반적 사실로 | 규칙
+
+### 2-25. **Empleado:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 2-26. **Empleado:** En el supuesto de que necesite extender el alquiler, avísenos con veinticuatro horas de antelación, por favor.
+- **해석:** 혹시 대여 기간을 연장하셔야 하는 경우에는, 24시간 전에 저희에게 알려 주세요.
+- **주요 단어:** `en el supuesto de que` ~하는 경우에는 / `extender` (동사) 연장하다 / `avisar` (동사) 알리다 / `con ... de antelación` ~ 미리
+- **문법:** `en el supuesto de que + 접속법`: 가정 조건 접속사구는 항상 접속법(en caso de que와 같음). `avísenos`: usted 긍정명령에 대명사 nos가 붙고, 강세 유지 위해 부호(í).
+- **표현:** `con X horas de antelación` = X시간 전에 미리. `en el supuesto de que`는 격식체.
+- **시제:**
+  - `necesite` → necesitar | 접속법 현재, 3인칭 단수(usted) | 가정 조건 접속사구 뒤라 접속법 | 규칙: -ar → -e
+  - `extender` → extender | 부정사 | necesitar 뒤 | (현재 extiendo, e→ie)
+  - `avísenos` → avisar | 명령법 긍정, 3인칭 단수(usted) | 공식적인 요청·지시 | 규칙: usted 명령은 접속법 현재형(avise)과 동일
+
+### 2-27. **Álvaro:** Lo tendré en cuenta.
+- **해석:** 명심할게요.
+- **주요 단어:** `tener en cuenta` 고려하다, 염두에 두다
+- **문법:** `lo` = 앞의 안내 내용 전체(중성적).
+- **표현:** `tener en cuenta` 필수 관용구.
+- **시제:**
+  - `tendré` → tener | 직설법 미래, 1인칭 단수 | 앞으로 기억하겠다는 약속 | 불규칙: tendr- 어간
+
+### 2-28. **Álvaro:** ¿Algo más que necesite saber?
+- **해석:** 제가 알아야 할 게 더 있나요?
+- **주요 단어:** `algo más` 더 무언가 / `saber` (동사) 알다
+- **문법:** `algo (más) que + 접속법`: 존재가 불확실한 선행사를 수식하는 관계절이라 접속법.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `necesite` → necesitar | 접속법 현재, 1인칭 단수 | 불확정 선행사(있는지 모르는 '무언가') 뒤 관계절 | 규칙
+  - `saber` → saber | 부정사 | necesitar 뒤
+
+### 2-29. **Empleado:** Solo su documentación, y firmar aquí para confirmar la cobertura total.
+- **해석:** 신분 서류만 주시고, 완전 보장을 확인하시려면 여기에 서명해 주세요.
+- **주요 단어:** `documentación` (명사) 서류, 신분증 / `firmar` (동사) 서명하다 / `confirmar` 확인하다
+- **문법:** 앞 질문(necesite saber)에 이어지는 생략형 답변이라 부정사 firmar 사용. `para + 부정사` = 목적.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `firmar` → firmar | 부정사 | 생략된 구조(necesita ... firmar)를 이어받음
+  - `confirmar` → confirmar | 부정사 | para 뒤
+
+### 2-30. **Álvaro:** (Firma) Perfecto, gracias.
+- **해석:** (서명한다) 좋아요, 감사합니다.
+- **주요 단어:** `firmar` 서명하다 (앞에서 설명)
+- **문법:** 지문은 현재형으로 동작을 서술.
+- **시제:**
+  - `Firma` → firmar | 직설법 현재, 3인칭 단수 | 지문(무대 지시)은 현재형으로 동작 묘사 | 규칙
+
+### 2-31. **Empleado:** Que tenga un buen viaje, señor Fuentes.
+- **해석:** 좋은 여행 되세요, 푸엔테스 씨.
+- **주요 단어:** `buen` (bueno의 어미 탈락형) 좋은 / `viaje` 여행
+- **문법:** `Que + 접속법` = 기원문(Espero que가 생략된 형태).
+- **표현:** `Que tenga un buen viaje` = 작별 인사 정형 표현(tú: Que tengas...).
+- **시제:**
+  - `tenga` → tener | 접속법 현재, 3인칭 단수(usted) | 소망·기원이라 접속법 | 불규칙: tengo → tenga
+

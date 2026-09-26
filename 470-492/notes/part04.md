@@ -533,3 +533,192 @@
 - **시제:**
   - `Seré` → ser | 직설법 미래 1인칭 단수 | 앞으로의 태도에 대한 약속·의지 | 불규칙 동사(미래 어미는 규칙)
   - `prometo` → prometer | 직설법 현재 1인칭 단수 | 말하는 순간 약속이 성립하는 수행적 현재 | 규칙
+
+## 장면 16. 법률 고문과 명예훼손 리스크 점검
+> 마드리드로 돌아온 알바로가 보도 전, 신문사 법률고문 변호사 인마쿨라다 벨트란과 명예훼손 리스크를 점검합니다.
+
+### 16-1. **Inmaculada:** (En su despacho) Álvaro, cuénteme qué tiene, y veamos qué riesgos legales implica publicarlo.
+- **해석:** (자기 사무실에서) 알바로 씨, 뭘 갖고 있는지 말씀해 보세요, 그리고 그걸 보도하면 어떤 법적 위험이 있는지 봅시다.
+- **주요 단어:** `despacho` (명사·남) 사무실 / `contar` 앞에서 설명 / `riesgo` (명사·남) 위험 / `legal` (형용사) 법적인 / `implicar` (동사) 수반하다 / `publicar` (동사) 게재하다
+- **문법:** usted 긍정명령(접속법 형태) + me 부착, 강세 표기. `veamos` = nosotros 청유("~합시다"). 간접의문문 `qué tiene`, `qué riesgos ... implica`. 부정사 publicarlo가 implica의 주어.
+- **시제:**
+  - `cuénteme` → contar | 명령법 긍정 3인칭 단수 (usted, 접속법 현재 cuente와 동형) | 공손한 요청 | 불규칙 (o→ue)
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재 확보한 것 | 불규칙
+  - `veamos` → ver | 접속법 현재 1인칭 복수 (nosotros 명령) | "함께 ~해 봅시다" 제안 | 불규칙 (vea-)
+  - `implica` → implicar | 직설법 현재 3인칭 단수 | 일반적 결과 | 규칙 (접속법 implique: c→qu)
+  - `publicarlo` → publicar | 부정사 | 명사처럼 주어 역할 | 규칙
+
+### 16-2. **Álvaro:** Una finca vinculada a una sociedad de fachada, testimonios de dos vecinos describiendo a un hombre que coincide con la descripción de un sospechoso ya conocido, y fotografías de movimientos en avión privado.
+- **해석:** 페이퍼컴퍼니와 연결된 저택 하나, 이미 알려진 용의자의 인상착의와 일치하는 남자를 묘사한 이웃 두 명의 증언, 그리고 전용기 이동 사진들입니다.
+- **주요 단어:** `vincular` (동사) 연결하다 / `sociedad de fachada` 페이퍼컴퍼니(위장 회사) / `testimonio` (명사·남) 증언 / `sospechoso` (명사·남) 용의자 / `conocido` (형용사) 알려진
+- **문법:** 동사 없는 명사 나열(Tengo 생략). 과거분사 vinculada가 finca에 일치. 현재분사 describiendo가 명사 testimonios를 수식(규범상 que describen이 권장되지만 흔히 쓰임). 관계절은 실제 인물이라 직설법.
+- **시제:**
+  - `vinculada` → vincular | 과거분사 여성 단수 | "연결된" 상태 | 규칙
+  - `describiendo` → describir | 현재분사 | 증언의 내용 부연 | 규칙
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 실존 인물에 대한 사실 | 규칙
+  - `conocido` → conocer | 과거분사 남성 단수 | "알려진" 상태 형용사 | 동사는 1인칭 conozco (-zc-)
+
+### 16-3. **Inmaculada:** ¿Menciona el nombre de Roselló directamente en el artículo?
+- **해석:** 기사에서 로셀로의 이름을 직접 언급하시나요?
+- **주요 단어:** `mencionar` (동사) 언급하다 / `artículo` (명사·남) 기사
+- **문법:** usted 주어 생략.
+- **시제:**
+  - `Menciona` → mencionar | 직설법 현재 3인칭 단수 (usted) | 현재 원고의 상태를 물음 | 규칙
+
+### 16-4. **Álvaro:** Quería hacerlo, dado que ya hemos confirmado su identidad en investigaciones anteriores.
+- **해석:** 그렇게 하려고 했습니다, 이전 취재에서 이미 그의 신원을 확인했으니까요.
+- **주요 단어:** `dado que` ~이므로 / `identidad` (명사·여) 신원 / `investigación` (명사·여) 조사, 취재 / `anterior` (형용사) 이전의
+- **문법:** 중성 lo = 이름을 언급하는 것. `dado que + 직설법` 이유.
+- **시제:**
+  - `Quería` → querer | 직설법 불완료과거 1인칭 단수 | 의도를 완곡하게 표현("~하려던 참이었다/하고 싶은데요") | 불규칙 동사지만 불완료과거는 규칙
+  - `hacerlo` → hacer | 부정사 | querer 뒤 | 불규칙 동사
+  - `dado` → dar | 과거분사 | 접속사구 dado que의 일부로 고정 | 불규칙 동사(과거분사는 규칙형 dado)
+  - `hemos confirmado` → confirmar | 직설법 현재완료 1인칭 복수 (pretérito perfecto compuesto) | 과거 확인이 지금 판단의 근거로 이어짐 | 규칙
+  - 비교: confirmamos(단순과거)는 끝난 사실, hemos confirmado는 현재와의 연관 강조
+
+### 16-5. **Inmaculada:** Si publicamos estos nombres sin una sentencia firme que lo vincule legalmente a esta finca en concreto, nos arriesgamos a una querella por calumnia.
+- **해석:** 이 저택과 그를 법적으로 연결하는 확정 판결 없이 이름들을 보도하면, 명예훼손(허위사실 적시)으로 고소당할 위험이 있어요.
+- **주요 단어:** `sentencia firme` 확정 판결 / `en concreto` 구체적으로, 바로 그 / `arriesgarse a` ~의 위험을 무릅쓰다 / `querella` (명사·여) 형사 고소 / `calumnia` (명사·여) (범죄를 뒤집어씌우는) 명예훼손, 무고
+- **문법:** `si + 직설법 현재` → 주절 현재(현실 조건). `sin + 명사 + que + 접속법`: 존재하지 않는 선행사라 접속법.
+- **표현:** 스페인 형법에서 `calumnia`는 거짓 범죄 혐의를 씌우는 것, `injuria`는 모욕.
+- **시제:**
+  - `publicamos` → publicar | 직설법 현재 1인칭 복수 | 현실 가능한 조건 | 규칙
+  - `vincule` → vincular | 접속법 현재 3인칭 단수 | 없는(sin) 판결을 가리키는 관계절이라 접속법 | 규칙
+  - `arriesgamos` → arriesgarse | 직설법 현재 1인칭 복수 | 조건의 결과 | 규칙 (접속법 arriesguemos: g→gu)
+
+### 16-6. **Álvaro:** ¿Y si dejamos claro que es una descripción coincidente, sin afirmar con certeza absoluta que es él?
+- **해석:** 그럼 그 사람이라고 절대적으로 단정하지 않고, 인상착의가 일치한다는 점만 분명히 하면요?
+- **주요 단어:** `dejar claro` 분명히 하다 / `coincidente` (형용사) 일치하는 / `afirmar` (동사) 단언하다 / `certeza` (명사·여) 확실성
+- **문법:** `¿Y si ...?` = "~하면 어떨까요?" 제안. `dejar claro que + 직설법`, `afirmar que + 직설법`.
+- **시제:**
+  - `dejamos` → dejar | 직설법 현재 1인칭 복수 | si 조건 제안 | 규칙
+  - `es` (×2) → ser | 직설법 현재 3인칭 단수 | 단언·명시 동사 뒤 내용절 | 불규칙
+  - `afirmar` → afirmar | 부정사 | sin 뒤 | 규칙
+
+### 16-7. **Inmaculada:** Eso reduce el riesgo considerablemente.
+- **해석:** 그러면 위험이 상당히 줄어요.
+- **주요 단어:** `reducir` (동사) 줄이다 / `considerablemente` (부사) 상당히
+- **문법:** 특이사항 없음
+- **시제:**
+  - `reduce` → reducir | 직설법 현재 3인칭 단수 | 일반적 효과 | 불규칙 (reduzco, 단순과거 reduje)
+
+### 16-8. **Inmaculada:** La presunción de inocencia sigue aplicando, aunque tengamos fuertes indicios.
+- **해석:** 강력한 정황이 있더라도 무죄 추정 원칙은 여전히 적용돼요.
+- **주요 단어:** `presunción de inocencia` 무죄 추정 / `aplicar` (동사) 적용하다 / `indicio` (명사·남) 정황, 단서
+- **문법:** `seguir + 현재분사` = 계속 ~하다. `aunque + 접속법`: 사실이라도 결론에 영향이 없음을 강조. (aplicar를 자동사로 쓴 것은 구어적; 규범적으로는 sigue aplicándose/siendo aplicable.)
+- **시제:**
+  - `sigue` → seguir | 직설법 현재 3인칭 단수 | 지속되는 원칙 | 불규칙 (e→i)
+  - `aplicando` → aplicar | 현재분사 | seguir와 결합한 지속 | 규칙
+  - `tengamos` → tener | 접속법 현재 1인칭 복수 | aunque 양보(설령 ~해도) | 불규칙 (teng- 어간)
+  - 비교: aunque tenemos(직설법) = "정황이 있긴 하지만"(사실 전달)
+
+### 16-9. **Álvaro:** ¿Y las fuentes?
+- **해석:** 그럼 취재원은요?
+- **주요 단어:** `fuente` (명사·여) 취재원, 출처
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 16-10. **Álvaro:** Domingo y Anselmo aceptaron hablar, pero preferirían mantenerse anónimos.
+- **해석:** 도밍고와 안셀모는 이야기해 주기로 했지만, 익명으로 남기를 원해요.
+- **주요 단어:** `aceptar` (동사) 받아들이다 / `mantenerse` (재귀동사) 유지되다 / `anónimo` (형용사) 익명의
+- **문법:** `aceptar + 부정사`, `preferir + 부정사`. 재귀대명사 se를 부정사 뒤에 붙임.
+- **시제:**
+  - `aceptaron` → aceptar | 직설법 단순과거 3인칭 복수 | 과거에 완결된 동의 | 규칙
+  - `hablar` → hablar | 부정사 | aceptar 뒤
+  - `preferirían` → preferir | 조건법 단순 3인칭 복수 | 희망을 완곡하게 전달 | 조건법은 규칙 어미
+  - `mantenerse` → mantenerse | 부정사 (재귀) | preferir 뒤 | tener형 불규칙 동사
+
+### 16-11. **Inmaculada:** Con fuentes fiables y verificables internamente, aunque no se identifiquen públicamente, el artículo queda protegido legalmente, siempre que la información se haya obtenido de forma lícita.
+- **해석:** 공개적으로 신원을 밝히지 않더라도 내부적으로 믿을 수 있고 검증 가능한 취재원이라면, 정보를 적법하게 얻은 한 기사는 법적으로 보호받아요.
+- **주요 단어:** `fiable` (형용사) 믿을 만한 / `verificable` (형용사) 검증 가능한 / `identificarse` 신원이 밝혀지다 / `quedar` (동사) ~한 상태가 되다 / `proteger` (동사) 보호하다 / `siempre que` ~하는 한 / `obtener` (동사) 얻다 / `lícito` (형용사) 합법적인
+- **문법:** `aunque + 접속법`(가정적 양보). `quedar + 과거분사` 결과 상태. `siempre que`(조건 "~하는 한")는 항상 접속법. 수동의 se(se identifiquen, se haya obtenido).
+- **시제:**
+  - `se identifiquen` → identificar | 접속법 현재 3인칭 복수 | aunque 양보(신원 비공개라 하더라도) | 철자 변화 c→qu
+  - `queda` → quedar | 직설법 현재 3인칭 단수 | 일반적 법적 결과 | 규칙
+  - `protegido` → proteger | 과거분사 남성 단수 | 결과 상태 | 규칙 과거분사
+  - `se haya obtenido` → obtener | 접속법 현재완료 3인칭 단수 (pretérito perfecto de subjuntivo) | siempre que 뒤라 접속법, 정보 획득이 이미 완료된 일이라 완료형 | obtener는 tener형 불규칙(obtengo, obtuve), 과거분사는 규칙형 obtenido
+
+### 16-12. **Álvaro:** Toda la información se obtuvo hablando directamente con ellos, sin ningún método cuestionable.
+- **해석:** 모든 정보는 그들과 직접 이야기해서 얻은 거고, 문제 될 만한 방법은 전혀 쓰지 않았어요.
+- **주요 단어:** `método` (명사·남) 방법 / `cuestionable` (형용사) 의심스러운, 문제 될 만한
+- **문법:** 수동의 se. 현재분사 hablando = 수단("이야기함으로써"). `sin ningún` 이중부정.
+- **시제:**
+  - `se obtuvo` → obtener | 직설법 단순과거 3인칭 단수 | 과거에 완결된 취재 | 불규칙 (어간 obtuv-)
+  - `hablando` → hablar | 현재분사 | 방법·수단 | 규칙
+
+### 16-13. **Inmaculada:** Perfecto.
+- **해석:** 좋아요.
+- **주요 단어:** `perfecto` 완벽한, 좋다
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 16-14. **Inmaculada:** Es probable que nos demanden si mencionamos la sociedad instrumental directamente, así que recomiendo atribuir esa parte a "registros públicos", sin interpretación adicional nuestra.
+- **해석:** 그 도관 회사(페이퍼컴퍼니)를 직접 언급하면 소송당할 가능성이 높으니까, 그 부분은 저희의 추가 해석 없이 "공공 기록"을 출처로 돌리는 걸 권해요.
+- **주요 단어:** `probable` (형용사) 있을 법한 / `demandar` (동사) 소송하다 / `sociedad instrumental` 도구 회사(명목상 회사) / `así que` 그러므로 / `recomendar` (동사) 권하다 / `atribuir` (동사) ~에 귀속시키다, 출처로 돌리다 / `registro público` 공공 기록 / `adicional` (형용사) 추가의
+- **문법:** `es probable que + 접속법`(가능성 판단). 3인칭 복수 비인칭(demanden = "누군가가 우리를 고소하다"). `si + 직설법 현재`. `atribuir A a B` = A를 B의 것으로 돌리다.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 현재의 판단 | 불규칙
+  - `demanden` → demandar | 접속법 현재 3인칭 복수 | 가능성 표현 뒤라 접속법 | 규칙
+  - `mencionamos` → mencionar | 직설법 현재 1인칭 복수 | si 현실 조건 | 규칙
+  - `recomiendo` → recomendar | 직설법 현재 1인칭 단수 | 지금 하는 조언 | 불규칙 (e→ie)
+  - `atribuir` → atribuir | 부정사 | recomendar 뒤 (주어가 같지 않아도 부정사 가능) | 불규칙 (atribuyo: y 삽입)
+
+### 16-15. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entendido` 알겠습니다
+- **문법:** 과거분사 단독 사용 관용.
+- **시제:**
+  - `Entendido` → entender | 과거분사 | "이해됨" 상태를 한 단어로 응답하는 관용 | 규칙 과거분사
+
+### 16-16. **Álvaro:** Ajustaré el texto siguiendo esas indicaciones.
+- **해석:** 그 지침에 따라 원고를 수정하겠습니다.
+- **주요 단어:** `ajustar` (동사) 조정하다 / `texto` (명사·남) 원고 / `indicación` (명사·여) 지시
+- **문법:** 현재분사 siguiendo = 방식("~에 따라").
+- **시제:**
+  - `Ajustaré` → ajustar | 직설법 미래 1인칭 단수 | 앞으로 할 일에 대한 약속 | 규칙
+  - `siguiendo` → seguir | 현재분사 | 방식 | 불규칙 (e→i: siguiendo)
+
+### 16-17. **Inmaculada:** Envíeme el borrador final antes de publicar, por favor.
+- **해석:** 게재 전에 최종 초안을 보내 주세요.
+- **주요 단어:** `enviar` (동사) 보내다 / `borrador` (명사·남) 초안
+- **문법:** usted 긍정명령 + me 부착, 강세 표기(envíe+me).
+- **시제:**
+  - `Envíeme` → enviar | 명령법 긍정 3인칭 단수 (usted, 접속법 현재 envíe와 동형) | 공손한 요청 | 강세 변화 (envío, envíe: í 강세)
+  - `publicar` → publicar | 부정사 | antes de 뒤 | 규칙
+
+### 16-18. **Inmaculada:** Prefiero revisarlo una vez más.
+- **해석:** 한 번 더 검토하고 싶어요.
+- **주요 단어:** `revisar` (동사) 검토하다 / `una vez más` 한 번 더
+- **문법:** preferir + 부정사, lo 부착.
+- **시제:**
+  - `Prefiero` → preferir | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `revisarlo` → revisar | 부정사 | preferir 뒤 | 규칙
+
+### 16-19. **Álvaro:** Por supuesto.
+- **해석:** 물론이죠.
+- **주요 단어:** `por supuesto` 물론
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 16-20. **Álvaro:** Gracias por la revisión tan rápida.
+- **해석:** 이렇게 빨리 검토해 주셔서 감사합니다.
+- **주요 단어:** `revisión` (명사·여) 검토 / `tan` (부사) 그렇게
+- **문법:** `tan + 형용사` = 그렇게 ~한.
+- **시제:** 동사 없음
+
+### 16-21. **Inmaculada:** Para eso estamos.
+- **해석:** 그러라고 저희가 있는 거죠.
+- **주요 단어:** `para eso` 그것을 위해
+- **문법:** 특이사항 없음
+- **표현:** `Para eso estamos` = 감사에 대한 관용 응답("그게 저희 일이죠").
+- **시제:**
+  - `estamos` → estar | 직설법 현재 1인칭 복수 | 관용 표현 속 현재 | 불규칙
+
+### 16-22. **Inmaculada:** Es una historia importante, pero hay que publicarla bien.
+- **해석:** 중요한 기사지만, 제대로 보도해야 해요.
+- **주요 단어:** `hay que` ~해야 한다(무인칭)
+- **문법:** `hay que + 부정사` = 일반적 의무(주어 없음). la = historia.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 현재 평가 | 불규칙
+  - `hay` → haber | 직설법 현재 무인칭형 | hay que 의무 구문 | 불규칙
+  - `publicarla` → publicar | 부정사 | hay que 뒤 | 규칙

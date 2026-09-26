@@ -347,4 +347,133 @@
 - **시제:**
   - `Siéntense` → sentarse | 명령법 ustedes (= 접속법 현재 3인칭 복수 형태) | 공손한 권유 | 불규칙: e→ie (siento → siéntense)
 
+### 2-6. **Roselló:** Nada de lo que diga hoy va a sorprenderles de forma desagradable, se lo prometo.
+- **해석:** 오늘 제가 무슨 말을 하든 두 분을 불쾌하게 놀라게 하지는 않을 겁니다, 약속하죠.
+- **주요 단어:** `sorprender` (동사) 놀라게 하다 / `desagradable` (형용사) 불쾌한 / `prometer` (동사) 약속하다
+- **문법:** lo que + 접속법: 아직 정해지지 않은(앞으로 말할) 내용을 가리켜 접속법. sorprenderles: les = 두 분(스페인식 레이스모 포함 가능). se lo = le lo.
+- **표현:** de forma + 형용사 = ~한 방식으로(부사 대용).
+- **시제:**
+  - `diga` → decir | 접속법 현재 1인칭 단수 | 관계절 선행사가 미정(앞으로 말할 것)이라 접속법 | 불규칙: dig-
+  - `va` → ir | 직설법 현재 3인칭 단수 | ir a + 부정사로 가까운 미래 단언 | 불규칙
+  - `sorprender` → 부정사 | ir a 뒤 | 규칙
+  - `prometo` → prometer | 직설법 현재 1인칭 단수 | 지금 하는 약속 | 규칙
+
+### 2-7. **Álvaro:** (Se sientan) Vamos al grano, entonces.
+- **해석:** (그들이 앉는다) 그럼 본론으로 들어가죠.
+- **주요 단어:** `ir al grano` 본론으로 들어가다 / `entonces` 그럼
+- **문법:** vamos는 직설법이지만 "~합시다"라는 1인칭 복수 권유로 쓰임(정식 접속법 vayamos 대신 관용적으로 vamos).
+- **표현:** ir al grano — "핵심으로 가다".
+- **시제:**
+  - `sientan` → sentar(se) | 직설법 현재 3인칭 복수 | 지문 서술 현재 | 불규칙: e→ie
+  - `Vamos` → ir | 직설법 현재 1인칭 복수(권유 기능) | 청유 | 불규칙
+
+### 2-8. **Álvaro:** ¿Por qué esta comida?
+- **해석:** 왜 이 점심 자리입니까?
+- **주요 단어:** `comida` 점심 (앞에서 설명)
+- **문법:** 동사 생략된 의문문.
+- **시제:** 동사 없음
+
+### 2-9. **Roselló:** Antes de responder eso, permítame contarle algo que quizás no sepa.
+- **해석:** 그 질문에 답하기 전에, 어쩌면 모르고 계실 이야기를 하나 해 드리죠.
+- **주요 단어:** `antes de + 부정사` ~하기 전에 / `responder` (동사) 대답하다 / `permitir` 허락하다 / `contar` (동사) 이야기하다 / `quizás` 아마
+- **문법:** usted 긍정 명령 + me 후치(permítame, 강세 부호 추가). 관계절 + quizás + 접속법(불확실).
+- **표현:** Permítame + 부정사 — "~하도록 해 주십시오"(격식체).
+- **시제:**
+  - `responder` → 부정사 | antes de 뒤 | 규칙
+  - `permítame` → permitir | 명령법 usted (= 접속법 현재 3인칭 단수) | 공손한 요청 | 규칙
+  - `contar` → 부정사 | permitir 뒤 | 불규칙 동사(o→ue: cuento)
+  - `sepa` → saber | 접속법 현재 3인칭 단수 | quizás + 불확실성이 커서 접속법 | 불규칙: sep-
+
+### 2-10. **Roselló:** Seguí de cerca el caso de Ignacio Bermejo, después de su detención.
+- **해석:** 이그나시오 베르메호가 체포된 후, 그 사건을 가까이서 지켜봤습니다.
+- **주요 단어:** `seguir de cerca` 가까이서 지켜보다 / `caso` (명사) 사건 / `detención` (명사, 여) 체포, 구금
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Seguí` → seguir | 직설법 단순과거 1인칭 단수 | 과거의 완결된 행위 | 불규칙 동사지만 1인칭은 seguí (3인칭만 siguió로 e→i)
+
+### 2-11. **Álvaro:** (Alerta) ¿Qué tiene que ver eso con esta comida?
+- **해석:** (경계하며) 그게 이 점심과 무슨 상관입니까?
+- **주요 단어:** `alerta` (형용사/부사) 경계하는 / `tener que ver con` ~와 관련이 있다
+- **문법:** tener que ver con은 "~해야 한다(tener que)"가 아닌 고정 표현.
+- **표현:** ¿Qué tiene que ver…? — "무슨 관계가 있나?"
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재의 관련성 | 불규칙: e→ie
+  - `ver` → 부정사 | 고정 표현의 일부 | 불규칙 동사
+
+### 2-12. **Roselló:** Supe que usted intercedió, discretamente, para que su colaboración se valorara con justicia en el juicio, en vez de buscar solo el titular más llamativo para su reportaje.
+- **해석:** 당신이 기사를 위해 가장 자극적인 헤드라인만 좇는 대신, 재판에서 그의 협조가 공정하게 평가받도록 조용히 중재했다는 걸 알게 됐습니다.
+- **주요 단어:** `interceder` (동사) 중재하다, 나서다 / `discretamente` (부사) 조용히 / `valorar` (동사) 평가하다 / `juicio` (명사) 재판 / `titular` (명사) 헤드라인 / `llamativo` (형용사) 눈길을 끄는 / `reportaje` (명사) 르포, 기사
+- **문법:** para que + 접속법(목적). 주절이 과거라 접속법 과거. se valorara: 수동의 se. en vez de + 부정사.
+- **시제:**
+  - `Supe` → saber | 직설법 단순과거 1인칭 단수 | saber의 단순과거는 "알게 되었다"(정보를 입수한 순간) | 불규칙: sup-
+  - 비교: supe(알게 됐다) vs sabía(알고 있었다)
+  - `intercedió` → interceder | 직설법 단순과거 3인칭 단수 | 과거의 완결된 행위 | 규칙
+  - `valorara` → valorar | 접속법 불완료과거 3인칭 단수 (pretérito imperfecto de subjuntivo) | para que(목적) + 과거 맥락이라 과거 접속법 | 규칙 (-ra형, valorase도 가능)
+  - `buscar` → 부정사 | en vez de 뒤 | 규칙
+
+### 2-13. **Camila:** Eso es simplemente hacer lo correcto, no algo excepcional.
+- **해석:** 그건 그저 옳은 일을 하는 거지, 특별한 게 아니에요.
+- **주요 단어:** `lo correcto` 옳은 것 / `excepcional` (형용사) 예외적인
+- **문법:** lo + 형용사 = 추상명사화(lo correcto). 부정사 hacer가 보어.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 정의·본질 | 불규칙
+  - `hacer` → 부정사 | ser의 보어 | 불규칙 동사
+
+### 2-14. **Roselló:** Para la mayoría de la gente en su posición, señora Reyes, no lo es.
+- **해석:** 그의 입장에 있는 대부분의 사람들에게는 그렇지 않습니다, 레예스 씨.
+- **주요 단어:** `mayoría` (명사, 여) 대부분 / `posición` (명사, 여) 위치, 입장
+- **문법:** no lo es: lo는 앞의 술어(algo excepcional이 아닌 것 → 여기선 "당연한 일")를 받는 중성 대명사. ser/estar의 보어를 lo로 받는 용법.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 사실 | 불규칙
+
+### 2-15. **Roselló:** Pude haber usado esa información contra usted, Álvaro, si hubiera querido, filtrando que suavizó el trato hacia un colaborador de mi red.
+- **해석:** 제가 원했다면, 당신이 제 조직의 협력자에 대한 대우를 누그러뜨렸다고 흘려서 그 정보를 당신에게 불리하게 쓸 수도 있었습니다, 알바로.
+- **주요 단어:** `usar` (동사) 사용하다 / `filtrar` (동사) (정보를) 흘리다 / `suavizar` (동사) 누그러뜨리다 / `trato` (명사) 대우 / `red` (명사, 여) 조직망
+- **문법:** 과거 사실 반대 조건: si + 접속법 과거완료, 주절은 pude haber + 과거분사(=podría haber usado). 현재분사 filtrando는 수단.
+- **시제:**
+  - `Pude` → poder | 직설법 단순과거 1인칭 단수 | pude haber + 과거분사 = "~할 수도 있었다"(실현되지 않은 과거 가능성) | 불규칙: pud-
+  - `haber usado` → usar | 완료 부정사 (infinitivo compuesto) | poder 뒤에서 과거에 완료되었을 행위 | 규칙
+  - `hubiera querido` → querer | 접속법 과거완료 1인칭 단수 (pluscuamperfecto de subjuntivo) | 과거 사실과 반대되는 가정 | 과거분사 querido 규칙
+  - `filtrando` → filtrar | 현재분사 | 방법·수단 | 규칙
+  - `suavizó` → suavizar | 직설법 단순과거 3인칭 단수 | 과거의 완결된 행위 | 규칙(철자 z→c는 suavicé에서만)
+
+### 2-16. **Roselló:** En vez de eso, elegí prestarle atención de otra manera.
+- **해석:** 그러는 대신, 저는 다른 방식으로 당신에게 주목하기로 했습니다.
+- **주요 단어:** `elegir` (동사) 고르다, 선택하다 / `prestar atención` 주의를 기울이다
+- **문법:** elegir + 부정사. prestarle: le = usted.
+- **시제:**
+  - `elegí` → elegir | 직설법 단순과거 1인칭 단수 | 과거의 한 번의 결정 | 1인칭은 규칙적 (3인칭 eligió에서 e→i)
+  - `prestar` → 부정사 | elegir 뒤 | 규칙
+
+### 2-17. **Álvaro:** ¿Por eso esta comida, entonces?
+- **해석:** 그래서 이 점심 자리라는 겁니까?
+- **주요 단어:** `por eso` 그래서
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 2-18. **Álvaro:** ¿Por lo de Bermejo?
+- **해석:** 베르메호 건 때문에요?
+- **주요 단어:** `lo de ~` ~의 일, ~건
+- **문법:** lo de + 명사 = "~에 관한 일"(중성 lo).
+- **표현:** lo de — 구어에서 매우 자주 씀.
+- **시제:** 동사 없음
+
+### 2-19. **Roselló:** En parte, sí.
+- **해석:** 부분적으로는, 그렇습니다.
+- **주요 단어:** `en parte` 부분적으로
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 2-20. **Roselló:** Fue el momento en que dejé de verlo solo como un adversario eficaz, y empecé a verlo como alguien con una brújula moral consistente, incluso cuando nadie estaba mirando.
+- **해석:** 그때가 제가 당신을 단지 유능한 적수로만 보는 걸 그만두고, 아무도 보지 않을 때조차 일관된 도덕적 나침반을 가진 사람으로 보기 시작한 순간이었습니다.
+- **주요 단어:** `dejar de + 부정사` ~을 그만두다 / `empezar a + 부정사` ~하기 시작하다 / `adversario` (명사) 적수 / `eficaz` (형용사) 유능한 / `brújula` (명사, 여) 나침반 / `consistente` (형용사) 일관된
+- **문법:** el momento en que: 시간 관계사(en que). verlo: lo = 알바로(여기선 lo 사용).
+- **시제:**
+  - `Fue` → ser | 직설법 단순과거 3인칭 단수 | 특정 시점(그 순간)을 완결된 것으로 지칭 | 불규칙: fue
+  - `dejé` → dejar | 직설법 단순과거 1인칭 단수 | 한 시점의 변화 | 규칙
+  - `ver` → 부정사 (두 번) | dejar de / empezar a 뒤 | 불규칙 동사
+  - `empecé` → empezar | 직설법 단순과거 1인칭 단수 | 변화의 시작 시점 | 철자 변화 z→c (empecé), 단순과거엔 e→ie 없음
+  - `estaba mirando` → estar + mirar | 직설법 불완료과거 진행 3인칭 단수 | 배경으로 "보고 있던" 진행 상황 | estar 불규칙, mirando 규칙
+  - 비교: dejé/empecé(한 번의 전환, 단순과거) vs estaba mirando(배경 진행, 불완료과거)
+
 <!--END-->

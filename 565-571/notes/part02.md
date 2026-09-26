@@ -439,3 +439,247 @@
 - **문법:** 특이사항 없음
 - **시제:**
   - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 태도 | 규칙
+
+### 3-55. **Álvaro:** No hace falta que espere.
+- **해석:** 기다리실 필요 없습니다.
+- **주요 단어:** `hacer falta` 필요하다 / `esperar` 앞에서 설명
+- **문법:** `No hace falta que` + 접속법 (필요성 표현 뒤 접속법).
+- **표현:** `No hace falta` = "~할 필요 없다" — 스페인에서 매우 흔함.
+- **시제:**
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | 비인칭 hacer falta | 불규칙
+  - `espere` → esperar | 접속법 현재 3인칭 단수 (usted) | 필요성(no hace falta que) 뒤 → 접속법 | 규칙
+
+### 3-56. **Álvaro:** Ya tengo mi respuesta.
+- **해석:** 제 대답은 이미 정해졌습니다.
+- **주요 단어:** `respuesta` (명사, 여) 대답
+- **문법:** `ya` = 이미.
+- **시제:**
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 현재 가진 상태 | 불규칙(tengo)
+
+### 3-57. **Roselló:** (Con calma, aunque algo tenso) Adelante, entonces.
+- **해석:** (차분하지만 약간 긴장한 채) 그럼 말씀하시죠.
+- **주요 단어:** `calma` (명사, 여) 침착함 / `algo` (부사) 약간 / `tenso` (형용사) 긴장한 / `adelante` (부사) 앞으로, 어서
+- **문법:** 동사 생략. `algo` + 형용사 = "다소 ~한".
+- **표현:** `Adelante` = "어서 하세요, 말씀하세요".
+- **시제:** 동사 없음 (tenso는 형용사)
+
+### 3-58. **Álvaro:** No.
+- **해석:** 아니요.
+- **주요 단어:** `no` 아니요
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-59. **Álvaro:** Con todo el respeto que su... reconocimiento merece, no.
+- **해석:** 당신의… 인정에 합당한 모든 존경을 담아 말씀드리지만, 거절합니다.
+- **주요 단어:** `respeto` (명사) 존경, 존중 / `reconocimiento` (명사) 인정, 평가 / `merecer` 앞에서 설명
+- **문법:** 관계사절 `que su reconocimiento merece`(선행사 respeto, 주어 reconocimiento). 말줄임표는 적당한 단어를 고르는 망설임.
+- **표현:** `Con todo el respeto` = "외람되지만, 실례지만" — 거절 앞 완충 표현. 3-1의 로셀요 표현을 되받아 씀.
+- **시제:**
+  - `merece` → merecer | 직설법 현재 3인칭 단수 | 일반적 판단 | 1인칭 merezco 불규칙
+
+### 3-60. **Roselló:** ¿Puedo preguntar por qué, sin más rodeos?
+- **해석:** 돌려 말하지 말고, 이유를 여쭤봐도 되겠습니까?
+- **주요 단어:** `preguntar` (동사) 묻다 / `rodeo` (명사) 우회, 에두름
+- **문법:** `por qué` 간접의문(이유). `¿Puedo + 부정사?` 허락 요청.
+- **표현:** `sin (más) rodeos` = "돌려 말하지 않고, 단도직입적으로".
+- **시제:**
+  - `Puedo` → poder | 직설법 현재 1인칭 단수 | 허락 구하기 | 불규칙(o→ue)
+  - `preguntar` → 부정사 | poder 뒤
+
+### 3-61. **Álvaro:** Porque el poder que me ofrece está construido sobre el sufrimiento de gente que nunca eligió formar parte de esto.
+- **해석:** 당신이 제게 제안하는 권력은 이 일에 끼기로 한 번도 선택한 적 없는 사람들의 고통 위에 세워져 있기 때문입니다.
+- **주요 단어:** `ofrecer` 앞에서 설명 / `sufrimiento` (명사) 고통 / `elegir` (동사) 선택하다 / `formar parte de` ~의 일부가 되다
+- **문법:** `estar + 과거분사` = 결과 상태("세워져 있다"). ser + 과거분사(수동 동작)와 구분. 관계사절 두 개(que me ofrece / que nunca eligió).
+- **시제:**
+  - `ofrece` → ofrecer | 직설법 현재 3인칭 단수 (usted) | 지금 하는 제안 | 1인칭 ofrezco 불규칙
+  - `está construido` → estar + construir 과거분사 | estar 직설법 현재 3인칭 단수 | 현재의 결과 상태 | estar 불규칙
+  - `eligió` → elegir | 직설법 단순과거 3인칭 단수 | 과거의 (선택하지 않은) 완결된 행위 | 불규칙(e→i: eligió)
+  - `formar` → 부정사 | elegir 뒤
+
+### 3-62. **Álvaro:** No hay cantidad de buenas intenciones futuras que borre eso.
+- **해석:** 미래의 선의가 아무리 많아도 그걸 지울 수는 없습니다.
+- **주요 단어:** `cantidad` (명사, 여) 양 / `intención` (명사, 여) 의도 / `futuro` (형용사) 미래의 / `borrar` (동사) 지우다
+- **문법:** 부정된 선행사(no hay … que) 뒤 관계사절은 접속법. borre의 주어는 cantidad(단수).
+- **시제:**
+  - `hay` → haber | 직설법 현재 비인칭 | 존재 부정 | 불규칙(hay)
+  - `borre` → borrar | 접속법 현재 3인칭 단수 | 존재하지 않는 선행사를 수식 → 접속법 | 규칙
+
+### 3-63. **Camila:** Y porque algunas líneas, una vez cruzadas, cambian a la persona que las cruza, para siempre.
+- **해석:** 그리고 어떤 선들은 한 번 넘으면, 그 선을 넘은 사람을 영원히 바꿔 놓기 때문이에요.
+- **주요 단어:** `línea` (명사, 여) 선 / `una vez` + 과거분사 일단 ~하면 / `cruzar` (동사) 건너다, 넘다 / `cambiar` (동사) 바꾸다 / `para siempre` 영원히
+- **문법:** `una vez cruzadas` 과거분사 구문(= una vez que se cruzan), líneas에 일치. `las` = líneas. 사람 목적어 앞 a.
+- **시제:**
+  - `cruzadas` → cruzar | 과거분사 여성 복수 | 완료 조건 | 규칙
+  - `cambian` → cambiar | 직설법 현재 3인칭 복수 | 일반적 진리 | 규칙
+  - `cruza` → cruzar | 직설법 현재 3인칭 단수 | 일반적 진리(총칭) | 규칙(z→c는 접속법 cruce에서)
+
+### 3-64. **Camila:** Le pasó a usted.
+- **해석:** 당신에게 그런 일이 일어났죠.
+- **주요 단어:** `pasar` (동사) 일어나다
+- **문법:** `Le ... a usted` 간접목적어 중복(강조).
+- **시제:**
+  - `pasó` → pasar | 직설법 단순과거 3인칭 단수 | 과거 한 시점에 완결된 변화 | 규칙
+
+### 3-65. **Camila:** No queremos que nos pase a nosotros.
+- **해석:** 우리에겐 그런 일이 일어나길 원하지 않아요.
+- **주요 단어:** `querer` 앞에서 설명 / `pasar` 앞에서 설명
+- **문법:** `querer que` + 접속법 (주어가 다를 때 희망 → 접속법). `nos ... a nosotros` 중복 강조.
+- **시제:**
+  - `queremos` → querer | 직설법 현재 1인칭 복수 | 현재의 의지 | 불규칙(e→ie, 단 nosotros형은 변화 없음)
+  - `pase` → pasar | 접속법 현재 3인칭 단수 | 희망·의지 동사 뒤 → 접속법 | 규칙
+
+### 3-66. **Roselló:** (Asiente lentamente, sin sorpresa evidente) Es la respuesta que, en el fondo, esperaba, aunque tenía que intentarlo de todas formas.
+- **해석:** (눈에 띄는 놀람 없이 천천히 고개를 끄덕이며) 내심 예상했던 대답입니다. 그래도 어쨌든 시도는 해 봐야 했죠.
+- **주요 단어:** `asentir` (동사) 고개를 끄덕이다, 동의하다 / `sorpresa` (명사, 여) 놀람 / `en el fondo` 속으로는, 내심 / `intentar` (동사) 시도하다
+- **문법:** `tener que` + 부정사 의무. `intentarlo` lo 부착. aunque + 직설법(사실 양보).
+- **시제:**
+  - `Asiente` → asentir | 직설법 현재 3인칭 단수 | 지문 현재 묘사 | 불규칙(e→ie)
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 판단 | 불규칙
+  - `esperaba` → esperar | 직설법 불완료과거 1인칭 단수 | 과거에 계속 품고 있던 예상(상태) → 불완료 | 규칙
+  - `tenía` → tener | 직설법 불완료과거 1인칭 단수 | 과거의 지속적 의무감(배경) → 불완료. 단순과거 tuve que면 "실제로 해야 했고 했다"는 완결 사건 느낌 | 규칙형(불완료)
+  - `intentar` → 부정사 | tener que 뒤
+
+### 3-67. **Álvaro:** ¿Y ahora qué?
+- **해석:** 그럼 이제 어떻게 되는 겁니까?
+- **주요 단어:** `ahora` (부사) 이제
+- **문법:** 동사 생략 관용 의문.
+- **표현:** `¿Y ahora qué?` = "이제 어쩔 건데?"
+- **시제:** 동사 없음
+
+### 3-68. **Álvaro:** ¿Volvemos a las amenazas?
+- **해석:** 다시 협박으로 돌아가는 건가요?
+- **주요 단어:** `volver a` ~로 돌아가다 / `amenaza` (명사, 여) 협박
+- **문법:** 여기서 `volver a` + 명사 = 장소·상태로 복귀(부정사 반복 용법과 구분).
+- **시제:**
+  - `Volvemos` → volver | 직설법 현재 1인칭 복수 | 가까운 미래를 묻는 현재(제안·확인 의문) | 불규칙(o→ue, nosotros형은 변화 없음)
+
+### 3-69. **Roselló:** No, esta vez no.
+- **해석:** 아니요, 이번엔 아닙니다.
+- **주요 단어:** `esta vez` 이번에는
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-70. **Roselló:** El respeto que sentía por usted no ha desaparecido, solo porque haya rechazado la oferta.
+- **해석:** 당신이 제안을 거절했다고 해서 제가 당신께 품어 온 존경이 사라진 건 아닙니다.
+- **주요 단어:** `sentir` (동사) 느끼다 / `desaparecer` (동사) 사라지다 / `rechazar` (동사) 거절하다
+- **문법:** 부정문 + `(solo) porque` + 접속법: 원인 자체를 부정("~때문에 …한 것은 아니다") → 접속법. 원문은 줄바꿈으로 나뉘었으나 한 문장.
+- **시제:**
+  - `sentía` → sentir | 직설법 불완료과거 1인칭 단수 | 과거부터 지속되던 감정(상태) | 불완료는 규칙(현재형 e→ie)
+  - `ha desaparecido` → desaparecer | 직설법 현재완료 3인칭 단수 | 지금 이 순간까지의 결과("지금도 남아 있다") | 과거분사 규칙(현재 1인칭 desaparezco)
+  - `haya rechazado` → rechazar | 접속법 현재완료 3인칭 단수 (pretérito perfecto de subjuntivo) | 부정된 원인절 → 접속법 + 방금 완료된 거절 → 완료형 | haber 불규칙(haya)
+
+### 3-71. **Roselló:** Quizás, incluso, haya crecido un poco.
+- **해석:** 어쩌면 오히려 조금 더 커졌을지도 모르죠.
+- **주요 단어:** `quizás` 앞에서 설명 / `incluso` (부사) 심지어 / `crecer` (동사) 자라다, 커지다
+- **문법:** `quizás` 뒤 접속법 = 불확실성 강조(직설법 ha crecido도 가능하나 더 확신적).
+- **시제:**
+  - `haya crecido` → crecer | 접속법 현재완료 3인칭 단수 | quizás(의심) + 지금까지 완료된 변화 → 접속법 현재완료 | haber 불규칙, crecer 1인칭 crezco 불규칙
+
+### 3-72. **Camila:** Eso no cambia lo que va a pasar después.
+- **해석:** 그렇다고 앞으로 일어날 일이 달라지진 않아요.
+- **주요 단어:** `cambiar` 앞에서 설명 / `después` (부사) 그 후에
+- **문법:** `lo que` 중성 관계사.
+- **시제:**
+  - `cambia` → cambiar | 직설법 현재 3인칭 단수 | 일반적 판단 | 규칙
+  - `va a pasar` → ir a + pasar | ir 직설법 현재 3인칭 단수 + 부정사 | 예정된 가까운 미래 | ir 불규칙
+
+### 3-73. **Camila:** Vamos a seguir persiguiéndolo, exactamente igual que antes.
+- **해석:** 우리는 예전과 똑같이 계속 당신을 쫓을 거예요.
+- **주요 단어:** `seguir` + 현재분사 계속 ~하다 / `igual que` ~와 같이 / `antes` (부사) 전에
+- **문법:** 이중 우언법 ir a + seguir + 현재분사. `persiguiéndolo`: 현재분사 + lo 부착 → 강세부호.
+- **시제:**
+  - `Vamos a seguir` → ir a + seguir | ir 직설법 현재 1인칭 복수 + 부정사 | 확고한 미래 의지 | ir 불규칙
+  - `seguir` → 부정사 | ir a 뒤 | (sigo: e→i 불규칙)
+  - `persiguiendo` → perseguir | 현재분사 | seguir + 현재분사 = 지속 | 불규칙 분사(e→i: persiguiendo)
+
+### 3-74. **Roselló:** Lo sé, y lo acepto.
+- **해석:** 압니다. 그리고 받아들입니다.
+- **주요 단어:** `saber` (동사) 알다 / `aceptar` 앞에서 설명
+- **문법:** `lo` = 앞 내용 전체를 받는 중성 대명사.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재 인지 | 불규칙(1인칭 sé)
+  - `acepto` → aceptar | 직설법 현재 1인칭 단수 | 현재 태도 | 규칙
+
+### 3-75. **Roselló:** Sería decepcionante, de alguna forma retorcida, que dejaran de hacerlo.
+- **해석:** 어떤 뒤틀린 의미에선, 두 분이 그걸 그만둔다면 실망스러울 겁니다.
+- **주요 단어:** `decepcionante` (형용사) 실망스러운 / `de alguna forma` 어떤 면에서 / `retorcido` (형용사) 비틀린, 꼬인 / `dejar de` 앞에서 설명
+- **문법:** `Sería + 형용사 + que` + 접속법 과거: 주절이 조건법이므로 종속절은 접속법 불완료과거(시제 일치).
+- **시제:**
+  - `Sería` → ser | 조건법 단순형 3인칭 단수 | 가정적 판단("만약 그렇다면") | 규칙형(ser + ía)
+  - `dejaran` → dejar | 접속법 불완료과거 3인칭 복수 (pretérito imperfecto de subjuntivo) | 조건법 주절 + 가치판단 que → 접속법 과거 | 규칙(-ara형, -ase형 dejasen도 가능)
+  - `hacer` → 부정사 | dejar de 뒤 | lo 부착
+
+### 3-76. **Álvaro:** (Se levanta) Entonces creo que esta comida ha terminado.
+- **해석:** (일어서며) 그럼 이 식사는 끝난 것 같군요.
+- **주요 단어:** `levantarse` (재귀동사) 일어서다 / `creer` (동사) 생각하다 / `terminar` (동사) 끝나다
+- **문법:** `creo que` + 직설법(긍정 믿음). no creo que면 접속법.
+- **시제:**
+  - `Se levanta` → levantarse | 직설법 현재 3인칭 단수 | 지문 현재 | 규칙
+  - `creo` → creer | 직설법 현재 1인칭 단수 | 현재 판단 | 규칙(단순과거 creyó에서 y)
+  - `ha terminado` → terminar | 직설법 현재완료 3인칭 단수 | 방금 끝나 현재와 연결 → 현재완료 | 규칙
+
+### 3-77. **Roselló:** (También se levanta, con calma) Así parece.
+- **해석:** (그 역시 침착하게 일어서며) 그런 것 같군요.
+- **주요 단어:** `parecer` (동사) ~인 것 같다
+- **문법:** `Así parece` = "그렇게 보인다".
+- **시제:**
+  - `se levanta` → levantarse | 직설법 현재 3인칭 단수 | 지문 현재 | 규칙
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재 판단 | 1인칭 parezco 불규칙
+
+### 3-78. **Roselló:** Gracias por venir, a los dos.
+- **해석:** 두 분 모두 와 주셔서 감사합니다.
+- **주요 단어:** `venir` (동사) 오다 / `a los dos` 두 사람 모두에게
+- **문법:** `Gracias por` + 부정사/명사 = ~에 대해 감사.
+- **시제:**
+  - `venir` → 부정사 | por 뒤 | (vengo, vine 불규칙)
+
+### 3-79. **Roselló:** Y gracias, señora Reyes, por la sinceridad.
+- **해석:** 그리고 레예스 부인, 솔직하게 말해 주셔서 감사합니다.
+- **주요 단어:** `sinceridad` (명사, 여) 솔직함
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-80. **Camila:** No necesito su gratitud.
+- **해석:** 당신의 감사는 필요 없어요.
+- **주요 단어:** `gratitud` (명사, 여) 감사
+- **문법:** 특이사항 없음
+- **시제:**
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재 상태 | 규칙
+
+### 3-81. **Roselló:** Aun así, la tiene.
+- **해석:** 그래도 드리겠습니다(그래도 제 감사는 받으신 겁니다).
+- **주요 단어:** `aun así` 그렇다 하더라도
+- **문법:** `la` = la gratitud.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 (usted) | 현재 상태 | 불규칙(e→ie)
+
+### 3-82. **Roselló:** Buenas tardes, entonces, a los dos.
+- **해석:** 그럼 두 분 모두 좋은 오후 보내십시오.
+- **주요 단어:** `buenas tardes` 오후 인사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-83. **Roselló:** Hasta que volvamos a encontrarnos, de una forma u otra.
+- **해석:** 어떤 식으로든 다시 만나게 될 때까지요.
+- **주요 단어:** `hasta que` ~할 때까지 / `encontrarse` (재귀동사) 서로 만나다 / `de una forma u otra` 어떻게든
+- **문법:** `hasta que` + 접속법 (아직 일어나지 않은 미래). o → u (다음 단어가 o-로 시작).
+- **시제:**
+  - `volvamos` → volver | 접속법 현재 1인칭 복수 | 미래 시점 시간절 → 접속법 | 불규칙(o→ue, nosotros형 변화 없음)
+  - `encontrar` → 부정사 | volver a 뒤, 재귀 nos 부착 | 불규칙(o→ue)
+
+### 3-84. **Álvaro:** Cuente con ello.
+- **해석:** 그건 틀림없을 겁니다(믿으셔도 됩니다).
+- **주요 단어:** `contar con` ~를 믿다, 기대하다 / `ello` (중성 대명사) 그것
+- **문법:** 전치사 뒤 중성 대명사 ello.
+- **표현:** `Cuente con ello` = "당연하죠, 그렇게 될 겁니다" — 여기선 다시 쫓겠다는 은근한 경고.
+- **시제:**
+  - `Cuente` → contar | 명령법 usted 긍정형 (형태는 접속법 현재) | 단언·권유 | 불규칙(o→ue: cuente)
+
+### 3-85. **Roselló:** (Los observa marcharse, sin moverse de la mesa) ...
+- **해석:** (테이블에서 움직이지 않고 그들이 떠나는 것을 지켜본다) …
+- **주요 단어:** `observar` (동사) 지켜보다 / `marcharse` (재귀동사) 떠나다 / `moverse` (재귀동사) 움직이다
+- **문법:** 지각동사 observar + 목적어(los) + 부정사. `sin` + 부정사 = ~하지 않고.
+- **시제:**
+  - `observa` → observar | 직설법 현재 3인칭 단수 | 지문 현재 | 규칙
+  - `marcharse` → 부정사 | 지각동사 뒤
+  - `moverse` → 부정사 | sin 뒤 | 불규칙(o→ue: muevo)

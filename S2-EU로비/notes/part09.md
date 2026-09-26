@@ -581,7 +581,7 @@
 ### 39-15. **Camila:** Los nombres en los contratos están parcialmente ocultos, pero hay patrones en las fechas de pago que podrían ayudarnos a cruzarlos con calendarios públicos de reuniones.
 - **해석:** 계약서의 이름들은 일부 가려져 있지만, 지급 날짜에 패턴이 있어서 그걸 공개된 회의 일정표와 대조하는 데 도움이 될 수 있어.
 - **주요 단어:** `el contrato` (명사) 계약(서) / `parcialmente` (부사) 부분적으로 / `oculto/a` (형용사) 숨겨진 / `la fecha de pago` 지급일 / `cruzar` (동사) 교차하다; (자료를) 대조하다 / `el calendario` (명사) 일정표 / `la reunión` (명사·여성) 회의
-- **문법:** `estar` + 형용사(ocultos) = 결과 상태. 관계절 `que podrían ayudarnos` (선행사 patrones). `cruzarlos`: lo s = los nombres. `ayudar a` + 부정사.
+- **문법:** `estar` + 형용사(ocultos) = 결과 상태. 관계절 `que podrían ayudarnos` (선행사 patrones). `cruzarlos`: los = los nombres. `ayudar a` + 부정사.
 - **표현:** `cruzar datos` — "데이터를 교차 대조하다".
 - **시제:**
   - `están` → estar | 직설법 현재, 3인칭 복수 | 현재 상태(가려진 상태) | 불규칙
@@ -670,7 +670,7 @@
 - **문법:** `especializado`는 과거분사가 형용사로 contacto에 일치.
 - **시제:**
   - `Tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 보유 | 불규칙
-  - `especializado` → especializar | 과거분사(남성 단수) | 형용사적 | 규칙(z → z 유지)
+  - `especializado` → especializar | 과거분사(남성 단수) | 형용사적 | 규칙
 
 ### 39-26. **Álvaro:** Puedo pedirle ayuda.
 - **해석:** 그에게 도움을 청할 수 있어.
@@ -695,3 +695,171 @@
 - **시제:**
   - `Empecemos` → empezar | 명령법 1인칭 복수(접속법 현재형) | 제안 | 철자 변화(z → c) (앞에서 설명)
 
+## 장면 40. 브뤼셀 특파원 이니고와의 화상회의
+> 알바로가 하비에르의 브뤼셀 특파원 동료 이니고 사라비아와 연결해, 카밀라와 함께 3자 화상회의를 합니다.
+
+### 40-1. **Íñigo:** (Por videollamada desde Bruselas) Javier me puso al tanto.
+- **해석:** (브뤼셀에서 화상통화로) 하비에르가 상황을 알려 줬어요.
+- **주요 단어:** `la videollamada` (명사·여성) 화상통화 / `desde` (전치사) ~에서(부터) / `poner al tanto` ~에게 사정을 알려 주다
+- **문법:** `me`는 직접목적대명사(나를 [사정에] 밝게 하다). `al` = a + el.
+- **표현:** `poner a alguien al tanto` — "누구에게 상황을 브리핑하다", 매우 흔한 관용구.
+- **시제:**
+  - `puso` → poner | 직설법 단순과거, 3인칭 단수 | 과거의 완결된 한 번의 행위 | 불규칙(pus-, 악센트 없음)
+  - 비교: 스페인식이라면 오늘 일이면 `me ha puesto`, 여기선 이전의 특정 시점 일로 보아 단순과거.
+
+### 40-2. **Íñigo:** Esto podría ser una historia enorme, si conseguimos probarlo bien.
+- **해석:** 제대로 증명만 해낸다면, 이건 엄청난 기사가 될 수 있어요.
+- **주요 단어:** `la historia` (명사·여성) 이야기; (언론) 기사거리 / `enorme` (형용사) 거대한 / `conseguir` + 부정사 ~하는 데 성공하다 / `probar` (동사) 증명하다
+- **문법:** 조건문: 귀결절 조건법 + `si` + 직설법 현재 (가능성 완곡). `probarlo`: lo = 중성(그 사실).
+- **표현:** `historia` — 기자 입장에서 "특종/기사".
+- **시제:**
+  - `podría` → poder | 조건법 단순, 3인칭 단수 | 가능성을 조심스럽게 | 불규칙 어간(podr-)
+  - `ser` → ser | 부정사 | poder 뒤 | (부정사)
+  - `conseguimos` → conseguir | 직설법 현재, 1인칭 복수 | si 뒤 실현 가능 조건 | 1인칭 복수는 어간 변화 없음(다른 인칭은 e → i: consigo)
+  - `probar(-lo)` → probar | 부정사 | conseguir 뒤 | (부정사; 활용 시 o → ue)
+
+### 40-3. **Camila:** Necesito acceso a los registros de transparencia de reuniones con lobistas, de los últimos tres años.
+- **해석:** 최근 3년간 로비스트와의 회의에 관한 투명성 기록에 접근해야 해요.
+- **주요 단어:** `el acceso` / `el registro de transparencia` 투명성 등록부 / `el/la lobista` (앞에서 설명) / `último/a` (형용사) 최근의, 마지막의
+- **문법:** `los últimos tres años` — 스페인어는 `últimos`가 숫자 앞에 옴.
+- **표현:** `Registro de Transparencia` — EU의 실제 로비 등록 제도 명칭.
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재 필요 | 규칙
+
+### 40-4. **Íñigo:** Son públicos, aunque dispersos en varias bases de datos distintas, según la institución.
+- **해석:** 공개돼 있긴 하지만, 기관에 따라 여러 다른 데이터베이스에 흩어져 있어요.
+- **주요 단어:** `público/a` 공개의 / `aunque` 비록 ~지만 / `disperso/a` (형용사) 흩어진 / `varios/as` (형용사) 여러 / `la base de datos` 데이터베이스 / `distinto/a` (형용사) 다른 / `según` ~에 따라
+- **문법:** `ser públicos`(본질적 성격: 공개 문서) — 주어 los registros 생략. `aunque` 뒤 동사(están) 생략. `según` = "~에 따라 (다르다)".
+- **시제:**
+  - `Son` → ser | 직설법 현재, 3인칭 복수 | 기록의 성격(분류) | 불규칙
+
+### 40-5. **Álvaro:** ¿Podrías ayudarnos a compilarlos?
+- **해석:** 그걸 모으는 걸 도와줄 수 있어?
+- **주요 단어:** `ayudar a` + 부정사 / `compilar` (동사) 수집·편찬하다
+- **문법:** `ayudarnos`(nos 부착), `compilarlos`(los = registros 부착).
+- **시제:**
+  - `Podrías` → poder | 조건법 단순, 2인칭 단수 | 공손한 부탁 | 불규칙 어간(podr-)
+  - `ayudar(-nos)` → ayudar | 부정사 | poder 뒤 | 규칙
+  - `compilar(-los)` → compilar | 부정사 | ayudar a 뒤 | 규칙
+  - 비교: `¿Puedes...?`(직설법 현재)보다 조건법이 더 정중함.
+
+### 40-6. **Íñigo:** Puedo, aunque llevará tiempo.
+- **해석:** 할 수 있어요, 시간은 좀 걸리겠지만.
+- **주요 단어:** `llevar tiempo` 시간이 걸리다 (앞에서 설명)
+- **문법:** `aunque` + 직설법 = 사실로 인정하는 양보.
+- **시제:**
+  - `Puedo` → poder | 직설법 현재, 1인칭 단수 | 현재 능력 | 불규칙(o → ue)
+  - `llevará` → llevar | 직설법 단순미래, 3인칭 단수 | 앞으로 걸릴 시간에 대한 예측 | 규칙
+
+### 40-7. **Íñigo:** ¿Qué nombres o entidades debería priorizar?
+- **해석:** 어떤 이름이나 단체를 우선적으로 봐야 할까요?
+- **주요 단어:** `la entidad` (앞에서 설명) / `deber` (동사) ~해야 하다 / `priorizar` (동사) 우선시하다
+- **문법:** `deber` + 부정사 = 의무/권고.
+- **시제:**
+  - `debería` → deber | 조건법 단순, 1인칭 단수 | 권고·조언을 완곡하게 묻는 조건법("~하는 게 좋을까") | 규칙
+  - `priorizar` → priorizar | 부정사 | deber 뒤 | 규칙
+
+### 40-8. **Camila:** Bruselas Estrategia, y cualquier consultor individual vinculado a esa firma en los contratos que tenemos.
+- **해석:** 브뤼셀 에스트라테히아, 그리고 우리가 가진 계약서에서 그 회사와 연결된 개인 컨설턴트라면 누구든요.
+- **주요 단어:** `individual` (형용사) 개인의 / `vinculado/a a` ~와 연결된 (앞에서 설명)
+- **문법:** 동사 없는 목록식 대답. 관계절 `que tenemos`.
+- **시제:**
+  - `vinculado` → vincular | 과거분사(남성 단수) | 형용사적 | 규칙
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재 보유 | tener의 1인칭 복수는 어간 변화 없음
+
+### 40-9. **Íñigo:** Dame un par de días.
+- **해석:** 이틀 정도만 줘요.
+- **주요 단어:** `un par de` 두어 개의, 몇몇의
+- **문법:** 긍정 명령 + me 부착.
+- **표현:** `un par de días` — "하루이틀, 며칠".
+- **시제:**
+  - `Da(-me)` → dar | 명령법 긍정, 2인칭 단수 | 요청 | (앞에서 설명)
+
+### 40-10. **Íñigo:** Mientras tanto, ¿tenéis algún nombre concreto de consultor?
+- **해석:** 그동안에, 혹시 구체적인 컨설턴트 이름이 있나요?
+- **주요 단어:** `mientras tanto` 그동안 / `algún` (형용사) 어떤 (alguno가 남성 단수 명사 앞에서 축약)
+- **문법:** `vosotros` 형 `tenéis` — 스페인식 2인칭 복수(너희).
+- **표현:** 스페인에서 여러 사람에게 말할 때 `vosotros` 사용(중남미는 ustedes).
+- **시제:**
+  - `tenéis` → tener | 직설법 현재, 2인칭 복수(vosotros) | 현재 보유 여부 질문 | vosotros형은 어간 변화 없음
+
+### 40-11. **Camila:** Uno, parcialmente visible en un contrato: aparece como “J. Verhoeven”, sin más detalles.
+- **해석:** 하나 있어요. 계약서 하나에 일부만 보이는데, 'J. 페르후번'으로만 나와 있고 다른 정보는 없어요.
+- **주요 단어:** `visible` (형용사) 보이는 / `aparecer como` ~로 나타나다 / `sin más detalles` 더 이상의 세부 정보 없이 / `el detalle` (명사) 세부사항
+- **문법:** `Uno`는 nombre를 받는 대명사. 콜론(:) 뒤에 설명.
+- **시제:**
+  - `aparece` → aparecer | 직설법 현재, 3인칭 단수 | 문서에 현재 기재된 사실 | 1인칭만 불규칙(aparezco)
+
+### 40-12. **Íñigo:** Ese apellido es bastante común en Bélgica, pero si trabajó antes en instituciones europeas, debería poder localizarlo.
+- **해석:** 그 성은 벨기에에서 꽤 흔하지만, 전에 유럽 기관에서 일했다면 찾아낼 수 있을 거예요.
+- **주요 단어:** `el apellido` (명사) 성 / `bastante` (부사) 꽤 / `común` (형용사) 흔한 / `Bélgica` 벨기에 / `localizar` (동사) 위치를 찾아내다
+- **문법:** `si` + 직설법 단순과거(과거 사실 여부가 불확실한 조건) → 귀결절 조건법. `deber poder` + 부정사 = "~할 수 있을 것이다"(추측/기대). `localizarlo`: lo = 그 사람.
+- **표현:** `debería poder` — "(당연히) ~할 수 있을 것이다", 기대를 나타내는 흔한 구조.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 일반적 사실 | 불규칙
+  - `trabajó` → trabajar | 직설법 단순과거, 3인칭 단수 | 과거 사실에 대한 가정(실제로 그랬는지 모름) — si 뒤에 과거 사실을 조건으로 둘 땐 직설법 | 규칙
+  - `debería` → deber | 조건법 단순, 1인칭 단수 | 기대·추측의 완곡 표현 | 규칙
+  - `poder` → poder | 부정사 | deber 뒤 | (부정사)
+  - `localizar(-lo)` → localizar | 부정사 | poder 뒤 | 규칙(활용 시 e 앞 z → c)
+  - 비교: `si hubiera trabajado`(접속법 과거완료)는 사실과 반대 가정, `si trabajó`는 "만약 실제로 그랬다면"의 열린 조건.
+
+### 40-13. **Álvaro:** ¿Hay algún riesgo para ti, investigando esto desde dentro de Bruselas?
+- **해석:** 브뤼셀 안에서 이걸 조사하는 게 너한테 위험하진 않아?
+- **주요 단어:** `el riesgo` (명사) 위험 / `investigar` (동사) 조사하다 / `desde dentro de` ~의 안에서
+- **문법:** 무인칭 `hay`. 현재분사 `investigando`가 조건·상황("~하면서/~할 때")을 나타냄. `para ti` — 전치사 뒤 대명사 ti.
+- **시제:**
+  - `Hay` → haber | 직설법 현재, 무인칭 | 존재 여부 질문 | 불규칙
+  - `investigando` → investigar | 현재분사 | 상황·방식("조사하면서") | 규칙
+
+### 40-14. **Íñigo:** Siempre lo hay, con este tipo de historias.
+- **해석:** 이런 종류의 기사에는 늘 있죠.
+- **주요 단어:** `siempre` (부사) 항상 / `el tipo` 종류
+- **문법:** `lo hay` — `lo`가 앞의 `algún riesgo`를 받는 대명사(haber + 대명사 lo 구조, 스페인에서 흔함).
+- **표현:** `Siempre lo hay` — "그런 건 늘 있기 마련이지".
+- **시제:**
+  - `hay` → haber | 직설법 현재, 무인칭 | 일반적 진리 | 불규칙
+
+### 40-15. **Íñigo:** Pero llevo años cubriendo temas de transparencia europea, sé cómo moverme con cuidado.
+- **해석:** 하지만 유럽의 투명성 문제를 몇 년째 취재해 왔으니, 조심스럽게 움직이는 법을 알아요.
+- **주요 단어:** `llevar` + 기간 + 현재분사 ~째 ~하고 있다 / `cubrir` (동사) 덮다; (언론) 취재하다 / `el tema` (명사) 주제 / `moverse` (재귀동사) 움직이다 / `con cuidado` 조심스럽게
+- **문법:** `llevar + 기간 + gerundio` = 과거부터 지금까지 지속되는 행위("~째 하고 있다"). 간접의문 `cómo moverme`(의문사 + 부정사). `moverme`: 재귀 me 부착.
+- **표현:** `cubrir un tema` — "어떤 분야를 취재 담당하다".
+- **시제:**
+  - `llevo` → llevar | 직설법 현재, 1인칭 단수 | 현재까지 계속되는 기간 표현(지속) | 규칙
+  - `cubriendo` → cubrir | 현재분사 | llevar + 기간 구문의 지속 동작 | 규칙(과거분사는 cubierto로 불규칙)
+  - `sé` → saber | 직설법 현재, 1인칭 단수 | 현재 능력 | 불규칙(sé)
+  - `mover(-me)` → moverse | 부정사(재귀) | cómo + 부정사 | (부정사; 활용 시 o → ue)
+  - 비교: `llevo años cubriendo` ≈ `hace años que cubro` ≈ `he cubierto durante años`.
+
+### 40-16. **Camila:** Te agradezco mucho la ayuda, Íñigo.
+- **해석:** 도와줘서 정말 고마워요, 이니고.
+- **주요 단어:** `agradecer` (동사) 감사하다
+- **문법:** `agradecer algo a alguien` — 감사하는 대상(사물)이 직접목적어(la ayuda), 사람이 간접목적어(te).
+- **시제:**
+  - `agradezco` → agradecer | 직설법 현재, 1인칭 단수 | 현재 감정 표현 | 불규칙(-cer → -zco)
+
+### 40-17. **Íñigo:** Cualquier cosa que ayude a exponer este tipo de manipulación regulatoria, cuenta conmigo.
+- **해석:** 이런 규제 조작을 폭로하는 데 도움이 되는 일이라면 뭐든, 저를 믿으셔도 돼요.
+- **주요 단어:** `ayudar a` / `exponer` (동사) 드러내다, 폭로하다 / `la manipulación` (명사·여성) 조작 / `regulatorio/a` (형용사) 규제의 / `contar con` ~을 믿다, 의지하다 / `conmigo` 나와 함께
+- **문법:** 관계절 `que ayude` — 선행사 `cualquier cosa`가 불특정이라 접속법. 전반부(명사구)는 문법적으로 느슨하게 주제어로 제시(= para cualquier cosa que...).
+- **표현:** `Cuenta conmigo` — "나만 믿어/날 믿어도 돼", 도움을 약속하는 관용구.
+- **시제:**
+  - `ayude` → ayudar | 접속법 현재, 3인칭 단수 | 불특정 선행사(cualquier cosa) | 규칙
+  - `exponer` → exponer | 부정사 | ayudar a 뒤 | (부정사; poner형 불규칙 동사)
+  - `cuenta` → contar | 명령법 긍정, 2인칭 단수(tú) | 권유·약속의 명령 | 어간모음 변화 불규칙(o → ue)
+
+### 40-18. **Javier:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 40-19. **Javier:** Mantengámonos en contacto constante mientras avanza esto.
+- **해석:** 이 일이 진행되는 동안 계속 긴밀하게 연락하자.
+- **주요 단어:** `mantenerse` (재귀동사) 유지하다 / `en contacto` 연락하는 / `constante` (형용사) 지속적인 / `mientras` (접속사) ~하는 동안 / `avanzar` (동사) 나아가다, 진행되다
+- **문법:** 1인칭 복수 청유형 + 재귀대명사 nos: `mantengamos + nos` → `-s` 탈락 → `mantengámonos` (악센트 추가). `mientras` + 직설법 = 동시 진행 중인 사실. 주어 `esto`가 동사 뒤로 도치.
+- **표현:** `mantenerse en contacto` — "연락을 유지하다".
+- **시제:**
+  - `Mantengamos(-nos)` → mantenerse | 명령법 1인칭 복수(접속법 현재형) | "~하자" 제안 | 불규칙(tener형: manteng-); 재귀대명사 앞에서 s 탈락
+  - `avanza` → avanzar | 직설법 현재, 3인칭 단수 | mientras 절에서 진행 중인 과정 | 규칙
+  - 비교: `mientras avance`(접속법)이면 "진행되는 한/진행될 동안(미래적)"의 뉘앙스, 여기 직설법은 지금 진행 중인 과정으로 봄.

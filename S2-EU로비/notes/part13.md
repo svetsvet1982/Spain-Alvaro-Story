@@ -494,4 +494,256 @@
 - **시제:**
   - `Saliendo` → salir | 현재분사 | 지금 진행 중인 동작(estoy 생략) | 불규칙 동사지만 현재분사는 규칙
 
-<!-- PART60END -->
+## 장면 61. 스위스 당국의 감시 인계
+> 알바로가 안전하게 철수한 뒤, 스위스 당국이 정식으로 감시를 인계받습니다.
+
+### 61-1. **Contacto Suizo:** (Por videoconferencia) Hemos asumido la vigilancia directa del objetivo, con nuestro propio equipo, desde que su agente se retiró.
+- **해석:** (화상회의로) 귀측 요원이 철수한 이후로, 저희 자체 팀이 대상에 대한 직접 감시를 맡았습니다.
+- **주요 단어:** `asumir` (동사) 떠맡다, 인수하다 / `objetivo` (명사, 남) 목표, (감시) 대상 / `propio` (형용사) 자신의 / `equipo` (명사, 남) 팀 / `agente` (명사) 요원 / `retirarse` (재귀동사) 철수하다
+- **문법:** `desde que + 직설법`: 과거의 기점(~한 이후로). `su agente`: usted/ustedes(귀측)의 요원.
+- **시제:**
+  - `Hemos asumido` → asumir | 직설법 현재완료 1인칭 복수 (pretérito perfecto compuesto) | 인수한 결과가 지금도 유효하고 현재와 연결되어 있어 현재완료 | haber 불규칙(hemos), 과거분사 규칙
+  - `se retiró` → retirarse | 직설법 단순과거 3인칭 단수 | 특정 시점에 끝난 한 번의 동작(철수) | 규칙
+
+### 61-2. **Carlos:** Gracias por la rapidez.
+- **해석:** 신속하게 대응해 주셔서 감사합니다.
+- **주요 단어:** `rapidez` (명사, 여) 신속함
+- **문법:** `gracias por + 명사`.
+- **시제:** 동사 없음
+
+### 61-3. **Carlos:** ¿Algún movimiento del sujeto?
+- **해석:** 대상에게 무슨 움직임이 있습니까?
+- **주요 단어:** `movimiento` 앞에서 설명 / `sujeto` (명사, 남) 대상 인물
+- **문법:** algún 앞에서 설명.
+- **시제:** 동사 없음
+
+### 61-4. **Contacto Suizo:** Se registró para salir del hotel esta misma tarde, antes de lo previsto originalmente.
+- **해석:** 원래 예정보다 앞당겨, 바로 오늘 오후에 호텔 체크아웃 수속을 했습니다.
+- **주요 단어:** `registrarse` 앞에서 설명 / `esta misma tarde` 바로 오늘 오후 / `previsto` (형용사) 예정된 / `originalmente` (부사) 원래
+- **문법:** `antes de lo previsto`: 예정보다 일찍(중성 lo + 과거분사). `para + 부정사` 목적.
+- **표현:** `lo previsto` — 계획된 것, 예정.
+- **시제:**
+  - `Se registró` → registrarse | 직설법 단순과거 3인칭 단수 | 완결된 한 번의 행위로 보고. 스페인에서는 esta misma tarde(오늘)와 함께 현재완료(se ha registrado)가 더 일반적이지만, 단순과거도 사용됨 | 규칙
+  - `salir` → salir | 부정사 | para 뒤
+  - `previsto` → prever | 과거분사 | 예정된 것(완료된 계획) | 불규칙 과거분사(prever → previsto, ver와 같은 변화)
+
+### 61-5. **Álvaro:** (Preocupado) ¿Cree que sospechó de mí específicamente?
+- **해석:** (걱정스럽게) 그가 특히 저를 의심했다고 보십니까?
+- **주요 단어:** `específicamente` (부사) 특별히, 구체적으로
+- **문법:** `creer que`: 의문문에서도 긍정형이면 보통 직설법. (No creo que ... 부정이면 접속법.) usted에게 3인칭 cree.
+- **시제:**
+  - `Preocupado` → preocupar | 과거분사 남성 단수 (지문) | 알바로의 상태 | 규칙
+  - `Cree` → creer | 직설법 현재 3인칭 단수(usted) | 상대의 현재 판단을 물음 | 규칙
+  - `sospechó` → sospechar | 직설법 단순과거 3인칭 단수 | 로비에서의 특정 순간에 의심한 완결된 행위 | 규칙
+
+### 61-6. **Contacto Suizo:** Es posible, aunque también podría ser simple precaución rutinaria de alguien acostumbrado a moverse con cuidado.
+- **해석:** 가능성은 있습니다. 하지만 조심스럽게 움직이는 데 익숙한 사람의 단순한 일상적 경계일 수도 있어요.
+- **주요 단어:** `posible` (형용사) 가능한 / `precaución` (명사, 여) 조심, 예방 / `rutinario` (형용사) 일상적인 / `con cuidado` 조심스럽게
+- **문법:** `aunque + 직설법(조건법)`: 대안 가능성을 사실처럼 제시.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 가능성 판단 | 불규칙
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 추측·가능성 | 불규칙 어간 podr-
+  - `ser` → ser | 부정사 | podría 뒤
+  - `acostumbrado` → acostumbrar | 과거분사(형용사적) | 앞에서 설명
+  - `moverse` → moverse | 부정사(재귀) | acostumbrado a 뒤
+
+### 61-7. **Carlos:** ¿Pueden seguir su rastro, aunque se marche?
+- **해석:** 그가 떠나더라도 그의 흔적을 계속 추적할 수 있습니까?
+- **주요 단어:** `seguir el rastro` 흔적을 쫓다 / `rastro` (명사, 남) 흔적 / `marcharse` (재귀동사) 떠나다
+- **문법:** `aunque + 접속법`: 아직 일어나지 않은 가정("~하더라도"). 사실이면 직설법(aunque se marcha = 떠나긴 하지만).
+- **시제:**
+  - `Pueden` → poder | 직설법 현재 3인칭 복수(ustedes) | 현재의 능력을 물음 | o→ue
+  - `seguir` → seguir | 부정사 | poder 뒤
+  - `se marche` → marcharse | 접속법 현재 3인칭 단수 | aunque 뒤 미래의 가정적 사건이라 접속법 | 규칙
+
+### 61-8. **Contacto Suizo:** Vamos a intentarlo, aunque sin autorización de intervención directa, nuestras opciones son limitadas.
+- **해석:** 시도는 해 보겠지만, 직접 개입 허가가 없으면 저희 선택지는 제한적입니다.
+- **주요 단어:** `intentar` 앞에서 설명 / `opción` (명사, 여) 선택지 / `limitado` (형용사) 제한된
+- **문법:** `ir a + 부정사`: 가까운 미래·의지. 대명사 lo는 부정사 뒤(intentarlo). 여기 aunque는 사실(제한적이라는 현실)이라 직설법.
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수 | ir a + 부정사로 곧 할 계획 | 불규칙(voy, vamos)
+  - `intentarlo` → intentar | 부정사 | ir a 뒤
+  - `son` → ser | 직설법 현재 3인칭 복수 | 상황의 본질적 성격 | 불규칙
+  - `limitadas` → limitar | 과거분사 여성 복수(형용사적) | opciones에 성·수 일치 | 규칙
+
+### 61-9. **Álvaro:** Entonces podríamos perderlo de nuevo.
+- **해석:** 그럼 또 그를 놓칠 수도 있겠네요.
+- **주요 단어:** `perder` (동사) 잃다, 놓치다 / `de nuevo` 다시
+- **문법:** 대명사 lo는 부정사 뒤.
+- **시제:**
+  - `podríamos` → poder | 조건법 단순 1인칭 복수 | 가능성·우려 | 불규칙 어간 podr-
+  - `perderlo` → perder | 부정사 | 참고: 현재형 e→ie(pierdo)
+
+### 61-10. **Carlos:** Es un riesgo real, sí.
+- **해석:** 그래, 현실적인 위험이지.
+- **주요 단어:** `riesgo` (명사, 남) 위험 / `real` (형용사) 실제의
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 성격 규정 | 불규칙
+
+### 61-11. **Carlos:** Pero al menos ahora tenemos una fotografía, un nombre probable, y confirmación de que está activo en la región.
+- **해석:** 하지만 적어도 이제 사진 한 장, 유력한 이름, 그리고 그가 이 지역에서 활동 중이라는 확인은 있잖아.
+- **주요 단어:** `al menos` 적어도 / `probable` (형용사) 유력한, 그럴듯한 / `activo` (형용사) 활동 중인 / `región` (명사, 여) 지역
+- **문법:** `confirmación de que + 직설법`: 확인된 사실. estar activo = 현재 활동 상태.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 현재 확보한 것 | nosotros형 규칙
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재 상태 | 불규칙
+
+### 61-12. **Álvaro:** Es más de lo que teníamos hace una semana.
+- **해석:** 일주일 전에 비하면 훨씬 많은 거죠.
+- **주요 단어:** `hace una semana` 일주일 전
+- **문법:** `más de lo que + 절`: 절과 비교할 때는 que 대신 de lo que.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 현재 평가 | 불규칙
+  - `teníamos` → tener | 직설법 불완료과거 1인칭 복수 (pretérito imperfecto) | 과거의 "가진 상태"(배경·상태)라 불완료과거. 단순과거 tuvimos는 한정된 사건에 씀 | 규칙형
+  - `hace` → hacer | 직설법 현재 3인칭 단수(비인칭) | 경과 시간 | 앞에서 설명
+
+### 61-13. **Carlos:** Cierto.
+- **해석:** 맞아.
+- **주요 단어:** `cierto` (형용사) 맞는, 사실인
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 61-14. **Carlos:** Sigamos avanzando con lo que tenemos.
+- **해석:** 우리가 가진 것으로 계속 나아가자.
+- **주요 단어:** `avanzar` (동사) 전진하다
+- **문법:** nosotros 명령(= 접속법 현재) + `seguir + 현재분사`. `lo que`: ~하는 것.
+- **시제:**
+  - `Sigamos` → seguir | 접속법 현재 1인칭 복수 (nosotros 명령) | "~하자" 권유 | 불규칙(e→i, gu→g: siga)
+  - `avanzando` → avanzar | 현재분사 | seguir + gerundio | 규칙
+  - `tenemos` → tener | 앞에서 설명
+
+## 장면 62. 마드리드에서의 재회
+> 마드리드로 돌아온 알바로가 카밀라와 재회하며, 제네바에서 있었던 일을 전합니다.
+
+### 62-1. **Camila:** (Abrazándolo al verlo llegar) Estaba tan preocupada.
+- **해석:** (그가 도착하는 걸 보자 끌어안으며) 얼마나 걱정했는데.
+- **주요 단어:** `abrazar` (동사) 껴안다 / `tan` (부사) 그렇게
+- **문법:** `al + 부정사`: ~할 때, ~하자마자. `ver + 목적어 + 부정사`(지각동사 구문). 현재분사·부정사 뒤 대명사 결합.
+- **시제:**
+  - `Abrazándolo` → abrazar | 현재분사 + lo (지문) | 동시 동작 | 규칙
+  - `ver` → ver | 부정사 (지문, verlo) | al + 부정사 = 때
+  - `llegar` → llegar | 부정사 (지문) | 지각동사 ver 뒤
+  - `Estaba` → estar | 직설법 불완료과거 1인칭 단수 | 그가 없던 기간 동안 지속된 감정 상태라 불완료과거 | 규칙형(estaba)
+  - `preocupada` → preocupar | 과거분사 여성 단수(형용사적) | 상태 | 규칙
+
+### 62-2. **Camila:** ¿Estás bien?
+- **해석:** 괜찮아?
+- **주요 단어:** `bien` 괜찮은
+- **문법:** 상태는 estar.
+- **시제:**
+  - `Estás` → estar | 직설법 현재 2인칭 단수 | 지금 상태 | 불규칙(악센트)
+
+### 62-3. **Álvaro:** Estoy bien, de verdad.
+- **해석:** 괜찮아, 정말로.
+- **주요 단어:** `de verdad` 정말로
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Estoy` → estar | 직설법 현재 1인칭 단수 | 현재 상태 | 불규칙
+
+### 62-4. **Álvaro:** Un susto, nada más.
+- **해석:** 그냥 한 번 놀란 거야, 그뿐이야.
+- **주요 단어:** `susto` (명사, 남) 놀람, 겁먹음 / `nada más` 그것뿐
+- **문법:** 동사 생략 구문.
+- **표현:** `Un susto, nada más` — "그냥 좀 놀랐을 뿐" 안심시키는 말.
+- **시제:** 동사 없음
+
+### 62-5. **Camila:** Cuéntame qué pasó.
+- **해석:** 무슨 일 있었는지 얘기해 줘.
+- **주요 단어:** `contar` (동사) 이야기하다 / `pasar` (동사) 일어나다
+- **문법:** 긍정 명령 + me → 악센트(cuéntame). 간접의문문 qué(악센트 유지).
+- **시제:**
+  - `Cuéntame` → contar | 긍정 명령법 2인칭 단수 | 부탁 | 불규칙(o→ue: cuenta)
+  - `pasó` → pasar | 직설법 단순과거 3인칭 단수 | 제네바에서 끝난 사건 | 규칙
+
+### 62-6. **Álvaro:** Vi a alguien que probablemente es Roselló, o muy cerca de serlo.
+- **해석:** 아마 로셀요일, 아니면 거의 그에 가까운 사람을 봤어.
+- **주요 단어:** `probablemente` (부사) 아마 / `cerca de` ~에 가까운
+- **문법:** 사람 목적어 앞 a. `serlo`: lo가 앞의 서술어(Roselló)를 대신하는 중성 대명사. probablemente가 동사 앞에 있어도 여기서는 직설법(확신도 높음).
+- **시제:**
+  - `Vi` → ver | 직설법 단순과거 1인칭 단수 | 과거 특정 시점의 완결된 목격 | 불규칙(vi, 악센트 없음)
+  - `es` → ser | 직설법 현재 3인칭 단수 | 그 사람의 정체는 지금도 유효하므로 현재 | 불규칙
+  - `serlo` → ser | 부정사 + lo | 전치사 de 뒤
+
+### 62-7. **Álvaro:** Conseguimos una foto, un nombre probable.
+- **해석:** 사진이랑 유력한 이름을 얻었어.
+- **주요 단어:** `conseguir` 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Conseguimos` → conseguir | 직설법 단순과거 1인칭 복수 | 제네바에서 완결된 성과 | nosotros형은 현재와 단순과거 형태가 같음(문맥으로 과거 판단)
+
+### 62-8. **Camila:** ¿Y se escapó?
+- **해석:** 그런데 도망갔어?
+- **주요 단어:** `escaparse` (재귀동사) 도망치다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `se escapó` → escaparse | 직설법 단순과거 3인칭 단수 | 완결된 과거 사건 | 규칙
+
+### 62-9. **Álvaro:** Se marchó antes de que pudiéramos actuar, sí.
+- **해석:** 응, 우리가 손쓰기 전에 떠나 버렸어.
+- **주요 단어:** `marcharse` 앞에서 설명 / `actuar` (동사) 행동하다
+- **문법:** `antes de que + 접속법`: 항상 접속법. 주절이 과거라 접속법 과거(불완료).
+- **시제:**
+  - `Se marchó` → marcharse | 직설법 단순과거 3인칭 단수 | 완결된 과거 사건 | 규칙
+  - `pudiéramos` → poder | 접속법 불완료과거 1인칭 복수 (pretérito imperfecto de subjuntivo) | antes de que 뒤 + 과거 문맥이라 시제 일치로 접속법 과거 | 불규칙(단순과거 pudieron → pud- + -iéramos)
+  - `actuar` → actuar | 부정사 | poder 뒤
+
+### 62-10. **Álvaro:** Pero por primera vez, tenemos algo concreto: una cara, no solo un apodo.
+- **해석:** 그래도 처음으로 구체적인 걸 손에 넣었어. 별명만이 아니라 얼굴을.
+- **주요 단어:** `por primera vez` 처음으로 / `concreto` (형용사) 구체적인 / `apodo` (명사, 남) 별명
+- **문법:** `no solo A` ~뿐만 아니라.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 지금 가진 것 | nosotros형 규칙
+
+### 62-11. **Camila:** (Con esperanza cautelosa) Eso ya es mucho más de lo que teníamos antes.
+- **해석:** (조심스러운 희망을 품고) 그것만 해도 전에 비하면 훨씬 많은 거네.
+- **주요 단어:** `esperanza` (명사, 여) 희망 / `cauteloso` (형용사) 신중한 / `ya` 이미, 그것만으로도
+- **문법:** `más de lo que + 절` 앞에서 설명.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 평가 | 불규칙
+  - `teníamos` → tener | 직설법 불완료과거 1인칭 복수 | 앞에서 설명(과거 상태)
+
+### 62-12. **Álvaro:** Es cierto.
+- **해석:** 맞아.
+- **주요 단어:** `cierto` 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 사실 판단 | 불규칙
+
+### 62-13. **Álvaro:** Y todo esto no habría sido posible sin tu trabajo con los documentos.
+- **해석:** 그리고 이 모든 건 네가 문서 작업을 해 주지 않았다면 불가능했을 거야.
+- **주요 단어:** `posible` 앞에서 설명 / `documento` (명사, 남) 문서
+- **문법:** `sin + 명사`가 과거 사실 반대 조건 역할(= si no hubiera sido por tu trabajo).
+- **시제:**
+  - `habría sido` → ser | 조건법 완료 3인칭 단수 (condicional compuesto) | 과거 사실과 반대되는 가정의 결과("~했을 것이다"). 단순 조건법(sería)은 현재·미래 가정 | haber 조건법(habría) + 불규칙 과거분사 아님(sido 규칙)
+  - `sido` → ser | 과거분사 | 완료 시제 구성
+
+### 62-14. **Camila:** Trabajo en equipo, entonces.
+- **해석:** 그럼 팀워크네.
+- **주요 단어:** `trabajo en equipo` 팀워크 / `entonces` 그렇다면
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음 (trabajo는 명사)
+
+### 62-15. **Álvaro:** (La abraza de nuevo) Trabajo en equipo.
+- **해석:** (그녀를 다시 안는다) 팀워크지.
+- **주요 단어:** `abrazar` 앞에서 설명
+- **문법:** `La`: 직접목적어(카밀라).
+- **시제:**
+  - `abraza` → abrazar | 직설법 현재 3인칭 단수 (지문) | 지문 현재 서술 | 규칙(접속법에서 z→c: abrace)
+
+### 62-16. **Álvaro:** Contigo, todo se siente distinto, más manejable.
+- **해석:** 너랑 있으면 모든 게 다르게, 더 감당할 만하게 느껴져.
+- **주요 단어:** `contigo` 너와 함께 / `sentirse` (재귀동사) ~하게 느껴지다 / `distinto` (형용사) 다른 / `manejable` (형용사) 다룰 수 있는, 감당할 만한
+- **문법:** `con + ti` → contigo(특수형). `sentirse + 형용사`.
+- **시제:**
+  - `se siente` → sentirse | 직설법 현재 3인칭 단수 | 일반적·현재적 느낌 | 어간모음변화 e→ie
+
+### 62-17. **Camila:** Me alegra poder ser parte de esto, de una forma que de verdad ayuda.
+- **해석:** 정말로 도움이 되는 방식으로 이 일에 함께할 수 있어서 기뻐.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `parte` (명사, 여) 일부 / `forma` (명사, 여) 방식 / `ayudar` (동사) 돕다
+- **문법:** `me alegra + 부정사`: gustar형 동사(부정사구가 주어). 주어가 다르면 `me alegra que + 접속법`. 관계절 `que ayuda`: 실제로 도움이 되는 구체적 방식이라 직설법.
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재 3인칭 단수 | 현재의 감정 | 규칙
+  - `poder` → poder | 부정사 | alegra의 주어 역할
+  - `ser` → ser | 부정사 | poder 뒤
+  - `ayuda` → ayudar | 직설법 현재 3인칭 단수 | 실제 사실을 서술하는 관계절이라 직설법 | 규칙

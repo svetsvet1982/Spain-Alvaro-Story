@@ -676,4 +676,167 @@
 - **시제:**
   - 동사 없음
 
-<!-- END66 -->
+## 장면 67. 제도적 변화
+> 몇 주 후, 카를로스가 이번 사건이 가져온 제도적 변화를 자세히 설명합니다.
+
+### 67-1. **Carlos:** Álvaro, tengo el resumen completo de las consecuencias institucionales de todo esto.
+- **해석:** 알바로, 이 모든 일이 가져온 제도적 결과를 전부 정리한 요약이 있어.
+- **주요 단어:** `resumen` (명사, 남) 요약 / `completo` (형용사) 완전한 / `consecuencia` (명사, 여) 결과 / `institucional` (형용사) 제도적
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 보유 | 불규칙 1인칭(-go)
+
+### 67-2. **Álvaro:** Cuéntame todo.
+- **해석:** 전부 얘기해 줘.
+- **주요 단어:** `contar` (동사) 이야기하다; 세다
+- **문법:** tú 긍정 명령 + 간접목적어 me가 뒤에 붙음 → 원래 강세 유지 위해 강세 부호(Cuéntame).
+- **표현:** `Cuéntame` "말해 봐" — 매우 흔한 구어.
+- **시제:**
+  - `Cuenta(me)` → contar | 긍정 명령법 imperativo, 2인칭 단수(tú) | 친구에게 하는 요청 | o→ue(cuenta); tú 긍정 명령은 직설법 현재 3인칭 단수형과 같음
+
+### 67-3. **Carlos:** La Comisión Europea ha propuesto un periodo obligatorio de enfriamiento de tres años antes de que cualquier funcionario pueda trabajar como lobista en su antigua área.
+- **해석:** 유럽연합 집행위원회가, 어떤 공무원이든 이전 담당 분야에서 로비스트로 일할 수 있기 전에 3년간의 의무 냉각기간을 두자고 제안했어.
+- **주요 단어:** `proponer` (동사) 제안하다 / `periodo` (명사, 남) 기간 / `obligatorio` (형용사) 의무적인 / `enfriamiento` (명사, 남) 냉각 / `funcionario` (명사, 남) 공무원 / `lobista` (명사, 남녀) 로비스트 / `antiguo` (형용사) 이전의(명사 앞), 오래된(명사 뒤)
+- **문법:** `antes de que + 접속법` — 항상 접속법(과거 문맥이어도 접속법). `antiguo`가 명사 앞 → "예전의"(su antigua área). área는 여성명사지만 강세 a로 시작해 단수 정관사는 el(el área); 여기선 형용사 antigua가 앞에 있어 여성형 그대로.
+- **표현:** `periodo de enfriamiento` "냉각기간(cooling-off period)".
+- **시제:**
+  - `ha propuesto` → proponer | 직설법 현재완료, 3인칭 단수 | 최근의 제안으로 현재 논의 중인 사안이라 현재완료 | 불규칙 과거분사(poner → puesto, proponer → propuesto)
+  - `pueda` → poder | 접속법 현재, 3인칭 단수 | antes de que 뒤는 항상 접속법 | o→ue
+  - `trabajar` → trabajar | 부정사 | poder 뒤 | 규칙
+
+### 67-4. **Álvaro:** Eso habría evitado exactamente el caso de Verhoeven.
+- **해석:** 그거였으면 바로 베르호벤 같은 경우를 막을 수 있었겠네.
+- **주요 단어:** `evitar` (동사) 막다, 피하다
+- **문법:** 조건법 완료 — 조건(만약 그 규정이 있었다면)이 암시된 과거 사실 반대 가정.
+- **시제:**
+  - `habría evitado` → evitar | 조건법 완료 condicional compuesto, 3인칭 단수 | "(당시 그 규정이 있었다면) 막았을 것" — 과거 사실 반대 결과. habría(불규칙 어간 habr-) + evitado(규칙 과거분사)
+
+### 67-5. **Carlos:** Exactamente.
+- **해석:** 바로 그거야.
+- **주요 단어:** `exactamente` (부사) 정확히
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 67-6. **Carlos:** Además, se está debatiendo un registro público y verificable de financiación de fundaciones que operan como intermediarias de lobby.
+- **해석:** 게다가 로비 중개자 역할을 하는 재단들의 자금 출처에 대한 공개적이고 검증 가능한 등록부도 논의 중이야.
+- **주요 단어:** `además` (부사) 게다가 / `debatir` (동사) 논의하다 / `registro` (명사, 남) 등록부 / `verificable` (형용사) 검증 가능한 / `financiación` (명사, 여) 자금 조달 / `fundación` (명사, 여) 재단 / `operar` (동사) 활동하다, 운영되다 / `intermediario` (명사/형용사) 중개자
+- **문법:** 수동의 se + 진행형(se está debatiendo = 논의되고 있다). 관계절 `que operan`은 특정한 재단들을 가리키는 사실이라 직설법. intermediarias는 fundaciones에 여성 복수 일치.
+- **표현:** `financiación` 스페인식(중남미는 financiamiento).
+- **시제:**
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 진행형 보조동사 | 불규칙
+  - `debatiendo` → debatir | 현재분사 | 지금 논의가 진행 중 | 규칙
+  - `operan` → operar | 직설법 현재, 3인칭 복수 | 현재의 활동 방식(사실) | 규칙
+
+### 67-7. **Álvaro:** ¿Y a nivel judicial?
+- **해석:** 사법적인 면에서는?
+- **주요 단어:** `a nivel + 형용사` ~ 차원에서 / `judicial` (형용사) 사법의
+- **문법:** 동사 생략 질문.
+- **표현:** `a nivel judicial` "사법적 차원에서" — 흔한 표현(규범적으로는 en el ámbito judicial이 권장되기도 함).
+- **시제:**
+  - 동사 없음
+
+### 67-8. **Álvaro:** ¿Cómo avanza el caso contra Bruselas Estrategia?
+- **해석:** 브뤼셀 에스트라테히아를 상대로 한 사건은 어떻게 진행되고 있어?
+- **주요 단어:** `avanzar` (동사) 진전하다, 진행되다
+- **문법:** 의문사 뒤 주어 도치(avanza el caso).
+- **시제:**
+  - `avanza` → avanzar | 직설법 현재, 3인칭 단수 | 현재 진행 상황을 단순 현재로(진행형 está avanzando와 거의 같은 뜻) | 규칙(단순과거 1인칭 avancé)
+
+### 67-9. **Carlos:** Verhoeven y otros dos consultores ya han sido formalmente imputados.
+- **해석:** 베르호벤과 다른 컨설턴트 두 명은 이미 정식으로 기소됐어.
+- **주요 단어:** `consultor` (명사, 남) 컨설턴트 / `imputar` (동사) (범죄 혐의를) 적용하다, 피의자로 지정하다
+- **문법:** ser 수동태 현재완료(han sido + 과거분사). `otros dos` 어순(dos otros ✗).
+- **표현:** `imputado` 스페인 법률 용어 "피의자로 입건된"(현재 공식 용어는 investigado).
+- **시제:**
+  - `han sido` → ser | 직설법 현재완료, 3인칭 복수 | 최근 완료되어 현재 상태에 영향 — ya와 함께 "이미" | ser 과거분사 sido
+  - `imputados` → imputar | 과거분사 | 수동태, 주어에 남성 복수 일치 | 규칙
+
+### 67-10. **Carlos:** La firma enfrenta disolución forzosa, según la fiscalía belga.
+- **해석:** 벨기에 검찰에 따르면 그 회사는 강제 해산에 직면해 있어.
+- **주요 단어:** `enfrentar` (동사) 직면하다 / `disolución` (명사, 여) 해산 / `forzoso` (형용사) 강제적인 / `según` (전치사) ~에 따르면
+- **문법:** 특이사항 없음.
+- **표현:** `según + 출처` "~에 따르면".
+- **시제:**
+  - `enfrenta` → enfrentar | 직설법 현재, 3인칭 단수 | 현재 처한 상황 | 규칙
+
+### 67-11. **Álvaro:** ¿Y la fundación de Luxemburgo?
+- **해석:** 룩셈부르크 재단은?
+- **주요 단어:** `Luxemburgo` 룩셈부르크
+- **문법:** 동사 생략 질문.
+- **시제:**
+  - 동사 없음
+
+### 67-12. **Carlos:** Intervenida judicialmente, con todos sus activos congelados mientras avanza la investigación sobre el origen del dinero.
+- **해석:** 법원 관리하에 들어갔어. 자금 출처 수사가 진행되는 동안 모든 자산이 동결된 상태로.
+- **주요 단어:** `intervenir` (동사) 개입하다; (법원이) 관리하에 두다 / `activo` (명사, 남) 자산 / `congelar` (동사) 동결하다 / `mientras` (접속사) ~하는 동안
+- **문법:** 주어·동사 생략([Ha sido / Está] intervenida…). `con + 명사 + 과거분사` 절대 구문. `mientras + 직설법` = 현재 실제 진행 중인 동시 사건(미래 조건이면 접속법).
+- **표현:** `intervenir judicialmente` "법원이 관리인을 선임해 통제하다". `activos congelados` "동결 자산".
+- **시제:**
+  - `Intervenida` → intervenir | 과거분사 | 결과 상태(fundación에 여성 단수 일치) | 불규칙 동사(venir 계열: intervengo, intervine)이지만 과거분사는 규칙 intervenido
+  - `congelados` → congelar | 과거분사 | activos에 남성 복수 일치, 상태 | 규칙
+  - `avanza` → avanzar | 직설법 현재, 3인칭 단수 | mientras + 현재 실제 진행 중인 사실이라 직설법 | 규칙
+
+### 67-13. **Álvaro:** ¿Y Roselló?
+- **해석:** 그럼 로셀요는?
+- **주요 단어:** —
+- **문법:** 동사 생략 질문.
+- **시제:**
+  - 동사 없음
+
+### 67-14. **Carlos:** (Con expresión seria) Sigue prófugo.
+- **해석:** (심각한 표정으로) 여전히 도주 중이야.
+- **주요 단어:** `expresión` (명사, 여) 표정 / `serio` (형용사) 심각한 / `prófugo` (형용사/명사) 도주 중인, 도망자
+- **문법:** `seguir + 형용사` = "여전히 ~한 상태이다".
+- **시제:**
+  - `Sigue` → seguir | 직설법 현재, 3인칭 단수 | 현재까지 이어지는 상태 | e→i, gu 철자 변화
+
+### 67-15. **Carlos:** La fotografía que conseguiste en Ginebra ya está distribuida internacionalmente, pero no ha vuelto a aparecer desde entonces.
+- **해석:** 네가 제네바에서 확보한 사진은 이미 국제적으로 배포됐지만, 그 뒤로 그는 다시 나타나지 않았어.
+- **주요 단어:** `conseguir` (동사) 얻다, 확보하다 / `distribuir` (동사) 배포하다 / `internacionalmente` (부사) 국제적으로 / `desde entonces` 그때 이후로
+- **문법:** 관계대명사 `que`(la fotografía que…). `estar + 과거분사` = 결과 상태. `volver a + 부정사` = 다시 ~하다. no ha vuelto의 생략된 주어는 Roselló.
+- **표현:** `desde entonces` "그 이후로" — 현재완료와 잘 어울림.
+- **시제:**
+  - `conseguiste` → conseguir | 직설법 단순과거, 2인칭 단수 | 제네바에서의 특정 과거 사건(완결) | e→i 동사(3인칭 consiguió), 2인칭은 규칙형
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 현재 결과 상태 | 불규칙
+  - `distribuida` → distribuir | 과거분사 | fotografía에 여성 단수 일치 | 과거분사는 규칙형(현재분사는 distribuyendo)
+  - `ha vuelto` → volver | 직설법 현재완료, 3인칭 단수 | desde entonces(그때부터 지금까지) 기간이라 현재완료 | 불규칙 과거분사 vuelto
+  - `aparecer` → aparecer | 부정사 | volver a 뒤 | 불규칙 동사(aparezco)
+
+### 67-16. **Álvaro:** Entonces esto no termina del todo.
+- **해석:** 그럼 이 일은 완전히 끝난 게 아니네.
+- **주요 단어:** `terminar` (동사) 끝나다 / `del todo` 완전히
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `termina` → terminar | 직설법 현재, 3인칭 단수 | 현재 상황에 대한 판단(현재형으로 일반적·확정적 진술) | 규칙
+
+### 67-17. **Carlos:** No, aunque hemos hecho el daño más grande a su estructura hasta la fecha.
+- **해석:** 그래, 끝나진 않았지. 하지만 지금까지 그의 조직에 가장 큰 타격을 입혔어.
+- **주요 단어:** `daño` (명사, 남) 피해, 손상 / `estructura` (명사, 여) 구조, 조직 / `hasta la fecha` 지금까지
+- **문법:** `aunque + 직설법` = 사실인 정보를 양보로 덧붙임("~이긴 하지만"). 최상급 `el daño más grande`. 부정 질문에 동의하는 `No`는 한국어로 "그래(끝나지 않았어)".
+- **표현:** `hacer daño a` "~에 피해를 주다". `hasta la fecha` "현재까지".
+- **시제:**
+  - `hemos hecho` → hacer | 직설법 현재완료, 1인칭 복수 | hasta la fecha(지금까지) 기간의 결과라 현재완료 | 불규칙 과거분사 hecho
+
+### 67-18. **Carlos:** Cada pieza que caemos, lo debilita más.
+- **해석:** 우리가 무너뜨리는 조각 하나하나가 그를 더 약하게 만들어.
+- **주요 단어:** `pieza` (명사, 여) 조각, 부품 / `caer` (동사) 떨어지다, 무너지다 / `debilitar` (동사) 약화시키다
+- **문법:** 주의: `caer`는 자동사라 "무너뜨리다"의 의미로 목적어를 가질 수 없음 — 규범적으로는 `Cada pieza que hacemos caer` 또는 `que derribamos`가 맞음(구어적 오용). 또 주어(Cada pieza…)와 동사 사이의 쉼표도 규범상 불필요. `lo` = 그(로셀요) 또는 그의 조직.
+- **표현:** `cada + 단수명사` "하나하나의 ~".
+- **시제:**
+  - `caemos` → caer | 직설법 현재, 1인칭 복수 | 반복적·일반적 행위(할 때마다) | 불규칙 동사(caigo, caes…), nosotros형은 규칙형 — 단, 여기선 타동사로 쓴 비표준 용법
+  - `debilita` → debilitar | 직설법 현재, 3인칭 단수 | 일반적 결과 | 규칙
+
+### 67-19. **Álvaro:** Es un consuelo, aunque parcial.
+- **해석:** 위안은 되네, 부분적이긴 하지만.
+- **주요 단어:** `consuelo` (명사, 남) 위안 / `parcial` (형용사) 부분적인
+- **문법:** aunque 뒤 동사 생략(aunque [sea] parcial).
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 현재 평가 | 불규칙
+
+### 67-20. **Carlos:** El único consuelo real, en este tipo de trabajo.
+- **해석:** 이런 종류의 일에서는 그게 유일한 진짜 위안이지.
+- **주요 단어:** `único` (형용사) 유일한 / `real` (형용사) 진짜의
+- **문법:** 동사 생략([Es] el único consuelo real…). `único`가 명사 앞 → "유일한"(명사 뒤면 "독특한").
+- **시제:**
+  - 동사 없음

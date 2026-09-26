@@ -422,3 +422,205 @@
   - `pago` → pagar | 직설법 현재 1인칭 단수 (presente) | 습관적 행위 | 규칙
   - `valga` → valer | 접속법 현재 3인칭 단수 (presente de subjuntivo) | para que(목적) 뒤는 항상 접속법 | 불규칙: valgo → valg-
 
+### 15-50. **Ramón:** El dinero ayuda, sí.
+- **해석:** 돈이 도움이 되긴 하지, 그래.
+- **주요 단어:** `el dinero` (명사) 돈 / `ayudar` (동사) 돕다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `ayuda` → ayudar | 직설법 현재 3인칭 단수 (presente) | 일반적 진리 | 규칙
+
+### 15-51. **Ramón:** Pero no lo es todo.
+- **해석:** 하지만 그게 전부는 아니야.
+- **주요 단어:** `todo` (대명사) 전부
+- **문법:** 중성 lo가 속사(보어)를 대신함: "El dinero no es todo" → "no lo es todo"(강조형 관용 표현).
+- **표현:** `No lo es todo` — "그게 다가 아니다".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 (presente) | 일반적 평가 | 불규칙
+
+### 15-52. **Doyle:** Habla por ti.
+- **해석:** 그건 자네 얘기지.
+- **주요 단어:** `hablar por` (동사구) ~을 대변해 말하다
+- **문법:** tú 긍정 명령. 전치사 뒤 ti.
+- **표현:** `Habla por ti` — "너나 그렇지(나는 아니야)".
+- **시제:**
+  - `Habla` → hablar | 명령법 2인칭 단수(tú) (imperativo) | 관용적 명령 | 규칙(직설법 3인칭 단수와 같은 형태)
+
+### 15-53. **Doyle:** Para mí, el dinero es bastante convincente.
+- **해석:** 나한테는 돈이 꽤 설득력 있거든.
+- **주요 단어:** `bastante` (부사) 꽤 / `convincente` (형용사) 설득력 있는
+- **문법:** `para mí` = 내 생각에는. 특성은 ser.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 (presente) | 일반적 평가 | 불규칙
+
+### 15-54. **Álvaro:** (Interviene con cuidado) ¿Puedo preguntar cómo empezó esta... colaboración?
+- **해석:** (조심스럽게 끼어들며) 이... 협력 관계가 어떻게 시작됐는지 여쭤봐도 될까요?
+- **주요 단어:** `intervenir` (동사) 끼어들다, 개입하다 / `preguntar` (동사) 묻다 / `la colaboración` (명사) 협력
+- **문법:** 간접의문문 cómo(강세 유지). 말줄임표는 단어 선택을 조심하는 뉘앙스.
+- **표현:** `¿Puedo preguntar...?` — 허락을 구하는 공손한 질문.
+- **시제:**
+  - `Interviene` → intervenir | 직설법 현재 3인칭 단수 (presente) | 지문 묘사 | 불규칙(venir 계열: e→ie)
+  - `Puedo` → poder | 직설법 현재 1인칭 단수 (presente) | 허가 요청 | o→ue
+  - `preguntar` → preguntar | 부정사 | poder 뒤
+  - `empezó` → empezar | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 과거의 특정 시작 시점이라 단순과거 | 규칙 어미(1인칭 empecé 철자 변화)
+
+### 15-55. **Álvaro:** Por curiosidad, nada más.
+- **해석:** 그냥 궁금해서요.
+- **주요 단어:** `la curiosidad` (명사) 호기심 / `nada más` 그뿐
+- **문법:** 이유의 por.
+- **표현:** 경계를 풀기 위한 변명조의 말.
+- **시제:** 동사 없음
+
+### 15-56. **Fabián:** Ramón y yo nos conocemos desde hace casi diez años.
+- **해석:** 라몬과 나는 거의 10년 전부터 알고 지냈지.
+- **주요 단어:** `conocerse` (상호 재귀) 서로 알다 / `desde hace` ~ 전부터 / `casi` 거의
+- **문법:** 상호의 nos. `desde hace + 기간` + 현재형 = 과거부터 지금까지 계속되는 상황(한국어·영어 완료형에 해당).
+- **시제:**
+  - `conocemos` → conocer | 직설법 현재 1인칭 복수 (presente) | desde hace와 함께 지금까지 이어지는 관계 | 규칙(1인칭 단수만 conozco)
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | 시간 경과 표현 | 불규칙
+  - 비교: 영어는 "have known"이지만 스페인어는 desde hace + 현재.
+
+### 15-57. **Fabián:** Doyle se unió después, hace unos cuatro.
+- **해석:** 도일은 나중에, 한 4년 전쯤에 합류했고.
+- **주요 단어:** `unirse` (재귀동사) 합류하다 / `después` (부사) 나중에 / `unos` 대략
+- **문법:** `hace + 기간` + 단순과거 = ~ 전에. "unos cuatro (años)"에서 años 생략.
+- **시제:**
+  - `se unió` → unirse | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 특정 과거 시점의 완료된 사건 | 규칙
+  - `hace` → hacer | 앞에서 설명
+
+### 15-58. **Ramón:** Digamos que en cierto momento me di cuenta de que mi sueldo de funcionario no alcanzaba para el nivel de vida que quería para mi familia.
+- **해석:** 말하자면 어느 순간, 공무원 월급으로는 내 가족에게 해 주고 싶은 생활 수준을 감당할 수 없다는 걸 깨달았지.
+- **주요 단어:** `darse cuenta de` (관용구) 깨닫다 / `el sueldo` (명사) 월급 / `el funcionario` (명사) 공무원 / `alcanzar para` (동사) ~에 충분하다 / `el nivel de vida` 생활 수준
+- **문법:** darse cuenta de que(de 빠뜨리지 말 것). 관계사 que(el nivel de vida que quería).
+- **표현:** `Digamos que` 앞에서 설명. `no alcanzar` = (돈이) 모자라다.
+- **시제:**
+  - `Digamos` → decir | 앞에서 설명
+  - `me di (cuenta)` → darse | 직설법 단순과거 1인칭 단수 (pretérito indefinido) | 어느 한 순간(en cierto momento)의 깨달음이라 단순과거 | 불규칙(di, diste, dio — 강세 부호 없음)
+  - `alcanzaba` → alcanzar | 직설법 불완료과거 3인칭 단수 (pretérito imperfecto) | 당시 지속되던 상황(배경)이라 불완료과거 | 규칙
+  - `quería` → querer | 직설법 불완료과거 1인칭 단수 (pretérito imperfecto) | 과거의 지속적 바람 | 규칙 불완료과거
+  - 비교: 순간적 사건(me di cuenta = 단순과거) vs 배경 상태(alcanzaba, quería = 불완료과거).
+
+### 15-59. **Doyle:** A mí me convenció ver cuánto dinero se movía en esto sin que nadie del lado “correcto” se beneficiara.
+- **해석:** 나는 "올바른" 쪽 사람은 아무도 이득을 보지 못하는데 이쪽에서 얼마나 많은 돈이 움직이는지 보고 마음을 굳혔지.
+- **주요 단어:** `convencer` (동사) 설득하다 / `moverse` (재귀동사) 움직이다 / `el lado` (명사) 쪽 / `correcto` (형용사) 올바른 / `beneficiarse` (재귀동사) 이득을 보다
+- **문법:** 주어는 부정사구 "ver cuánto dinero..."(보는 것이 나를 설득했다). `A mí me` 중복으로 강조. `sin que` + 항상 접속법. 과거 맥락이라 접속법 과거.
+- **표현:** "correcto"에 따옴표 — 법 집행 쪽을 비꼬는 말.
+- **시제:**
+  - `convenció` → convencer | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 과거의 결정적 계기 | 규칙(1인칭 현재 convenzo 철자 변화)
+  - `ver` → ver | 부정사 | 문장의 주어 역할
+  - `se movía` → moverse | 직설법 불완료과거 3인칭 단수 (pretérito imperfecto) | 계속 돌던 돈(지속 상황) | 규칙 불완료
+  - `se beneficiara` → beneficiarse | 접속법 과거 3인칭 단수 (pretérito imperfecto de subjuntivo) | sin que 뒤 + 과거 맥락 | 규칙
+
+### 15-60. **Doyle:** Decidí beneficiarme yo también.
+- **해석:** 나도 이득을 보기로 했지.
+- **주요 단어:** `decidir` (동사) 결정하다
+- **문법:** 부정사에 재귀 대명사 결합(beneficiarme). `yo también`으로 주어 강조.
+- **시제:**
+  - `Decidí` → decidir | 직설법 단순과거 1인칭 단수 (pretérito indefinido) | 한 번의 완료된 결정 | 규칙
+  - `beneficiarme` → beneficiarse | 부정사 | decidir 뒤
+
+### 15-61. **Álvaro:** Entiendo.
+- **해석:** 그렇군요.
+- **주요 단어:** `entender` (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 15-62. **Álvaro:** Y estas reuniones, ¿son frecuentes?
+- **해석:** 그런데 이런 모임은 자주 있나요?
+- **주요 단어:** `frecuente` (형용사) 잦은
+- **문법:** 주제를 앞에 내세우고(estas reuniones) 질문하는 구어체 어순.
+- **시제:**
+  - `son` → ser | 직설법 현재 3인칭 복수 (presente) | 일반적 특성 | 불규칙
+
+### 15-63. **Fabián:** Dos o tres veces al año.
+- **해석:** 1년에 두세 번.
+- **주요 단어:** `la vez` (명사) 번, 회 / `al año` 1년에
+- **문법:** 빈도 표현 "숫자 + veces al + 기간".
+- **시제:** 동사 없음
+
+### 15-64. **Fabián:** Cuando hace falta coordinar algo grande, o simplemente para mantener la relación.
+- **해석:** 큰일을 조율해야 할 때, 아니면 그냥 관계를 유지하려고.
+- **주요 단어:** `hacer falta` (관용구) 필요하다 / `coordinar` (동사) 조율하다 / `mantener` (동사) 유지하다 / `la relación` 관계
+- **문법:** cuando + 직설법(반복·습관적 상황). para + 부정사(목적).
+- **시제:**
+  - `hace (falta)` → hacer | 직설법 현재 3인칭 단수 (presente) | 반복되는 일반적 상황이라 직설법(미래의 특정 상황이면 접속법 haga falta) | 불규칙
+  - `coordinar` → coordinar | 부정사 | hacer falta의 주어
+  - `mantener` → mantener | 부정사 | para + 부정사
+
+### 15-65. **Wilson:** Y para comer bien, que para eso también sirven las reuniones.
+- **해석:** 그리고 잘 먹으려고도요. 모임이란 그러라고도 있는 거니까.
+- **주요 단어:** `comer` (동사) 먹다 / `servir para` ~에 쓸모 있다
+- **문법:** `que` = 이유(구어체). `para eso`를 앞에 두어 강조.
+- **표현:** 분위기를 가볍게 만드는 농담.
+- **시제:**
+  - `comer` → comer | 부정사 | para + 부정사
+  - `sirven` → servir | 직설법 현재 3인칭 복수 (presente) | 일반적 사실 | e→i
+
+### 15-66. **Ramón:** (Levanta la copa) Por las relaciones duraderas, entonces.
+- **해석:** (잔을 들며) 그럼 오래가는 관계를 위하여.
+- **주요 단어:** `levantar` (동사) 들다 / `la copa` (명사) (와인)잔 / `duradero` (형용사) 오래가는
+- **문법:** 건배의 `Por + 명사` = ~을 위하여.
+- **표현:** 건배사 형식 "¡Por...!"
+- **시제:**
+  - `Levanta` → levantar | 직설법 현재 3인칭 단수 (presente) | 지문 묘사 | 규칙
+
+### 15-67. **Doyle:** Por las relaciones duraderas y rentables.
+- **해석:** 오래가고 돈도 되는 관계를 위하여.
+- **주요 단어:** `rentable` (형용사) 수익성 있는
+- **문법:** 형용사 두 개가 복수 명사에 일치.
+- **표현:** 앞 건배사를 받아 자기식으로 덧붙임.
+- **시제:** 동사 없음
+
+### 15-68. **Álvaro:** (Levanta la copa también, disimulando la inquietud, casi para sí mismo) Si Carlos supiera con quién estoy cenando esta noche...
+- **해석:** (불안을 감추며 그도 잔을 들고, 거의 혼잣말로) 오늘 밤 내가 누구랑 저녁을 먹고 있는지 카를로스가 안다면…
+- **주요 단어:** `la inquietud` (명사) 불안 / `para sí mismo` 혼잣말로 / `saber` 알다 / `cenar` (동사) 저녁 먹다
+- **문법:** 현재 사실 반대 가정: si + 접속법 과거(supiera). 귀결절은 생략(말줄임표) — "놀랄 텐데" 등이 생략됨. 간접의문 con quién.
+- **표현:** 가정문 뒤를 생략해 감정을 여운으로 남김.
+- **시제:**
+  - `Levanta` → levantar | 앞에서 설명 (지문)
+  - `disimulando` → disimular | 현재분사 | 앞에서 설명
+  - `supiera` → saber | 접속법 과거 3인칭 단수 (pretérito imperfecto de subjuntivo) | 현재 사실과 반대되는 가정이라 si + 접속법 과거 | 불규칙(supieron → sup-)
+  - `estoy cenando` → estar + cenar | 직설법 현재진행 1인칭 단수 (presente progresivo) | 지금 이 순간 진행 중인 동작 | estar 불규칙, cenando 규칙
+
+### 15-69. **Fabián:** ¿Decías algo, Diego?
+- **해석:** 뭐라고 했나, 디에고?
+- **주요 단어:** `decir` 말하다 / `algo` 뭔가
+- **문법:** 특이사항 없음
+- **표현:** `¿Decías algo?` — 상대가 중얼거렸을 때 되묻는 관용 표현.
+- **시제:**
+  - `Decías` → decir | 직설법 불완료과거 2인칭 단수 (pretérito imperfecto) | 방금 하고 있던(진행 중이던) 말을 부드럽게 묻는 불완료과거 | 불완료과거는 규칙(decía)
+  - 비교: "¿Dijiste algo?"(단순과거)는 완결된 발화를 묻는 느낌, "¿Decías...?"는 더 부드럽고 "하던 말"의 뉘앙스.
+
+### 15-70. **Álvaro:** Nada, solo que esta cena promete ser memorable.
+- **해석:** 아무것도 아니에요. 그냥 오늘 저녁은 기억에 남을 것 같다고요.
+- **주요 단어:** `prometer` (동사) 약속하다 → ~할 것 같다 / `memorable` (형용사) 기억에 남을
+- **문법:** `solo que` = (말한 건) 그저 ~라는 것뿐. prometer + 부정사.
+- **표현:** 이중적 의미 — 겉으로는 칭찬, 속으로는 증거 수집 의미.
+- **시제:**
+  - `promete` → prometer | 직설법 현재 3인칭 단수 (presente) | 현재의 전망 | 규칙
+  - `ser` → ser | 부정사 | prometer 뒤
+
+### 15-71. **Ramón:** Más de lo que imaginas, seguramente.
+- **해석:** 아마 자네가 상상하는 것 이상일 거야.
+- **주요 단어:** `imaginar` (동사) 상상하다 / `seguramente` (부사) 아마, 틀림없이
+- **문법:** 절과 비교할 때는 `más de lo que`(más que 아님).
+- **표현:** 의미심장한 복선.
+- **시제:**
+  - `imaginas` → imaginar | 직설법 현재 2인칭 단수 (presente) | 현재 상상 | 규칙
+
+### 15-72. **Doyle:** Bueno, hablemos de negocios.
+- **해석:** 자, 사업 얘기나 합시다.
+- **주요 단어:** `bueno` (감탄사) 자, 그럼 / `el negocio` 사업
+- **문법:** nosotros 청유형 명령.
+- **표현:** `hablar de negocios` — 본론으로 들어가자.
+- **시제:**
+  - `hablemos` → hablar | 명령법 1인칭 복수(nosotros) (접속법 현재 형태) | "~하자" 청유 | 규칙 -ar → -emos
+
+### 15-73. **Doyle:** Fabián, ¿qué tal va el envío que sale la próxima semana?
+- **해석:** 파비안, 다음 주에 나가는 선적 건은 어떻게 되어 가오?
+- **주요 단어:** `qué tal` 어때 / `el envío` (명사) 발송, 선적 / `salir` (동사) 출발하다 / `la próxima semana` 다음 주
+- **문법:** 관계사 que. 확정된 일정의 미래는 현재형으로(sale la próxima semana).
+- **시제:**
+  - `va` → ir | 직설법 현재 3인칭 단수 (presente) | 현재 진행 상황 | 불규칙
+  - `sale` → salir | 직설법 현재 3인칭 단수 (presente) | 확정된 미래 일정을 현재형으로 표현 | 1인칭만 불규칙(salgo)
+

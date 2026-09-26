@@ -362,3 +362,297 @@
 - **주요 단어:** `cierto` (형용사) 사실인, 맞는
 - **문법:** 특이사항 없음
 - **시제:** 동사 없음
+
+### 26-43. **Carlos:** Y sin ese cargamento, su capacidad de operar se ha visto bastante reducida, al menos por un tiempo.
+- **해석:** 그리고 그 화물이 없으니, 적어도 한동안은 그의 작전 능력이 꽤 줄어들었어.
+- **주요 단어:** `cargamento` (명사, 남) 화물 / `capacidad` (명사, 여) 능력 / `operar` (동사) 작전을 벌이다, 활동하다 / `reducido` (형용사/과거분사) 줄어든
+- **문법:** `verse + 과거분사/형용사` = ~한 처지가 되다(수동적 상태 변화). reducida는 capacidad(여성)에 일치.
+- **표현:** `verse reducido` 축소되다 / `por un tiempo` 한동안
+- **시제:**
+  - `operar` → operar | 부정사 | de 뒤 명사 수식
+  - `se ha visto` → verse | 직설법 현재완료, 3인칭 단수 | 최근 결과가 현재 상태로 이어짐 | 불규칙 과거분사(ver → visto)
+  - `reducida` → reducir | 과거분사 | verse와 함께 상태 표현
+
+### 26-44. **Camarero:** (Se acerca) Aquí tienen las croquetas y los boquerones.
+- **해석:** (다가오며) 여기 크로켓과 멸치 나왔습니다.
+- **주요 단어:** `acercarse` (재귀동사) 다가가다 / `camarero` (명사, 남) 종업원
+- **문법:** `tienen`은 ustedes(존칭 복수) 주어 — 종업원이 손님에게 존칭 사용.
+- **표현:** `Aquí tienen ...` 음식을 내어줄 때 쓰는 정형 표현("여기 있습니다")
+- **시제:**
+  - `Se acerca` → acercarse | 직설법 현재, 3인칭 단수 (지문) | 무대 지시 현재형 | 규칙(철자만 c→qu: 접속법 acerque)
+  - `tienen` → tener | 직설법 현재, 3인칭 복수(ustedes) | 지금 제공하는 상황 | 불규칙(e→ie: tienen)
+
+### 26-45. **Camarero:** ¿Las cañas las traigo ya, o esperan un poco más?
+- **해석:** 맥주는 지금 가져다 드릴까요, 아니면 조금 더 기다리실까요?
+- **주요 단어:** `traer` (동사) 가져오다 / `ya` (부사) 지금, 이제 / `esperar` (동사) 기다리다
+- **문법:** 목적어 전치 + 중복 대명사(las cañas ... las). 현재형 의문문으로 제안. `esperan` = ustedes.
+- **시제:**
+  - `traigo` → traer | 직설법 현재, 1인칭 단수 | "~할까요?" 제안의 현재형 | 불규칙 1인칭(traer → traigo)
+  - `esperan` → esperar | 직설법 현재, 3인칭 복수(ustedes) | 상대의 의향을 묻는 현재형 | 규칙
+
+### 26-46. **Carlos:** Tráiganlas ya, por favor.
+- **해석:** 지금 가져다주세요.
+- **주요 단어:** `traer` (앞에서 설명)
+- **문법:** 긍정명령 뒤 목적대명사 결합(tráigan + las), 강세 표시 추가. 종업원에게 ustedes형을 쓴 것은 원문 그대로(종업원 1인이면 보통 Tráigalas; ustedes형은 가게 측 전체를 향한 말로 볼 수 있음).
+- **시제:**
+  - `Tráigan(las)` → traer | 명령법(접속법 현재형 차용), 3인칭 복수 ustedes | 공손한 요청 | 불규칙: traigo 어간 → traigan
+
+### 26-47. **Álvaro:** Gracias.
+- **해석:** 고마워요.
+- **주요 단어:** `gracias` 감사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 26-48. **Álvaro:** Oye, Carlos... gracias por todo.
+- **해석:** 있잖아, 카를로스… 다 고마워.
+- **주요 단어:** `gracias por` ~에 대해 고마워
+- **문법:** 감사의 이유는 전치사 `por`.
+- **시제:**
+  - `Oye` → oír | 명령법 긍정, 2인칭 단수 | 담화 표지 (앞에서 설명)
+
+### 26-49. **Álvaro:** De verdad.
+- **해석:** 진심으로.
+- **주요 단어:** `de verdad` (부사구) 정말로
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 26-50. **Álvaro:** Sin el localizador, sin el equipo llegando a tiempo, esto habría acabado muy distinto.
+- **해석:** 위치추적기가 없었다면, 팀이 제때 도착하지 않았다면, 이건 완전히 다르게 끝났을 거야.
+- **주요 단어:** `equipo` (명사, 남) 팀 / `llegar a tiempo` 제시간에 도착하다 / `acabar` (동사) 끝나다 / `distinto` (형용사/부사적) 다르게
+- **문법:** `sin + 명사`가 조건절 역할(= si no hubiera estado...). `sin + 명사 + 현재분사` = ~가 ~하지 않았다면. `distinto`는 여기서 부사적으로 쓰임(= distintamente).
+- **표현:** `acabar muy distinto` 전혀 다르게 끝나다
+- **시제:**
+  - `llegando` → llegar | 현재분사 | 명사(el equipo)의 동작을 묘사 | 규칙
+  - `habría acabado` → acabar | 조건법 완료, 3인칭 단수 | 과거 사실과 반대되는 가정의 결과 | 규칙 과거분사
+
+### 26-51. **Carlos:** Para eso estamos, Álvaro.
+- **해석:** 그러라고 우리가 있는 거지, 알바로.
+- **주요 단어:** `para eso` 그걸 위해
+- **문법:** estar + 목적구.
+- **표현:** `Para eso estamos` "그게 우리 일이지 / 당연한 거야" — 감사에 대한 겸손한 응답
+- **시제:**
+  - `estamos` → estar | 직설법 현재, 1인칭 복수 | 일반적 역할을 나타내는 현재 | 불규칙(estoy)이지만 estamos는 규칙적
+
+### 26-52. **Carlos:** Aunque, entre nosotros, pocas veces he visto a alguien aguantar tanta presión sin venirse abajo.
+- **해석:** 그래도 우리끼리 얘긴데, 그렇게 큰 압박을 무너지지 않고 버티는 사람은 거의 본 적이 없어.
+- **주요 단어:** `entre nosotros` 우리끼리 얘기지만 / `pocas veces` 거의 ~않다 / `aguantar` (동사) 견디다 / `presión` (명사, 여) 압박 / `venirse abajo` (관용) 무너지다
+- **문법:** 지각동사 `ver + 목적어 + 부정사`(alguien aguantar). 사람 목적어 앞 `a`. `sin + 부정사`.
+- **표현:** `venirse abajo` 정신적으로 무너지다
+- **시제:**
+  - `he visto` → ver | 직설법 현재완료, 1인칭 단수 | 지금까지의 경험("~한 적 있다") | 불규칙 과거분사 visto
+  - `aguantar` → aguantar | 부정사 | 지각동사 ver 뒤
+  - `venirse` → venirse | 부정사(재귀) | sin 뒤 | venir은 불규칙이지만 부정사형은 해당 없음
+
+### 26-53. **Álvaro:** (Ríe, algo avergonzado) Hubo momentos en los que estuve a punto, te lo aseguro.
+- **해석:** (약간 쑥스러워하며 웃으며) 거의 무너질 뻔한 순간들도 있었어, 정말이야.
+- **주요 단어:** `avergonzado` (형용사/과거분사) 부끄러운 / `momento` (명사, 남) 순간 / `a punto` 직전에 / `asegurar` (동사) 장담하다
+- **문법:** 관계사 `en los que` (= en los cuales, 전치사 + 관사 + que). `estar a punto (de venirme abajo)` 뒷부분 생략. `te lo aseguro` 간접 te + 직접 lo.
+- **표현:** `estar a punto de` 막 ~하려던 참이다 / `te lo aseguro` 정말이야, 장담해
+- **시제:**
+  - `Ríe` → reír | 직설법 현재 (지문) | 앞에서 설명
+  - `avergonzado` → avergonzar | 과거분사(형용사 용법) | 상태 | 불규칙 어간(avergüenzo)이나 분사는 규칙
+  - `Hubo` → haber | 직설법 단순과거, 비인칭 | 과거의 한정된 기간(사건 동안) 존재했던 것 | 불규칙(hubo)
+  - `estuve` → estar | 직설법 단순과거, 1인칭 단수 | 각 순간의 완결된 상태 | 불규칙(estuve, estuviste, estuvo)
+  - `aseguro` → asegurar | 직설법 현재, 1인칭 단수 | 지금 하는 단언 | 규칙
+  - 비교: `había momentos`(불완료)도 가능하지만, 끝난 사건을 돌아보며 요약하므로 단순과거 hubo.
+
+### 26-54. **Carlos:** Pero no te viniste abajo.
+- **해석:** 그래도 넌 무너지지 않았잖아.
+- **주요 단어:** `venirse abajo` (앞에서 설명)
+- **문법:** 재귀대명사 te가 동사 앞.
+- **시제:**
+  - `viniste` → venirse | 직설법 단순과거, 2인칭 단수 | 완결된 과거 사실 | 불규칙(vine, viniste, vino)
+
+### 26-55. **Carlos:** Eso es lo que cuenta.
+- **해석:** 그게 중요한 거야.
+- **주요 단어:** `contar` (동사) 중요하다, 셈에 들다
+- **문법:** `lo que` 중성 관계사(~하는 것).
+- **표현:** `Eso es lo que cuenta` 중요한 건 그거야
+- **시제:**
+  - `es` → ser | 직설법 현재 | 일반적 진술 | 불규칙
+  - `cuenta` → contar | 직설법 현재, 3인칭 단수 | 일반적 가치 판단 | 불규칙(o→ue)
+
+### 26-56. **Álvaro:** ¿Y ahora qué?
+- **해석:** 이제 어떻게 되는 거야?
+- **주요 단어:** `ahora` 이제
+- **문법:** 동사 생략 의문문(= ¿Y ahora qué pasa?)
+- **표현:** 흔한 구어 "이제 뭐?"
+- **시제:** 동사 없음
+
+### 26-57. **Álvaro:** ¿Se acabó la colaboración, o habrá más "favores" en el futuro?
+- **해석:** 협력은 끝난 거야, 아니면 앞으로 또 "부탁"이 있을까?
+- **주요 단어:** `acabarse` (재귀동사) 끝나다 / `colaboración` (명사, 여) 협력 / `favor` (명사, 남) 부탁, 호의
+- **문법:** 재귀형 acabarse = 저절로 끝나다. 비인칭 haber 미래.
+- **표현:** 따옴표 "favores"는 반어적(실제로는 위험한 임무)
+- **시제:**
+  - `Se acabó` → acabarse | 직설법 단순과거, 3인칭 단수 | 스페인 구어에서 "¿Se acabó?"는 "이제 끝이야?"라는 완결을 강조하는 관용적 단순과거 | 규칙
+  - `habrá` → haber | 직설법 단순미래, 비인칭 | 미래에 대한 추측·질문 | 불규칙 미래 어간 habr-
+
+### 26-58. **Carlos:** (Sonríe) Espero que no necesitemos otro como este en un buen tiempo.
+- **해석:** (미소 지으며) 한동안은 이런 일이 또 필요하지 않길 바라.
+- **주요 단어:** `sonreír` (동사) 미소 짓다 / `esperar` (동사) 바라다 / `necesitar` (동사) 필요로 하다
+- **문법:** 희망 동사 `esperar que` + 접속법. `otro como este` = 이런 또 다른 것(부탁).
+- **표현:** `en un buen tiempo` 꽤 오랫동안
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재, 3인칭 단수 (지문) | 무대 지시 | 불규칙(reír와 같은 변화: sonrío, sonríes, sonríe)
+  - `Espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 희망 | 규칙
+  - `necesitemos` → necesitar | 접속법 현재, 1인칭 복수 | 희망 동사 뒤 → 접속법 | 규칙
+
+### 26-59. **Carlos:** Aunque, si algún día surge algo, ya sé a quién puedo llamar.
+- **해석:** 그래도 언젠가 무슨 일이 생기면, 누구한테 연락하면 될지 이제 알지.
+- **주요 단어:** `surgir` (동사) 생기다, 발생하다 / `llamar` (동사) 전화하다, 부르다
+- **문법:** 실현 가능한 조건문 `si + 직설법 현재, 직설법 현재`. 간접의문 `a quién` (사람 목적어 a + 의문사 강세).
+- **표현:** `ya sé a quién llamar` 누구에게 연락할지 알고 있다(= 너한테 할 거야)
+- **시제:**
+  - `surge` → surgir | 직설법 현재, 3인칭 단수 | si 조건절에서는 미래 대신 현재(미래형·접속법 현재 불가) | 규칙(철자 g→j: surjo)
+  - `sé` → saber | 직설법 현재, 1인칭 단수 | 현재 앎 | 불규칙(sé)
+  - `puedo` → poder | 직설법 현재, 1인칭 단수 | 가능성 | 불규칙(o→ue)
+  - `llamar` → llamar | 부정사 | poder 뒤
+
+### 26-60. **Álvaro:** (Ríe) La próxima vez, avísame con más de dos horas de antelación, por favor.
+- **해석:** (웃으며) 다음엔 두 시간보다는 더 미리 알려줘, 부탁이야.
+- **주요 단어:** `avisar` (동사) 알리다 / `antelación` (명사, 여) 사전, 미리
+- **문법:** 긍정명령 + 대명사 결합(avisa + me → avísame, 강세 표시). 수 앞 비교에서는 `más de` (más que 아님).
+- **표현:** `con antelación` 미리
+- **시제:**
+  - `Ríe` → reír | 지문 현재 | 앞에서 설명
+  - `avísa(me)` → avisar | 명령법 긍정, 2인칭 단수(tú) | 친구에게 하는 부탁 | 규칙
+
+### 26-61. **Carlos:** Prometido.
+- **해석:** 약속할게.
+- **주요 단어:** `prometer` (동사) 약속하다
+- **문법:** 과거분사 단독으로 "약속된 걸로 해"라는 의미.
+- **표현:** `Prometido` 약속해(구어)
+- **시제:**
+  - `Prometido` → prometer | 과거분사 | (Está) prometido의 생략, 완료된 약속 상태 | 규칙
+
+### 26-62. **Carlos:** Bueno, ¿brindamos por que todo haya salido bien?
+- **해석:** 자, 다 잘 끝난 걸 위해 건배할까?
+- **주요 단어:** `brindar` (동사) 건배하다 / `salir bien` 잘 되다
+- **문법:** `brindar por que + 접속법` = ~하기를/~한 것을 위해 건배하다(por와 que 띄어 씀, porque와 다름). 건배·기원 표현이라 접속법. 이미 일어난 일이라 접속법 현재완료.
+- **표현:** `brindar por` ~을 위해 건배하다
+- **시제:**
+  - `brindamos` → brindar | 직설법 현재, 1인칭 복수 | 제안하는 현재형 의문 | 규칙
+  - `haya salido` → salir | 접속법 현재완료 pretérito perfecto de subjuntivo, 3인칭 단수 | 기원 표현 뒤 접속법 + 현재와 연결된 완료 사실 | haber 접속법 haya(불규칙), 과거분사 salido 규칙
+
+### 26-63. **Álvaro:** Brindemos.
+- **해석:** 건배하자.
+- **주요 단어:** `brindar` (앞에서 설명)
+- **문법:** nosotros 명령형(= vamos a brindar).
+- **시제:**
+  - `Brindemos` → brindar | 명령법 1인칭 복수(접속법 현재형) | "~하자"라는 청유 | 규칙
+  - 비교: 앞의 brindamos(직설법, 제안 질문)에 brindemos(명령법, 확정)로 답함.
+
+### 26-64. **Álvaro:** Por los envíos que nunca llegaron a su destino.
+- **해석:** 끝내 목적지에 닿지 못한 선적물들을 위하여.
+- **주요 단어:** `envío` (앞에서 설명) / `destino` (명사, 남) 목적지
+- **문법:** 건배 표현 `Por + 명사`. 관계사절.
+- **시제:**
+  - `llegaron` → llegar | 직설법 단순과거, 3인칭 복수 | 완결된 과거 결과 | 규칙
+
+### 26-65. **Carlos:** Y por los amigos que siguen aquí para contarlo.
+- **해석:** 그리고 살아서 이 얘기를 할 수 있는 친구들을 위하여.
+- **주요 단어:** `seguir` (앞에서 설명) / `contar` (동사) 이야기하다
+- **문법:** `para + 부정사 + 대명사`(contarlo).
+- **표현:** `seguir aquí para contarlo` 살아남아 이야기하다(위험을 무사히 넘겼다는 관용적 느낌, vivir para contarlo)
+- **시제:**
+  - `siguen` → seguir | 직설법 현재, 3인칭 복수 | 현재 지속 상태 | 불규칙(e→i)
+  - `contarlo` → contar | 부정사 + lo | 목적
+
+### 26-66. **Álvaro:** Qué bien sabe la cerveza hoy, la verdad.
+- **해석:** 오늘 맥주 정말 맛있다, 진짜.
+- **주요 단어:** `saber` (동사) 맛이 나다 / `cerveza` (명사, 여) 맥주
+- **문법:** 감탄문 `Qué + 부사 + 동사`. `saber bien` = 맛이 좋다(여기서 saber는 '알다'가 아님).
+- **표현:** `saber bien/mal` 맛이 좋다/나쁘다
+- **시제:**
+  - `sabe` → saber | 직설법 현재, 3인칭 단수 | 지금 느끼는 맛 | 1인칭 sé만 불규칙
+
+### 26-67. **Carlos:** Como en el centro de Madrid en ningún sitio, aunque digan lo contrario.
+- **해석:** 남들이 뭐라 하든, 마드리드 시내만 한 데는 없어.
+- **주요 단어:** `ningún sitio` 어디에도 없음 / `contrario` (형용사) 반대의
+- **문법:** `Como en X, en ningún sitio` = X만 한 곳은 없다(동사 생략 비교 구문, 원형은 Como en casa, en ningún sitio). `aunque + 접속법` 양보(남들 말의 사실 여부와 상관없이).
+- **표현:** `decir lo contrario` 반대로 말하다
+- **시제:**
+  - `digan` → decir | 접속법 현재, 3인칭 복수(불특정 주어) | aunque + 접속법: 가정적·무관한 양보 | 불규칙(digo → diga)
+
+### 26-68. **Álvaro:** (Ríe) Eso mismo dice siempre Javier de Madrid en general.
+- **해석:** (웃으며) 하비에르가 마드리드 전체에 대해 늘 똑같은 말을 하지.
+- **주요 단어:** `mismo` (형용사) 바로 그, 같은 / `en general` 전반적으로
+- **문법:** 주어 도치(dice Javier). `eso mismo` = 바로 그것.
+- **시제:**
+  - `Ríe` → reír | 지문 현재 | 앞에서 설명
+  - `dice` → decir | 직설법 현재, 3인칭 단수 | siempre와 함께 습관 | 불규칙(e→i: dice)
+
+### 26-69. **Carlos:** Por cierto, ¿cómo lleva él todo esto?
+- **해석:** 그런데, 그는 이 모든 걸 어떻게 받아들이고 있어?
+- **주요 단어:** `llevar` (동사) (상황을) 견디다, 받아들이다
+- **문법:** `llevar algo bien/mal` = 어떤 일을 잘/잘못 감당하다.
+- **표현:** `¿Cómo lo llevas?` 어떻게 지내/견디고 있어?
+- **시제:**
+  - `lleva` → llevar | 직설법 현재, 3인칭 단수 | 현재 진행 중인 상태 | 규칙
+
+### 26-70. **Álvaro:** Mejor de lo que esperaba.
+- **해석:** 생각보다 잘 지내.
+- **주요 단어:** `mejor` 더 잘
+- **문법:** 절과 비교할 때 `de lo que` 사용(más/mejor de lo que + 동사).
+- **시제:**
+  - `esperaba` → esperar | 직설법 불완료과거, 1인칭 단수 | 과거에 가졌던 예상 | 규칙
+
+### 26-71. **Álvaro:** Está volcado en su parte del reportaje.
+- **해석:** 자기가 맡은 기사 부분에 푹 빠져 있어.
+- **주요 단어:** `volcado` (형용사/과거분사) 몰두한 / `reportaje` (명사, 남) 르포, 취재 기사
+- **문법:** `estar + 과거분사` 상태. `volcarse en` = ~에 몰두하다.
+- **표현:** `estar volcado en algo` 무언가에 전념하다
+- **시제:**
+  - `Está` → estar | 직설법 현재 | 현재의 일시적 상태라 estar | 불규칙
+  - `volcado` → volcar | 과거분사 | 결과 상태 | volcar는 o→ue(vuelco)이나 분사는 규칙
+
+### 26-72. **Álvaro:** Creo que le ha venido bien tener algo tan grande entre manos.
+- **해석:** 이렇게 큰일을 손에 쥐고 있는 게 그에게 도움이 된 것 같아.
+- **주요 단어:** `venir bien` 도움이 되다, 적절하다 / `entre manos` 손에 쥔, 진행 중인
+- **문법:** `creer que` 긍정 → 직설법. `venirle bien a alguien` gustar형(부정사구 tener...가 주어).
+- **표현:** `tener algo entre manos` 무언가를 맡아 진행하다
+- **시제:**
+  - `Creo` → creer | 직설법 현재, 1인칭 단수 | 현재 의견 | 규칙
+  - `ha venido` → venir | 직설법 현재완료, 3인칭 단수 | 최근부터 지금까지의 효과 | 과거분사 venido 규칙
+  - `tener` → tener | 부정사 | 문장 주어
+  - 비교: `no creo que le haya venido`(부정)이면 접속법.
+
+### 26-73. **Carlos:** Me alegro.
+- **해석:** 다행이다.
+- **주요 단어:** `alegrarse` (재귀동사) 기뻐하다
+- **문법:** 재귀형. 26-13의 me alegra(gustar형)과 비교.
+- **시제:**
+  - `alegro` → alegrarse | 직설법 현재, 1인칭 단수 | 현재 감정 | 규칙
+
+### 26-74. **Carlos:** Bueno, ¿pedimos ya la comida, o seguimos con más picoteo?
+- **해석:** 자, 이제 식사 시킬까, 아니면 좀 더 안주 먹을까?
+- **주요 단어:** `pedir` (앞에서 설명) / `comida` (명사, 여) 식사 / `seguir con` 계속하다 / `picoteo` (명사, 남) 조금씩 집어 먹기
+- **문법:** 현재형 의문문으로 제안(26-4와 같음).
+- **표현:** `picoteo` 타파스 등을 조금씩 먹는 것(스페인 구어)
+- **시제:**
+  - `pedimos` → pedir | 직설법 현재, 1인칭 복수 | 제안 | 앞에서 설명
+  - `seguimos` → seguir | 직설법 현재, 1인칭 복수 | 제안 | e→i 동사지만 nosotros형은 변화 없음
+
+### 26-75. **Álvaro:** Pidamos ya, que tengo hambre de verdad.
+- **해석:** 이제 시키자, 나 진짜 배고파.
+- **주요 단어:** `hambre` (명사, 여) 배고픔
+- **문법:** nosotros 명령형. `que` 이유의 구어 접속사. `tener hambre` 배고프다.
+- **시제:**
+  - `Pidamos` → pedir | 명령법 1인칭 복수(접속법 현재형) | "~하자" 청유 | 불규칙: 접속법에서 e→i (pida, pidamos)
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | 지금 상태 | 불규칙(tengo)
+  - 비교: 직설법 pedimos(e 유지) vs 접속법 pidamos(e→i).
+
+### 26-76. **Carlos:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` (형용사) 완벽한, 좋아
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 26-77. **Carlos:** Y esta vez, invito yo.
+- **해석:** 그리고 이번엔 내가 살게.
+- **주요 단어:** `invitar` (동사) 초대하다, 한턱내다
+- **문법:** 주어 yo를 동사 뒤에 두어 강조("내가").
+- **표현:** `Invito yo` 내가 낼게(스페인 식사 자리 필수 표현)
+- **시제:**
+  - `invito` → invitar | 직설법 현재, 1인칭 단수 | 가까운 미래의 결정을 현재형으로 | 규칙

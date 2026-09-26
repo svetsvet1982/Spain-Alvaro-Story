@@ -429,3 +429,176 @@
 - **시제:**
   - `aparece` → aparecer | 직설법 현재 3인칭 단수 | 현재 사실 | -cer 동사, 1인칭 aparezco 불규칙
   - `he entregado` → entregar | 직설법 현재완료 1인칭 단수 | 지금까지 건넨 서류 전체(현재까지의 누적) | 규칙
+
+### 7-51. **파비안:** ¿Y si comprobáramos ahora mismo con ese contacto tuyo del Registro Civil?
+- **해석:** 그럼 지금 당장 네 그 호적등기소 지인한테 확인해 보면 어떨까?
+- **주요 단어:** `comprobar` (동사) 확인하다 / `Registro Civil` 호적등기소(출생·혼인 등록 기관)
+- **문법:** `¿Y si + 접속법 과거?` 가정적 제안("~하면 어떨까"). `ese contacto tuyo` 강세형 소유사(tuyo)를 명사 뒤에.
+- **표현:** `ese ... tuyo` "네 그 ~" — 약간 비꼬거나 거리를 둔 뉘앙스.
+- **시제:**
+  - `comprobáramos` → comprobar | 접속법 과거 1인칭 복수 | 가정(실제로 하진 않은 가상 상황) | 규칙 어미 -áramos (강세 표시), 어간은 과거라 모음변화 없음
+
+### 7-52. **파비안:** ¿Aparecerías tal cual dices?
+- **해석:** 네 말 그대로 나올까?
+- **주요 단어:** `aparecer` 나타나다 / `decir` 말하다
+- **문법:** 앞 문장의 si 가정에 대한 귀결 → 조건법.
+- **표현:** `tal cual` "그대로, 정확히 그렇게".
+- **시제:**
+  - `Aparecerías` → aparecer | 조건법 단순 2인칭 단수 | 가정 상황의 결과 | 규칙 어미
+  - `dices` → decir | 직설법 현재 2인칭 단수 | 현재 하는 주장 | 불규칙 (digo, dices)
+
+### 7-53. **알바로:** Aparecería exactamente igual.
+- **해석:** 똑같이 나올 겁니다.
+- **주요 단어:** `igual` (부사) 똑같이
+- **시제:**
+  - `Aparecería` → aparecer | 조건법 단순 1인칭 단수 | 상대의 가정 질문에 같은 법으로 응답
+
+### 7-54. **알바로:** No tengo ningún motivo para mentirle en algo tan simple.
+- **해석:** 그렇게 단순한 걸로 당신께 거짓말할 이유가 전혀 없어요.
+- **주요 단어:** `motivo` (명사, 남성) 이유 / `mentir` (동사) 거짓말하다 / `simple` (형용사) 단순한
+- **문법:** `no ... ningún` 이중부정(ninguno는 남성 명사 앞에서 ningún). `mentirle`: 부정사 + le(usted에게). `tan + 형용사` 그렇게 ~한.
+- **시제:**
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 불규칙
+  - `mentirle` → mentir | 부정사 + le | para 뒤
+
+### 7-55. **마놀로:** (Saca una carpeta y la abre frente a él) Hemos investigado tu empresa a fondo, Diego.
+- **해석:** (서류철을 꺼내 그 앞에서 연다) 네 회사를 샅샅이 조사했어, 디에고.
+- **주요 단어:** `sacar` (동사) 꺼내다 / `carpeta` (명사, 여성) 서류철 / `abrir` (동사) 열다 / `investigar` (동사) 조사하다
+- **문법:** la = carpeta(직접목적어). `frente a` ~ 앞에서.
+- **표현:** `a fondo` "철저히".
+- **시제:**
+  - `Saca` → sacar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `abre` → abrir | 직설법 현재 3인칭 단수 | 지문 | 규칙 (과거분사만 abierto 불규칙)
+  - `Hemos investigado` → investigar | 직설법 현재완료 1인칭 복수 | 조사 결과가 지금 손에 있음(현재와 연결) | 규칙
+
+### 7-56. **마놀로:** Hay cosas que no cuadran del todo.
+- **해석:** 앞뒤가 딱 맞지 않는 것들이 있어.
+- **주요 단어:** `cuadrar` (동사) 들어맞다
+- **문법:** hay = 존재. 관계절은 실제 존재하는 것이라 직설법.
+- **표현:** `no cuadrar` "앞뒤가 안 맞다". `del todo` 앞에서 설명.
+- **시제:**
+  - `Hay` → haber | 직설법 현재 3인칭 단수(무인칭) | 존재 | 불규칙 특수형 hay
+  - `cuadran` → cuadrar | 직설법 현재 3인칭 복수 | 현재 상태 | 규칙
+
+### 7-57. **알바로:** ¿Como qué?
+- **해석:** 예를 들면요?
+- **표현:** `¿Como qué?` "예를 들어 뭐?" (como에 강세 없음)
+- **시제:** 동사 없음
+
+### 7-58. **알바로:** Dígame exactamente qué no cuadra y se lo explicaré.
+- **해석:** 정확히 뭐가 안 맞는지 말씀해 주시면 설명드리겠습니다.
+- **주요 단어:** `explicar` (동사) 설명하다
+- **문법:** usted 긍정 명령 Diga + me(강세 표시 추가). `se lo`: 간접목적어 le가 lo 앞에서 se로 바뀜.
+- **시제:**
+  - `Dígame` → decir | 긍정 명령 usted (접속법 현재 diga) + me | 존칭 요청 | 불규칙 (diga)
+  - `cuadra` → cuadrar | 직설법 현재 3인칭 단수 | 간접의문 | 규칙
+  - `explicaré` → explicar | 직설법 단순미래 1인칭 단수 | 약속·의지 | 규칙
+
+### 7-59. **파비안:** El local que figura como tu oficina en Cádiz lleva meses cerrado, según nuestra gente.
+- **해석:** 우리 사람들 말로는 카디스에 네 사무실로 등록된 점포가 몇 달째 문을 닫았다던데.
+- **주요 단어:** `local` (명사, 남성) 점포, 공간 / `figurar` (동사) (서류상) 나와 있다 / `oficina` (명사, 여성) 사무실 / `cerrado` (형용사) 닫힌
+- **문법:** `llevar + 기간 + 과거분사/형용사` = ~째 ~인 상태다.
+- **시제:**
+  - `figura` → figurar | 직설법 현재 3인칭 단수 | 서류상 현재 상태 | 규칙
+  - `lleva` → llevar | 직설법 현재 3인칭 단수 | 과거부터 현재까지 지속 | 규칙
+  - `cerrado` → cerrar | 과거분사 | 상태 (local에 일치)
+
+### 7-60. **알바로:** Porque trabajo desde casa la mayor parte del tiempo.
+- **해석:** 대부분 집에서 일하니까요.
+- **주요 단어:** `desde` (전치사) ~에서(부터) / `parte` (명사, 여성) 부분
+- **표현:** `trabajar desde casa` 재택근무하다. `la mayor parte del tiempo` 대부분의 시간.
+- **문법:** 특이사항 없음
+- **시제:**
+  - `trabajo` → trabajar | 직설법 현재 1인칭 단수 | 습관 | 규칙
+
+### 7-61. **알바로:** Ese local es solo la dirección fiscal, no significa que esté siempre abierto.
+- **해석:** 그 점포는 세무상 주소일 뿐이에요, 늘 열려 있어야 한다는 뜻은 아니죠.
+- **주요 단어:** `dirección fiscal` 세무상 주소, 사업자 등록 주소 / `significar` (동사) 의미하다 / `abierto` (형용사, abrir의 과거분사) 열린
+- **문법:** `no significa que + 접속법` — 부정된 판단·의미 동사 뒤라 접속법. 상태 estar.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 정체 | 불규칙
+  - `significa` → significar | 직설법 현재 3인칭 단수 | 규칙
+  - `esté` → estar | 접속법 현재 3인칭 단수 | 부정(no significa) 뒤라 접속법 | 불규칙
+  - 비교: 긍정 significa que면 직설법(significa que está abierto).
+
+### 7-62. **파비안:** Cada respuesta tuya tiene una explicación perfecta.
+- **해석:** 네 대답마다 완벽한 설명이 붙는군.
+- **주요 단어:** `explicación` (명사, 여성) 설명 / `perfecto` (형용사) 완벽한
+- **문법:** cada + 단수 명사. 강세형 소유사 tuya.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 불규칙
+
+### 7-63. **파비안:** Empieza a resultarme sospechoso lo perfecto que es todo.
+- **해석:** 모든 게 이렇게 완벽하다는 게 슬슬 수상해 보이기 시작해.
+- **주요 단어:** `resultar` (동사) ~하게 되다, ~로 느껴지다 / `sospechoso` (형용사) 수상한
+- **문법:** `lo + 형용사 + que + 동사` = 얼마나 ~한지(정도 강조). 이 구절 전체가 주어. `resultarme`: 부정사 + me(나에게).
+- **시제:**
+  - `Empieza` → empezar | 직설법 현재 3인칭 단수 | 지금 막 생기는 인식 | e→ie 불규칙
+  - `resultarme` → resultar | 부정사 + me | empezar a 뒤
+  - `es` → ser | 직설법 현재 3인칭 단수 | 불규칙
+
+### 7-64. **알바로:** (Con la voz temblorosa por el esfuerzo, pero firme) Lo siento si mis respuestas le parecen demasiado ordenadas, pero es porque son la verdad, no una historia inventada.
+- **해석:** (힘을 짜내느라 목소리가 떨리지만 단호하게) 제 대답이 너무 정돈돼 보이신다면 죄송하지만, 그건 지어낸 이야기가 아니라 사실이기 때문이에요.
+- **주요 단어:** `tembloroso` (형용사) 떨리는 / `firme` (형용사) 확고한 / `sentir` (동사) 유감으로 여기다 / `parecer` (동사) ~처럼 보이다 / `ordenado` (형용사) 정돈된 / `inventar` (동사) 지어내다
+- **문법:** `si + 직설법`(현실 조건). `parecer` 역구조 동사: le(당신에게) 대답들이 ~해 보인다. `por el esfuerzo` 원인의 por.
+- **표현:** `Lo siento` "죄송합니다, 유감입니다".
+- **시제:**
+  - `siento` → sentir | 직설법 현재 1인칭 단수 | 현재 감정 | e→ie 불규칙
+  - `parecen` → parecer | 직설법 현재 3인칭 복수 | 현실 조건 | 1인칭 parezco 불규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 불규칙
+  - `son` → ser | 직설법 현재 3인칭 복수 | 불규칙
+  - `inventada` → inventar | 과거분사 여성 단수 | historia 수식
+
+### 7-65. **마놀로:** (Se acerca, con un tono más duro) A la gente que miente también le sale todo ordenado, hasta que se le olvida algún detalle.
+- **해석:** (더 거친 어조로 다가서며) 거짓말하는 사람도 다 술술 정돈돼 나와, 어떤 디테일을 까먹기 전까진.
+- **주요 단어:** `duro` (형용사) 거친, 딱딱한 / `salir` (동사) 나오다, (결과가) 되다 / `olvidarse` (재귀동사) 잊다 / `detalle` (명사, 남성) 세부사항
+- **문법:** `A la gente ... le sale`: 간접목적어 중복. `se le olvida`: 무의지의 se(실수로 잊혀지다) + 영향받는 사람 le. `hasta que + 직설법`: 일반적·반복적 사실이라 직설법.
+- **표현:** `salirle bien/ordenado a alguien` "~에게 ~하게 되다/풀리다".
+- **시제:**
+  - `Se acerca` → acercarse | 직설법 현재 3인칭 단수 | 지문
+  - `miente` → mentir | 직설법 현재 3인칭 단수 | 일반론 | e→ie
+  - `sale` → salir | 직설법 현재 3인칭 단수 | 일반적 경향 | 1인칭 salgo 불규칙
+  - `olvida` → olvidar(se) | 직설법 현재 3인칭 단수 | 일반적 사실(습관적) | 규칙
+  - 비교: hasta que + 접속법(se le olvide)은 미래의 특정 시점을 말할 때.
+
+### 7-66. **알바로:** Entonces pregúnteme el detalle que quiera.
+- **해석:** 그럼 원하시는 어떤 디테일이든 물어보세요.
+- **문법:** usted 긍정 명령 + me(강세 표시). `el detalle que + 접속법`: 정해지지 않은 선행사.
+- **시제:**
+  - `pregúnteme` → preguntar | 긍정 명령 usted + me | 존칭 요청 | 규칙
+  - `quiera` → querer | 접속법 현재 3인칭 단수 | 불특정 선행사라 접속법 | e→ie
+
+### 7-67. **알바로:** No me voy a contradecir porque no tengo nada que esconder.
+- **해석:** 숨길 게 없으니까 말이 엇갈릴 일도 없을 거예요.
+- **주요 단어:** `contradecirse` (재귀동사) 자기모순에 빠지다 / `esconder` (동사) 숨기다
+- **문법:** 재귀대명사 me를 ir a 앞에 둠(= no voy a contradecirme).
+- **시제:**
+  - `voy` → ir | 직설법 현재 1인칭 단수 | ir a + 부정사로 미래 단언 | 불규칙
+  - `contradecir` → contradecir(se) | 부정사 | decir 계열 불규칙
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 불규칙
+  - `esconder` → esconder | 부정사 | que 뒤
+
+### 7-68. **파비안:** Cuéntame otra vez, con calma, cómo conociste exactamente a Rafa.
+- **해석:** 다시 한번, 차분하게, 라파를 정확히 어떻게 알게 됐는지 말해봐.
+- **주요 단어:** `contar` (동사) 이야기하다 / `calma` (명사, 여성) 침착 / `conocer` (동사) (처음) 알게 되다
+- **문법:** 긍정 명령 + me(강세). 사람 목적어 앞 전치사 a(a Rafa). 간접의문 cómo + 직설법.
+- **표현:** `otra vez` 다시. `con calma` 차분히.
+- **시제:**
+  - `Cuéntame` → contar | 긍정 명령 tú + me | 요청 | o→ue 불규칙 (cuenta)
+  - `conociste` → conocer | 직설법 단순과거 2인칭 단수 | "처음 만나 알게 되다"라는 한 시점의 사건 | 규칙
+  - 비교: conocer는 단순과거면 "알게 되다(만나다)", 불완료과거 conocías면 "알고 있었다".
+
+### 7-69. **파비안:** Y esta vez no te dejes ningún detalle.
+- **해석:** 이번엔 디테일 하나도 빠뜨리지 마.
+- **주요 단어:** `dejarse` (재귀동사) 빠뜨리다, 두고 오다
+- **문법:** 부정 명령 tú = no + 재귀대명사 + 접속법 현재. 이중부정 no ... ningún.
+- **표현:** `dejarse algo` (스페인 구어) "~을 깜빡하고 빠뜨리다".
+- **시제:**
+  - `dejes` → dejar(se) | 부정 명령 tú (접속법 현재 2인칭 단수) | 금지 | 규칙
+
+### 7-70. **알바로:** Coincidimos hace años en una operación de importación en Algeciras.
+- **해석:** 몇 년 전 알헤시라스에서 수입 작업을 하다 우연히 함께하게 됐어요.
+- **주요 단어:** `coincidir` (동사) (같은 장소·시간에) 마주치다, 함께하다 / `operación` (명사, 여성) 작업, 거래 / `importación` (명사, 여성) 수입
+- **문법:** `hace + 기간` ~전에.
+- **시제:**
+  - `Coincidimos` → coincidir | 직설법 단순과거 1인칭 복수 | hace años라는 끝난 과거의 사건 | 규칙 (현재형과 형태 같음, hace años로 과거임을 알 수 있음)

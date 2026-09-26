@@ -427,3 +427,175 @@
 - **표현:** `según se mire` = "보기 나름이다"라는 관용구.
 - **시제:**
   - `se mire` → mirar (비인칭 se) | 접속법 현재 3인칭 단수 | 불특정·가능성의 관점이라 접속법 | 규칙
+
+### 6-54. **Fabián:** Yo tengo dos: una en Bogotá y otro que estudia en Miami.
+- **해석:** 나는 둘 있어. 딸 하나는 보고타에, 아들 하나는 마이애미에서 공부하고 있지.
+- **주요 단어:** `tener` 가지다 / `estudiar` (동사) 공부하다
+- **문법:** `una`(여성) / `otro`(남성)로 딸과 아들을 구분 — 명사 hijos(자식)를 생략하고 성으로만 표시. `que estudia` = 관계절.
+- **시제:**
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 현재 사실 | 불규칙(tengo)
+  - `estudia` → estudiar | 직설법 현재 3인칭 단수 | 현재 진행 중인 상황(유학 중) | 규칙
+
+### 6-55. **Fabián:** Apenas los veo, con la vida que llevo.
+- **해석:** 내가 사는 이런 삶 때문에 애들을 거의 못 봐.
+- **주요 단어:** `apenas` (부사) 거의 ~않다 / `ver` 보다 / `llevar una vida` 삶을 살다
+- **문법:** `apenas`는 동사 앞에 오면 no 없이 부정 의미. `los`는 hijos(딸+아들 → 남성 복수). `con` + 명사 = "~ 때문에, ~하는 상황에서" (원인·조건).
+- **표현:** `con la vida que llevo` = "내가 이런 삶을 살다 보니". `llevar (una) vida + 형용사` = ~한 삶을 살다.
+- **시제:**
+  - `veo` → ver | 직설법 현재 1인칭 단수 | 현재의 습관적 상황 | 불규칙: 1인칭 veo
+  - `llevo` → llevar | 직설법 현재 1인칭 단수 | 현재 지속되는 생활 | 규칙
+
+### 6-56. **Álvaro:** Debe de ser duro estar tan lejos de ellos.
+- **해석:** 아이들과 그렇게 멀리 떨어져 있는 건 분명 힘드시겠어요.
+- **주요 단어:** `duro` (형용사) 힘든, 가혹한 / `lejos de` ~에서 멀리
+- **문법:** `deber de` + 부정사 = 현재 추측. 부정사구 `estar tan lejos de ellos`가 진주어.
+- **시제:**
+  - `Debe` → deber | 직설법 현재 3인칭 단수 | 현재 상황에 대한 추측 (6-34의 debió와 대조: 과거 추측) | 규칙
+  - `ser` → 부정사 | deber de 뒤
+  - `estar` → 부정사 | 진주어; 일시적 위치·상태라 estar
+
+### 6-57. **Fabián:** Lo es.
+- **해석:** 그렇지.
+- **문법:** `lo` = 앞의 duro를 받는 중성대명사 (6-35 Lo fue와 같은 구조).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞 문장(현재 추측)에 현재형으로 답함 | 불규칙
+
+### 6-58. **Fabián:** Aunque prefiero que estén lejos de todo esto.
+- **해석:** 그래도 이 모든 것에서 멀리 떨어져 있는 게 낫다고 생각해.
+- **주요 단어:** `preferir` (동사) 선호하다 / `todo esto` 이 모든 것 (= 범죄 세계)
+- **문법:** `preferir que` + 접속법: 선호·희망 동사 뒤 주어가 바뀌면 접속법 (나는 선호 / 그들이 있다). 문장 첫머리 `Aunque`는 앞 말에 대한 반론·보충 ("그렇긴 해도").
+- **시제:**
+  - `prefiero` → preferir | 직설법 현재 1인칭 단수 | 현재의 의향 | 어간모음변화 e → ie
+  - `estén` → estar | 접속법 현재 3인칭 복수 | 선호 동사 뒤라 접속법 | 불규칙 강세(esté, estén)
+
+### 6-59. **Fabián:** Cuanto menos sepan, mejor para ellos.
+- **해석:** 모를수록 그들에게 좋아.
+- **주요 단어:** `cuanto menos` ~할수록 덜 / `saber` 알다
+- **문법:** 비례 비교 구문 `cuanto + más/menos ..., (tanto) más/mejor ...` = "~할수록 ...하다". 일반적·불특정한 정도라 접속법 사용.
+- **표현:** `Cuanto menos sepas, mejor` = "모르는 게 약이다"와 비슷한 흔한 표현.
+- **시제:**
+  - `sepan` → saber | 접속법 현재 3인칭 복수 | 비례 구문에서 정해지지 않은 정도(가정적)라 접속법 | 불규칙: saber → sep- (sepa, sepan)
+
+### 6-60. **Álvaro:** Tiene sentido.
+- **해석:** 일리가 있네요.
+- **주요 단어:** `sentido` (명사, 남) 의미, 일리
+- **표현:** `tener sentido` = 말이 되다, 일리 있다.
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Tiene` → tener | 직설법 현재 3인칭 단수 | 현재의 판단 | 불규칙: e → ie
+
+### 6-61. **Álvaro:** Es una forma de protegerlos.
+- **해석:** 그들을 지키는 한 방법이네요.
+- **주요 단어:** `proteger` (동사) 보호하다
+- **문법:** 부정사에 목적대명사 부착 (protegerlos).
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 정의·판단 | 불규칙
+  - `protegerlos` → proteger | 부정사 | 전치사 de 뒤 (1인칭 현재는 철자 변화 protejo)
+
+### 6-62. **Fabián:** Exacto.
+- **해석:** 바로 그거야.
+- **문법:** 특이사항 없음 (6-19에서 설명)
+- **시제:**
+  - 동사 없음
+
+### 6-63. **Fabián:** (Bebe vino) Oye, cambiando de tema, ¿qué opinas realmente de Manolo?
+- **해석:** (와인을 마신다) 그런데 말이야, 화제를 바꿔서, 마놀로에 대해 진짜로 어떻게 생각해?
+- **주요 단어:** `beber` (동사) 마시다 / `oír` (동사) 듣다 → `Oye` 이봐, 저기 / `cambiar de tema` 화제를 바꾸다 / `opinar de` ~에 대해 의견을 갖다 / `realmente` 실제로, 진짜로
+- **문법:** ① 현재분사 구문 `cambiando de tema` = "화제를 바꾸자면" (방식·부대상황). ② `cambiar de` + 무관사 명사 = ~를 바꾸다.
+- **표현:** `Oye`는 주의를 끄는 구어체 호출어.
+- **시제:**
+  - `Bebe` → beber | 직설법 현재 3인칭 단수 (지문) | 지문은 현재 | 규칙
+  - `Oye` → oír | 명령형 2인칭 단수 tú | 주의를 끄는 관용 표현 | 불규칙: oír → oye (y 삽입)
+  - `cambiando` → cambiar | 현재분사 | 말하는 방식을 나타내는 부대상황 | 규칙
+  - `opinas` → opinar | 직설법 현재 2인칭 단수 | 현재 의견 | 규칙
+
+### 6-64. **Álvaro:** Me parece un tipo serio, profesional.
+- **해석:** 진지하고 프로다운 사람 같아요.
+- **주요 단어:** `parecer` ~처럼 보이다 (앞에서 설명) / `tipo` (명사, 남) 녀석, 사람 (구어) / `serio` (형용사) 진지한
+- **문법:** `Me parece` + 명사구 = "내가 보기에 ~이다".
+- **표현:** `tipo`는 스페인 구어로 '남자, 녀석'.
+- **시제:**
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재의 인상 | 이 형태는 규칙
+
+### 6-65. **Álvaro:** No se anda con rodeos.
+- **해석:** 에둘러 말하지 않죠.
+- **주요 단어:** `andarse con rodeos` (관용) 돌려 말하다 / `rodeo` (명사, 남) 우회
+- **문법:** 재귀동사 `andarse` (andar의 재귀형으로 관용구에 쓰임).
+- **표현:** `No andarse con rodeos` = 직설적이다, 단도직입적이다. `sin rodeos`(돌려 말하지 않고)도 흔함.
+- **시제:**
+  - `se anda` → andarse | 직설법 현재 3인칭 단수 | 성격(일반적 특성) 묘사 | 현재는 규칙 (단순과거만 불규칙 anduvo)
+
+### 6-66. **Fabián:** Es leal, y eso es lo que más valoro de él.
+- **해석:** 충성스럽지. 그게 내가 그에게서 가장 높이 사는 점이야.
+- **주요 단어:** `leal` (형용사) 충성스러운 / `valorar` (동사) 가치 있게 여기다
+- **문법:** `lo que más` + 동사 = "가장 ~하는 것" (중성 관계사 강조 구문).
+- **시제:**
+  - `Es` / `es` → ser | 직설법 현재 3인칭 단수 | 성격·정의 | 불규칙
+  - `valoro` → valorar | 직설법 현재 1인칭 단수 | 현재의 가치관 | 규칙
+
+### 6-67. **Fabián:** Lleva conmigo casi quince años.
+- **해석:** 나랑 함께한 지 거의 15년 됐어.
+- **주요 단어:** `llevar` + 기간 ~동안 해 오다 / `conmigo` 나와 함께 / `casi` 거의
+- **문법:** `llevar` + 기간 = 과거부터 현재까지 지속된 기간 ("~한 지 ~ 됐다"). `conmigo` = con + mí 특수형.
+- **시제:**
+  - `Lleva` → llevar | 직설법 현재 3인칭 단수 | 지금도 계속되는 기간이라 현재형 (한국어 '됐다'에 끌려 과거형을 쓰지 않도록 주의) | 규칙
+
+### 6-68. **Álvaro:** Eso dice mucho.
+- **해석:** 그거면 많은 걸 말해 주네요.
+- **주요 단어:** `decir mucho` (관용) 많은 것을 말해 주다, 의미가 크다
+- **표현:** `Eso dice mucho (de él)` = "그것만 봐도 알 수 있다".
+- **문법:** 특이사항 없음
+- **시제:**
+  - `dice` → decir | 직설법 현재 3인칭 단수 | 일반적 평가 | 불규칙: e → i (dice)
+
+### 6-69. **Álvaro:** En este negocio, la lealtad no debe de ser fácil de encontrar.
+- **해석:** 이 사업에서 충성은 찾기 쉽지 않을 테니까요.
+- **주요 단어:** `negocio` (명사, 남) 사업 / `lealtad` (명사, 여) 충성 / `encontrar` (동사) 찾다
+- **문법:** ① `deber de` + 부정사 = 추측. ② `형용사 + de + 부정사` (fácil de encontrar) = "~하기 쉬운": 주어가 부정사의 의미상 목적어일 때 de 사용.
+- **시제:**
+  - `debe` → deber | 직설법 현재 3인칭 단수 | 현재에 대한 추측 | 규칙
+  - `ser` → 부정사 | deber de 뒤
+  - `encontrar` → 부정사 | fácil de 뒤 (현재형은 o → ue)
+
+### 6-70. **Fabián:** Es lo más difícil de encontrar, de hecho.
+- **해석:** 사실 그게 가장 찾기 어려운 거야.
+- **주요 단어:** `de hecho` 사실, 실제로
+- **문법:** `lo más + 형용사` = 가장 ~한 것 (최상급의 중성 명사화).
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 일반적 판단 | 불규칙
+  - `encontrar` → 부정사 | difícil de 뒤
+
+### 6-71. **Fabián:** Por eso, cuando alguien me traiciona, no me tiembla la mano.
+- **해석:** 그래서 누가 날 배신하면, 나는 손 떨지 않아.
+- **주요 단어:** `por eso` 그래서 / `traicionar` (동사) 배신하다 / `temblar` (동사) 떨리다 / `mano` (명사, 여) 손
+- **문법:** ① `cuando` + 직설법: 일반적 원칙("~하면 늘")이라 직설법. ② `me tiembla la mano`: 신체 부위는 소유격 대신 간접목적대명사 + 정관사 (mi mano ×).
+- **표현:** `No me tiembla la mano` = 망설임 없이 (가혹한) 행동을 한다 — 사실상 위협.
+- **시제:**
+  - `traiciona` → traicionar | 직설법 현재 3인칭 단수 | 일반적 조건 | 규칙
+  - `tiembla` → temblar | 직설법 현재 3인칭 단수 | 일반적 원칙 | 어간모음변화 e → ie
+
+### 6-72. **Álvaro:** (Mantiene la calma) Imagino que es necesario, en un negocio como este.
+- **해석:** (침착함을 유지한다) 이런 사업에선 필요한 일이겠죠.
+- **주요 단어:** `mantener` (동사) 유지하다 / `calma` 침착함 / `imaginar` (동사) 상상하다, 짐작하다 / `necesario` (형용사) 필요한
+- **문법:** `imaginar que` + 직설법: 긍정의 짐작·생각 동사 뒤는 직설법 (부정 no imagino que 뒤라면 접속법).
+- **시제:**
+  - `Mantiene` → mantener | 직설법 현재 3인칭 단수 (지문) | 지문은 현재 | tener 계열 불규칙: e → ie
+  - `Imagino` → imaginar | 직설법 현재 1인칭 단수 | 현재의 짐작 | 규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 판단 | 불규칙
+
+### 6-73. **Fabián:** Necesario y, a veces, hasta triste.
+- **해석:** 필요하고, 때로는 슬프기까지 하지.
+- **주요 단어:** `hasta` (부사) ~까지도, 심지어 / `triste` (형용사) 슬픈
+- **문법:** `hasta`가 여기선 전치사 '~까지'가 아니라 강조 부사 '심지어'.
+- **시제:**
+  - 동사 없음 (생략된 동사: Es necesario...)
+
+### 6-74. **Fabián:** He tenido que tomar decisiones que no me han gustado nada.
+- **해석:** 전혀 내키지 않는 결정들을 내려야 했던 적도 있지.
+- **주요 단어:** `tener que` + 부정사 ~해야 하다 / `tomar decisiones` 결정을 내리다 / `nada` (부사) 전혀
+- **문법:** ① 의무 `tener que` + 부정사. ② 관계절 `que no me han gustado` (선행사 decisiones → gustar 3인칭 복수). ③ `no ... nada` = 전혀 ~않다.
+- **표현:** 원문에서 두 줄로 나뉜 문장("...no me han" + "gustado nada.")을 하나로 합침.
+- **시제:**
+  - `He tenido` → tener | 직설법 현재완료 1인칭 단수 | 시점을 특정하지 않은 인생 경험("살면서 ~한 적이 있다")이라 현재완료 | 과거분사 규칙(tenido)
+  - `tomar` → 부정사 | tener que 뒤
+  - `han gustado` → gustar | 직설법 현재완료 3인칭 복수 | 주절과 같은 경험의 틀, 현재까지 이어지는 감정 | 규칙

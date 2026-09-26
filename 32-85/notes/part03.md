@@ -269,3 +269,302 @@
 - **시제:**
   - `es` → ser | 직설법 현재, 3인칭 단수 | 현재 상황의 규정 | 불규칙
 
+## 장면 5. 창고에서의 심문
+> 며칠 후, 파비안이 갑작스레 디에고(알바로)를 창고로 불러들입니다. 조직 내부에서 그의 신원에 대한 의혹이 제기된 상황입니다. 파비안은 예리하고 집요한 질문으로 디에고의 이야기에서 허점을 찾아내려 하고, 알바로는 침착함을 유지하며 이 위기를 넘기려 안간힘을 씁니다.
+
+### 5-1. **Fabián:** Siéntate, Diego.
+- **해석:** 앉아, 디에고.
+- **주요 단어:** `sentarse` (재귀동사) 앉다
+- **문법:** 긍정 명령에서는 재귀대명사가 동사 끝에 붙음(siénta + te), 강세 유지를 위해 강세 부호 추가.
+- **표현:** 파비안은 디에고에게 tú로 말하고, 알바로는 파비안에게 usted으로 말함 — 권력 관계가 드러남.
+- **시제:**
+  - `siéntate` → sentarse | 긍정 명령 imperativo afirmativo, 2인칭 단수(tú) | 상대에게 직접 지시 | 불규칙(어간모음 e→ie: siento → sienta)
+
+### 5-2. **Fabián:** Tenemos que hablar.
+- **해석:** 우리 얘기 좀 해야겠다.
+- **주요 단어:** `hablar` (동사) 이야기하다
+- **문법:** tener que + 부정사 = ~해야 한다.
+- **표현:** "Tenemos que hablar" = 심각한 대화를 예고하는 전형적 표현.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 지금 필요한 의무 | 불규칙
+  - `hablar` → hablar | 부정사 | tener que 뒤 부정사
+
+### 5-3. **Álvaro:** Claro, Fabián.
+- **해석:** 물론이죠, 파비안.
+- **주요 단어:** `claro` (부사/형용사) 물론, 분명한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 5-4. **Álvaro:** ¿Ha pasado algo?
+- **해석:** 무슨 일 있었나요?
+- **주요 단어:** `pasar` (동사) (일이) 일어나다 / `algo` 무언가
+- **문법:** haber + 과거분사 = 현재완료.
+- **시제:**
+  - `ha pasado` → pasar | 직설법 현재완료 pretérito perfecto compuesto, 3인칭 단수 | 방금 전·최근에 일어나 지금 상황(불려온 이유)과 연결된 일을 묻기에 현재완료. 스페인 스페인어에서는 가까운 과거에 현재완료를 즐겨 씀(중남미라면 ¿Pasó algo?) | 규칙(ha: haber 불규칙)
+
+### 5-5. **Fabián:** Eso es lo que quiero que me expliques tú.
+- **해석:** 그게 바로 네가 나한테 설명해 줬으면 하는 거야.
+- **주요 단어:** `querer` (동사) 원하다 / `explicar` (동사) 설명하다
+- **문법:** ① lo que = ~한 것(중성 관계사). ② querer que + 접속법: 주어가 다른 소망 → 접속법. ③ 주어 tú를 문장 끝에 두어 "바로 네가"라고 강조.
+- **표현:** 질문을 상대에게 되돌리는 압박조 대답.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 동일시(eso = lo que...) | 불규칙
+  - `quiero` → querer | 직설법 현재, 1인칭 단수 | 현재의 바람 | 불규칙(e→ie)
+  - `expliques` → explicar | 접속법 현재, 2인칭 단수 | querer que(의지·소망) + 다른 주어 → 접속법 | 규칙이나 철자 변화(c→qu: explique)
+
+### 5-6. **Fabián:** Hemos estado investigando un poco más a fondo tu empresa.
+- **해석:** 우리가 네 회사를 좀 더 깊이 조사해 왔거든.
+- **주요 단어:** `investigar` (동사) 조사하다 / `a fondo` 철저히, 깊이 / `un poco más` 조금 더
+- **문법:** haber + estado + 현재분사 = 현재완료 진행(최근까지 계속된 행위).
+- **표현:** "a fondo" = 철저하게.
+- **시제:**
+  - `hemos estado` → estar | 직설법 현재완료 pretérito perfecto compuesto, 1인칭 복수 | 최근까지 이어져 지금 결과(의심)로 연결되는 활동이라 현재완료 | estar의 과거분사 estado(규칙), haber는 불규칙
+  - `investigando` → investigar | 현재분사 gerundio | estar + 현재분사로 진행·지속 강조 → "계속 조사해 왔다" | 규칙
+
+### 5-7. **Álvaro:** ¿Y qué habéis encontrado?
+- **해석:** 그래서 뭘 찾으셨는데요?
+- **주요 단어:** `encontrar` (동사) 찾다, 발견하다
+- **문법:** 의문사 qué + 현재완료.
+- **표현:** habéis(vosotros) — 파비안 개인이 아닌 "당신들(조직)"을 가리키므로 vosotros. 파비안 개인에게는 usted을 쓰지만 집단에게는 스페인에서 vosotros를 씀.
+- **시제:**
+  - `habéis encontrado` → encontrar | 직설법 현재완료, 2인칭 복수(vosotros) | 방금 언급된 최근 조사의 결과를 묻기에 현재완료 | encontrar는 현재형에서 o→ue 불규칙이지만 과거분사는 규칙(encontrado)
+
+### 5-8. **Fabián:** Que se constituyó hace apenas tres meses.
+- **해석:** 겨우 석 달 전에 설립됐다는 거.
+- **주요 단어:** `constituirse` (재귀/수동) 설립되다 / `hace + 기간` ~전에 / `apenas` (부사) 겨우, 고작
+- **문법:** 문두의 Que는 앞 질문(¿qué habéis encontrado?)에 대한 대답으로 "Hemos encontrado que..."의 생략. se constituyó는 수동의 se(pasiva refleja).
+- **표현:** "hace apenas tres meses" = 불과 석 달 전.
+- **시제:**
+  - `constituyó` → constituir(se) | 직설법 단순과거 pretérito indefinido, 3인칭 단수 | 특정 과거 시점(hace tres meses)에 완결된 사건이라 단순과거. hace + 기간이 있는 완결 사건에는 현재완료보다 단순과거가 자연스러움 | 불규칙 철자(-uir 동사: 모음 사이 i→y, constituyó)
+
+### 5-9. **Fabián:** Muy reciente para alguien que dice llevar diez años en el negocio.
+- **해석:** 이 바닥에서 10년 있었다는 사람치고는 너무 최근이지.
+- **주요 단어:** `reciente` (형용사) 최근의 / `para` (전치사) ~치고는 / `decir` 말하다 / `llevar + 기간` (어떤 곳에서) ~만큼 지내다
+- **문법:** 동사 생략(Es muy reciente). para alguien = ~치고는(기준 대비). decir + 부정사: 주어가 같을 때 que절 대신 부정사(dice llevar = dice que lleva).
+- **표현:** "llevar diez años en el negocio" = 이 업계에 10년째 몸담다.
+- **시제:**
+  - `dice` → decir | 직설법 현재, 3인칭 단수 | 현재 그렇게 주장하고 있음 | 불규칙(e→i: digo, dices, dice)
+  - `llevar` → llevar | 부정사 | decir 뒤 부정사로 주장 내용 표현(현재까지 지속된 기간 의미) | 규칙
+
+### 5-10. **Álvaro:** Es la empresa nueva, no mi experiencia.
+- **해석:** 새것은 회사지, 제 경력이 아니에요.
+- **주요 단어:** `nuevo` (형용사) 새로운 / `experiencia` (명사, 여성) 경험, 경력
+- **문법:** "Es ~, no ~" = 대조 강조 구문(새로운 건 A지 B가 아니다). 
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 정체 규정 | 불규칙
+
+### 5-11. **Álvaro:** Antes trabajaba a través de otra sociedad que cerré por temas fiscales.
+- **해석:** 전에는 다른 법인을 통해 일했는데, 세금 문제로 그 법인을 닫았어요.
+- **주요 단어:** `a través de` ~을 통해 / `sociedad` (명사, 여성) 법인, 회사 / `cerrar` (동사) 닫다, 폐업하다 / `tema` (명사, 남성) 문제, 주제 / `fiscal` (형용사) 세무의
+- **문법:** que cerré — 목적격 관계대명사절. 불완료과거와 단순과거의 대비가 핵심.
+- **표현:** "por temas fiscales" = 세금 관련 사정으로(스페인 구어에서 tema = 문제·사안).
+- **시제:**
+  - `trabajaba` → trabajar | 직설법 불완료과거 pretérito imperfecto, 1인칭 단수 | "전에는 ~하곤 했다"는 과거의 지속·습관적 상황(배경)이라 불완료과거 | 규칙
+  - `cerré` → cerrar | 직설법 단순과거 pretérito indefinido, 1인칭 단수 | 한 번에 끝난 사건(폐업)이라 단순과거 | 비교: trabajaba(지속된 배경) vs cerré(완결된 사건) | 현재형은 e→ie 불규칙이나 단순과거는 규칙
+
+### 5-12. **Fabián:** Curiosa coincidencia, que la cerraras justo antes de que Rafa te presentara a Manolo.
+- **해석:** 묘한 우연이네, 라파가 너를 마놀로에게 소개하기 바로 직전에 그걸 닫았다는 게.
+- **주요 단어:** `curioso` (형용사) 기묘한, 흥미로운 / `coincidencia` (명사, 여성) 우연의 일치 / `justo` (부사) 딱, 바로 / `antes de que` ~하기 전에 / `presentar` (동사) 소개하다
+- **문법:** ① "(Es una) curiosa coincidencia que + 접속법": 가치판단 표현 뒤 que절 → 접속법. 과거 사실이므로 접속법 과거. ② antes de que + 항상 접속법. ③ la = la sociedad.
+- **표현:** 비꼬는 어조 — 우연이 아닐 거라는 의심.
+- **시제:**
+  - `cerraras` → cerrar | 접속법 과거 pretérito imperfecto de subjuntivo(-ra형), 2인칭 단수 | 가치판단(curiosa coincidencia) 뒤 접속법 + 과거 사건이라 접속법 과거 | 규칙(cerraron → cerra- + ras)
+  - `presentara` → presentar | 접속법 과거(-ra형), 3인칭 단수 | antes de que는 항상 접속법, 과거 시점이라 접속법 과거 | 규칙
+
+### 5-13. **Álvaro:** No es coincidencia, es supervivencia.
+- **해석:** 우연이 아니라 살아남는 방법이에요.
+- **주요 단어:** `supervivencia` (명사, 여성) 생존
+- **문법:** 정의·본질 → ser. 대구(no es A, es B).
+- **시제:**
+  - `es` (2회) → ser | 직설법 현재, 3인칭 단수 | 본질 규정 | 불규칙
+
+### 5-14. **Álvaro:** En mi negocio, uno cierra sociedades constantemente para no dejar rastro a Hacienda.
+- **해석:** 제 사업에선 국세청에 흔적을 남기지 않으려고 법인을 계속 닫고 그래요.
+- **주요 단어:** `uno` (부정대명사) 사람은, 누구든 / `constantemente` (부사) 끊임없이 / `dejar` (동사) 남기다 / `rastro` (명사, 남성) 흔적 / `Hacienda` (고유명사) 스페인 국세청(Agencia Tributaria의 통칭)
+- **문법:** uno + 3인칭 단수 = 일반 주어(영어 one). para no + 부정사 = ~하지 않기 위해.
+- **표현:** "Hacienda" = 스페인에서 세무 당국을 가리키는 일상어. "dejar rastro" = 흔적을 남기다.
+- **시제:**
+  - `cierra` → cerrar | 직설법 현재, 3인칭 단수 | 일반적·반복적 관행 | 불규칙(e→ie)
+  - `dejar` → dejar | 부정사 | para no + 부정사(목적) | 규칙
+
+### 5-15. **Fabián:** Suena convincente.
+- **해석:** 그럴듯하게 들리는군.
+- **주요 단어:** `sonar` (동사) 들리다, ~하게 들리다 / `convincente` (형용사) 설득력 있는
+- **문법:** sonar + 형용사 = ~하게 들리다.
+- **시제:**
+  - `suena` → sonar | 직설법 현재, 3인칭 단수 | 방금 들은 말에 대한 현재 판단 | 불규칙(o→ue)
+
+### 5-16. **Fabián:** Casi tan convincente como todo lo que me has dicho hasta ahora.
+- **해석:** 네가 지금까지 나한테 한 모든 말만큼이나 그럴듯해.
+- **주요 단어:** `casi` (부사) 거의 / `hasta ahora` 지금까지
+- **문법:** tan + 형용사 + como = ~만큼 ~한(동등비교). todo lo que = ~한 모든 것.
+- **표현:** 칭찬처럼 들리지만 "모든 게 지나치게 그럴듯하다 = 수상하다"는 비꼼.
+- **시제:**
+  - `has dicho` → decir | 직설법 현재완료, 2인칭 단수 | hasta ahora(지금까지)로 현재까지 이어지는 기간을 포괄하므로 현재완료 | 불규칙 과거분사(decir → dicho)
+
+### 5-17. **Álvaro:** No sé qué quiere que le diga, Fabián.
+- **해석:** 제가 무슨 말을 하길 원하시는지 모르겠어요, 파비안.
+- **주요 단어:** `saber` 알다 / `querer` 원하다 / `decir` 말하다
+- **문법:** qué quiere = 간접의문문. querer que + 접속법. usted에게 말하므로 quiere(3인칭), le(간접목적 = a usted).
+- **표현:** 억울함·당혹감을 표현하는 관용적 문장.
+- **시제:**
+  - `sé` → saber | 직설법 현재, 1인칭 단수 | 현재 모름 | 불규칙(1인칭 sé)
+  - `quiere` → querer | 직설법 현재, 3인칭 단수(usted) | 상대의 현재 바람 | 불규칙(e→ie)
+  - `diga` → decir | 접속법 현재, 1인칭 단수 | querer que + 다른 주어 → 접속법 | 불규칙(digo → diga)
+
+### 5-18. **Álvaro:** Le he sido sincero desde el primer día.
+- **해석:** 첫날부터 당신께 솔직했어요.
+- **주요 단어:** `sincero` (형용사) 솔직한, 성실한 / `desde` ~부터
+- **문법:** le = a usted(간접목적). 성격·태도를 나타내는 형용사 sincero → ser.
+- **시제:**
+  - `he sido` → ser | 직설법 현재완료, 1인칭 단수 | desde el primer día(첫날부터 지금까지) → 현재까지 이어지는 기간이라 현재완료 | ser 과거분사 sido(규칙), haber 불규칙
+
+### 5-19. **Fabián:** ¿Sincero?
+- **해석:** 솔직했다고?
+- **주요 단어:** `sincero` 앞에서 설명
+- **문법:** 상대의 말을 되받아 반문.
+- **표현:** 믿지 못하겠다는 반어적 되물음.
+- **시제:** 동사 없음
+
+### 5-20. **Fabián:** Dime entonces, ¿por qué alguien me asegura haberte visto antes, en un contexto que no tiene nada que ver con contenedores?
+- **해석:** 그럼 말해 봐, 왜 누군가가 전에 너를 봤다고, 그것도 컨테이너와는 전혀 상관없는 상황에서 봤다고 나한테 장담하는 거지?
+- **주요 단어:** `decir` 말하다 / `entonces` 그렇다면 / `asegurar` (동사) 단언하다, 장담하다 / `contexto` (명사, 남성) 맥락, 상황 / `tener que ver con` ~와 관련이 있다
+- **문법:** ① dime = di(decir의 tú 명령) + me. ② asegurar + 완료부정사(haber + 과거분사): 주어가 같을 때 que절 대신(= asegura que te ha visto). te는 부정사 haber 끝에 붙음. ③ no tener nada que ver con = ~와 전혀 관계없다.
+- **표현:** "no tiene nada que ver con ~" = ~와 아무 상관 없다(매우 자주 쓰임).
+- **시제:**
+  - `dime` → decir | 긍정 명령, 2인칭 단수(tú) + me | 요구 | 불규칙 명령형(di)
+  - `asegura` → asegurar | 직설법 현재, 3인칭 단수 | 현재 누군가가 주장하고 있는 사실 | 규칙
+  - `haberte visto` → ver | 완료부정사 infinitivo compuesto(haber + 과거분사) + te | 주절(asegura)보다 앞선 일(전에 봤음)을 나타내므로 완료형 부정사 | visto는 불규칙 과거분사
+  - `tiene` → tener | 직설법 현재, 3인칭 단수 | 관계절, 일반적 사실 | 불규칙(e→ie)
+  - `ver` → ver | 부정사 | tener que ver con 관용구의 일부
+
+### 5-21. **Álvaro:** (Manteniendo la calma) No tengo ni idea de quién le habrá dicho eso, pero se equivoca de persona.
+- **해석:** (침착함을 유지하며) 누가 그런 말을 했는지 전혀 모르겠지만, 사람을 잘못 보신 거예요.
+- **주요 단어:** `mantener` (동사) 유지하다 / `calma` (명사, 여성) 침착, 평온 / `ni idea` 전혀 모름 / `equivocarse de` (재귀) ~을 잘못 알다, 혼동하다 / `persona` 사람
+- **문법:** ① habrá dicho = 미래완료로 과거 일에 대한 추측(아마 ~했을 것이다). ② equivocarse de + 명사(무관사) = ~을 잘못 짚다. ③ le = a usted.
+- **표현:** "No tengo ni idea" = 전혀 모르겠다. "equivocarse de persona" = 사람을 잘못 보다/착각하다.
+- **시제:**
+  - `manteniendo` (지문) → mantener | 현재분사 gerundio | 말하는 동안 동시에 계속되는 태도(동시 동작) | 불규칙 동사(tener형)지만 현재분사는 규칙
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 모름 | 불규칙(tengo)
+  - `habrá dicho` → decir | 직설법 미래완료 futuro compuesto, 3인칭 단수 | 시간상 미래가 아니라 **과거 일에 대한 추측**(추측의 미래완료: "누가 그런 말을 했을지") | haber 미래 habrá(불규칙), dicho 불규칙 과거분사
+  - `se equivoca` → equivocarse | 직설법 현재, 3인칭 단수(usted) | 현재 잘못 알고 있는 상태 | 규칙(철자: equivoque)
+
+### 5-22. **Fabián:** Espero que sea así, porque si descubriera que me has mentido, no habría negociación posible.
+- **해석:** 그렇길 바란다. 만약 네가 나한테 거짓말했다는 걸 알게 되면, 협상의 여지는 없을 테니까.
+- **주요 단어:** `esperar que` ~이길 바라다 / `así` 그렇게 / `descubrir` (동사) 알아내다, 발견하다 / `mentir` (동사) 거짓말하다 / `negociación` (명사, 여성) 협상 / `posible` 가능한
+- **문법:** ① esperar que + 접속법(희망). ② si + 접속법 과거, 조건법 = 현재·미래의 가정(실현 가능성을 낮게 보거나 거리를 둔 가정). ③ que me has mentido: descubrir 뒤 사실 → 직설법.
+- **표현:** "no habría negociación posible" = 협상의 여지가 전혀 없을 것.
+- **시제:**
+  - `espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 바람 | 규칙
+  - `sea` → ser | 접속법 현재, 3인칭 단수 | esperar que(희망) 뒤 접속법 | 불규칙(sea)
+  - `descubriera` → descubrir | 접속법 과거 pretérito imperfecto de subjuntivo, 1인칭 단수 | si 가정절(가능성이 낮거나 가상적인 가정) → 접속법 과거. si descubro(직설법 현재)라면 현실적 조건이 되어 위협이 더 직접적 | 규칙(descubrieron → descubrie- + ra)
+  - `has mentido` → mentir | 직설법 현재완료, 2인칭 단수 | 지금까지 거짓말을 해 왔는지(현재와 연결된 과거) | mentir 현재형은 e→ie 불규칙, 과거분사는 규칙
+  - `habría` → haber | 조건법 단순 condicional simple, 3인칭 단수(비인칭) | si + 접속법 과거의 귀결절은 조건법 | 불규칙(habr- 어간)
+
+### 5-23. **Fabián:** Solo consecuencias.
+- **해석:** 대가만 있을 뿐이지.
+- **주요 단어:** `consecuencia` (명사, 여성) 결과, 대가
+- **문법:** 앞 문장의 habría가 생략된 형태(Solo habría consecuencias).
+- **표현:** 위협적인 여운을 남기는 짧은 문장.
+- **시제:** 동사 없음(생략된 habría는 앞에서 설명)
+
+### 5-24. **Álvaro:** Lo entiendo perfectamente.
+- **해석:** 충분히 이해합니다.
+- **주요 단어:** `entender` 이해하다 / `perfectamente` (부사) 완벽하게
+- **문법:** 중성 대명사 lo = 앞의 말 전체.
+- **시제:**
+  - `entiendo` → entender | 직설법 현재, 1인칭 단수 | 현재 이해 | 불규칙(e→ie)
+
+### 5-25. **Álvaro:** Pero le repito que no tiene nada de qué preocuparse conmigo.
+- **해석:** 하지만 다시 말씀드리는데, 저에 대해선 걱정하실 게 전혀 없어요.
+- **주요 단어:** `repetir` (동사) 반복하다 / `preocuparse` (재귀) 걱정하다 / `conmigo` 나와 함께, 나에 관해
+- **문법:** tener nada de qué + 부정사 = ~할 것이 없다(preocuparse de → de qué). 재귀대명사 se가 부정사 끝에 붙음(usted 주어라 se).
+- **표현:** "no tiene nada de qué preocuparse" = 걱정할 거 하나도 없다.
+- **시제:**
+  - `repito` → repetir | 직설법 현재, 1인칭 단수 | 지금 말하는 행위 | 불규칙(e→i)
+  - `tiene` → tener | 직설법 현재, 3인칭 단수(usted) | 현재 상황 | 불규칙
+  - `preocuparse` → preocuparse | 부정사 | de qué + 부정사 구문 | 규칙
+
+### 5-26. **Fabián:** Dime otra vez cómo conociste a Rafa.
+- **해석:** 라파를 어떻게 알게 됐는지 다시 말해 봐.
+- **주요 단어:** `otra vez` 다시 / `conocer` (동사) 알게 되다, 처음 만나다
+- **문법:** cómo conociste = 간접의문문. 사람 목적어 앞 a.
+- **표현:** conocer의 단순과거는 "처음 만났다/알게 됐다"는 의미.
+- **시제:**
+  - `dime` → decir | 긍정 명령 + me | 앞에서 설명
+  - `conociste` → conocer | 직설법 단순과거, 2인칭 단수 | 만남이라는 한 시점의 완결된 사건 → 단순과거. 불완료과거 conocías는 "알고 있었다"(상태)가 되어 의미가 달라짐 | 단순과거는 규칙(현재 1인칭만 conozco)
+
+### 5-27. **Álvaro:** Coincidimos hace años en una operación de importación en Algeciras.
+- **해석:** 몇 년 전 알헤시라스에서 수입 작업을 하다가 마주쳤어요.
+- **주요 단어:** `coincidir` (동사) (같은 곳에) 우연히 함께 있다 / `operación` (명사, 여성) 작업, 거래 / `importación` (명사, 여성) 수입
+- **문법:** hace + 기간 = ~전에.
+- **표현:** "coincidir con alguien" = 누군가와 (장소·일에서) 마주치다/함께하다. Algeciras는 카디스 주의 항구 도시.
+- **시제:**
+  - `coincidimos` → coincidir | 직설법 단순과거, 1인칭 복수 | hace años라는 과거의 한 사건 → 단순과거(형태는 현재와 같지만 hace años로 과거임을 알 수 있음) | 규칙
+
+### 5-28. **Álvaro:** Desde entonces mantenemos contacto esporádico.
+- **해석:** 그 뒤로 가끔씩 연락하고 지내요.
+- **주요 단어:** `desde entonces` 그때부터 / `mantener` 유지하다 / `esporádico` (형용사) 간헐적인
+- **문법:** desde + 과거 시점 + 현재형 = 과거부터 지금까지 계속됨.
+- **표현:** "mantener contacto" = 연락을 유지하다.
+- **시제:**
+  - `mantenemos` → mantener | 직설법 현재, 1인칭 복수 | 과거부터 현재까지 계속되는 상태는 스페인어에서 현재형으로 표현(desde entonces) | 불규칙(tener형: mantengo, mantienes...; nosotros는 규칙적)
+
+### 5-29. **Fabián:** ¿Y qué tipo de operación era esa exactamente?
+- **해석:** 그래서 그게 정확히 어떤 작업이었는데?
+- **주요 단어:** `tipo` (명사, 남성) 종류 / `exactamente` (부사) 정확히
+- **문법:** 성질·정체를 물으므로 ser. esa = esa operación.
+- **시제:**
+  - `era` → ser | 직설법 불완료과거, 3인칭 단수 | 과거 대상의 성질·특징을 묘사하므로 불완료과거(fue보다 자연스러움) | 불규칙(era)
+
+### 5-30. **Álvaro:** Maquinaria industrial, nada fuera de lo normal en ese momento.
+- **해석:** 산업 기계요, 그 당시로선 전혀 특별할 게 없었죠.
+- **주요 단어:** `maquinaria` (명사, 여성, 집합) 기계류 / `industrial` 산업의 / `fuera de` ~밖에 / `lo normal` 평범한 것
+- **문법:** 동사 생략(Era maquinaria industrial...). lo + 형용사 = 추상명사(~한 것).
+- **표현:** "nada fuera de lo normal" = 특별한 건 아무것도 없는.
+- **시제:** 동사 없음
+
+### 5-31. **Fabián:** Curioso que no recuerdes más detalles de algo tan importante para tu carrera.
+- **해석:** 네 경력에 그렇게 중요한 일인데 더 자세한 걸 기억 못 한다니 묘하군.
+- **주요 단어:** `recordar` (동사) 기억하다 / `detalle` (명사, 남성) 세부 사항 / `carrera` (명사, 여성) 경력, 커리어
+- **문법:** (Es) curioso que + 접속법: 가치판단·감정 표현 뒤 접속법. 현재의 일이라 접속법 현재.
+- **표현:** 비꼬는 말투. tan + 형용사 = 그토록 ~한.
+- **시제:**
+  - `recuerdes` → recordar | 접속법 현재, 2인칭 단수 | 가치판단(curioso) 뒤 que절 → 접속법, 현재 기억 못 함 | 불규칙(o→ue)
+
+### 5-32. **Álvaro:** Han pasado muchos años, Fabián.
+- **해석:** 오래전 일이잖아요, 파비안.(직역: 많은 해가 지났어요.)
+- **주요 단어:** `pasar` (시간이) 흐르다
+- **문법:** 주어는 muchos años(복수) → han.
+- **시제:**
+  - `han pasado` → pasar | 직설법 현재완료, 3인칭 복수 | 그때부터 지금까지 흐른 시간(현재와 연결) → 현재완료 | 규칙
+
+### 5-33. **Álvaro:** No todos los negocios se quedan grabados en la memoria.
+- **해석:** 모든 거래가 다 기억에 새겨지는 건 아니에요.
+- **주요 단어:** `quedarse` (재귀) ~한 상태로 남다 / `grabado` (grabar의 과거분사) 새겨진, 녹음된 / `memoria` (명사, 여성) 기억
+- **문법:** no todos = 부분부정(모두가 ~인 것은 아니다). quedarse + 과거분사 = ~된 상태로 남다, 과거분사는 주어(negocios)에 성·수 일치.
+- **표현:** "quedarse grabado en la memoria" = 기억에 각인되다.
+- **시제:**
+  - `se quedan` → quedarse | 직설법 현재, 3인칭 복수 | 일반적 사실 | 규칙
+  - `grabados` → grabar | 과거분사, 남성 복수 | 결과 상태를 나타내는 형용사적 용법 | 규칙
+
+### 5-34. **Fabián:** A mí sí se me quedan.
+- **해석:** 나는 다 기억하는데.(직역: 나한테는 남아.)
+- **주요 단어:** `quedarse` 앞에서 설명
+- **문법:** se + me + 동사: 무의지·경험자를 나타내는 구조(se le queda algo = ~에게 ~이 남다). a mí는 강조, sí는 앞 문장의 부정(no)에 대한 대조 강조("나는 그렇다").
+- **표현:** "A mí sí" = 나는 (네 말과 달리) 그렇다 — 대조를 강하게 드러냄.
+- **시제:**
+  - `se quedan` → quedarse | 직설법 현재, 3인칭 복수(주어 = los negocios) | 일반적 습관·능력 | 규칙
+
+### 5-35. **Fabián:** Sobre todo los que involucran a gente que luego resulta no ser quien dice ser.
+- **해석:** 특히 나중에 알고 보니 자기가 말하는 그 사람이 아닌 것으로 드러난 사람들이 얽힌 거래는 말이야.
+- **주요 단어:** `sobre todo` 특히 / `involucrar` (동사) 관련시키다, 끌어들이다 / `luego` 나중에 / `resultar` (동사) ~로 판명되다 / `quien` ~하는 사람
+- **문법:** los que = los negocios que. resultar + 부정사 = ~인 것으로 드러나다. quien dice ser = 자기가 ~라고 말하는 그 사람(dice ser = dice que es, 주어 동일이라 부정사). 관계절 속 직설법은 실제 존재하는 경험을 가리킴.
+- **표현:** "no ser quien dice ser" = 겉과 다른 정체 — 알바로를 직접 겨냥한 암시.
+- **시제:**
+  - `involucran` → involucrar | 직설법 현재, 3인칭 복수 | 일반적 진술 | 규칙
+  - `resulta` → resultar | 직설법 현재, 3인칭 단수(gente) | 일반적·반복적 경우를 서술 | 규칙
+  - `ser` (1번째) → ser | 부정사 | resultar + 부정사
+  - `dice` → decir | 직설법 현재, 3인칭 단수 | 일반적 서술 | 불규칙(e→i)
+  - `ser` (2번째) → ser | 부정사 | decir + 부정사(주어 동일)
+

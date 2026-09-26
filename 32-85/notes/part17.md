@@ -521,3 +521,146 @@
 - **시제:**
   - `vámonos` → irse | 명령법 1인칭 복수(nosotros) | 청유 | 불규칙 (접속법 vayamos 대신 vamos 형태 사용)
 
+## 장면 25. 기사화 회의
+> 작전이 성공적으로 마무리된 후, 알바로는 신문사로 돌아와 데스크(국장), 하비에르, 그리고 신문사 법무 자문 마르타(Marta)와 함께 그동안의 잠입 취재 전모를 공유하고, 이를 어떻게 기사화할지 논의합니다.
+
+### 25-1. **Jefe:** Álvaro, siéntate.
+- **해석:** 알바로, 앉게.
+- **주요 단어:** `sentarse` (재귀동사) 앉다
+- **문법:** tú 긍정명령 + 재귀대명사: `sienta + te` → `siéntate`.
+- **시제:**
+  - `siéntate` → sentarse | 명령법 tú 긍정 | 권유·지시 | 어간모음변화 (e → ie)
+
+### 25-2. **Jefe:** Después de escuchar el resumen que me has dado por encima, necesito que me lo cuentes todo, con calma, desde el principio.
+- **해석:** 대충 해 준 요약을 들었으니, 이제 처음부터 차근차근 전부 이야기해 줬으면 하네.
+- **주요 단어:** `después de + 부정사` ~한 후에 / `resumen` (명사, 남) 요약 / `por encima` 대충, 겉핥기로 / `contar` 이야기하다 / `con calma` 차분히
+- **문법:** `después de` 뒤에는 부정사. `necesitar que` + 접속법. 목적대명사 순서 간접(me) + 직접(lo). `lo ... todo` — todo가 목적어일 때 lo로 중복하는 것이 자연스러움.
+- **표현:** `dar por encima` 대강 전하다.
+- **시제:**
+  - `escuchar` → escuchar | 부정사 | 전치사 뒤
+  - `has dado` → dar | 직설법 현재완료, 2인칭 단수 | 오늘 방금 전에 한 일(스페인식 현재완료) | 과거분사 규칙 dado
+  - `necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재의 필요 | 규칙
+  - `cuentes` → contar | 접속법 현재, 2인칭 단수 | 요구 동사 뒤 접속법 | 어간모음변화 (o → ue)
+
+### 25-3. **Álvaro:** Se lo agradezco, jefe.
+- **해석:** 감사합니다, 국장님.
+- **주요 단어:** `agradecer` (동사) 감사하다 / `jefe` 상사, 국장
+- **문법:** `se lo` = le(usted에게) + lo(그것을). 상사에게 usted 사용.
+- **시제:**
+  - `agradezco` → agradecer | 직설법 현재, 1인칭 단수 | 현재 감정 | -cer 동사 1인칭 불규칙 (c → zc)
+
+### 25-4. **Álvaro:** Ha sido una investigación larga, y bastante más peligrosa de lo que imaginaba cuando empecé.
+- **해석:** 긴 조사였고, 시작할 때 생각했던 것보다 훨씬 더 위험했어요.
+- **주요 단어:** `investigación` (명사) 조사, 취재 / `bastante` (부사) 꽤 / `peligroso` 위험한 / `imaginar` 상상하다 / `empezar` 시작하다
+- **문법:** 비교급 + `de lo que` + 절 (절과 비교할 때 que 대신 de lo que). 
+- **표현:** `más ... de lo que imaginaba` "생각했던 것보다 더".
+- **시제:**
+  - `Ha sido` → ser | 직설법 현재완료, 3인칭 단수 | 방금 끝난, 현재와 이어진 경험의 총평 | 과거분사 규칙 sido
+  - `imaginaba` → imaginar | 직설법 불완료과거, 1인칭 단수 | 과거에 품고 있던 생각(지속 상태) | 규칙
+  - `empecé` → empezar | 직설법 단순과거, 1인칭 단수 | 시작 시점의 1회 사건 | 철자변화 (z → c, empecé)
+
+### 25-5. **Jefe:** Me lo imagino, viendo el informe preliminar que me pasó Carlos.
+- **해석:** 카를로스가 넘겨준 예비 보고서를 보니 짐작이 가네.
+- **주요 단어:** `imaginarse` (재귀동사) 짐작하다 / `informe` (명사, 남) 보고서 / `preliminar` 예비의 / `pasar` 넘겨주다
+- **문법:** `imaginarse` 대명동사 + lo. 현재분사 `viendo`가 이유(~를 보니까). 관계절 안 주어 도치(que me pasó Carlos).
+- **표현:** `Me lo imagino` "그럴 만하지, 짐작돼".
+- **시제:**
+  - `imagino` → imaginarse | 직설법 현재, 1인칭 단수 | 현재의 짐작 | 규칙
+  - `viendo` → ver | 현재분사 | 이유·근거를 나타냄 | 불규칙 현재분사 형태는 viendo
+  - `pasó` → pasar | 직설법 단순과거, 3인칭 단수 | 특정 시점의 완결된 전달 (같은 날이라도 행위 자체를 사건으로 봄) | 규칙
+
+### 25-6. **Jefe:** Infiltración en una red de tráfico de armas España-Colombia-Venezuela, funcionarios corruptos de dos países, y una amenaza directa contra Javier.
+- **해석:** 스페인-콜롬비아-베네수엘라 무기 밀매 조직 잠입, 두 나라의 부패 공무원, 그리고 하비에르에 대한 직접적인 위협까지.
+- **주요 단어:** `infiltración` (명사) 잠입 / `red` (명사, 여) 조직망 / `tráfico de armas` 무기 밀매 / `funcionario` 공무원 / `corrupto` 부패한 / `amenaza` 위협
+- **문법:** 동사 없는 명사 나열(요약형 문장).
+- **시제:**
+  - 동사 없음
+
+### 25-7. **Jefe:** Esto es enorme, Álvaro.
+- **해석:** 이건 엄청난 일이야, 알바로.
+- **주요 단어:** `enorme` 거대한, 엄청난
+- **문법:** 본질적 평가는 ser.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 평가 | 불규칙
+
+### 25-8. **Javier:** (Presente en la reunión) Y yo sin enterarme de nada hasta que casi me pasa algo grave por tu culpa.
+- **해석:** (회의에 참석해서) 그런데 난 네 탓에 큰일 날 뻔할 때까지 아무것도 몰랐지.
+- **주요 단어:** `presente` 참석한 / `reunión` 회의 / `enterarse de` ~을 알게 되다 / `casi` 거의 / `grave` 심각한 / `por tu culpa` 네 탓으로
+- **문법:** `sin + 부정사` ~하지 않은 채. `hasta que` + 직설법(과거 사실) — 여기서는 생생함을 위한 현재형(presente histórico). `casi` + 현재 = "~할 뻔했다" (스페인 구어).
+- **표현:** `casi me pasa algo` "하마터면 무슨 일 날 뻔했다". `por tu culpa` 네 탓.
+- **시제:**
+  - `enterarme` → enterarse | 부정사 + 재귀대명사 | sin 뒤
+  - `pasa` → pasar | 직설법 현재, 3인칭 단수 | 역사적 현재 — casi와 함께 과거의 "~할 뻔함"을 생생히 표현 (casi me pasó도 가능) | 규칙
+
+### 25-9. **Álvaro:** Lo siento, de verdad.
+- **해석:** 정말 미안해.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `siento` → sentir | 직설법 현재, 1인칭 단수 | 현재 감정 | e → ie
+
+### 25-10. **Álvaro:** No podía contártelo sin poner en peligro toda la operación.
+- **해석:** 작전 전체를 위험에 빠뜨리지 않고서는 너한테 말할 수 없었어.
+- **주요 단어:** `contar` 말하다 / `poner en peligro` 위험에 빠뜨리다 / `operación` 작전
+- **문법:** 부정사에 대명사 두 개 결합: `contar + te + lo` → `contártelo` (강세 부호).
+- **표현:** `poner en peligro` 위험에 빠뜨리다.
+- **시제:**
+  - `podía` → poder | 직설법 불완료과거, 1인칭 단수 | 과거 기간 동안 지속된 불가능 상태 (pude는 "시도해서 할 수 있었다/없었다"의 결과) | 규칙형
+  - `contártelo` → contar | 부정사 + 대명사
+  - `poner` → poner | 부정사 | sin 뒤
+
+### 25-11. **Javier:** Lo sé, lo sé.
+- **해석:** 알아, 알아.
+- **주요 단어:** `saber` 알다
+- **문법:** `lo` 중성 대명사(그 사실).
+- **시제:**
+  - `sé` → saber | 직설법 현재, 1인칭 단수 | 현재 앎 | 불규칙 (sé)
+
+### 25-12. **Javier:** Ya hemos hablado de eso en privado.
+- **해석:** 그 얘기는 이미 따로 했잖아.
+- **주요 단어:** `en privado` 사적으로, 따로
+- **문법:** `ya` + 현재완료 "이미 ~했다".
+- **시제:**
+  - `hemos hablado` → hablar | 직설법 현재완료, 1인칭 복수 | 가까운 과거에 이미 끝난 일이 현재에도 유효 | 규칙
+
+### 25-13. **Javier:** Ahora quiero ayudar a que esto se cuente bien.
+- **해석:** 이제는 이 이야기가 제대로 전해지도록 돕고 싶어.
+- **주요 단어:** `ayudar a` ~을 돕다 / `contarse` 이야기되다
+- **문법:** `ayudar a que` + 접속법(목적). `se cuente` 수동 se (se pasiva) — "이야기되다".
+- **시제:**
+  - `quiero` → querer | 직설법 현재, 1인칭 단수 | 현재 의지 | e → ie
+  - `ayudar` → ayudar | 부정사
+  - `se cuente` → contar | 접속법 현재, 3인칭 단수 | a que(목적) 뒤 접속법 | o → ue
+
+### 25-14. **Jefe:** Eso es justo lo que quería oír.
+- **해석:** 바로 그 말이 듣고 싶었네.
+- **주요 단어:** `oír` 듣다
+- **문법:** `lo que` 중성 관계사.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 불규칙
+  - `quería` → querer | 직설법 불완료과거, 1인칭 단수 | 과거부터 지속된 바람 + 공손한 뉘앙스 | 규칙형
+  - `oír` → oír | 부정사
+
+### 25-15. **Jefe:** Necesito que trabajéis juntos en esto.
+- **해석:** 자네들이 이 건에 함께 일해 줘야겠어.
+- **주요 단어:** `trabajar` 일하다 / `juntos` 함께
+- **문법:** `necesitar que` + 접속법. vosotros형 — 스페인식 2인칭 복수.
+- **시제:**
+  - `Necesito` → 앞에서 설명
+  - `trabajéis` → trabajar | 접속법 현재, 2인칭 복수(vosotros) | 요구 뒤 접속법 | 규칙
+
+### 25-16. **Jefe:** Álvaro con la parte de la infiltración, Javier con el contexto político y las implicaciones institucionales.
+- **해석:** 알바로는 잠입 부분, 하비에르는 정치적 배경과 제도적 파장을 맡게.
+- **주요 단어:** `parte` 부분 / `contexto` 배경 / `político` 정치적인 / `implicación` 함의, 파장 / `institucional` 제도적인
+- **문법:** 동사 생략 구문 (Álvaro [trabaja] con...). 원문에서 두 줄로 나뉜 문장을 합침.
+- **시제:**
+  - 동사 없음
+
+### 25-17. **Marta:** (Abogada del periódico) Antes de nada, tenemos que hablar de los riesgos legales.
+- **해석:** (신문사 변호사) 무엇보다 먼저, 법적 위험에 대해 이야기해야 합니다.
+- **주요 단어:** `abogada` 변호사 / `periódico` 신문(사) / `antes de nada` 우선, 무엇보다 먼저 / `riesgo` 위험 / `legal` 법적인
+- **문법:** `tener que + 부정사` 의무.
+- **표현:** `Antes de nada` "무엇보다 먼저".
+- **시제:**
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재 의무 | 1인칭 복수는 규칙형
+  - `hablar` → hablar | 부정사

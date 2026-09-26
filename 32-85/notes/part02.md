@@ -546,3 +546,124 @@
   - `tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 상황
   - `deja` → dejar | 직설법 현재, 3인칭 단수 | 현재 사실
   - `saldar` → saldar | 부정사 | dejar 뒤
+
+### 3-17. **Fabián:** Eso ya me lo creo más.
+- **해석:** 그건 좀 더 믿을 만하군.
+- **주요 단어:** `creer(se)` (동사) 믿다
+- **문법:** `me lo creo`: creerse — 재귀 대명사 me가 붙어 "내가 (속으로) 믿다"를 강조하는 구어적 용법. 목적어 eso 전치 + lo 중복.
+- **표현:** `Eso me lo creo` "그건 믿겠다".
+- **시제:**
+  - `creo` → creer(se) | 직설법 현재, 1인칭 단수 | 현재 판단
+
+### 3-18. **Fabián:** El dinero fácil siempre convence a los que están desesperados.
+- **해석:** 쉬운 돈은 늘 절박한 사람들을 설득하지.
+- **주요 단어:** `dinero fácil` 쉽게 버는 돈 / `convencer` (동사) 설득하다 / `desesperado` (형용사) 절박한
+- **문법:** `a los que`: 사람 목적어 앞 a + 관계사 los que(~하는 사람들). 일시적 상태라 estar desesperado.
+- **시제:**
+  - `convence` → convencer | 직설법 현재, 3인칭 단수 | 일반적 진리 | 1인칭 convenzo 철자 변화
+  - `están` → estar | 직설법 현재, 3인칭 복수 | 상태(절박함)라 estar
+
+### 3-19. **Manolo:** Te dije que era listo, Fabián.
+- **해석:** 똑똑하다고 했잖아, 파비안.
+- **문법:** 간접화법 시제 일치: 과거 전달동사(dije) 뒤 que절은 불완료과거(era).
+- **시제:**
+  - `dije` → decir | 직설법 단순과거, 1인칭 단수 | 과거의 완결된 발언 | 불규칙(dij-)
+  - `era` → ser | 직설법 불완료과거, 1인칭... 아님 3인칭 단수 | 전달 내용 속의 성질 묘사, 시제 일치 | 불규칙
+
+### 3-20. **Fabián:** Listo o desesperado, ya lo veremos.
+- **해석:** 똑똑한지 절박한지는 곧 알게 되겠지.
+- **문법:** `ya + 미래` = "머지않아, 두고 보면".
+- **표현:** `Ya lo veremos` "두고 보자".
+- **시제:**
+  - `veremos` → ver | 직설법 미래, 1인칭 복수 | 앞으로 판명될 일
+
+### 3-21. **Fabián:** Manolo dice que confía en ti, pero yo prefiero comprobarlo con hechos, no con palabras.
+- **해석:** 마놀로는 너를 믿는다고 하지만, 나는 말이 아니라 행동으로 확인하는 쪽이야.
+- **주요 단어:** `confiar en` ~을 믿다 / `hecho` (명사) 사실, 행동 / `palabra` (명사) 말
+- **문법:** `confiar en`: 전치사 en. `en ti`: 전치사 뒤 tú → ti.
+- **표현:** `con hechos, no con palabras` "말 말고 행동으로".
+- **시제:**
+  - `dice` → decir | 직설법 현재, 3인칭 단수 | 현재 주장 | 불규칙(e→i)
+  - `confía` → confiar | 직설법 현재, 3인칭 단수 | 현재 심리 | 강세 i에 악센트(confío, confías)
+  - `prefiero` → preferir | 앞에서 설명
+  - `comprobar(lo)` → comprobar | 부정사
+
+### 3-22. **Álvaro:** Me parece justo.
+- **해석:** 공정하다고 생각합니다.
+- **주요 단어:** `justo` (형용사) 공정한
+- **시제:**
+  - `parece` → parecer | 앞에서 설명
+
+### 3-23. **Álvaro:** ¿Qué necesita que haga?
+- **해석:** 제가 뭘 하면 되겠습니까?
+- **문법:** `necesitar que + 접속법`: 주어가 다른 요구·필요 뒤 접속법.
+- **시제:**
+  - `necesita` → necesitar | 직설법 현재, 3인칭 단수(usted) | 현재 필요
+  - `haga` → hacer | 접속법 현재, 1인칭 단수 | 필요·요구(necesitar que) 뒤라 접속법 | 불규칙
+
+### 3-24. **Fabián:** Vamos a hacer una prueba.
+- **해석:** 시험을 한번 해 보자.
+- **주요 단어:** `prueba` (명사) 시험, 테스트
+- **문법:** `ir a + 부정사` 근접미래 (1인칭 복수라 "~하자"의 권유 뉘앙스도).
+- **시제:**
+  - `vamos a hacer` → ir(vamos, 직설법 현재 1인칭 복수, 불규칙) + hacer(부정사) | 근접미래 futuro perifrástico | 바로 이어질 계획
+
+### 3-25. **Fabián:** La semana que viene sale un cargamento de Cartagena, y necesito que alguien de tu perfil gestione el papeleo de importación en el puerto de aquí.
+- **해석:** 다음 주에 카르타헤나에서 화물이 출발하는데, 너 같은 경력의 누군가가 이쪽 항구에서 수입 서류를 처리해 줘야 해.
+- **주요 단어:** `la semana que viene` 다음 주 / `salir` (동사) 출발하다 / `cargamento` (명사) 화물 / `perfil` (명사) 프로필, 이력 / `gestionar` (동사) 처리하다 / `papeleo` (명사) 서류 작업 / `importación` (명사) 수입
+- **문법:** 확정된 미래 일정을 현재형(sale)으로. `necesitar que + 접속법`.
+- **표현:** `la semana que viene` = la próxima semana. `papeleo` 구어로 "서류 절차".
+- **시제:**
+  - `viene` → venir | 직설법 현재, 3인칭 단수 | 관용구(que viene = 다음의) | 불규칙
+  - `sale` → salir | 직설법 현재, 3인칭 단수 | 확정된 가까운 미래 일정을 현재형으로 표현
+  - `necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재 필요
+  - `gestione` → gestionar | 접속법 현재, 3인칭 단수 | necesito que 뒤 접속법
+
+### 3-26. **Álvaro:** ¿Qué tipo de papeleo exactamente?
+- **해석:** 정확히 어떤 서류 말씀이죠?
+- **시제:** 동사 없음
+
+### 3-27. **Fabián:** Declaraciones de aduana, certificados de origen, todo lo necesario para que el contenedor pase como lo que dice ser en la etiqueta.
+- **해석:** 세관 신고서, 원산지 증명서, 컨테이너가 라벨에 적힌 그대로의 물건으로 통과하는 데 필요한 모든 것.
+- **주요 단어:** `declaración` (명사) 신고서 / `aduana` (명사) 세관 / `certificado de origen` 원산지 증명서 / `pasar` (동사) 통과하다 / `etiqueta` (명사) 라벨
+- **문법:** `todo lo necesario` 필요한 모든 것(중성 lo). `para que + 접속법`(목적). `lo que dice ser`: "자신이 ~라고 말하는 것" (decir + ser 부정사).
+- **표현:** `pasar como...` "~로 통과되다(행세하다)".
+- **시제:**
+  - `pase` → pasar | 접속법 현재, 3인칭 단수 | para que 뒤 필수 접속법
+  - `dice` → decir | 직설법 현재, 3인칭 단수 | 라벨의 현재 표기 사실
+  - `ser` → ser | 부정사 | decir 뒤
+
+### 3-28. **Álvaro:** ¿Y qué dice la etiqueta?
+- **해석:** 그럼 라벨에는 뭐라고 적혀 있죠?
+- **표현:** 스페인어에서 글·표지가 "말한다"(decir)로 내용 표현.
+- **시제:**
+  - `dice` → decir | 직설법 현재 | 현재 표기 내용
+
+### 3-29. **Fabián:** Maquinaria agrícola.
+- **해석:** 농기계.
+- **주요 단어:** `maquinaria` (명사, 집합) 기계류 / `agrícola` (형용사) 농업의 (-a로 끝나지만 남녀 공통)
+- **시제:** 동사 없음
+
+### 3-30. **Fabián:** Nadie revisa dos veces un contenedor de tractores viejos.
+- **해석:** 낡은 트랙터 컨테이너를 두 번씩 검사하는 사람은 없어.
+- **주요 단어:** `revisar` (동사) 검사하다 / `vez` (명사) 번 / `tractor` (명사) 트랙터
+- **시제:**
+  - `revisa` → revisar | 직설법 현재, 3인칭 단수 | 일반적 사실
+
+### 3-31. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **시제:**
+  - `entendido` → entender | 과거분사 | 앞에서 설명
+
+### 3-32. **Álvaro:** ¿Y la ruta?
+- **해석:** 경로는요?
+- **주요 단어:** `ruta` (명사) 경로
+- **시제:** 동사 없음
+
+### 3-33. **Álvaro:** Imagino que no viene directa.
+- **해석:** 직항으로 오진 않겠죠.
+- **주요 단어:** `imaginar` (동사) 상상하다, 짐작하다 / `directo` (형용사) 직접의
+- **문법:** `imaginar que + 직설법`(긍정 사고동사). `directa`: 주어 la ruta(=화물)에 일치하는 서술 형용사(부사적 의미).
+- **시제:**
+  - `imagino` → imaginar | 직설법 현재, 1인칭 단수 | 현재 추측
+  - `viene` → venir | 직설법 현재, 3인칭 단수 | 정해진 일정(현재로 미래) | 불규칙

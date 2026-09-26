@@ -391,3 +391,131 @@
 - **시제:**
   - `necesitáis` → necesitar | 직설법 현재, 2인칭 복수 | 현재의 필요 | 규칙
   - `consiga` → conseguir | 접속법 현재, 3인칭 단수 | 아직 정해지지 않은 사람을 수식 | 불규칙 e→i + 철자 변화 gu→g (consigo → consiga)
+
+### 1-45. **Carlos:** Exacto.
+- **해석:** 바로 그거야.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 1-46. **Carlos:** Alguien que gane su confianza, documente las rutas y, si es posible, identifique a los cabecillas.
+- **해석:** 그들의 신뢰를 얻고, 경로를 기록하고, 가능하다면 우두머리들의 신원을 밝혀낼 사람 말이야.
+- **주요 단어:** `ganar` (동사) 얻다, 이기다 / `confianza` (명사, 여성) 신뢰 / `documentar` (동사) 기록하다 / `ruta` (명사, 여성) 경로 / `posible` (형용사) 가능한 / `identificar` (동사) 신원을 밝히다 / `cabecilla` (명사) 우두머리, 주모자
+- **문법:** 불특정 선행사 alguien을 수식하는 관계절 안의 동사 3개가 모두 접속법. 인칭 a (a los cabecillas).
+- **표현:** "ganarse la confianza de alguien" = ~의 신뢰를 얻다. "si es posible" = 가능하다면.
+- **시제:**
+  - `gane` → ganar | 접속법 현재, 3인칭 단수 | 불특정 선행사 관계절 | 규칙
+  - `documente` → documentar | 접속법 현재, 3인칭 단수 | 같은 이유 | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수 | "si + 직설법 현재" 실현 가능한 조건 | 불규칙
+  - `identifique` → identificar | 접속법 현재, 3인칭 단수 | 같은 이유 | 철자 변화 c→qu (e 앞)
+
+### 1-47. **Álvaro:** ¿Y cómo se supone que voy a acercarme a gente así sin que sospechen de mí?
+- **해석:** 그런데 내가 그런 사람들한테 의심받지 않고 어떻게 접근하란 거야?
+- **주요 단어:** `suponer` (동사) 가정하다, 전제하다 / `acercarse a` ~에게 다가가다 / `gente` (명사, 여성, 집합) 사람들 / `sospechar de` ~을 의심하다
+- **문법:** "se supone que" = ~하기로 되어 있다 (비인칭 se). "ir a + 부정사" 근접미래. "sin que + 접속법" (sin que 뒤는 항상 접속법). gente는 형태상 단수지만 의미상 복수 주어로 sospechen(3인칭 복수, 비인칭 '그들').
+- **표현:** "¿Cómo se supone que...?" = 대체 어떻게 ~하라는 거야? (의문·불만).
+- **시제:**
+  - `se supone` → suponer | 직설법 현재, 3인칭 단수 (비인칭 se) | 일반적 전제 | poner 계열 불규칙이나 이 형태는 규칙적
+  - `voy a acercarme` → ir a + acercarse | ir 직설법 현재 1인칭 단수 + a + 부정사 | 가까운 미래의 계획 (미래형 대신 ir a + 부정사) | ir 불규칙 (voy)
+  - `sospechen` → sospechar | 접속법 현재, 3인칭 복수 | sin que 뒤라 접속법 | 규칙
+
+### 1-48. **Carlos:** Te crearíamos una identidad de cobertura.
+- **해석:** 우리가 너한테 위장 신분을 만들어 줄 거야.
+- **주요 단어:** `crear` (동사) 만들다 / `identidad` (명사, 여성) 신분, 정체성 / `identidad de cobertura` 위장 신분
+- **문법:** 간접목적대명사 te (너에게/너를 위해).
+- **시제:**
+  - `crearíamos` → crear | 조건법 단순, 1인칭 복수 | 아직 수락하지 않은 제안이라 "만약 한다면"이 함축된 가정적 계획 | 규칙
+  - 비교: "te crearemos"(미래) = 확정된 계획, "te crearíamos"(조건법) = 네가 한다면 그렇게 하겠다
+
+### 1-49. **Carlos:** Serías un empresario interesado en logística de importación, algo alejado del periodismo.
+- **해석:** 넌 수입 물류에 관심 있는 사업가가 되는 거야, 기자 일과는 거리가 먼 쪽으로.
+- **주요 단어:** `empresario` (명사) 사업가 / `interesado en` ~에 관심 있는 / `logística` (명사, 여성) 물류 / `importación` (명사, 여성) 수입 / `alejado de` ~에서 먼 / `periodismo` (명사) 저널리즘, 기자직
+- **문법:** 과거분사를 형용사로 사용(interesado, alejado)해 명사를 수식, 성·수 일치. de + el → del.
+- **시제:**
+  - `Serías` → ser | 조건법 단순, 2인칭 단수 | 가정적 상황 속의 역할 설명 | 규칙 조건법
+  - `interesado` → interesar | 과거분사(형용사적) participio | 상태 묘사 | 규칙
+  - `alejado` → alejar | 과거분사(형용사적) | 상태 묘사 | 규칙
+
+### 1-50. **Álvaro:** Si descubro algo, ¿podré publicarlo después, o todo esto se quedará clasificado para siempre?
+- **해석:** 내가 뭔가 알아내면, 나중에 기사로 낼 수 있는 거야, 아니면 이게 다 영원히 기밀로 남는 거야?
+- **주요 단어:** `descubrir` (동사) 알아내다 / `publicar` (동사) 발표하다, 출판하다 / `después` (부사) 나중에 / `quedarse` (재귀동사) 남다, ~인 채로 있다 / `clasificado` (형용사) 기밀의 / `para siempre` 영원히
+- **문법:** "si + 직설법 현재, 직설법 미래" 실현 가능한 조건문. "quedarse + 과거분사/형용사" = ~한 상태로 남다. lo가 부정사 뒤에 붙음.
+- **표현:** "información clasificada" = 기밀 정보.
+- **시제:**
+  - `descubro` → descubrir | 직설법 현재, 1인칭 단수 | 실현 가능한 조건 | 규칙
+  - `podré` → poder | 직설법 미래 futuro simple, 1인칭 단수 | 조건이 이뤄진 뒤의 미래 | 불규칙 어간 podr-
+  - `publicarlo` → publicar | 부정사 + lo | poder 뒤 부정사
+  - `se quedará` → quedarse | 직설법 미래, 3인칭 단수 | 미래의 결과 | 규칙
+  - `clasificado` → clasificar | 과거분사(형용사적) | 상태 | 규칙
+
+### 1-51. **Carlos:** Si conseguimos desmantelar la red gracias a tu información, tendrás la exclusiva antes que nadie.
+- **해석:** 네 정보 덕분에 조직을 해체하게 되면, 누구보다 먼저 네가 단독 보도를 하게 될 거야.
+- **주요 단어:** `conseguir` (동사) 해내다 / `desmantelar` (동사) 해체하다, 소탕하다 / `gracias a` ~덕분에 / `exclusiva` (명사, 여성) 단독 보도, 특종 / `antes que nadie` 누구보다 먼저
+- **문법:** "si + 직설법 현재, 직설법 미래". "conseguir + 부정사" = ~하는 데 성공하다.
+- **표현:** "tener la exclusiva" = 특종(독점 보도권)을 갖다.
+- **시제:**
+  - `conseguimos` → conseguir | 직설법 현재, 1인칭 복수 | 실현 가능한 조건 | 1·2인칭 복수는 어간 변화 없음 (conseguimos)
+  - `desmantelar` → desmantelar | 부정사 | conseguir 뒤 부정사
+  - `tendrás` → tener | 직설법 미래, 2인칭 단수 | 조건 성립 시의 약속된 결과 | 불규칙 어간 tendr-
+
+### 1-52. **Carlos:** Te lo garantizo.
+- **해석:** 내가 보장할게.
+- **주요 단어:** `garantizar` (동사) 보장하다
+- **문법:** 간접목적대명사(te) + 직접목적대명사(lo) 순서.
+- **시제:**
+  - `garantizo` → garantizar | 직설법 현재, 1인칭 단수 | 말하는 순간 행하는 약속(수행적 현재) | 규칙 (z는 e 앞에서만 c로 바뀜: garantice)
+
+### 1-53. **Álvaro:** Necesito pensarlo, Carlos.
+- **해석:** 생각해 봐야겠어, 카를로스.
+- **주요 단어:** `pensar` (동사) 생각하다
+- **문법:** lo가 부정사 뒤에 붙음(pensarlo).
+- **표현:** "Necesito pensarlo" = 좀 생각해 볼게 (결정을 미룰 때).
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재, 1인칭 단수 | 앞에서 설명
+  - `pensarlo` → pensar | 부정사 + lo | necesitar 뒤 부정사 (활용 시 e→ie 불규칙)
+
+### 1-54. **Álvaro:** Esto no es como investigar un caso de corrupción municipal.
+- **해석:** 이건 시청 비리 사건을 취재하는 것과는 달라.
+- **주요 단어:** `como` (접속사) ~처럼 / `investigar` (동사) 조사하다 / `corrupción` (명사, 여성) 부패, 비리 / `municipal` (형용사) 시(市)의, 지방자치의
+- **문법:** 부정사 investigar가 명사처럼 쓰임(~하는 것). "no es como..." = ~와 같지 않다.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 일반적 비교 판단 | 불규칙
+  - `investigar` → investigar | 부정사(명사적 용법) | '~하는 것'
+
+### 1-55. **Carlos:** Lo entiendo perfectamente.
+- **해석:** 충분히 이해해.
+- **주요 단어:** `entender` (동사) 이해하다 / `perfectamente` (부사) 완벽하게
+- **문법:** 중성 직접목적대명사 lo(= 네 말/입장).
+- **시제:**
+  - `entiendo` → entender | 직설법 현재, 1인칭 단수 | 현재의 이해 | 어간모음변화 e→ie
+
+### 1-56. **Carlos:** Tómate el tiempo que necesites, aunque no podemos esperar demasiado.
+- **해석:** 필요한 만큼 시간을 가져, 다만 너무 오래 기다릴 순 없어.
+- **주요 단어:** `tomarse` (재귀동사) (시간을) 갖다 / `tiempo` (명사) 시간 / `aunque` (접속사) ~이지만 / `esperar` (동사) 기다리다 / `demasiado` (부사) 너무
+- **문법:** 긍정 명령 + 재귀대명사 부착(tómate, 강세 부호 추가). 관계절 "que necesites"는 양이 정해지지 않아 접속법. "aunque + 직설법" = 사실로 인정하는 양보(~지만).
+- **표현:** "Tómate el tiempo que necesites" = 천천히 생각해 (배려 표현). 재귀 tomarse는 '자기 자신을 위해'라는 뉘앙스.
+- **시제:**
+  - `Tómate` → tomarse | 긍정 명령법, tú | 권유 | 규칙
+  - `necesites` → necesitar | 접속법 현재, 2인칭 단수 | 불확정(얼마가 될지 모르는) 선행사를 수식 | 규칙
+  - `podemos` → poder | 직설법 현재, 1인칭 복수 | 현재의 사실 | 1인칭 복수는 어간 변화 없음
+  - `esperar` → esperar | 부정사 | poder 뒤 부정사
+  - 비교: "aunque + 직설법"(실제 사실) vs "aunque + 접속법"(가정·상관없음 '~하더라도')
+
+### 1-57. **Álvaro:** ¿Puedo al menos hablar con Javier sobre esto?
+- **해석:** 적어도 하비에르한테는 이 얘기 해도 될까?
+- **주요 단어:** `al menos` 적어도 / `hablar con` ~와 이야기하다 / `sobre` (전치사) ~에 대해
+- **문법:** poder + 부정사로 허락을 구함.
+- **시제:**
+  - `Puedo` → poder | 직설법 현재, 1인칭 단수 | 허락 요청 | o→ue
+  - `hablar` → hablar | 부정사 | poder 뒤
+
+### 1-58. **Álvaro:** Necesito que alguien más sepa dónde estoy metiéndome.
+- **해석:** 내가 어디에 뛰어드는 건지 다른 누군가도 알고 있어야 해.
+- **주요 단어:** `alguien más` 다른 누군가 / `saber` (동사) 알다 / `dónde` (의문사) 어디 / `meterse` (재귀동사) 들어가다, 끼어들다
+- **문법:** "necesitar que + 접속법" (주절 주어와 que절 주어가 다르고 필요·바람을 나타냄). 현재진행형에서 재귀대명사가 현재분사에 붙으면 강세 부호(metiéndome). (원문에서 두 줄로 나뉜 문장을 하나로 합침)
+- **표현:** "meterse en (un lío)" = (골치 아픈 일에) 휘말리다.
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재 | 앞에서 설명
+  - `sepa` → saber | 접속법 현재, 3인칭 단수 | necesitar que 뒤라 접속법 | 불규칙 (sepa, sepas...)
+  - `estoy metiéndome` → meterse | 현재진행형 (estar 직설법 현재 1인칭 단수 + 현재분사) | 지금 막 진행되는 상황 | 규칙

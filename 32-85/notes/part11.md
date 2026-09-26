@@ -412,3 +412,172 @@
 - **시제:**
   - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재 필요 | 규칙
   - `averigües` → averiguar | 접속법 현재 2인칭 단수 | 필요·요구 동사 뒤 다른 주어라 접속법 | 철자 변화: gu→gü (averigüe, averigües) — 발음 [gw] 유지
+
+### 17-47. **Ramón:** Estoy en ello.
+- **해석:** 이미 하고 있어.
+- **주요 단어:** `ello` (중성 대명사) 그것
+- **문법:** 전치사 뒤 중성 대명사 `ello`.
+- **표현:** `Estoy en ello` — "지금 처리 중이야, 작업 중이야".
+- **시제:**
+  - `Estoy` → estar | 직설법 현재 1인칭 단수 | 지금 진행 중인 상태 | 불규칙
+
+### 17-48. **Ramón:** En cuanto sepa algo más concreto, te lo haré saber.
+- **해석:** 좀 더 구체적인 걸 알게 되는 대로 알려 줄게.
+- **주요 단어:** `en cuanto` ~하자마자 / `hacer saber` 알리다
+- **문법:** 시간 접속사 `en cuanto` + 미래의 일 → 접속법. 대명사 순서: 간접(te) + 직접(lo) + 동사.
+- **표현:** `hacer saber algo a alguien` — "~에게 ~을 알리다" (사역 hacer + 부정사).
+- **시제:**
+  - `sepa` → saber | 접속법 현재 1인칭 단수 | en cuanto 뒤 아직 일어나지 않은 미래 → 접속법 (과거·습관이면 직설법 supe/sé) | 불규칙
+  - `haré` → hacer | 직설법 미래 1인칭 단수 (futuro simple) | 약속 | 불규칙 어간 har-
+  - `saber` → saber | 부정사 | 사역 hacer 뒤 | —
+
+### 17-49. **Fabián:** (Mira alrededor de la mesa, pensativo) A partir de ahora, todos vamos a tener más cuidado con quién dejamos entrar cerca del negocio.
+- **해석:** (생각에 잠겨 식탁을 둘러보며) 지금부터 우리 모두 사업 근처에 누구를 들일지 더 조심하자.
+- **주요 단어:** `mirar` (동사) 보다 / `alrededor de` ~의 주위 / `pensativo` (형용사) 생각에 잠긴 / `a partir de ahora` 지금부터 / `tener cuidado con` ~을 조심하다 / `dejar entrar` 들어오게 하다
+- **문법:** `ir a + 부정사`. 간접의문 `con quién dejamos entrar`. `dejar + 부정사` 허용 사역.
+- **시제:**
+  - `Mira` → mirar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `vamos` → ir | 직설법 현재 1인칭 복수 | ir a + 부정사로 결정된 앞으로의 방침 | 불규칙
+  - `tener` → tener | 부정사 | —
+  - `dejamos` → dejar | 직설법 현재 1인칭 복수 | 간접의문 속 일반적 행위 | 규칙
+  - `entrar` → entrar | 부정사 | dejar 뒤 | 규칙
+
+### 17-50. **Wilson:** Buena idea.
+- **해석:** 좋은 생각이에요.
+- **주요 단어:** `idea` (여성명사) 생각
+- **문법:** 동사 생략.
+- **시제:**
+  - 동사 없음
+
+### 17-51. **Wilson:** Nunca se sabe quién puede estar escuchando.
+- **해석:** 누가 엿듣고 있을지 모르는 법이죠.
+- **주요 단어:** `nunca` (부사) 결코 / `escuchar` (동사) 듣다
+- **문법:** 무인칭 `se sabe`. 간접의문 `quién puede...`. `poder estar + 현재분사` = 진행 중일 가능성.
+- **표현:** `Nunca se sabe` — "모르는 일이다, 알 수 없는 법이다".
+- **시제:**
+  - `se sabe` → saber | 직설법 현재 3인칭 단수(무인칭 se) | 일반적 진리 | 불규칙
+  - `puede` → poder | 직설법 현재 3인칭 단수 | 가능성 | 불규칙 o→ue
+  - `estar` → estar | 부정사 | poder 뒤 | —
+  - `escuchando` → escuchar | 현재분사 | 진행형 | 규칙
+
+### 17-52. **Álvaro:** (Fingiendo tranquilidad) Estoy de acuerdo.
+- **해석:** (태연한 척하며) 동감입니다.
+- **주요 단어:** `fingir` (동사) ~인 척하다 / `tranquilidad` (여성명사) 평온 / `estar de acuerdo` 동의하다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Fingiendo` → fingir | 현재분사 | 동시 동작 | 규칙 (1인칭 finjo는 철자 변화)
+  - `Estoy` → estar | 직설법 현재 1인칭 단수 | 현재 의견 | 불규칙
+
+### 17-53. **Álvaro:** Más vale prevenir.
+- **해석:** 미리 조심하는 게 낫죠.
+- **주요 단어:** `valer` (동사) 가치가 있다 / `prevenir` (동사) 예방하다
+- **문법:** `Más vale + 부정사` = "~하는 편이 낫다".
+- **표현:** 속담 `Más vale prevenir que curar`(치료보다 예방이 낫다)의 축약.
+- **시제:**
+  - `vale` → valer | 직설법 현재 3인칭 단수 | 일반적 진리 | 1인칭 valgo 불규칙
+  - `prevenir` → prevenir | 부정사 | —
+
+### 17-54. **Fabián:** Diego, tú llevas poco tiempo con nosotros, así que entenderás que este tipo de noticias nos ponga alerta con cualquier cara nueva.
+- **해석:** 디에고, 자넨 우리와 함께한 지 얼마 안 됐으니, 이런 소식 때문에 우리가 새 얼굴들을 경계하게 되는 걸 이해하겠지.
+- **주요 단어:** `llevar + 기간` ~동안 지내다 / `así que` 그래서 / `entender` (동사) 이해하다 / `noticia` (여성명사) 소식 / `poner alerta` 경계하게 하다 / `cualquier` 어떤 ~든 / `cara nueva` 새 얼굴, 신참
+- **문법:** `llevar + 시간 + con` = "~와 함께한 지 ~ 되다". `entender que` + 접속법 — 사실을 "납득·수용"하는 의미일 때 접속법(정보를 이해하는 뜻이면 직설법). `este tipo de noticias`가 주어(단수 tipo) → `ponga`.
+- **표현:** `cara nueva` — "새로 온 사람". `poner alerta` = "경계 태세로 만들다".
+- **시제:**
+  - `llevas` → llevar | 직설법 현재 2인칭 단수 | 지금까지 이어지는 기간 | 규칙
+  - `entenderás` → entender | 직설법 미래 2인칭 단수 | 미래라기보다 "이해하겠지"라는 기대·추측(부드러운 압박) | 규칙 미래 어미 (어간은 e→ie지만 미래형엔 해당 없음)
+  - `ponga` → poner | 접속법 현재 3인칭 단수 | entender que(납득) 뒤 평가·수용의 접속법 | 불규칙 pong-
+
+### 17-55. **Álvaro:** Lo entiendo perfectamente.
+- **해석:** 충분히 이해합니다.
+- **주요 단어:** `perfectamente` (부사) 완벽하게
+- **문법:** `Lo` = 앞 내용 전체(중성 lo).
+- **시제:**
+  - `entiendo` → entender | 직설법 현재 1인칭 단수 | 현재의 이해 | 불규칙 e→ie
+
+### 17-56. **Álvaro:** Yo también estaría alerta en su lugar.
+- **해석:** 제가 그 입장이라도 경계할 겁니다.
+- **주요 단어:** `alerta` (부사/형용사) 경계하는 / `en su lugar` 당신 입장이라면
+- **문법:** `en su lugar` = 조건절 대용(si yo estuviera en su lugar). su = usted(파비안).
+- **시제:**
+  - `estaría` → estar | 조건법 단순형 1인칭 단수 | 가정 상황("당신 입장이라면")의 결과 | 규칙 어미(estar-ía)
+
+### 17-57. **Doyle:** Bueno, dejemos los rumores para después.
+- **해석:** 자, 소문 얘기는 나중으로 미루자.
+- **주요 단어:** `dejar para después` 나중으로 미루다
+- **문법:** nosotros 명령(청유) = 접속법 현재 1인칭 복수.
+- **시제:**
+  - `dejemos` → dejar | 명령법 1인칭 복수 (접속법 현재형) | "~하자" 제안 | 규칙
+
+### 17-58. **Doyle:** Comamos, que la comida se enfría y esto es demasiado bueno para dejarlo pasar.
+- **해석:** 먹자고. 음식 식겠어, 이렇게 맛있는 걸 놓칠 순 없지.
+- **주요 단어:** `comer` (동사) 먹다 / `enfriarse` (재귀동사) 식다 / `demasiado` (부사) 너무 / `dejar pasar` 놓치다, 그냥 넘기다
+- **문법:** 명령 뒤의 `que` = 이유("~하니까", 구어). `demasiado ... para + 부정사` = "~하기엔 너무 ~하다". lo가 부정사에 붙음(dejarlo).
+- **시제:**
+  - `Comamos` → comer | 명령법 1인칭 복수 (접속법 현재형) | 청유 | 규칙
+  - `se enfría` → enfriarse | 직설법 현재 3인칭 단수 | 지금 식어 가는 중(현재가 진행 의미) | 강세 주의 enfrío, enfría
+  - `es` → ser | 직설법 현재 3인칭 단수 | 평가 | 불규칙
+  - `dejarlo` → dejar | 부정사 + lo | para 뒤 | —
+  - `pasar` → pasar | 부정사 | dejar 사역 뒤 | 규칙
+
+### 17-59. **Fabián:** Tiene razón.
+- **해석:** 맞는 말이야.
+- **주요 단어:** `tener razón` 옳다
+- **문법:** 주어는 Doyle(3인칭). 
+- **시제:**
+  - `Tiene` → tener | 직설법 현재 3인칭 단수 | 현재 판단 | 불규칙
+
+### 17-60. **Fabián:** Sigamos comiendo.
+- **해석:** 계속 먹자.
+- **주요 단어:** `seguir` 계속하다
+- **문법:** `seguir + 현재분사` 청유.
+- **시제:**
+  - `Sigamos` → seguir | 명령법 1인칭 복수 (접속법 현재형) | 청유 | 불규칙 e→i, gu→g (sigamos)
+  - `comiendo` → comer | 현재분사 | 지속 | 규칙
+
+### 17-61. **Fabián:** Ya seguiremos hablando de esto en privado, Ramón.
+- **해석:** 이 얘기는 나중에 따로 계속하자고, 라몬.
+- **주요 단어:** `en privado` 사적으로, 따로
+- **문법:** `ya + 미래` = "나중에 (언젠가) ~할 것".
+- **표현:** `Ya ... en privado` — 다른 사람(디에고) 앞에서 더 말하지 않겠다는 뉘앙스.
+- **시제:**
+  - `seguiremos` → seguir | 직설법 미래 1인칭 복수 | 나중의 계획 — ya와 함께 "지금은 말고 나중에" | 규칙 미래형
+  - `hablando` → hablar | 현재분사 | seguir + 현재분사 | 규칙
+
+### 17-62. **Ramón:** Por supuesto.
+- **해석:** 물론이지.
+- **주요 단어:** `por supuesto` 물론
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 17-63. **Álvaro:** (Piensa para sí, con el estómago revuelto) Tengo que avisar a Javier.
+- **해석:** (속이 뒤집힌 채 혼자 생각한다) 하비에르한테 알려야 해.
+- **주요 단어:** `para sí` 속으로 / `estómago` (남성명사) 위, 배 / `revuelto` (형용사/과거분사) 뒤집힌 / `avisar` (동사) 알리다, 경고하다
+- **문법:** `tener que + 부정사` 의무. 사람 목적어 앞 a.
+- **표현:** `con el estómago revuelto` — "속이 메스꺼운, 불안해서 속이 뒤집힌".
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 | 지문 | 불규칙 e→ie
+  - `revuelto` → revolver | 불규칙 과거분사 | 상태 묘사(형용사적) | revolver → revuelto
+  - `Tengo` → tener | 직설법 현재 1인칭 단수 | 의무 | 불규칙
+  - `avisar` → avisar | 부정사 | 규칙
+
+### 17-64. **Álvaro:** Y tengo que hacerlo sin que nadie sospeche nada.
+- **해석:** 그것도 아무도 눈치채지 못하게 해야 해.
+- **주요 단어:** `sospechar` (동사) 의심하다
+- **문법:** `sin que` + 접속법. 부정어 중첩 `nadie ... nada`.
+- **시제:**
+  - `tengo` → 앞에서 설명
+  - `hacerlo` → hacer | 부정사 + lo | —
+  - `sospeche` → sospechar | 접속법 현재 3인칭 단수 | sin que 뒤 필수 접속법 | 규칙
+
+### 17-65. **Álvaro:** Y encima, ahora saben que hay alguien infiltrado... tengo que ser más cuidadoso que nunca.
+- **해석:** 게다가 이제 누군가 잠입해 있다는 걸 알고 있어... 그 어느 때보다 조심해야 해.
+- **주요 단어:** `encima` (부사) 게다가 / `infiltrado` (형용사/과거분사) 잠입한 / `cuidadoso` (형용사) 조심스러운
+- **문법:** `saber que` + 직설법. `más ... que nunca` = "그 어느 때보다 더". 성격·태도라 ser cuidadoso.
+- **표현:** `Y encima` — "설상가상으로, 게다가".
+- **시제:**
+  - `saben` → saber | 직설법 현재 3인칭 복수 | 현재 앎 | 규칙형(1인칭만 sé)
+  - `hay` → haber | 앞에서 설명
+  - `infiltrado` → infiltrar | 과거분사 | 형용사적 상태 | 규칙
+  - `tengo` → 앞에서 설명
+  - `ser` → ser | 부정사 | tener que 뒤 | —

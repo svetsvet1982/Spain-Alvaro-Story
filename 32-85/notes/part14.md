@@ -252,3 +252,260 @@
 - **표현:** 특이사항 없음
 - **시제:**
   - `hay` → haber | 직설법 현재 무인칭 | 항상 그렇다는 일반적 사실 | 불규칙
+
+### 21-31. **Comandante Rueda:** Además, lo que tenemos que hablar no podía esperar.
+- **해석:** 게다가 우리가 이야기해야 할 건 미룰 수 없는 일이었네.
+- **주요 단어:** `además` (부사) 게다가 / `tener que` (구) ~해야 하다 / `esperar` (동사) 기다리다, 미루다
+- **문법:** `lo que` = ~하는 것(주어절). `tener que + 부정사` = 의무.
+- **표현:** `no poder esperar` = 급하다, 미룰 수 없다.
+- **시제:**
+  - `tenemos (que)` → tener | 직설법 현재 1인칭 복수 | 현재의 의무 | 불규칙 (1인칭 tengo, e→ie)
+  - `hablar` → hablar | 부정사 | `tener que` 뒤 | 규칙
+  - `podía` → poder | 직설법 불완료과거 3인칭 단수 | 두 사람을 부르기 전부터 계속된 상황("미룰 수 없는 상태였다")을 배경처럼 묘사 | 불규칙 동사지만 불완료과거는 규칙형. 비교: `no pudo esperar`(단순과거)는 "결국 못 기다렸다"는 결과 강조
+  - `esperar` → esperar | 부정사 | `poder` 뒤 | 규칙
+
+### 21-32. **Álvaro:** Es una casa preciosa, Comandante.
+- **해석:** 정말 아름다운 집이네요, 코만단테님.
+- **주요 단어:** `precioso` (형용사) 아주 아름다운
+- **문법:** `ser + 명사구` → ser.
+- **표현:** `precioso/a`는 스페인에서 "예쁘다, 멋지다"로 매우 자주 쓰는 칭찬.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 집의 특징(본질) 서술 | 불규칙
+
+### 21-33. **Comandante Rueda:** Gracias.
+- **해석:** 고맙네.
+- **시제:** 동사 없음
+
+### 21-34. **Comandante Rueda:** Llevo aquí más de quince años; la construí con mis propias manos, casi literalmente.
+- **해석:** 여기서 15년 넘게 살았지. 내 손으로 직접 지었어, 거의 말 그대로.
+- **주요 단어:** `llevar` (동사) (기간을) 보내다 / `construir` (동사) 짓다 / `propio` (형용사) 자신의 / `literalmente` (부사) 문자 그대로
+- **문법:** `llevar + 기간` = ~째이다(현재까지 지속). `la` = la casa. `más de + 숫자` = ~ 이상(숫자 앞에서는 que가 아니라 de).
+- **표현:** `con mis propias manos` = 내 손으로 직접.
+- **시제:**
+  - `Llevo` → llevar | 직설법 현재 1인칭 단수 | 과거에 시작해 지금도 계속되는 기간 → 현재형(한국어로는 "~째 살고 있다") | 규칙
+  - `construí` → construir | 직설법 단순과거 1인칭 단수 | 과거에 완결된 행위 | 불규칙(3인칭에서 i→y: construyó, construyeron)
+
+### 21-35. **Fabián:** Y se nota el esfuerzo.
+- **해석:** 그 노력이 느껴집니다.
+- **주요 단어:** `notarse` (재귀동사) 눈에 띄다, 티가 나다 / `el esfuerzo` (명사, 남) 노력
+- **문법:** `se nota` = 수동 se("노력이 보인다").
+- **표현:** `Se nota (que)...` = ~가 티가 난다(구어에서 매우 흔함).
+- **시제:**
+  - `se nota` → notar | 직설법 현재 3인칭 단수 (수동 se) | 지금 보이는 인상 | 규칙
+
+### 21-36. **Fabián:** Cada vez que vengo, tiene algo nuevo.
+- **해석:** 올 때마다 뭔가 새로운 게 있네요.
+- **주요 단어:** `cada vez que` (구) ~할 때마다 / `nuevo` (형용사) 새로운
+- **문법:** `cada vez que + 직설법` = 반복되는 사실(습관)이라 직설법. `tiene`의 주어는 생략된 la casa(또는 usted).
+- **표현:** `algo nuevo` = 뭔가 새로운 것.
+- **시제:**
+  - `vengo` → venir | 직설법 현재 1인칭 단수 | 반복되는 방문(습관) | 불규칙 (-go형)
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 반복되는 사실 | 불규칙 (e→ie)
+
+### 21-37. **Comandante Rueda:** Uno nunca deja de mejorar las cosas, Fabián.
+- **해석:** 사람은 결코 뭔가를 개선하는 걸 멈추지 않는 법이지, 파비안.
+- **주요 단어:** `dejar de + 부정사` (구) ~을 그만두다 / `mejorar` (동사) 개선하다
+- **문법:** `Uno` = 일반 주어("사람은", 화자 자신을 포함한 일반화).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `deja` → dejar | 직설법 현재 3인칭 단수 | 일반적 진리 | 규칙
+  - `mejorar` → mejorar | 부정사 | `dejar de` 뒤 | 규칙
+
+### 21-38. **Comandante Rueda:** Bueno, siéntense, descansen un momento del viaje.
+- **해석:** 자, 앉아서 여행 피로 좀 풀게.
+- **주요 단어:** `sentarse` (재귀동사) 앉다 / `descansar` (동사) 쉬다 / `el viaje` 여행
+- **문법:** 긍정 명령 + 재귀대명사 부착 `siéntense`(강세 표시). `descansar de` = ~에서 벗어나 쉬다.
+- **표현:** `Bueno` = 화제 전환의 "자".
+- **시제:**
+  - `siéntense` → sentarse | 명령법 ustedes형 (= 접속법 현재 3인칭 복수 sienten + se) | 손님에게 권유 | 불규칙 (e→ie)
+  - `descansen` → descansar | 명령법 ustedes형 | 권유 | 규칙
+
+### 21-39. **Comandante Rueda:** Diego, ¿es la primera vez que sales de España para un asunto de estos?
+- **해석:** 디에고, 이런 일로 스페인을 벗어나는 건 처음인가?
+- **주요 단어:** `la primera vez` 처음 / `salir de` (동사) ~에서 나가다 / `el asunto` (명사, 남) 일, 용건
+- **문법:** `es la primera vez que + 직설법 현재` = ~하는 게 처음이다(스페인어는 현재형, 한국어·영어와 다름). `un asunto de estos` = 이런 종류의 일.
+- **표현:** `de estos` = "이런 류의"(완곡하게 불법 거래를 암시).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 지금 상황을 묻는 질문 | 불규칙
+  - `sales` → salir | 직설법 현재 2인칭 단수 | `la primera vez que` 뒤에는 현재형이 관용적 | 불규칙 (1인칭 salgo)
+
+### 21-40. **Álvaro:** La primera vez que llego tan lejos, sí.
+- **해석:** 이렇게 멀리 와 본 건 처음입니다, 네.
+- **주요 단어:** `llegar` (동사) 도달하다 / `tan lejos` 그렇게 멀리
+- **문법:** 앞 질문 구조를 받아 `(Es) la primera vez que...` 생략.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `llego` → llegar | 직설법 현재 1인칭 단수 | `la primera vez que` 뒤 현재형 | 규칙
+
+### 21-41. **Álvaro:** Aunque ya llevo un tiempo trabajando con Fabián.
+- **해석:** 하지만 파비안과는 이미 한동안 함께 일해 왔습니다.
+- **주요 단어:** `aunque` (접속사) 하지만, ~이긴 해도 / `un tiempo` 한동안
+- **문법:** `llevar + 기간 + 현재분사` = ~동안 계속 ~해 오고 있다. 문장 머리의 `Aunque`는 앞 말을 보충·수정(= pero).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `llevo` → llevar | 직설법 현재 1인칭 단수 | 지금까지 이어지는 지속 | 규칙
+  - `trabajando` → trabajar | 현재분사 | `llevar` 구문에서 지속되는 행위 | 규칙
+
+### 21-42. **Comandante Rueda:** Bien.
+- **해석:** 좋아.
+- **시제:** 동사 없음
+
+### 21-43. **Comandante Rueda:** Es importante que quien viene hasta aquí entienda la seriedad de lo que se maneja.
+- **해석:** 여기까지 오는 사람은 여기서 다루는 일이 얼마나 심각한지 이해하는 게 중요하지.
+- **주요 단어:** `importante` 중요한 / `entender` (동사) 이해하다 / `la seriedad` (명사, 여) 심각함, 진지함 / `manejar` (동사) 다루다, 취급하다
+- **문법:** `Es importante que + 접속법` (가치판단 표현 뒤 접속법). `quien` = ~하는 사람(선행사 내포 관계사). `se maneja` = 수동 se.
+- **표현:** `lo que se maneja` = 여기서 다뤄지는 것(무기 거래를 돌려 말함).
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 가치판단 | 불규칙
+  - `viene` → venir | 직설법 현재 3인칭 단수 | 여기 오는 사람(실제 사례를 염두에 둔 일반적 서술)이라 직설법; `quien venga`(접속법)라고 하면 "누가 되든 올 사람"으로 더 가정적 | 불규칙
+  - `entienda` → entender | 접속법 현재 3인칭 단수 | `Es importante que` 뒤 → 접속법 | 불규칙 (e→ie)
+  - `se maneja` → manejar | 직설법 현재 3인칭 단수 (수동 se) | 현재 일상적으로 다루는 것 | 규칙
+
+### 21-44. **Álvaro:** Lo entiendo perfectamente, Comandante.
+- **해석:** 충분히 이해하고 있습니다, 코만단테님.
+- **주요 단어:** `perfectamente` (부사) 완벽하게
+- **문법:** `Lo` = 중성 대명사(앞의 내용 전체).
+- **시제:**
+  - `entiendo` → entender | 직설법 현재 1인칭 단수 | 현재 이해 상태 | 불규칙 (e→ie)
+
+### 21-45. **Álvaro:** No he venido a jugar.
+- **해석:** 장난하러 온 게 아닙니다.
+- **주요 단어:** `jugar` (동사) 놀다, 장난치다
+- **문법:** `venir a + 부정사` = ~하러 오다.
+- **표현:** `No he venido a jugar` = "허투루 온 게 아니다, 진지하다"는 결의 표현.
+- **시제:**
+  - `he venido` → venir | 직설법 현재완료 1인칭 단수 | 도착해서 지금 여기 있는 현재와 연결된 행위 → 현재완료(스페인식) | 불규칙 동사지만 과거분사 venido는 규칙
+  - `jugar` → jugar | 부정사 | 목적 | 불규칙 동사(u→ue: juego)의 원형
+
+### 21-46. **Comandante Rueda:** Me gusta cómo suena eso.
+- **해석:** 그 말 마음에 드는군.
+- **주요 단어:** `gustar` (동사) 마음에 들다 / `sonar` (동사) 들리다, 소리가 나다
+- **문법:** `gustar` 구문: 주어는 `cómo suena eso`(간접의문절), `Me`는 간접목적어. 간접의문의 `cómo`는 강세 유지.
+- **표현:** `Me gusta cómo suena eso` = "그 말 듣기 좋군".
+- **시제:**
+  - `gusta` → gustar | 직설법 현재 3인칭 단수 | 지금의 감정 | 규칙
+  - `suena` → sonar | 직설법 현재 3인칭 단수 | 방금 들은 말의 인상 | 불규칙 (o→ue)
+
+### 21-47. **Comandante Rueda:** Fabián, este muchacho tiene carácter.
+- **해석:** 파비안, 이 젊은이 배짱이 있구먼.
+- **주요 단어:** `el muchacho` (명사) 젊은이, 청년 / `el carácter` (명사) 성격, 기개
+- **문법:** 특이사항 없음
+- **표현:** `tener carácter` = 기개·배짱이 있다, 성격이 강하다.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 인물의 특징 | 불규칙
+
+### 21-48. **Fabián:** Se lo he dicho más de una vez.
+- **해석:** 제가 여러 번 말씀드렸잖아요.
+- **주요 단어:** `decir` (동사) 말하다 / `más de una vez` (구) 한 번 이상, 여러 번
+- **문법:** 간접목적어 `le`(당신께) + 직접목적어 `lo`(그 사실)가 연속되면 `le lo` → `se lo`.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `he dicho` → decir | 직설법 현재완료 1인칭 단수 | 지금까지 여러 번 해 온 말(경험·반복, 현재와 연결) | 불규칙 과거분사 (dicho)
+
+### 21-49. **Fabián:** Es de los que no se asustan fácilmente.
+- **해석:** 쉽게 겁먹지 않는 부류예요.
+- **주요 단어:** `asustarse` (재귀동사) 겁먹다, 놀라다 / `fácilmente` (부사) 쉽게
+- **문법:** `ser de los que + 동사` = ~하는 부류(사람들 중 하나)이다. 관계절 동사는 `los`에 맞춰 3인칭 복수.
+- **표현:** `Es de los que...` 구어에서 인물 묘사에 자주 씀.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 성격(본질) | 불규칙
+  - `se asustan` → asustarse | 직설법 현재 3인칭 복수 | 그런 부류 사람들의 일반적 특징 | 규칙
+
+### 21-50. **Comandante Rueda:** Eso aquí vale mucho, créanme.
+- **해석:** 그건 여기서 아주 큰 가치가 있어, 내 말 믿게.
+- **주요 단어:** `valer` (동사) 가치가 있다 / `creer` (동사) 믿다
+- **문법:** 긍정 명령 + 대명사 부착 `créanme`(강세 표시).
+- **표현:** `créeme / créanme` = "내 말 믿어"(강조).
+- **시제:**
+  - `vale` → valer | 직설법 현재 3인칭 단수 | 일반적 사실 | 불규칙 (1인칭 valgo)
+  - `créanme` → creer | 명령법 ustedes형 (= 접속법 현재 3인칭 복수 crean + me) | 두 사람에게 하는 강조 | 규칙(단순과거 3인칭 creyó에서만 y)
+
+### 21-51. **Comandante Rueda:** La gente que se asusta, se equivoca, y los que se equivocan aquí, no suelen tener una segunda oportunidad.
+- **해석:** 겁먹는 사람은 실수를 하고, 여기서 실수하는 사람들은 대개 두 번째 기회가 없지.
+- **주요 단어:** `la gente` (명사, 여·단수) 사람들 / `equivocarse` (재귀동사) 실수하다, 틀리다 / `soler + 부정사` (동사) ~하곤 하다 / `la oportunidad` 기회
+- **문법:** `la gente`는 형태상 단수라 동사도 단수(`se asusta`, `se equivoca`). `los que` = ~하는 사람들 → 복수 동사.
+- **표현:** `no suelen tener` = 대개 ~없다(완곡한 협박).
+- **시제:**
+  - `se asusta` → asustarse | 직설법 현재 3인칭 단수 | 일반적 원칙 | 규칙
+  - `se equivoca` → equivocarse | 직설법 현재 3인칭 단수 | 일반적 원칙 | 규칙(철자: 접속법 me equivoque)
+  - `se equivocan` → equivocarse | 직설법 현재 3인칭 복수 | 일반적 원칙 | 규칙
+  - `suelen` → soler | 직설법 현재 3인칭 복수 | 습관·경향 | 불규칙 (o→ue)
+  - `tener` → tener | 부정사 | `soler` 뒤 | 불규칙 동사의 원형
+
+### 21-52. **Álvaro:** (Manteniendo la calma) Entendido, Comandante.
+- **해석:** (침착함을 유지하며) 알겠습니다, 코만단테님.
+- **주요 단어:** `mantener la calma` (구) 침착함을 유지하다 / `entendido` (과거분사) 알았다
+- **문법:** `Entendido` = 과거분사 단독으로 "이해했다"는 응답.
+- **표현:** `Entendido` = 군대식·업무식 "알겠습니다".
+- **시제:**
+  - `Manteniendo` → mantener | 현재분사 | 대답하는 동안의 태도 | 불규칙 동사(tener형)의 규칙 현재분사
+  - `Entendido` → entender | 과거분사 | 완료된 이해를 짧게 표현 | 규칙 과거분사
+
+### 21-53. **Comandante Rueda:** Bueno, ya habrá tiempo de hablar de negocios.
+- **해석:** 자, 사업 얘기할 시간은 나중에 있을 거야.
+- **주요 단어:** `el negocio` (명사, 남) 사업, 거래
+- **문법:** `tiempo de + 부정사` = ~할 시간. `ya`는 여기서 "나중에, 때가 되면".
+- **표현:** `Ya habrá tiempo de...` = ~은 나중에 해도 된다.
+- **시제:**
+  - `habrá` → haber | 직설법 단순미래 무인칭 | 앞으로 있을 일 | 불규칙 미래 어간 (habr-)
+  - `hablar` → hablar | 부정사 | `de` 뒤 | 규칙
+
+### 21-54. **Comandante Rueda:** Primero, comamos algo, que el viaje cansa y aquí no dejamos a nadie con hambre.
+- **해석:** 우선 뭘 좀 먹자고, 여행은 피곤한 법이고 여기선 아무도 배고프게 두지 않으니까.
+- **주요 단어:** `cansar` (동사) 피곤하게 하다 / `dejar` (동사) (어떤 상태로) 두다 / `el hambre` (명사, 여) 배고픔
+- **문법:** `que` = 이유를 나타내는 구어적 접속사(= porque). `no ... a nadie`: 이중부정, 사람 목적어라 a.
+- **표현:** `el hambre`는 여성명사지만 강세 있는 a로 시작해 관사 el.
+- **시제:**
+  - `comamos` → comer | 접속법 현재 1인칭 복수 | nosotros 명령("~하자") | 규칙
+  - `cansa` → cansar | 직설법 현재 3인칭 단수 | 일반적 사실 | 규칙
+  - `dejamos` → dejar | 직설법 현재 1인칭 복수 | 이곳의 관습 | 규칙
+
+### 21-55. **Comandante Rueda:** Conozco un sitio cerca de aquí, sencillo pero con la mejor comida de la zona.
+- **해석:** 이 근처에 아는 곳이 있는데, 소박하지만 이 동네에서 음식이 제일 맛있어.
+- **주요 단어:** `conocer` (동사) 알다 / `el sitio` (명사, 남) 장소 / `sencillo` (형용사) 소박한 / `la zona` 지역
+- **문법:** `la mejor + 명사 + de` = ~에서 가장 좋은(최상급).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `Conozco` → conocer | 직설법 현재 1인칭 단수 | 경험으로 아는 장소 → conocer | 불규칙 (-zco)
+
+### 21-56. **Comandante Rueda:** Vamos para allá.
+- **해석:** 그리로 가자.
+- **주요 단어:** `ir` (동사) 가다 / `allá` (부사) 저쪽으로
+- **문법:** `Vamos` = 직설법 현재지만 "가자"라는 권유로 쓰임(`vayamos` 대신 관용적으로 vamos).
+- **표현:** `para allá` = 그쪽으로(중남미에서 방향의 para 흔함).
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수 (권유 용법) | "~하자"의 관용형 | 불규칙
+
+### 21-57. **Fabián:** Perfecto, me muero de hambre.
+- **해석:** 좋습니다, 배고파 죽겠어요.
+- **주요 단어:** `morirse` (재귀동사) 죽다
+- **문법:** `morirse de + 명사` = ~해서 죽을 지경이다.
+- **표현:** `me muero de hambre` = 배고파 죽겠다(과장 관용구).
+- **시제:**
+  - `me muero` → morirse | 직설법 현재 1인칭 단수 | 지금의 상태(과장) | 불규칙 (o→ue)
+
+### 21-58. **Álvaro:** Cuenten conmigo.
+- **해석:** 저도 가겠습니다.
+- **주요 단어:** `contar con` (구) ~을 믿다, ~을 포함시키다
+- **문법:** 스페인 화자인 알바로도 여기서는 격식의 ustedes 명령(스페인에서도 vosotros가 아닌 존칭 복수는 ustedes).
+- **표현:** `Cuenta/Cuenten conmigo` = 나도 끼워 줘, 나를 믿어도 돼.
+- **시제:**
+  - `Cuenten` → contar | 명령법 ustedes형 (= 접속법 현재 3인칭 복수) | 공손한 요청 | 불규칙 (o→ue)
+
+### 21-59. **Comandante Rueda:** (Ya sentados en el restaurante) Aquí tienen que probar la cachapa; se las recomiendo con mucho queso de mano.
+- **해석:** (이미 식당에 앉아서) 여기선 카차파를 꼭 먹어 봐야 해. 케소 데 마노를 듬뿍 얹어서 먹길 권하네.
+- **주요 단어:** `probar` (동사) 맛보다 / `recomendar` (동사) 추천하다 / `la cachapa` 카차파(베네수엘라 옥수수 팬케이크) / `el queso de mano` 케소 데 마노(베네수엘라식 손으로 빚은 생치즈)
+- **문법:** `se las`: 간접목적어 `les`(여러분께) + 직접목적어 `las`(카차파들) → `les las` → `se las`. `tener que + 부정사` = ~해야 한다.
+- **표현:** `tienen que probar` = 꼭 먹어 봐야 한다(추천의 강조).
+- **시제:**
+  - `sentados` → sentar | 과거분사 | 앉아 있는 상태를 묘사 | 규칙
+  - `tienen (que)` → tener | 직설법 현재 3인칭 복수 | 강한 권유 | 불규칙
+  - `probar` → probar | 부정사 | `tener que` 뒤 | 불규칙 동사(o→ue)의 원형
+  - `recomiendo` → recomendar | 직설법 현재 1인칭 단수 | 지금 하는 추천 | 불규칙 (e→ie)
+
+### 21-60. **Álvaro:** ¿Qué es exactamente la cachapa?
+- **해석:** 카차파가 정확히 뭔가요?
+- **주요 단어:** `exactamente` (부사) 정확히
+- **문법:** 정의를 묻는 `¿Qué es...?` → ser.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 정의·본질 | 불규칙

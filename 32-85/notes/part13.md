@@ -507,3 +507,157 @@
 - **주요 단어:** `buenas noches` 밤 인사
 - **문법:** 특이사항 없음
 - **시제:** 동사 없음
+
+## 장면 20. 예고 없는 베네수엘라행
+> 카르타헤나에서의 일정이 거의 끝나갈 무렵, 파비안이 갑작스레 베네수엘라로 함께 가자고 제안합니다. 사전 계획에 없던 급작스러운 이동이라 카를로스에게 알릴 시간조차 없이, 알바로는 순간적으로 결정을 내려야 하는 상황에 놓입니다.
+
+### 20-1. **Fabián:** Diego, cambio de planes.
+- **해석:** 디에고, 계획 변경이야.
+- **주요 단어:** `cambio` (남성명사) 변경 / `plan` (남성명사) 계획
+- **문법:** 동사 없는 명사구.
+- **표현:** `cambio de planes` 계획 변경 — 고정 표현(planes 복수).
+- **시제:** 동사 없음
+
+### 20-2. **Fabián:** Nos vamos a Venezuela esta misma tarde.
+- **해석:** 바로 오늘 오후에 베네수엘라로 간다.
+- **주요 단어:** `irse` (재귀동사) 떠나다 / `esta misma tarde` 바로 오늘 오후
+- **문법:** `irse` = 현재 장소를 떠나 가다(ir보다 "떠남" 강조). `mismo`가 시간 표현을 강조("바로 오늘").
+- **시제:**
+  - `Nos vamos` → irse | 직설법 현재 1인칭 복수 | 확정된 가까운 미래를 현재로 | 불규칙
+
+### 20-3. **Álvaro:** (Sorprendido) ¿Venezuela?
+- **해석:** (놀라서) 베네수엘라요?
+- **주요 단어:** `sorprender` (동사) 놀라게 하다
+- **문법:** 지문의 과거분사 — 화자 상태 묘사.
+- **시제:**
+  - `Sorprendido` → sorprender | 과거분사 (형용사적) | 놀란 상태 | 규칙 (-er → -ido)
+
+### 20-4. **Álvaro:** Pensaba que solo estaríamos en Cartagena.
+- **해석:** 카르타헤나에만 있을 줄 알았는데요.
+- **주요 단어:** `pensar` (동사) 생각하다 / `solo` (부사) 오직
+- **문법:** 과거 시점에서 본 미래 = 조건법 (futuro del pasado).
+- **시제:**
+  - `Pensaba` → pensar | 직설법 불완료과거 1인칭 단수 | 지금까지 쭉 가지고 있던 생각(배경적 상태); 예상이 깨졌음을 암시. 비교: pensé는 한순간 판단 | 규칙
+  - `estaríamos` → estar | 조건법 단순 1인칭 복수 | 과거(pensaba) 기준의 미래 → 조건법 | 규칙 활용(estar+ía)
+
+### 20-5. **Fabián:** Ha surgido algo urgente.
+- **해석:** 급한 일이 생겼어.
+- **주요 단어:** `surgir` (동사) 생기다, 발생하다 / `urgente` (형용사) 긴급한
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Ha surgido` → surgir | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | 방금/오늘 일어나 현재에 영향이 있는 일이라 현재완료(스페인식) | 규칙 (1인칭 현재 surjo 철자 변화)
+
+### 20-6. **Fabián:** El comprador quiere vernos en persona, y no es alguien a quien se le pueda decir que no.
+- **해석:** 구매자가 우리를 직접 보고 싶어 해, 그리고 거절할 수 있는 상대가 아니야.
+- **주요 단어:** `comprador` (명사) 구매자 / `en persona` 직접 / `decir que no` 거절하다
+- **문법:** `a quien`: 전치사 + 관계대명사(사람). `se le pueda decir`: 비인칭 se + 간접목적 le(중복). 부정된 선행사(no es alguien...)를 꾸미는 관계절이라 접속법.
+- **표현:** `decirle que no a alguien` 누군가에게 "안 돼"라고 하다.
+- **시제:**
+  - `quiere` → querer | 직설법 현재 3인칭 단수 | 현재의 요구 | 어간 e→ie
+  - `ver(nos)` → ver | 부정사 | querer 뒤
+  - `es` → ser | 직설법 현재 | 정체 규정 | 불규칙
+  - `pueda` → poder | 접속법 현재 3인칭 단수 | 부정 선행사(그런 사람은 없다) 관계절이라 접속법 | 어간 o→ue
+  - `decir` → decir | 부정사 | poder 뒤
+
+### 20-7. **Álvaro:** ¿Ahora mismo?
+- **해석:** 지금 당장요?
+- **주요 단어:** `ahora mismo` 지금 당장
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 20-8. **Álvaro:** ¿No hay tiempo para organizar nada?
+- **해석:** 아무것도 준비할 시간이 없어요?
+- **주요 단어:** `haber` (비인칭) 있다 / `organizar` (동사) 준비하다, 정리하다
+- **문법:** 이중부정 no ... nada = "아무것도 ~않다". hay는 존재의 비인칭.
+- **시제:**
+  - `hay` → haber | 직설법 현재 3인칭 단수(비인칭) | 현재 상황 | 불규칙(hay)
+  - `organizar` → organizar | 부정사 | para 뒤 목적
+
+### 20-9. **Fabián:** El vuelo sale en dos horas.
+- **해석:** 비행기가 두 시간 후에 떠.
+- **주요 단어:** `vuelo` (남성명사) 항공편 / `salir` (동사) 출발하다 / `en + 시간` ~후에
+- **문법:** `en dos horas` = 두 시간 후(미래 시점).
+- **시제:**
+  - `sale` → salir | 직설법 현재 3인칭 단수 | 시간표상 확정된 미래를 현재로 | 불규칙(1인칭 salgo)
+
+### 20-10. **Fabián:** Ya está todo arreglado, solo necesito saber si vienes.
+- **해석:** 이미 다 준비돼 있어, 네가 오는지만 알면 돼.
+- **주요 단어:** `arreglar` (동사) 준비하다, 해결하다 / `saber` (동사) 알다 / `venir` (동사) 오다
+- **문법:** `estar + 과거분사` = 결과 상태. `si` 간접의문(~인지).
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재 상태 | 불규칙
+  - `arreglado` → arreglar | 과거분사 | 완료된 결과 | 규칙
+  - `necesito` → necesitar | 직설법 현재 | 현재 필요 | 규칙
+  - `saber` → saber | 부정사 | necesitar 뒤
+  - `vienes` → venir | 직설법 현재 2인칭 단수 | 곧 할 결정(가까운 미래)을 현재로 | 불규칙 (e→ie, 1인칭 vengo)
+
+### 20-11. **Álvaro:** (Piensa a toda velocidad, sin poder avisar a nadie) Voy.
+- **해석:** (아무에게도 알릴 수 없는 채 머리를 빠르게 굴리며) 갈게요.
+- **주요 단어:** `a toda velocidad` 전속력으로 / `sin + 부정사` ~하지 않고 / `avisar` (동사) 알리다
+- **문법:** `sin poder` + 부정사, 이중부정 없이 a nadie(sin이 부정 역할).
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 | 지문은 현재형 서술 | 어간 e→ie
+  - `poder` → poder | 부정사 | sin 뒤
+  - `avisar` → avisar | 부정사 | poder 뒤
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | 결정의 즉답(가까운 미래) | 불규칙
+
+### 20-12. **Álvaro:** Por supuesto que voy.
+- **해석:** 당연히 가죠.
+- **주요 단어:** `por supuesto` 물론
+- **문법:** `Por supuesto que + 직설법` 강한 긍정(que가 강조 역할).
+- **시제:**
+  - `voy` → ir | 앞에서 설명
+
+### 20-13. **Fabián:** Bien.
+- **해석:** 좋아.
+- **주요 단어:** `bien` (부사) 좋아
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 20-14. **Fabián:** Sabía que podía contar contigo.
+- **해석:** 널 믿을 수 있을 줄 알았어.
+- **주요 단어:** `contar con` ~을 믿고 의지하다 / `contigo` 너와 함께(con + ti 특수형)
+- **문법:** 주절 과거 → 종속절도 과거(시제 일치).
+- **시제:**
+  - `Sabía` → saber | 직설법 불완료과거 1인칭 단수 | 전부터 알고 있던 지속적 인식. 비교: supe(단순과거)는 "알게 됐다" | 규칙형 불완료
+  - `podía` → poder | 직설법 불완료과거 1인칭 단수 | sabía에 맞춘 시제 일치, 지속적 가능성 | 규칙형 불완료
+  - `contar` → contar | 부정사 | poder 뒤 (o→ue 동사)
+
+### 20-15. **Álvaro:** ¿Puedo al menos hacer una llamada rápida antes de salir?
+- **해석:** 나가기 전에 적어도 짧게 전화 한 통 해도 될까요?
+- **주요 단어:** `al menos` 적어도 / `hacer una llamada` 전화하다 / `antes de + 부정사` ~하기 전에
+- **문법:** ¿Puedo + 부정사? 허락 구하기.
+- **시제:**
+  - `Puedo` → poder | 직설법 현재 1인칭 단수 | 허락 요청 | 어간 o→ue
+  - `hacer` → hacer | 부정사 | poder 뒤
+  - `salir` → salir | 부정사 | antes de 뒤
+
+### 20-16. **Álvaro:** Asuntos pendientes de la empresa.
+- **해석:** 회사 미결 업무 때문에요.
+- **주요 단어:** `asunto` (남성명사) 일, 용무 / `pendiente` (형용사) 미결의 / `empresa` (여성명사) 회사
+- **문법:** 동사 없는 이유 설명.
+- **시제:** 동사 없음
+
+### 20-17. **Fabián:** Cinco minutos, no más.
+- **해석:** 5분, 그 이상은 안 돼.
+- **주요 단어:** `no más` 그 이상 아니다
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 20-18. **Fabián:** El coche nos espera abajo.
+- **해석:** 차가 아래서 우리를 기다리고 있어.
+- **주요 단어:** `coche` (남성명사) 차(스페인) / `esperar` 기다리다 / `abajo` (부사) 아래에
+- **문법:** esperar(기다리다) + 직접목적 nos.
+- **표현:** `coche` 스페인식(중남미는 carro).
+- **시제:**
+  - `espera` → esperar | 직설법 현재 3인칭 단수 | 지금 진행 중인 상황을 단순현재로 | 규칙
+
+### 20-19. **Álvaro:** (Se aleja unos pasos, intenta llamar a Carlos, pero no contesta nadie)
+- **해석:** (몇 걸음 떨어져서 카를로스에게 전화하려 하지만 아무도 받지 않는다)
+- **주요 단어:** `alejarse` (재귀동사) 멀어지다 / `paso` (남성명사) 걸음 / `intentar` (동사) 시도하다 / `contestar` (동사) (전화를) 받다
+- **문법:** 지문만 있는 줄. `no contesta nadie`: nadie가 동사 뒤라 no 필요.
+- **시제:**
+  - `Se aleja` → alejarse | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙
+  - `intenta` → intentar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙
+  - `llamar` → llamar | 부정사 | intentar 뒤
+  - `contesta` → contestar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙

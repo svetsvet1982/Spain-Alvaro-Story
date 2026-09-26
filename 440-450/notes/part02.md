@@ -293,4 +293,198 @@
   - `intentarlo` → intentar | 부정사 + lo | 앞에서 설명
   - 비교: "tuve que intentarlo"(단순과거)는 "실제로 시도했다(완료)"를 강조, tenía que는 "해야 하는 입장이었다"는 동기·배경에 초점.
 
-<!-- END-SCENE-4 -->
+## 장면 5. 은근한 위협
+> 회유가 거절되자, 로셀요의 태도가 미묘하게 바뀌며 은근한 위협으로 전환됩니다.
+
+### 5-1. **Roselló:** (Bebe un sorbo de vino, con calma renovada) Entiendo su posición, señor Fuentes.
+- **해석:** (다시 차분하게 와인을 한 모금 마시며) 당신의 입장은 이해합니다, 푸엔테스 씨.
+- **주요 단어:** `beber` (동사) 마시다 / `sorbo` (명사 남성) 한 모금 / `posición` (명사 여성) 입장
+- **문법:** 특이사항 없음.
+- **표현:** `un sorbo de vino` 와인 한 모금.
+- **시제:**
+  - `Bebe` → beber | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `renovada` → renovar | 과거분사(형용사 용법) | 앞에서 설명
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 현재의 이해 | 불규칙: e→ie
+
+### 5-2. **Roselló:** Aunque me temo que eso complica un poco las cosas.
+- **해석:** 다만 유감스럽게도 그게 일을 좀 복잡하게 만들 것 같군요.
+- **주요 단어:** `temerse` (재귀동사) (유감스럽게도) ~일까 걱정되다 / `complicar` (동사) 복잡하게 하다
+- **문법:** 문두의 Aunque = 앞 문장에 대한 역접 "하지만, 다만". me temo que + 직설법 = 유감스러운 사실을 완곡하게 전달(두려움이 아니라 공손한 유감 표현이라 직설법).
+- **표현:** "Me temo que..." ≈ 영어 "I'm afraid that..." 상투적 완곡 표현.
+- **시제:**
+  - `temo` → temerse | 직설법 현재 1인칭 단수 | 현재의 판단 | 규칙
+  - `complica` → complicar | 직설법 현재 3인칭 단수 | 현재 상황에 대한 판단(사실로 제시) | 규칙
+
+### 5-3. **Álvaro:** (Con firmeza) No me sorprende oír eso.
+- **해석:** (단호하게) 그런 말을 들어도 놀랍지 않군요.
+- **주요 단어:** `firmeza` (명사 여성) 단호함 / `sorprender` (동사) 놀라게 하다 / `oír` (동사) 듣다
+- **문법:** sorprender는 gustar형 동사: 주어는 부정사구 "oír eso", me는 간접목적어.
+- **시제:**
+  - `sorprende` → sorprender | 직설법 현재 3인칭 단수 | 현재의 반응 | 규칙
+  - `oír` → oír | 부정사 | sorprender의 주어 역할 | 불규칙 동사(oigo, oyes, oye)
+
+### 5-4. **Roselló:** No es una amenaza, entiéndame bien.
+- **해석:** 위협이 아닙니다, 오해 마세요.
+- **주요 단어:** `amenaza` (명사 여성) 위협
+- **문법:** usted 긍정명령 + 대명사 부착(entienda + me → entiéndame, 악센트).
+- **표현:** "Entiéndame bien." = "제 말 제대로 들으세요/오해하지 마세요."
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 사실 규정 | 불규칙
+  - `entiéndame` → entender | 명령법 usted 긍정 (형태는 접속법 현재 entienda) | 요청 | 불규칙: e→ie
+
+### 5-5. **Roselló:** Simplemente, una consecuencia lógica de las circunstancias.
+- **해석:** 그저 상황에서 비롯되는 논리적 결과일 뿐이죠.
+- **주요 단어:** `consecuencia` (명사 여성) 결과 / `lógico` (형용사) 논리적인 / `circunstancias` (circunstancia·명사 여성 복수) 상황, 정황
+- **문법:** es 생략된 명사문.
+- **시제:** 동사 없음
+
+### 5-6. **Álvaro:** ¿Qué tipo de consecuencia, exactamente?
+- **해석:** 정확히 어떤 종류의 결과 말입니까?
+- **주요 단어:** `tipo` (명사 남성) 종류 / `exactamente` (부사) 정확히
+- **문법:** 동사 생략 의문문.
+- **시제:** 동사 없음
+
+### 5-7. **Roselló:** Usted tiene gente importante en su vida.
+- **해석:** 당신 인생에는 소중한 사람들이 있지요.
+- **주요 단어:** `gente` (명사 여성 단수) 사람들
+- **문법:** gente는 형태상 단수 집합명사 → 형용사·동사도 단수(gente importante).
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 (usted) | 현재 상태 | 불규칙: e→ie
+
+### 5-8. **Roselló:** Javier, su compañero de tantos años.
+- **해석:** 하비에르, 오랜 세월 함께한 동료.
+- **주요 단어:** `compañero` (명사 남성) 동료 / `tantos` (형용사) 그토록 많은
+- **문법:** 동격 명사구. de tantos años = "그 많은 해 동안의".
+- **시제:** 동사 없음
+
+### 5-9. **Roselló:** Carlos, que confía en usted más de lo que debería, quizás.
+- **해석:** 카를로스, 어쩌면 필요 이상으로 당신을 믿고 있는 사람.
+- **주요 단어:** `confiar en` ~을 믿다, 신뢰하다 / `deber` (동사) ~해야 하다
+- **문법:** más de lo que + 절 = "~한 것보다 더"(절과 비교할 때 que가 아니라 de lo que). 설명적 관계절(쉼표 + que).
+- **시제:**
+  - `confía` → confiar | 직설법 현재 3인칭 단수 | 현재의 신뢰 상태 | 강세 불규칙(confío, confía: í에 악센트)
+  - `debería` → deber | 조건법 단순 3인칭 단수 | "마땅히 그래야 할 정도"를 완곡하게 표현하는 당위의 조건법 | 규칙
+
+### 5-10. **Roselló:** Camila...
+- **해석:** 카밀라…
+- **문법:** 말줄임표로 끝내 위협의 여운을 남김.
+- **표현:** 이름만 부르고 멈추는 것 자체가 협박의 수사.
+- **시제:** 동사 없음
+
+### 5-11. **Álvaro:** (Se pone tenso, con la voz fría) No mencione su nombre.
+- **해석:** (긴장하며, 차가운 목소리로) 그 이름을 입에 올리지 마십시오.
+- **주요 단어:** `ponerse` (재귀동사) (상태가) ~해지다 / `tenso` (형용사) 긴장한 / `mencionar` (동사) 언급하다
+- **문법:** ponerse + 형용사 = 일시적 상태 변화. usted 부정명령은 no + 접속법 현재(대명사는 앞에).
+- **시제:**
+  - `pone` → ponerse | 직설법 현재 3인칭 단수 | 지문 | 불규칙(pongo, pone)
+  - `mencione` → mencionar | 명령법 usted 부정 (no + 접속법 현재 3인칭 단수) | 강한 금지 | 규칙
+
+### 5-12. **Roselló:** (Levanta las manos, en gesto conciliador) No pretendo amenazarla directamente, señor Fuentes.
+- **해석:** (달래는 몸짓으로 두 손을 들며) 그녀를 직접 위협하려는 건 아닙니다, 푸엔테스 씨.
+- **주요 단어:** `levantar` (동사) 들어 올리다 / `conciliador` (형용사) 달래는, 화해적인 / `pretender` (동사) 의도하다, 노리다 / `amenazar` (동사) 위협하다
+- **문법:** pretender + 부정사 = "~하려고 하다". amenazarla: la = 카밀라.
+- **표현:** pretender는 영어 pretend(~인 척하다)와 다른 false friend — "의도하다".
+- **시제:**
+  - `Levanta` → levantar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `pretendo` → pretender | 직설법 현재 1인칭 단수 | 현재의 의도 | 규칙
+  - `amenazarla` → amenazar | 부정사 + la | pretender 뒤 | 규칙
+
+### 5-13. **Roselló:** Solo señalo que, en mi mundo, la gente cercana a quienes me investigan a veces se convierte en un factor de la ecuación.
+- **해석:** 그저 제 세계에서는, 저를 조사하는 사람들의 가까운 이들이 때로 방정식의 한 변수가 된다는 점을 짚을 뿐입니다.
+- **주요 단어:** `señalar` (동사) 지적하다 / `cercano` (형용사) 가까운 / `investigar` (동사) 조사하다 / `convertirse en` ~이 되다 / `ecuación` (명사 여성) 방정식
+- **문법:** quienes = 선행사를 포함한 관계대명사("~하는 사람들"). convertirse en + 명사 = 변화. señalar que + 직설법(사실 진술).
+- **표현:** `a veces` 때때로. "factor de la ecuación" — 사람을 변수로 취급하는 냉혹한 비유.
+- **시제:**
+  - `señalo` → señalar | 직설법 현재 1인칭 단수 | 현재 발화 행위 | 규칙
+  - `investigan` → investigar | 직설법 현재 3인칭 복수 | 현재 진행 중인 사실 | 규칙
+  - `convierte` → convertirse | 직설법 현재 3인칭 단수 | 일반적 경향(습관적 현재) | 불규칙: e→ie
+
+### 5-14. **Álvaro:** Eso suena exactamente a una amenaza, diga lo que diga.
+- **해석:** 당신이 뭐라고 하든, 그건 딱 위협으로 들리는군요.
+- **주요 단어:** `sonar a` ~처럼 들리다
+- **문법:** 접속법 반복 구문 "diga lo que diga" = "무슨 말을 하든"(양보). 같은 형태: pase lo que pase, sea como sea.
+- **시제:**
+  - `suena` → sonar | 직설법 현재 3인칭 단수 | 현재 판단 | 불규칙: o→ue
+  - `diga` (×2) → decir | 접속법 현재 3인칭 단수 (usted) | 양보의 관용 반복 구문이라 접속법 | 불규칙: digo → diga
+
+### 5-15. **Roselló:** Llámelo como prefiera.
+- **해석:** 원하시는 대로 부르시지요.
+- **주요 단어:** `llamar` (동사) 부르다, 칭하다
+- **문법:** usted 긍정명령 + lo(Llame + lo → Llámelo). como + 접속법(불특정 방식). 4-5 "Tómelo como quiera"와 같은 구조.
+- **시제:**
+  - `Llámelo` → llamar | 명령법 usted 긍정 (접속법 형태 llame) | 권유 | 규칙
+  - `prefiera` → preferir | 접속법 현재 3인칭 단수 | como 뒤 불특정 | 불규칙: e→ie
+
+### 5-16. **Roselló:** Yo prefiero pensarlo como información relevante para su toma de decisiones.
+- **해석:** 저는 그걸 당신의 의사결정에 필요한 유의미한 정보로 생각하고 싶습니다.
+- **주요 단어:** `relevante` (형용사) 관련 있는, 중요한 / `toma de decisiones` (명사구) 의사결정
+- **문법:** Yo 명시 = 상대(usted)와 대조 강조. pensar algo como ~ = ~로 여기다.
+- **시제:**
+  - `prefiero` → preferir | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `pensarlo` → pensar | 부정사 + lo | preferir 뒤 | 활용 시 e→ie
+
+### 5-17. **Álvaro:** Si algo le pasa a cualquiera de ellos, no habrá lugar en el mundo donde pueda esconderse de mí.
+- **해석:** 그들 중 누구에게라도 무슨 일이 생기면, 당신이 저에게서 숨을 수 있는 곳은 세상 어디에도 없을 겁니다.
+- **주요 단어:** `pasar` (동사) (일이) 일어나다 / `cualquiera` (대명사) 누구든 / `esconderse` (재귀동사) 숨다
+- **문법:** 실현 가능 조건문: si + 직설법 현재, 주절 미래(si 뒤에는 미래형·현재 접속법 불가). le ... a cualquiera: 간접목적어 중복. 부존재 선행사(no habrá lugar donde) → 접속법.
+- **시제:**
+  - `pasa` → pasar | 직설법 현재 3인칭 단수 | si 조건절에서 미래 사건을 현재형으로 | 규칙
+  - `habrá` → haber | 직설법 단순미래 무인칭 | 조건이 이뤄질 때의 확실한 결과(경고) | 불규칙 어간 habr-
+  - `pueda` → poder | 접속법 현재 3인칭 단수 | 존재하지 않는 장소를 수식 | 불규칙: o→ue
+  - `esconderse` → esconderse | 부정사 + se | poder 뒤 | 규칙
+
+### 5-18. **Roselló:** (Sonríe, sin perder la calma) Esa determinación es exactamente la razón por la que quería conocerlo en persona, señor Fuentes.
+- **해석:** (평정을 잃지 않고 미소 지으며) 바로 그 결단력 때문에 당신을 직접 만나 보고 싶었던 겁니다, 푸엔테스 씨.
+- **주요 단어:** `determinación` (명사 여성) 결단력 / `razón` (명사 여성) 이유 / `conocer` (동사) (사람을) 알게 되다, 만나다 / `en persona` 직접
+- **문법:** la razón por la que = 전치사 + 정관사 + que 관계사("~한 이유"). conocerlo: 사람 목적어 lo.
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `perder` → perder | 부정사 | sin 뒤 | 활용 시 e→ie
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 판단 | 불규칙
+  - `quería` → querer | 직설법 불완료과거 1인칭 단수 | 과거부터 지속된 바람(배경적 동기) | 불완료과거는 규칙형
+  - `conocerlo` → conocer | 부정사 + lo | querer 뒤 | 활용 시 conozco(-zco)
+  - 비교: quise conocerlo(단순과거)는 "(한 번) 만나려 했다/시도했다"의 완결 의미.
+
+### 5-19. **Álvaro:** ¿Y qué gana usted, con esta conversación, más allá de intentar asustarme?
+- **해석:** 그래서 저를 겁주려는 것 말고, 이 대화로 당신이 얻는 게 뭡니까?
+- **주요 단어:** `ganar` (동사) 얻다, 이익을 보다 / `más allá de` ~ 이상으로, ~ 외에 / `asustar` (동사) 겁주다
+- **문법:** 전치사구 más allá de + 부정사. asustarme: me 부착.
+- **시제:**
+  - `gana` → ganar | 직설법 현재 3인칭 단수 (usted) | 현재 상황 | 규칙
+  - `intentar` → intentar | 부정사 | 전치사 de 뒤 | 규칙
+  - `asustarme` → asustar | 부정사 + me | intentar 뒤 | 규칙
+
+### 5-20. **Roselló:** Quería que entendiera, con claridad, el tablero completo antes de seguir jugando.
+- **해석:** 게임을 계속하기 전에 판 전체를 확실히 이해하시길 바랐습니다.
+- **주요 단어:** `claridad` (명사 여성) 명확함 / `tablero` (명사 남성) (체스 등의) 판 / `jugar` (동사) 게임하다
+- **문법:** querer que + 접속법(의지, 주어가 다름). 주절이 과거(quería)라 종속절은 접속법 과거로 시제 일치. antes de + 부정사. seguir + 현재분사.
+- **표현:** "el tablero completo" — 체스판 비유로 판세 전체를 가리킴.
+- **시제:**
+  - `Quería` → querer | 직설법 불완료과거 1인칭 단수 | 과거의 의도 + 공손한 완곡 | 앞에서 설명
+  - `entendiera` → entender | 접속법 불완료과거 3인칭 단수 (usted) | 과거 주절의 희망 뒤 시제 일치 | 규칙형 접속법 과거(단순과거 entendieron → entendiera; e→ie는 현재에만)
+  - `seguir` → seguir | 부정사 | antes de 뒤 | 앞에서 설명
+  - `jugando` → jugar | 현재분사 | seguir + 현재분사 = 계속 ~하다 | 현재분사는 규칙형(juego의 u→ue는 현재 시제만)
+
+### 5-21. **Roselló:** Nada más.
+- **해석:** 그뿐입니다.
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 5-22. **Álvaro:** Ya lo entendía perfectamente antes de sentarme aquí.
+- **해석:** 여기 앉기 전부터 이미 완벽하게 알고 있었습니다.
+- **주요 단어:** `ya` (부사) 이미 / `sentarse` (재귀동사) 앉다
+- **문법:** lo = 앞의 "판 전체". antes de + 재귀동사 부정사(sentarme — 주어에 맞춰 me).
+- **시제:**
+  - `entendía` → entender | 직설법 불완료과거 1인칭 단수 | 과거 시점에 이미 지속되던 이해 상태 | 규칙
+  - `sentarme` → sentarse | 부정사 + me | antes de 뒤 | 활용 시 e→ie(me siento)
+  - 비교: entendí(단순과거)는 "(어느 순간) 이해했다"는 사건, entendía는 "알고 있던 상태".
+
+### 5-23. **Roselló:** Entonces, esta cena ha sido, como mínimo, una confirmación mutua.
+- **해석:** 그렇다면 이 저녁 식사는 적어도 서로를 확인하는 자리였던 셈이군요.
+- **주요 단어:** `como mínimo` 최소한 / `confirmación` (명사 여성) 확인 / `mutuo` (형용사) 상호의
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `ha sido` → ser | 직설법 현재완료 3인칭 단수 | 아직 진행 중인/방금의 "이 저녁"을 평가하므로 현재완료(스페인식 용법) | haber + 과거분사 sido
+  - `sido` → ser | 과거분사 | 완료형 요소 | 규칙형 과거분사
+
+<!-- END-SCENE-5 -->

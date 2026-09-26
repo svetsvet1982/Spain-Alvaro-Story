@@ -624,3 +624,186 @@
   - `va` → ir | 직설법 현재 3인칭 단수 (presente) | 현재 진행 상황 | 불규칙
   - `sale` → salir | 직설법 현재 3인칭 단수 (presente) | 확정된 미래 일정을 현재형으로 표현 | 1인칭만 불규칙(salgo)
 
+### 15-74. **Fabián:** Según lo previsto.
+- **해석:** 예정대로야.
+- **주요 단어:** `según` (전치사) ~에 따라 / `previsto` (과거분사 → 형용사) 예정된 (← prever)
+- **문법:** `lo + 과거분사` = 중성 명사화(예정된 것).
+- **표현:** `según lo previsto` = 계획대로.
+- **시제:**
+  - `previsto` → prever | 과거분사 (participio) | 형용사처럼 예정된 상태 | 불규칙 과거분사(ver → visto, prever → previsto)
+
+### 15-75. **Fabián:** Diego se encargó del papeleo en España sin ningún problema.
+- **해석:** 디에고가 스페인에서 서류 작업을 아무 문제 없이 처리했지.
+- **주요 단어:** `encargarse de` (재귀동사) ~을 맡다, 처리하다 / `el papeleo` (명사) 서류 작업 / `ningún` (형용사) 아무런
+- **문법:** `sin ningún + 명사` = 아무런 ~없이. ninguno는 남성 단수 명사 앞에서 ningún.
+- **시제:**
+  - `se encargó` → encargarse | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 과거에 완료된 일 | 규칙(1인칭 me encargué 철자 변화)
+
+### 15-76. **Ramón:** Buen trabajo, entonces.
+- **해석:** 그럼 잘했군.
+- **주요 단어:** `bueno` → 남성 단수 명사 앞 `buen` / `el trabajo` 일
+- **문법:** bueno의 어미 탈락(apócope).
+- **시제:** 동사 없음
+
+### 15-77. **Ramón:** Aunque espero que el próximo envío sea más discreto que el anterior; hubo movimiento inusual en el puerto que casi nos complica las cosas.
+- **해석:** 그래도 다음 선적은 지난번보다 더 조용했으면 하네. 항구에 이상한 움직임이 있어서 하마터면 일이 꼬일 뻔했어.
+- **주요 단어:** `discreto` (형용사) 눈에 띄지 않는, 조심스러운 / `anterior` (형용사) 이전의 / `inusual` (형용사) 이례적인 / `complicar` (동사) 복잡하게 만들다
+- **문법:** esperar que + 접속법. 비교급 más ... que. `casi + 직설법 현재`로 "하마터면 ~할 뻔했다"(과거 사건인데 현재형 사용 — 구어 관용).
+- **표현:** `casi nos complica las cosas` — 과거의 아슬아슬한 상황을 현재형으로 생생하게 표현하는 구어체.
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 (presente) | 현재의 바람 | 규칙
+  - `sea` → ser | 접속법 현재 3인칭 단수 (presente de subjuntivo) | 희망 동사 뒤 | 불규칙
+  - `hubo` → haber | 직설법 단순과거 무인칭 (pretérito indefinido) | 과거 특정 사건 | 불규칙
+  - `complica` → complicar | 직설법 현재 3인칭 단수 (presente) | casi와 함께 과거의 "~할 뻔함"을 나타내는 역사적 현재 | 규칙
+  - 비교: "casi nos complicó"(단순과거)도 가능하지만, casi + 현재가 더 구어적이고 생생함.
+
+### 15-78. **Doyle:** Coincido.
+- **해석:** 동감이오.
+- **주요 단어:** `coincidir` (동사) 의견이 일치하다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Coincido` → coincidir | 직설법 현재 1인칭 단수 (presente) | 현재 의견 | 규칙
+
+### 15-79. **Doyle:** Si seguimos llamando la atención, tarde o temprano alguien de mi lado empezará a hacer preguntas incómodas.
+- **해석:** 계속 이목을 끌면, 조만간 우리 쪽 누군가가 곤란한 질문을 하기 시작할 거요.
+- **주요 단어:** `seguir + 현재분사` 계속 ~하다 / `llamar la atención` 이목을 끌다 / `tarde o temprano` 조만간 / `incómodo` (형용사) 불편한, 곤란한
+- **문법:** si + 직설법 현재 → 주절 직설법 미래(실현 가능한 조건). seguir + 현재분사(계속).
+- **시제:**
+  - `seguimos` → seguir | 직설법 현재 1인칭 복수 (presente) | 조건절(현실 조건) | e→i (1복수는 변화 없음)
+  - `llamando` → llamar | 현재분사 (gerundio) | seguir와 결합해 계속 | 규칙
+  - `empezará` → empezar | 직설법 단순미래 3인칭 단수 (futuro simple) | 조건의 결과로 예측되는 미래 | 규칙
+  - `hacer` → hacer | 부정사 | empezar a 뒤
+
+### 15-80. **Fabián:** Tomaremos precauciones.
+- **해석:** 대비책을 세우지.
+- **주요 단어:** `tomar precauciones` (동사구) 예방 조치를 취하다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Tomaremos` → tomar | 직설법 단순미래 1인칭 복수 (futuro simple) | 약속·결의를 담은 미래 | 규칙
+
+### 15-81. **Fabián:** Diego, apunta esto: para el próximo envío, quiero que cambiemos la ruta habitual.
+- **해석:** 디에고, 이거 적어 둬. 다음 선적 때는 평소 경로를 바꿨으면 해.
+- **주요 단어:** `apuntar` (동사) 메모하다 / `cambiar` (동사) 바꾸다 / `la ruta` (명사) 경로 / `habitual` (형용사) 평소의
+- **문법:** tú 명령. querer que + 접속법(주어가 yo vs nosotros로 다름).
+- **시제:**
+  - `apunta` → apuntar | 명령법 2인칭 단수(tú) (imperativo) | 지시 | 규칙
+  - `quiero` → querer | 직설법 현재 1인칭 단수 (presente) | 현재 바람 | e→ie
+  - `cambiemos` → cambiar | 접속법 현재 1인칭 복수 (presente de subjuntivo) | querer que 뒤라 접속법 | 규칙
+
+### 15-82. **Álvaro:** Por supuesto.
+- **해석:** 물론입니다.
+- **주요 단어:** `por supuesto` (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 15-83. **Álvaro:** ¿Alguna sugerencia sobre la nueva ruta?
+- **해석:** 새 경로에 대해 뭔가 제안이 있으신가요?
+- **주요 단어:** `alguno` → `alguna` (형용사) 어떤 / `la sugerencia` (명사) 제안 / `sobre` (전치사) ~에 대해
+- **문법:** "(¿Hay/Tienes) alguna sugerencia...?"의 동사 생략.
+- **표현:** 정보를 더 캐내려는 질문.
+- **시제:** 동사 없음
+
+### 15-84. **Ramón:** Eso mejor lo discutimos en privado, no aquí en la mesa.
+- **해석:** 그건 식탁 말고 따로 얘기하는 게 낫겠어.
+- **주요 단어:** `mejor` (부사) ~하는 게 낫다 / `discutir` (동사) 논의하다 / `en privado` 사적으로, 따로
+- **문법:** 목적어 eso를 앞으로 빼고 대명사 lo로 다시 받는 구조(목적어 전치 + 중복).
+- **표현:** `mejor + 직설법 현재` — "~하는 게 낫겠다"는 구어식 제안.
+- **시제:**
+  - `discutimos` → discutir | 직설법 현재 1인칭 복수 (presente) | 가까운 미래·제안을 현재형으로 | 규칙
+
+### 15-85. **Ramón:** Hay cosas que ni siquiera Diego necesita saber todavía.
+- **해석:** 디에고조차 아직 알 필요가 없는 것들이 있어.
+- **주요 단어:** `ni siquiera` ~조차 않다 / `necesitar` (동사) 필요하다 / `todavía` (부사) 아직
+- **문법:** 관계사 que. 실재하는 선행사(cosas)라 직설법.
+- **표현:** 알바로를 은근히 경계하는 말.
+- **시제:**
+  - `Hay` → haber | 직설법 현재 무인칭 (presente) | 존재 | 불규칙
+  - `necesita` → necesitar | 직설법 현재 3인칭 단수 (presente) | 현재 상황 | 규칙
+  - `saber` → saber | 부정사 | necesitar 뒤
+
+### 15-86. **Fabián:** Tiene razón.
+- **해석:** 그의 말이 맞아.
+- **주요 단어:** `tener razón` (관용구) 옳다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Tiene` → tener | 직설법 현재 3인칭 단수 (presente) | 현재 판단 | 불규칙
+
+### 15-87. **Fabián:** Ya llegará el momento.
+- **해석:** 때가 되면 알게 될 거야.
+- **주요 단어:** `llegar` 도착하다, (때가) 오다 / `el momento` 때
+- **문법:** 주어 도치(동사 + 주어).
+- **표현:** `ya + 미래` = "언젠가는 ~할 것이다"(서두르지 말라는 뉘앙스).
+- **시제:**
+  - `llegará` → llegar | 직설법 단순미래 3인칭 단수 (futuro simple) | 막연하지만 확실한 미래 | 규칙
+
+### 15-88. **Álvaro:** Entiendo perfectamente.
+- **해석:** 충분히 이해합니다.
+- **주요 단어:** `perfectamente` (부사) 완벽히
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Entiendo` → entender | 앞에서 설명
+
+### 15-89. **Álvaro:** No hace falta que me lo expliquen todo de golpe.
+- **해석:** 한꺼번에 다 설명해 주실 필요는 없어요.
+- **주요 단어:** `hacer falta` 필요하다 / `explicar` (동사) 설명하다 / `de golpe` (부사구) 한꺼번에, 갑자기
+- **문법:** `no hace falta que` + 접속법(필요·불필요 표현 뒤, 주어가 다름). 이중 대명사 me(간접) + lo(직접), todo로 lo를 보강.
+- **시제:**
+  - `hace (falta)` → hacer | 직설법 현재 3인칭 단수 (presente) | 현재 판단 | 불규칙
+  - `expliquen` → explicar | 접속법 현재 3인칭 복수(ustedes) (presente de subjuntivo) | hacer falta que 뒤라 접속법 | 철자 변화 c→qu
+
+### 15-90. **Doyle:** Me gusta este chico, Fabián.
+- **해석:** 이 친구 마음에 드는군, 파비안.
+- **주요 단어:** `gustar` (동사) 마음에 들다 / `el chico` (명사) 청년, 녀석
+- **문법:** gustar 구문: 주어는 este chico, me는 간접목적어.
+- **시제:**
+  - `gusta` → gustar | 직설법 현재 3인칭 단수 (presente) | 현재의 감정 | 규칙
+
+### 15-91. **Doyle:** Sabe cuándo callarse.
+- **해석:** 언제 입을 다물어야 하는지 알거든.
+- **주요 단어:** `saber` 알다 / `callarse` (재귀동사) 입을 다물다
+- **문법:** `saber + 의문사 + 부정사` (cuándo callarse). 부정사에 재귀 대명사 결합.
+- **시제:**
+  - `Sabe` → saber | 직설법 현재 3인칭 단수 (presente) | 성질·능력 | 불규칙(1인칭 sé)
+  - `callarse` → callarse | 부정사 | 의문사 + 부정사
+
+### 15-92. **Fabián:** Por eso lo traje.
+- **해석:** 그래서 데려온 거지.
+- **주요 단어:** `traer` (동사) 데려오다
+- **문법:** lo = 디에고(직접목적어).
+- **시제:**
+  - `traje` → traer | 직설법 단순과거 1인칭 단수 (pretérito indefinido) | 과거의 완료된 행위 | 불규칙(traj-: traje, trajiste, trajo)
+
+### 15-93. **Wilson:** Bueno, ¡brindemos de nuevo y disfrutemos de la cena!
+- **해석:** 자, 다시 건배하고 저녁을 즐깁시다!
+- **주요 단어:** `brindar` (동사) 건배하다 / `de nuevo` 다시 / `disfrutar de` (동사) ~을 즐기다
+- **문법:** nosotros 청유형 명령 두 개.
+- **시제:**
+  - `brindemos` → brindar | 명령법 1인칭 복수(nosotros) (접속법 현재 형태) | "~하자" 청유 | 규칙
+  - `disfrutemos` → disfrutar | 명령법 1인칭 복수(nosotros) (접속법 현재 형태) | 청유 | 규칙
+
+### 15-94. **Wilson:** Ya habrá tiempo para hablar de rutas y envíos mañana.
+- **해석:** 경로나 선적 얘기는 내일 할 시간이 있을 거예요.
+- **주요 단어:** `el tiempo` 시간 / `la ruta` 경로 / `el envío` 선적
+- **문법:** 무인칭 haber의 미래 habrá. para + 부정사.
+- **표현:** `ya + 미래` 앞에서 설명 ("나중에 얼마든지").
+- **시제:**
+  - `habrá` → haber | 직설법 단순미래 3인칭 단수 무인칭 (futuro simple) | 미래의 존재 | 불규칙 어간 habr-
+  - `hablar` → hablar | 부정사 | para 뒤
+
+### 15-95. **Álvaro:** (Piensa para sí, manteniendo la sonrisa) Necesito recordar cada nombre, cada detalle.
+- **해석:** (미소를 유지한 채 속으로 생각한다) 이름 하나하나, 세부 사항 하나하나를 기억해야 해.
+- **주요 단어:** `pensar para sí` 속으로 생각하다 / `la sonrisa` (명사) 미소 / `recordar` (동사) 기억하다 / `cada` (형용사) 각각의 / `el detalle` 세부 사항
+- **문법:** necesitar + 부정사. cada는 성·수 불변.
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 (presente) | 지문 묘사 | e→ie
+  - `manteniendo` → mantener | 현재분사 | 앞에서 설명
+  - `Necesito` → necesitar | 직설법 현재 1인칭 단수 (presente) | 현재의 필요 | 규칙
+  - `recordar` → recordar | 부정사 | necesitar 뒤 (활용 시 o→ue)
+
+### 15-96. **Álvaro:** Carlos tiene que saber esto cuanto antes.
+- **해석:** 카를로스가 이걸 최대한 빨리 알아야 해.
+- **주요 단어:** `tener que` ~해야 하다 / `cuanto antes` 앞에서 설명
+- **문법:** 의무 tener que + 부정사.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 (presente) | 현재의 필요성 | 불규칙
+  - `saber` → saber | 부정사 | tener que 뒤

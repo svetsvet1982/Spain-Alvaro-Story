@@ -519,3 +519,141 @@
   - `Necesito` → necesitar | 직설법 현재 | 앞에서 설명
   - `sepa` → saber | 접속법 현재, 3인칭 단수 | necesitar que 뒤라 접속법 | 불규칙 (sepa, sepas...)
   - `estoy metiéndome` → meterse | 현재진행형 (estar 직설법 현재 1인칭 단수 + 현재분사) | 지금 막 진행되는 상황 | 규칙
+
+### 1-59. **Carlos:** Cuantas menos personas lo sepan, mejor.
+- **해석:** 아는 사람이 적을수록 좋아.
+- **주요 단어:** `cuanto` (형용사/부사) ~할수록 / `menos` (부사) 더 적게 / `persona` (명사, 여성) 사람 / `mejor` (형용사/부사) 더 좋은
+- **문법:** "cuanto(s/a/as) más/menos ..., más/menos/mejor ..." = ~할수록 ~하다. cuantas는 personas(여성 복수)에 일치. 불확정한 일반적 조건이라 접속법.
+- **표현:** "Cuanto antes, mejor" = 빠를수록 좋다 (같은 구조의 흔한 표현).
+- **시제:**
+  - `sepan` → saber | 접속법 현재, 3인칭 복수 | cuanto 구문에서 아직 정해지지 않은 미래·가정적 상황이라 접속법 | 불규칙 (sepa-)
+
+### 1-60. **Carlos:** Pero si confías tanto en él, podrías contárselo con mucha discreción.
+- **해석:** 하지만 그 친구를 그렇게 믿는다면, 아주 조심스럽게 말해 줄 수는 있겠지.
+- **주요 단어:** `confiar en` ~을 믿다 / `tanto` (부사) 그만큼 / `contar` (동사) 이야기하다 / `discreción` (명사, 여성) 신중함, 비밀 유지
+- **문법:** 간접목적대명사 le가 직접목적대명사 lo 앞에서 se로 바뀜 (le lo → se lo). 대명사 두 개가 붙어 강세 부호 추가(contárselo).
+- **표현:** "con discreción" = 조심스럽게, 비밀리에.
+- **시제:**
+  - `confías` → confiar | 직설법 현재, 2인칭 단수 | 실제 사실로 전제한 조건 (si + 현재) | 강세 부호 í (confío, confías...)
+  - `podrías` → poder | 조건법 단순, 2인칭 단수 | 부드러운 제안·가능성 | 불규칙 어간 podr-
+  - `contárselo` → contar | 부정사 + se + lo | poder 뒤 부정사
+
+### 1-61. **Álvaro:** De acuerdo.
+- **해석:** 알겠어.
+- **주요 단어:** `de acuerdo` 동의하는, 좋아
+- **문법:** 특이사항 없음
+- **표현:** "De acuerdo" = 좋아, 알았어. 스페인 구어로는 "Vale"도 흔함.
+- **시제:**
+  - 동사 없음
+
+### 1-62. **Álvaro:** Dame un par de días para decidirme.
+- **해석:** 결정할 수 있게 며칠만 줘.
+- **주요 단어:** `dar` (동사) 주다 / `un par de` 두어 개의, 몇몇 / `día` (명사, 남성) 날 / `decidirse` (재귀동사) 결심하다
+- **문법:** 긍정 명령 + 대명사 부착(dame, 1음절이라 강세 부호 없음). para + 부정사 = ~하기 위해. 재귀 decidirse는 '마음을 정하다'.
+- **표현:** "un par de días" = 이틀쯤, 며칠.
+- **시제:**
+  - `Dame` → dar | 긍정 명령법, tú | 요청 | 불규칙 동사지만 명령형 da는 규칙적
+  - `decidirme` → decidirse | 부정사 (재귀) | para 뒤 부정사
+  - 비교: decidir(무엇을 결정하다) vs decidirse(망설이다가 결심하다)
+
+### 1-63. **Carlos:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` (형용사) 완벽한
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 1-64. **Carlos:** Si decides seguir adelante, te llamaré para explicarte los primeros pasos.
+- **해석:** 계속하기로 결정하면, 첫 단계들을 설명해 주러 전화할게.
+- **주요 단어:** `decidir` (동사) 결정하다 / `seguir adelante` 계속 진행하다 / `llamar` (동사) 전화하다 / `explicar` (동사) 설명하다 / `paso` (명사) 단계, 걸음
+- **문법:** "si + 직설법 현재, 직설법 미래". decidir + 부정사. 대명사 te가 부정사 뒤에 붙음(explicarte).
+- **표현:** "seguir adelante" = (계획을) 밀고 나가다. "los primeros pasos" = 첫 단계.
+- **시제:**
+  - `decides` → decidir | 직설법 현재, 2인칭 단수 | 실현 가능한 조건 | 규칙
+  - `seguir` → seguir | 부정사 | decidir 뒤
+  - `llamaré` → llamar | 직설법 미래, 1인칭 단수 | 조건 성립 시의 약속 | 규칙
+  - `explicarte` → explicar | 부정사 + te | para 뒤 부정사
+
+### 1-65. **Álvaro:** Carlos, he estado dándole vueltas toda la semana y he decidido hacerlo.
+- **해석:** 카를로스, 일주일 내내 곰곰이 생각했는데, 하기로 했어.
+- **주요 단어:** `dar vueltas a algo` ~을 곰곰이 생각하다 / `semana` (명사, 여성) 주 / `decidir` (동사) 결정하다
+- **문법:** 현재완료진행형 "haber + estado + 현재분사". le는 생각의 대상(그 제안)을 가리키는 간접목적대명사; 현재분사에 붙어 강세 부호(dándole).
+- **표현:** "darle vueltas (a algo)" = (어떤 일을) 이리저리 고민하다 (스페인에서 매우 흔한 관용구).
+- **시제:**
+  - `he estado dándole` → dar | 직설법 현재완료진행 (haber 현재 + estado + 현재분사) | 이번 주(아직 끝나지 않은 기간) 내내 지금까지 계속된 행동 | estar 과거분사 estado 규칙, dar 현재분사 dando 규칙
+  - `he decidido` → decidir | 직설법 현재완료, 1인칭 단수 | 방금 내린, 현재와 연결된 결정 | 규칙
+  - `hacerlo` → hacer | 부정사 + lo | decidir 뒤 부정사
+  - 비교: "estuve dándole vueltas"(단순과거) = 끝난 과거 기간, "he estado" = 지금까지 이어진 기간
+
+### 1-66. **Carlos:** Me alegra oír eso, aunque también me preocupa un poco.
+- **해석:** 그 말을 들으니 기쁘긴 한데, 한편으론 좀 걱정도 돼.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `oír` (동사) 듣다 / `aunque` (접속사) ~이지만 / `también` (부사) 또한 / `preocupar` (동사) 걱정시키다
+- **문법:** alegrar, preocupar는 gustar형 동사(간접목적어 me = 느끼는 사람, 주어 = 원인). 주어가 부정사 oír eso. aunque + 직설법(사실).
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재, 3인칭 단수 | 지금의 감정 | 규칙
+  - `oír` → oír | 부정사 (alegra의 주어) | 명사적 용법
+  - `preocupa` → preocupar | 직설법 현재, 3인칭 단수 | 지금의 감정 (주어는 생략된 '그것') | 규칙
+
+### 1-67. **Álvaro:** Si no lo intento, siempre me preguntaré qué habría pasado.
+- **해석:** 시도하지 않으면, 어떻게 됐을지 평생 궁금해할 거야.
+- **주요 단어:** `intentar` (동사) 시도하다 / `preguntarse` (재귀동사) 궁금해하다, 자문하다 / `pasar` (동사) 일어나다
+- **문법:** "si + 직설법 현재, 직설법 미래". 간접의문문 qué 안에서 조건완료 사용.
+- **표현:** "preguntarse qué habría pasado si..." = ~했다면 어땠을까 하고 생각하다.
+- **시제:**
+  - `intento` → intentar | 직설법 현재, 1인칭 단수 | 실현 가능한 조건 | 규칙
+  - `me preguntaré` → preguntarse | 직설법 미래, 1인칭 단수 | 조건의 미래 결과 | 규칙
+  - `habría pasado` → pasar | 조건완료 condicional compuesto, 3인칭 단수 | 실제로 일어나지 않은(시도하지 않은) 일의 가상 결과 | haber 불규칙 어간 habr-, 과거분사 pasado 규칙
+
+### 1-68. **Álvaro:** Y además, la historia es demasiado importante para dejarla pasar.
+- **해석:** 게다가 이 이야기는 그냥 흘려보내기엔 너무 중요해.
+- **주요 단어:** `además` (부사) 게다가 / `historia` (명사, 여성) 이야기, 기사거리 / `demasiado` (부사) 너무 / `importante` (형용사) 중요한 / `dejar pasar` 놓치다, 흘려보내다
+- **문법:** "demasiado + 형용사 + para + 부정사" = ~하기에는 너무 ~하다. la(= historia)가 부정사 뒤에 붙음.
+- **표현:** "dejar pasar una oportunidad" = 기회를 놓치다.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재 판단 | 불규칙
+  - `dejarla` → dejar | 부정사 + la | para 뒤 부정사
+  - `pasar` → pasar | 부정사 | dejar + 부정사(사역: ~하게 두다)
+
+### 1-69. **Carlos:** Así me gusta.
+- **해석:** 그래야지. (그런 태도 좋아.)
+- **주요 단어:** `así` (부사) 그렇게 / `gustar` (동사) 마음에 들다
+- **문법:** gustar형 동사 (me = 좋아하는 사람).
+- **표현:** "¡Así me gusta!" = 좋아, 그래야지 (상대의 태도를 칭찬하는 구어 표현).
+- **시제:**
+  - `gusta` → gustar | 직설법 현재, 3인칭 단수 | 현재의 감정 | 규칙
+
+### 1-70. **Carlos:** Empezaremos por prepararte una identidad sólida y un par de contactos iniciales en Cádiz.
+- **해석:** 먼저 탄탄한 신분이랑 카디스에서의 초기 연락책 몇 명을 준비하는 것부터 시작할 거야.
+- **주요 단어:** `empezar por` ~부터 시작하다 / `preparar` (동사) 준비하다 / `sólido` (형용사) 탄탄한 / `contacto` (명사) 연락책, 접촉 / `inicial` (형용사) 초기의 / `Cádiz` 카디스(안달루시아의 항구 도시)
+- **문법:** "empezar por + 부정사" = ~하는 것부터 시작하다. te(너를 위해)가 부정사 뒤에 붙음.
+- **시제:**
+  - `Empezaremos` → empezar | 직설법 미래, 1인칭 복수 | 이제 확정된 앞으로의 계획 | 규칙 미래형 (현재형은 e→ie 불규칙)
+  - `prepararte` → preparar | 부정사 + te | por 뒤 부정사
+  - 비교: 앞의 "crearíamos"(조건법, 수락 전) → 여기서는 미래형(수락 후 확정된 계획)으로 바뀐 점에 주목
+
+### 1-71. **Álvaro:** ¿Cádiz?
+- **해석:** 카디스?
+- **주요 단어:** `Cádiz` (고유명사) 카디스
+- **문법:** 특이사항 없음 (놀라서 되묻는 반복 의문)
+- **시제:**
+  - 동사 없음
+
+### 1-72. **Álvaro:** Pensaba que la red operaba más al sur, cerca del Estrecho.
+- **해석:** 난 그 조직이 더 남쪽, 해협 근처에서 활동하는 줄 알았는데.
+- **주요 단어:** `pensar` (동사) 생각하다 / `operar` (동사) 활동하다 / `sur` (명사) 남쪽 / `cerca de` ~근처에 / `el Estrecho` 지브롤터 해협
+- **문법:** 주절이 과거(pensaba)이므로 que절도 과거(operaba)로 시제 일치. al sur = a + el sur.
+- **표현:** 스페인에서 "el Estrecho"라고 하면 보통 지브롤터 해협(Estrecho de Gibraltar)을 뜻함.
+- **시제:**
+  - `Pensaba` → pensar | 직설법 불완료과거, 1인칭 단수 | 지금 정정되는 '이전까지의 생각' (~인 줄 알았는데) | 불완료과거는 규칙 (현재형만 e→ie)
+  - `operaba` → operar | 직설법 불완료과거, 3인칭 단수 | 과거 주절에 맞춘 시제 일치; 지속적 활동 묘사 | 규칙
+  - 비교: "pensé que..."(단순과거) = 그 순간 그렇게 생각했다 / "pensaba que..." = 계속 그렇게 알고 있었다
+
+### 1-73. **Carlos:** Ahí es donde entran las armas, pero el punto de contacto con los colombianos está en el puerto de Cádiz.
+- **해석:** 무기가 들어오는 곳은 거기가 맞는데, 콜롬비아인들과의 접선 지점은 카디스 항구에 있어.
+- **주요 단어:** `ahí` (부사) 거기 / `donde` (관계부사) ~하는 곳 / `entrar` (동사) 들어오다 / `punto de contacto` 접선 지점 / `colombiano` (명사) 콜롬비아인 / `puerto` (명사) 항구
+- **문법:** 강조 구문 "Ahí es donde ..." = 바로 거기가 ~하는 곳이다. 위치를 나타낼 때 estar (está en el puerto).
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 강조 구문의 ser | 불규칙
+  - `entran` → entrar | 직설법 현재, 3인칭 복수 | 현재 반복되는 사실 | 규칙
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 위치 표현은 estar | 불규칙
+  - 비교: 위치(장소)는 estar, 단 사건의 발생 장소는 ser ("La reunión es en Cádiz")

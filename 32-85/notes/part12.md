@@ -337,7 +337,7 @@
 ### 18-40. **Wilson:** Se lo agradecerá toda la vida.
 - **해석:** 평생 고마워하실 거예요.
 - **주요 단어:** `agradecer` (동사) 감사하다 / `toda la vida` 평생
-- **문법:** `agradecer algo a alguien` = ~에게 ~을 감사하다. `se lo`: 간접목적어 `le`가 `lo` 앞에서 `se`로 바뀐 형태(le lo → se lo). `se` = 그 가게(혹은 추천해 준 사람)에게, `lo` = 그것(맛있는 경험). 주어는 usted. ("저한테 고마워할 거예요"를 직접 말하려면 `Me lo agradecerá`)
+- **문법:** `agradecer algo a alguien` = ~에게 ~을 감사하다. `se lo`: 간접목적어 `le`가 `lo` 앞에서 `se`로 바뀐 형태(le lo → se lo). `se` = 그 가게(요리사들)에게, `lo` = 그것(맛있는 경험). 주어는 usted. ("저한테 고마워할 거예요"를 직접 말하려면 `Me lo agradecerá`)
 - **표현:** `Se lo agradecerá toda la vida` = "평생 고마워할 거예요"라는 과장된 추천 표현.
 - **시제:**
   - `agradecerá` → agradecer | 직설법 단순미래 (futuro simple), 3인칭 단수(usted) | 그곳에 간 뒤의 미래 결과를 확신 있게 예측하므로 단순미래. 규칙형 미래(agradecer + á) (현재형 agradezco의 -zc- 불규칙은 1인칭 현재에만)
@@ -426,3 +426,142 @@
   - `Ríe` (지문) → reír | 직설법 현재, 3인칭 단수 | 앞에서 설명
   - `Disculpen` → disculpar | 명령법 (imperativo), ustedes형 (= 접속법 현재 형태) | 여러 명에게 공손히 양해를 구하므로 ustedes 명령. 규칙형
   - `es` → ser | 직설법 현재, 3인칭 단수 | 습관이라는 성질. 불규칙
+
+### 18-51. **Álvaro:** Me gusta conocer bien a la gente con la que trabajo.
+- **해석:** 함께 일하는 사람들을 잘 알아두는 걸 좋아하거든요.
+- **주요 단어:** `conocer` (동사) 알다(사람·장소를 겪어서 알다) / `gente` (명사, 여성, 단수 집합명사) 사람들 / `trabajar` (동사) 일하다
+- **문법:** `gustar` 구문(부정사 주어 → gusta). 사람 목적어 앞 전치사 `a`(a la gente, 인칭의 a). 관계사 `con la que` = 전치사 + 정관사 + que (선행사 la gente에 성·수 일치). `conocer`(사람을 알다) vs `saber`(정보를 알다).
+- **표현:** 표면적으로는 사교적 말이지만, 실제로는 정보 수집 목적을 감추는 이중적 대사.
+- **시제:**
+  - `gusta` → gustar | 직설법 현재, 3인칭 단수 | 일반적 취향. 규칙형
+  - `conocer` → conocer | 부정사 | gustar의 주어
+  - `trabajo` → trabajar | 직설법 현재, 1인칭 단수 | 현재 함께 일하는 사람들(실제 존재하는 선행사)이라 관계절에 직설법. 규칙형
+
+### 18-52. **Fabián:** Me parece bien, la verdad.
+- **해석:** 사실 좋은 태도라고 생각하네.
+- **주요 단어:** `parecer` (동사) ~라고 생각되다
+- **문법:** `parecer` 구문: `me parece bien` = 내게는 좋아 보인다(gustar와 같은 간접목적어 구조).
+- **표현:** `Me parece bien` = "괜찮다고 봐, 좋아". `la verdad` 앞에서 설명.
+- **시제:**
+  - `parece` → parecer | 직설법 현재, 3인칭 단수 | 현재의 의견. 앞에서 설명
+
+### 18-53. **Fabián:** Es mejor saber con quién se está sentado a la mesa.
+- **해석:** 식탁에 누구와 앉아 있는지 아는 편이 낫지.
+- **주요 단어:** `mejor` (형용사·부사) 더 나은 / `saber` (동사) 알다 / `quién` (의문대명사) 누구 / `sentado` (sentar의 과거분사) 앉은 / `mesa` 앞에서 설명
+- **문법:** `Es mejor + 부정사` = "~하는 것이 낫다"(부정사 주어). `con quién` = 간접의문문(강세 있는 quién). `se está sentado` = 무인칭 se + estar + 과거분사("사람이 앉아 있다") — 앉은 상태이므로 estar.
+- **표현:** `sentarse a la mesa` = 식탁에 앉다. 비유적으로 "누구와 한배를 탔는지 알아야 한다"는 경고의 뉘앙스.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 일반적 판단. 불규칙
+  - `saber` → saber | 부정사 | es mejor의 주어
+  - `está` (se está) → estar | 직설법 현재, 3인칭 단수(무인칭) | 현재 상태. 불규칙
+  - `sentado` → sentar | 과거분사 (participio) | estar와 함께 동작의 결과 상태를 나타냄. 규칙형 (estar sentado = 앉아 있다 / sentarse = 앉다(동작))
+
+### 18-54. **Ramón:** Estoy de acuerdo.
+- **해석:** 동의합니다.
+- **주요 단어:** `de acuerdo` 동의하는
+- **문법:** `estar de acuerdo` = 의견 상태라 estar.
+- **표현:** 동의를 나타내는 기본 표현.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재, 1인칭 단수 | 현재 의견. 불규칙(1인칭 estoy)
+
+### 18-55. **Ramón:** Además, así se hacen las cosas cuando hay confianza real.
+- **해석:** 게다가 진짜 신뢰가 있을 때 일은 그렇게 하는 거죠.
+- **주요 단어:** `además` (부사) 게다가 / `así` (부사) 그렇게 / `cosa` (명사, 여성) 일, 것 / `haber` (동사) 있다 / `confianza` (명사, 여성) 신뢰 / `real` (형용사) 진짜의
+- **문법:** 수동의 `se` (pasiva refleja): `se hacen las cosas` = 일들이 행해진다(주어 las cosas에 맞춰 복수 hacen). `hay` = haber의 무인칭 존재 표현. `cuando + 직설법` = 일반적 조건.
+- **표현:** `así se hacen las cosas` = "원래 일은 그렇게 하는 법이다".
+- **시제:**
+  - `hacen` (se hacen) → hacer | 직설법 현재, 3인칭 복수 | 일반적 진리. 3인칭 복수는 규칙적 형태
+  - `hay` → haber | 직설법 현재, 무인칭 3인칭 단수 | 일반적 상황의 존재. 불규칙(존재 표현 hay)
+
+### 18-56. **Doyle:** A mí no me molesta hablar de mi vida.
+- **해석:** 나는 내 삶 얘기하는 거 싫지 않아요.
+- **주요 단어:** `molestar` (동사) 귀찮게 하다, 거슬리다 / `hablar de` ~에 대해 말하다
+- **문법:** `molestar`는 gustar형 동사: 부정사 `hablar`가 주어, `me`가 간접목적어. `A mí`는 강조를 위한 중복.
+- **표현:** `A mí no me molesta` = "저는 괜찮아요, 개의치 않아요".
+- **시제:**
+  - `molesta` → molestar | 직설법 현재, 3인칭 단수 | 일반적 태도. 규칙형
+  - `hablar` → hablar | 부정사 | molestar의 주어
+
+### 18-57. **Doyle:** Lo difícil es que alguien quiera escucharla.
+- **해석:** 어려운 건 누군가 그걸 들어주려 하는 거죠.
+- **주요 단어:** `difícil` (형용사) 어려운 / `alguien` (부정대명사) 누군가 / `querer` (동사) 원하다 / `escuchar` (동사) 듣다, 귀 기울이다
+- **문법:** `lo + 형용사` = "~한 것"(중성 명사화). `Lo difícil es que + 접속법` = 가치 판단·가능성의 명사절이라 접속법. 직접목적격 `la`(= mi vida)가 부정사 뒤에 붙음(escucharla).
+- **표현:** 자조적인 유머. `oír`(들리다) vs `escuchar`(귀 기울여 듣다).
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 일반적 판단. 불규칙
+  - `quiera` → querer | 접속법 현재 (presente de subjuntivo), 3인칭 단수 | "어려운 것은 ~하는 것"이라는 가치 판단 구문의 que절이며 실현이 불확실하므로 접속법. 불규칙(e → ie: quiera)
+  - `escuchar` (escucharla) → escuchar | 부정사 | querer 뒤 부정사
+
+### 18-58. **Álvaro:** (Sonríe) Pues yo he escuchado con gusto.
+- **해석:** (미소 지으며) 저는 즐겁게 들었는걸요.
+- **주요 단어:** `sonreír` (동사) 미소 짓다 / `pues` (접속사) 그럼, 글쎄 / `con gusto` 기꺼이, 즐겁게
+- **문법:** 주어 `yo`를 명시해 앞 말(누가 들어주겠냐)과 대조·강조.
+- **표현:** 문두 `Pues` = 앞 말에 반응하는 구어적 "음, 그래도". `con gusto` = 기꺼이.
+- **시제:**
+  - `Sonríe` (지문) → sonreír | 직설법 현재, 3인칭 단수 | 지문 묘사. 불규칙(e → í: sonríe, reír와 동일 패턴)
+  - `he escuchado` → escuchar | 직설법 현재완료 (pretérito perfecto compuesto), 1인칭 단수 | 방금 이 자리에서 들은 일, 현재와 연결된 오늘의 행위라 현재완료(스페인식 용법). 규칙형 과거분사 (단순과거 escuché는 끝난 과거 시점과 단절된 느낌)
+
+### 18-59. **Álvaro:** Gracias a todos por compartir.
+- **해석:** 모두 이야기해 주셔서 감사합니다.
+- **주요 단어:** `gracias` (명사, 여성 복수) 감사 / `todos` (대명사) 모두 / `compartir` (동사) 공유하다, 나누다
+- **문법:** `Gracias a + 사람 + por + 부정사/명사` = ~에게 ~에 대해 감사하다. 전치사 `por` 뒤 부정사.
+- **표현:** `gracias por compartir` = "나눠 주셔서 고맙습니다".
+- **시제:**
+  - `compartir` → compartir | 부정사 | 전치사 por 뒤. 규칙형
+
+### 18-60. **Wilson:** Bueno, ¿otro café antes de que sigamos con lo nuestro?
+- **해석:** 자, 우리 본론 이어가기 전에 커피 한 잔 더 할까요?
+- **주요 단어:** `bueno` (감탄사) 자, 그럼 / `otro` (형용사) 또 하나의 / `antes de que` ~하기 전에 / `seguir con` ~을 계속하다 / `lo nuestro` 우리 일
+- **문법:** `antes de que + 접속법` = 항상 접속법(아직 일어나지 않은 일). `otro café` = 부정관사 없이 otro 사용(un otro ×). `lo nuestro` = 중성 lo + 소유대명사 "우리의 일".
+- **표현:** 문두 `Bueno` = 화제 전환. `lo nuestro` = 거래라는 본론을 넌지시 가리킴.
+- **시제:**
+  - `sigamos` → seguir | 접속법 현재 (presente de subjuntivo), 1인칭 복수 | antes de que 뒤에는 반드시 접속법. 불규칙(e → i, gu → g: seguir → sigamos)
+
+### 18-61. **Fabián:** Por mí, sí.
+- **해석:** 나는 좋네.
+- **주요 단어:** `por mí` 나로서는
+- **문법:** 동사 생략.
+- **표현:** `Por mí, sí` = "나야 좋지, 난 찬성". `Por mí` = "내 입장에서는(반대 안 함)".
+- **시제:** 동사 없음
+
+### 18-62. **Fabián:** Aunque ya deberíamos ir pensando en retomar el tema de las rutas.
+- **해석:** 그래도 슬슬 경로 얘기로 돌아갈 생각을 해야겠군.
+- **주요 단어:** `deber` (동사) ~해야 하다 / `ir + 현재분사` 점차 ~해 가다 / `pensar en` ~을 생각하다 / `retomar` (동사) 다시 시작하다 / `ruta` (명사, 여성) 경로, 루트
+- **문법:** `deber + 부정사`(의무; de 없음 → 추측 아님). `ir + 현재분사` = 점진적으로 ~해 나가다. `pensar en + 부정사`.
+- **표현:** `ya deberíamos...` = "이제 슬슬 ~해야 할 텐데" 부드러운 제안. `las rutas` = 마약 운송 경로.
+- **시제:**
+  - `deberíamos` → deber | 조건법 단순 (condicional simple), 1인칭 복수 | 의무를 완곡하게, 공손한 제안으로 말하므로 조건법(debemos보다 부드러움). 규칙형
+  - `ir` → ir | 부정사 | deber 뒤 부정사, 현재분사와 우언형 구성
+  - `pensando` → pensar | 현재분사 (gerundio) | ir와 함께 점진적 진행. 규칙형(pensar → pensando; 현재 활용에서만 e → ie)
+  - `retomar` → retomar | 부정사 | 전치사 en 뒤. 규칙형
+
+### 18-63. **Álvaro:** (Piensa para sí, mientras remueve el café) Valladolid, dos hijas, golf.
+- **해석:** (커피를 저으며 속으로 생각한다) 바야돌리드, 딸 둘, 골프.
+- **주요 단어:** `pensar para sí` 속으로 생각하다 / `mientras` (접속사) ~하는 동안 / `remover` (동사) 휘젓다
+- **문법:** `para sí` = 재귀 전치격 대명사("자기 자신에게"). `mientras + 직설법` = 동시 진행 동작. 대사 자체는 명사 나열(메모식 독백).
+- **표현:** 라몬의 프로필 요약.
+- **시제:**
+  - `Piensa` (지문) → pensar | 직설법 현재, 3인칭 단수 | 지문 묘사. 불규칙(e → ie)
+  - `remueve` (지문) → remover | 직설법 현재, 3인칭 단수 | 동시에 일어나는 동작 묘사. 불규칙(o → ue)
+
+### 18-64. **Álvaro:** Chicago, un hijo, pizza los domingos.
+- **해석:** 시카고, 아들 하나, 일요일엔 피자.
+- **주요 단어:** 앞에서 설명
+- **문법:** 명사 나열(동사 없음). `los domingos` = 일요일마다.
+- **표현:** 도일의 프로필 요약. (원래 도일은 일요일마다 아들에게 전화하고 피자를 그리워한다고 했는데, 알바로가 메모식으로 압축함)
+- **시제:** 동사 없음
+
+### 18-65. **Álvaro:** Cartagena de toda la vida, madre y tres hermanos, comida familiar los domingos.
+- **해석:** 토박이 카르타헤나 사람, 어머니와 형제 셋, 일요일엔 가족 식사.
+- **주요 단어:** `de toda la vida` 평생의, 토박이의 / `comida familiar` 가족 식사
+- **문법:** 명사 나열(동사 없음).
+- **표현:** `de toda la vida` = "원래부터, 평생 ~인" 스페인에서 자주 쓰는 표현. 윌슨의 프로필 요약.
+- **시제:** 동사 없음
+
+### 18-66. **Álvaro:** Carlos necesita cada detalle de esto.
+- **해석:** 카를로스한테는 이 모든 세부 정보가 필요해.
+- **주요 단어:** `necesitar` (동사) 필요로 하다 / `cada` (형용사, 불변) 각각의 / `detalle` (명사, 남성) 세부 사항 / `esto` (중성 지시대명사) 이것
+- **문법:** `cada + 단수 명사`. `esto` = 중성 지시대명사로 방금 모은 정보 전체.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `necesita` → necesitar | 직설법 현재, 3인칭 단수 | 현재의 필요. 규칙형

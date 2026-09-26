@@ -602,3 +602,172 @@
 - **문법:** `hace + 기간` ~전에.
 - **시제:**
   - `Coincidimos` → coincidir | 직설법 단순과거 1인칭 복수 | hace años라는 끝난 과거의 사건 | 규칙 (현재형과 형태 같음, hace años로 과거임을 알 수 있음)
+
+### 7-71. **알바로:** Trabajábamos para navieras distintas que compartían el mismo muelle.
+- **해석:** 같은 부두를 쓰는 서로 다른 해운회사에서 일하고 있었죠.
+- **주요 단어:** `distinto` (형용사) 다른 / `compartir` (동사) 공유하다 / `muelle` (명사, 남성) 부두
+- **문법:** 관계절 que + 직설법.
+- **시제:**
+  - `Trabajábamos` → trabajar | 직설법 불완료과거 1인칭 복수 | 과거 사건(만남)의 배경 상황 | 규칙 (-ábamos, 강세)
+  - `compartían` → compartir | 직설법 불완료과거 3인칭 복수 | 당시 지속되던 상태 | 규칙
+  - 비교: 앞 문장의 Coincidimos(단순과거)는 사건, 이 문장의 불완료과거는 그 배경 묘사.
+
+### 7-72. **파비안:** ¿Y qué naviera era la tuya en aquel entonces?
+- **해석:** 그럼 그때 네 해운회사는 어디였지?
+- **문법:** `la tuya` 소유대명사(naviera 대신).
+- **표현:** `en aquel entonces` "그 당시에".
+- **시제:**
+  - `era` → ser | 직설법 불완료과거 3인칭 단수 | 과거의 지속적 상태·소속 | 불규칙
+
+### 7-73. **알바로:** Transmediterránea, en la división de carga general.
+- **해석:** 트란스메디테라네아요, 일반 화물 부서였어요.
+- **주요 단어:** `división` (명사, 여성) 부서 / `carga general` 일반 화물
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 7-74. **알바로:** Fue antes de que montara mi propia empresa.
+- **해석:** 제 회사를 차리기 전이었죠.
+- **주요 단어:** `montar` (동사) 차리다, 세우다 / `propio` (형용사) 자기 자신의
+- **문법:** `antes de que`는 항상 접속법. 주절 과거라 접속법 과거.
+- **표현:** `montar una empresa` (스페인 구어) 회사를 차리다.
+- **시제:**
+  - `Fue` → ser | 직설법 단순과거 3인칭 단수 | 완결된 과거의 한 시기를 규정 | 불규칙 (fui, fue)
+  - `montara` → montar | 접속법 과거 1인칭 단수 | antes de que 뒤 필수 접속법, 과거 문맥 | 규칙
+
+### 7-75. **파비안:** (Mira a Manolo) ¿Eso se puede comprobar?
+- **해석:** (마놀로를 본다) 그거 확인 가능해?
+- **주요 단어:** `mirar` (동사) 보다
+- **문법:** 수동/무인칭 se (se puede comprobar = 확인될 수 있다).
+- **시제:**
+  - `Mira` → mirar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `puede` → poder | 직설법 현재 3인칭 단수 | 가능성 | o→ue
+  - `comprobar` → comprobar | 부정사 | poder 뒤
+
+### 7-76. **마놀로:** Llevará tiempo, pero sí, hay registros de personal de hace años.
+- **해석:** 시간은 좀 걸리겠지만, 네, 몇 년 전 직원 기록이 있어요.
+- **주요 단어:** `llevar` (동사) (시간이) 걸리다 / `registro` (명사, 남성) 기록 / `personal` (명사, 남성) 직원
+- **문법:** `de hace años` 몇 년 전의.
+- **표현:** `llevar tiempo` "시간이 걸리다".
+- **시제:**
+  - `Llevará` → llevar | 직설법 단순미래 3인칭 단수 | 앞으로의 예측 | 규칙
+  - `hay` → haber | 직설법 현재(무인칭) | 존재 | 불규칙
+
+### 7-77. **알바로:** Compruébenlo, por favor.
+- **해석:** 확인해 보세요, 제발.
+- **문법:** ustedes 긍정 명령(comprueben) + lo, 강세 표시 추가. 스페인에서 두 사람에게 존칭 복수.
+- **시제:**
+  - `Compruébenlo` → comprobar | 긍정 명령 ustedes (접속법 현재 3인칭 복수) + lo | 존칭 요청 | o→ue 불규칙 (comprueben)
+
+### 7-78. **알바로:** Cuanto antes se queden tranquilos, mejor para todos.
+- **해석:** 여러분이 빨리 안심하실수록 모두에게 좋죠.
+- **주요 단어:** `quedarse` (재귀동사) ~한 상태가 되다 / `tranquilo` (형용사) 안심한, 평온한
+- **문법:** `cuanto antes ..., mejor` "~할수록 더 좋다" — 아직 일어나지 않은 미래의 일이라 접속법.
+- **시제:**
+  - `se queden` → quedarse | 접속법 현재 3인칭 복수(ustedes) | 미래·미실현 사건이라 접속법 | 규칙
+
+### 7-79. **파비안:** Tienes más aplomo del que esperaba para estar drogado y atado a una silla.
+- **해석:** 약에 취해 의자에 묶여 있는 것치고는 생각보다 침착하군.
+- **주요 단어:** `aplomo` (명사, 남성) 침착함, 태연함 / `drogar` (동사) 약을 먹이다 / `atar` (동사) 묶다 / `silla` (명사, 여성) 의자
+- **문법:** `más + 명사 + del que + 동사` — 비교 대상이 절일 때 del que(명사 aplomo가 남성). `para + 부정사` "~인 것치고는".
+- **시제:**
+  - `Tienes` → tener | 직설법 현재 2인칭 단수 | 불규칙 (tienes)
+  - `esperaba` → esperar | 직설법 불완료과거 1인칭 단수 | 이전부터 갖고 있던 예상 | 규칙
+  - `estar` → estar | 부정사 | para 뒤, 일시적 상태
+  - `drogado` → drogar | 과거분사 | 상태
+  - `atado` → atar | 과거분사 | 상태
+
+### 7-80. **알바로:** He pasado por cosas peores en este negocio, Fabián.
+- **해석:** 이 바닥에서 더 험한 일도 겪어봤어요, 파비안.
+- **주요 단어:** `pasar por` (동사) ~을 겪다 / `peor` (형용사) 더 나쁜
+- **문법:** 특이사항 없음
+- **시제:**
+  - `He pasado` → pasar | 직설법 현재완료 1인칭 단수 | 지금까지의 인생 경험(시점 불특정) | 규칙
+  - 비교: 경험을 말할 때 시점을 특정하지 않으면 현재완료, 특정하면 단순과거.
+
+### 7-81. **알바로:** No es la primera vez que alguien duda de mí de esta manera.
+- **해석:** 누가 저를 이런 식으로 의심하는 게 처음은 아니거든요.
+- **주요 단어:** `dudar de` (동사) ~을 의심하다 / `manera` (명사, 여성) 방식
+- **문법:** `la primera vez que + 직설법`.
+- **표현:** `de esta manera` 이런 식으로.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 불규칙
+  - `duda` → dudar | 직설법 현재 3인칭 단수 | 지금 벌어지는 일 | 규칙
+
+### 7-82. **마놀로:** (A Fabián) Está firme.
+- **해석:** (파비안에게) 흔들림이 없네요.
+- **문법:** 현재의 상태라 estar.
+- **시제:**
+  - `Está` → estar | 직설법 현재 3인칭 단수 | 지금 보이는 일시적 상태 | 불규칙
+  - 비교: es firme은 성격이 원래 단호함.
+
+### 7-83. **마놀로:** No parece que se esté viniendo abajo.
+- **해석:** 무너지는 것 같지 않아요.
+- **주요 단어:** `parecer` (동사) ~인 것 같다 / `venirse abajo` 무너지다
+- **문법:** `no parece que + 접속법` — 부정된 판단이라 접속법. 진행형 estar + 현재분사의 접속법.
+- **표현:** `venirse abajo` "(정신적으로) 무너지다, 주저앉다".
+- **시제:**
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재 판단
+  - `se esté viniendo` → venirse | 접속법 현재진행 3인칭 단수 | 부정된 추측 뒤 접속법, 지금 진행 중 | estar 접속법 esté, venir 현재분사 viniendo (e→i 불규칙)
+
+### 7-84. **파비안:** Eso ya lo veo.
+- **해석:** 그건 나도 보여.
+- **문법:** 목적어 전치 + lo 중복.
+- **시제:**
+  - `veo` → ver | 직설법 현재 1인칭 단수 | 현재 인식 | 불규칙 (veo)
+
+### 7-85. **파비안:** Aunque la firmeza también puede ser producto de mucha práctica mintiendo.
+- **해석:** 하지만 흔들림 없는 태도는 거짓말을 많이 연습한 결과일 수도 있지.
+- **주요 단어:** `firmeza` (명사, 여성) 확고함 / `producto` (명사, 남성) 결과물 / `práctica` (명사, 여성) 연습
+- **문법:** 문두 aunque = "하지만"(앞 말에 대한 단서). `práctica + 현재분사` "~하는 데 익숙함".
+- **표현:** `tener práctica + gerundio` ~에 익숙하다 (뒤 7-127에도 나옴).
+- **시제:**
+  - `puede` → poder | 직설법 현재 3인칭 단수 | 가능성 | o→ue
+  - `ser` → ser | 부정사 | poder 뒤
+  - `mintiendo` → mentir | 현재분사 | 연습의 내용 | e→i 불규칙 현재분사
+
+### 7-86. **알바로:** O de no tener nada que ocultar, que es mi caso.
+- **해석:** 아니면 숨길 게 없기 때문일 수도 있죠, 제 경우가 그렇고요.
+- **주요 단어:** `caso` (명사, 남성) 경우
+- **문법:** 앞 문장 producto de를 이어받아 de + 부정사. `que es mi caso`: 앞 내용 전체를 받는 설명적 관계절.
+- **시제:**
+  - `tener` → tener | 부정사 | de 뒤
+  - `ocultar` → ocultar | 부정사 | que 뒤
+  - `es` → ser | 직설법 현재 3인칭 단수 | 불규칙
+
+### 7-87. **마놀로:** (Se inclina cerca de su oído, bajando la voz) Solo te lo advierto una vez: si esto fuera mentira, no habría una silla la próxima vez.
+- **해석:** (목소리를 낮추며 그의 귀 가까이 몸을 숙인다) 딱 한 번만 경고한다: 이게 거짓말이라면, 다음번엔 의자로 안 끝나.
+- **주요 단어:** `inclinarse` (재귀동사) 몸을 숙이다 / `oído` (명사, 남성) 귀(청각기관) / `advertir` (동사) 경고하다 / `mentira` (명사, 여성) 거짓말
+- **문법:** `te lo`: 간접(te) + 직접(lo) 순서. `si + 접속법 과거, 조건법` — 현재에 대한 가정(그렇지 않길 바라는 가상).
+- **표현:** `la próxima vez` 다음번.
+- **시제:**
+  - `Se inclina` → inclinarse | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `bajando` → bajar | 현재분사 | 동시 동작
+  - `advierto` → advertir | 직설법 현재 1인칭 단수 | 지금 하는 행위 | e→ie 불규칙
+  - `fuera` → ser | 접속법 과거 3인칭 단수 | 가정 조건 | 불규칙 (fuera, ir와 동형)
+  - `habría` → haber | 조건법 단순 3인칭 단수(무인칭) | 가정의 결과 | 불규칙 어간 habr-
+
+### 7-88. **마놀로:** Habría algo mucho peor.
+- **해석:** 훨씬 더 끔찍한 게 있을 거다.
+- **문법:** 앞의 가정에 이어지는 귀결 조건법.
+- **시제:**
+  - `Habría` → haber | 조건법 단순(무인칭) | 앞에서 설명
+
+### 7-89. **알바로:** (Traga saliva, pero no aparta la mirada) No hará falta llegar a eso, porque no hay ninguna mentira que descubrir.
+- **해석:** (침을 삼키지만 시선을 피하지 않는다) 거기까진 갈 필요 없을 겁니다, 밝혀낼 거짓말이 하나도 없으니까요.
+- **주요 단어:** `saliva` (명사, 여성) 침 / `apartar` (동사) 치우다, 돌리다 / `mirada` (명사, 여성) 시선 / `llegar a` ~에 이르다 / `descubrir` (동사) 밝혀내다
+- **문법:** `hacer falta + 부정사` ~할 필요가 있다. `ninguna mentira que + 부정사` 할 ~가 없다.
+- **표현:** `tragar saliva` "침을 꿀꺽 삼키다(긴장)". `apartar la mirada` "시선을 피하다".
+- **시제:**
+  - `Traga` → tragar | 직설법 현재 3인칭 단수 | 지문
+  - `aparta` → apartar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `hará` → hacer | 직설법 단순미래 3인칭 단수 | 미래 단언 | 불규칙 어간 har-
+  - `llegar` → llegar | 부정사 | hacer falta의 주어
+  - `hay` → haber | 직설법 현재(무인칭) | 불규칙
+  - `descubrir` → descubrir | 부정사 | que 뒤
+
+### 7-90. **파비안:** Eso espero, por tu bien y por el mío.
+- **해석:** 그러길 바라, 너를 위해서도 나를 위해서도.
+- **문법:** `el mío` 소유대명사(bien 생략).
+- **표현:** `Eso espero` "그러길 바란다". `por tu bien` "너 좋으라고, 너를 위해".
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재 바람 | 규칙

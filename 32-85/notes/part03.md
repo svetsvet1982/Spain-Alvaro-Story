@@ -568,3 +568,173 @@
   - `dice` → decir | 직설법 현재, 3인칭 단수 | 일반적 서술 | 불규칙(e→i)
   - `ser` (2번째) → ser | 부정사 | decir + 부정사(주어 동일)
 
+### 5-36. **Álvaro:** Entiendo la desconfianza, de verdad.
+- **해석:** 의심하시는 거 이해해요, 정말로요.
+- **주요 단어:** `desconfianza` (명사, 여성) 불신 / `de verdad` 정말로
+- **문법:** 특이사항 없음
+- **표현:** "de verdad" = 진심으로, 정말로(진정성 강조).
+- **시제:**
+  - `entiendo` → entender | 직설법 현재, 1인칭 단수 | 현재 이해 | 불규칙(e→ie)
+
+### 5-37. **Álvaro:** Pero estoy aquí, cumpliendo con lo acordado, sin haber fallado ni una sola vez.
+- **해석:** 하지만 저는 여기서 약속된 걸 지키고 있고, 단 한 번도 실수한 적이 없어요.
+- **주요 단어:** `cumplir con` (동사) ~을 이행하다, 지키다 / `lo acordado` 합의된 것 / `fallar` (동사) 실패하다, 실수하다 / `ni una sola vez` 단 한 번도
+- **문법:** ① estar + 위치(aquí). ② 현재분사 cumpliendo = 부대 상황(~하면서). ③ lo + 과거분사 = ~된 것(lo acordado). ④ sin + 완료부정사(haber fallado) = ~한 적 없이(주절보다 앞선 기간 포괄).
+- **표현:** "ni una sola vez" = 단 한 번도(강한 부정).
+- **시제:**
+  - `estoy` → estar | 직설법 현재, 1인칭 단수 | 현재 위치·상태 | 불규칙(estoy)
+  - `cumpliendo` → cumplir | 현재분사 gerundio | 지금 계속 이행 중인 동작 | 규칙
+  - `acordado` → acordar | 과거분사 | lo + 과거분사로 명사화(합의된 것) | 규칙 과거분사(현재형은 o→ue 불규칙)
+  - `haber fallado` → fallar | 완료부정사 infinitivo compuesto | sin 뒤 부정사, 지금까지 완료된 기간을 나타내 완료형 | 규칙
+
+### 5-38. **Fabián:** Eso es cierto, no puedo negarlo.
+- **해석:** 그건 사실이야, 부정할 수 없지.
+- **주요 단어:** `cierto` (형용사) 사실인, 확실한 / `poder` 할 수 있다 / `negar` (동사) 부정하다
+- **문법:** es cierto — 진위 판단은 ser. 대명사 lo가 부정사 끝에 붙음(= no lo puedo negar).
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 진위 판단 | 불규칙
+  - `puedo` → poder | 직설법 현재, 1인칭 단수 | 현재의 가능성 | 불규칙(o→ue)
+  - `negarlo` → negar | 부정사 + lo | poder + 부정사 | 현재형 e→ie 불규칙(niego)
+
+### 5-39. **Fabián:** Pero la duda, una vez que entra, es difícil de sacar.
+- **해석:** 하지만 의심이란 건 한번 들어오면 빼내기 어려워.
+- **주요 단어:** `duda` (명사, 여성) 의심 / `una vez que` 일단 ~하면 / `entrar` 들어오다 / `difícil` 어려운 / `sacar` (동사) 꺼내다, 빼내다
+- **문법:** ① una vez que + 직설법: 일반적 사실(항상 그러함)이라 직설법. ② "ser difícil de + 부정사" = ~하기 어렵다(주어가 부정사의 의미상 목적어일 때 de 사용).
+- **표현:** 격언 같은 일반 진술.
+- **시제:**
+  - `entra` → entrar | 직설법 현재, 3인칭 단수 | 일반적 진리를 말하므로 직설법 현재(특정 미래 일이면 una vez que entre로 접속법) | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 일반적 진리 | 불규칙
+  - `sacar` → sacar | 부정사 | difícil de + 부정사 | 규칙(철자: saque)
+
+### 5-40. **Álvaro:** ¿Qué necesita para que esa duda desaparezca?
+- **해석:** 그 의심이 사라지려면 뭐가 필요하세요?
+- **주요 단어:** `necesitar` 필요로 하다 / `desaparecer` (동사) 사라지다
+- **문법:** para que + 접속법(목적, 주어가 다름). necesita는 usted.
+- **시제:**
+  - `necesita` → necesitar | 직설법 현재, 3인칭 단수(usted) | 현재의 필요 | 규칙
+  - `desaparezca` → desaparecer | 접속법 현재, 3인칭 단수 | para que(목적) 뒤 접속법 | 불규칙(-cer → -zc-: desaparezco → desaparezca)
+
+### 5-41. **Fabián:** Tiempo.
+- **해석:** 시간.
+- **주요 단어:** `tiempo` (명사, 남성) 시간
+- **문법:** 명사 한 단어 대답(Necesito tiempo의 생략).
+- **시제:** 동사 없음
+
+### 5-42. **Fabián:** Y una segunda operación limpia, sin ningún error.
+- **해석:** 그리고 실수 하나 없는 깔끔한 두 번째 작전.
+- **주요 단어:** `segundo` (서수) 두 번째 / `limpio` (형용사) 깨끗한, 깔끔한 / `error` (명사, 남성) 실수
+- **문법:** sin + ningún + 명사 = 어떤 ~도 없이(스페인어는 이중부정 허용). ninguno는 남성 단수 명사 앞에서 ningún.
+- **표현:** "operación limpia" = 문제 없이 깔끔한 작업.
+- **시제:** 동사 없음
+
+### 5-43. **Fabián:** Si algo saliera mal la próxima vez, no habría una tercera oportunidad para explicarte.
+- **해석:** 다음번에 뭐라도 잘못되면, 해명할 세 번째 기회는 없을 거야.
+- **주요 단어:** `salir mal` 잘못되다 / `próximo` (형용사) 다음의 / `tercero` (서수) 세 번째(여성 tercera) / `oportunidad` (명사, 여성) 기회 / `explicarse` (재귀) 해명하다
+- **문법:** si + 접속법 과거 + 조건법 = 미래에 대한 가정(일어나지 않길 바라는, 가능성을 낮게 보는 가정). explicarte: 재귀대명사 te가 부정사 끝에 붙음(너 자신을 해명하다).
+- **표현:** 경고. si algo sale mal(직설법)보다 한 발 물러선 가정이지만 위협감은 그대로.
+- **시제:**
+  - `saliera` → salir | 접속법 과거(-ra형), 3인칭 단수 | si 가정절(미래에 일어날 수도 있는 가상 상황) → 접속법 과거 | 단순과거 salieron 기반(salie- + ra)
+  - `habría` → haber | 조건법 단순, 3인칭 단수(비인칭) | 가정의 귀결절 | 불규칙(habr-)
+  - `explicarte` → explicarse | 부정사 + te | para + 부정사(목적) | 규칙(철자 c→qu)
+
+### 5-44. **Álvaro:** Lo entiendo.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entender` 앞에서 설명
+- **문법:** lo = 앞 내용 전체(중성).
+- **시제:**
+  - `entiendo` → entender | 직설법 현재, 1인칭 단수 | 앞에서 설명
+
+### 5-45. **Álvaro:** No le voy a dar motivos para dudar de nuevo.
+- **해석:** 다시는 의심하실 이유를 드리지 않을게요.
+- **주요 단어:** `dar` 주다 / `motivo` (명사, 남성) 이유, 동기 / `dudar` (동사) 의심하다 / `de nuevo` 다시
+- **문법:** ir a + 부정사(가까운 미래·의지). 간접목적 le(= a usted)가 활용 동사 앞(= no voy a darle).
+- **표현:** "dar motivos para ~" = ~할 이유를 주다.
+- **시제:**
+  - `voy` → ir | 직설법 현재, 1인칭 단수 | ir a 구문 | 불규칙
+  - `dar` → dar | 부정사 | ir a + 부정사로 확고한 의지·약속 표현(단순미래 daré보다 구어적이고 즉각적) | 불규칙 동사(doy)
+  - `dudar` → dudar | 부정사 | para + 부정사 | 규칙
+
+### 5-46. **Fabián:** Eso espero, por tu bien.
+- **해석:** 그러길 바란다, 너를 위해서라도.
+- **주요 단어:** `esperar` 바라다 / `por tu bien` 너 자신을 위해
+- **문법:** eso를 앞으로 내세운 도치(Espero eso).
+- **표현:** "Eso espero" = 그러길 바라(흔한 대답). "por tu bien" = 네 신상을 위해서 — 은근한 위협.
+- **시제:**
+  - `espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 바람 | 규칙
+
+### 5-47. **Fabián:** Porque si alguna vez descubriera que me has mentido, aunque sea pequeño, tú mismo te habrás firmado la sentencia.
+- **해석:** 왜냐하면 네가 나한테 거짓말했다는 걸, 그게 작은 거라도 언젠가 알게 된다면, 너 스스로 사형 선고에 서명한 셈이 될 테니까.
+- **주요 단어:** `alguna vez` 언젠가, 한 번이라도 / `aunque` ~라 해도 / `pequeño` 작은 / `mismo` 자신 / `firmar` 서명하다 / `sentencia` (명사, 여성) 판결, 선고
+- **문법:** ① si + 접속법 과거(가정). ② aunque + 접속법 = 가정적 양보(~라 할지라도). ③ 귀결절에 미래완료: 가정이 실현되는 시점에 이미 완료되어 있을 결과. ④ te habrás firmado: 재귀 간접목적(자기 자신에게).
+- **표현:** "firmar(se) la sentencia" = 스스로 사형선고에 서명하다 → 자멸하다. 구어에서 si + 접속법 과거 뒤 미래완료를 쓰는 것은 문법 교과서의 전형(조건법)과 다르지만, "그 결과는 이미 정해진 것"이라는 확정적 위협을 강조.
+- **시제:**
+  - `descubriera` → descubrir | 접속법 과거(-ra형), 1인칭 단수 | si 가정절 → 접속법 과거 | 규칙(과거분사만 불규칙 descubierto)
+  - `has mentido` → mentir | 직설법 현재완료, 2인칭 단수 | 지금까지의 거짓말 여부(현재와 연결) | 과거분사 규칙
+  - `sea` → ser | 접속법 현재, 3인칭 단수 | aunque + 접속법: 사실이 아닌 가정적 양보("작다고 해도") | 불규칙
+  - `habrás firmado` → firmar | 직설법 미래완료 futuro compuesto, 2인칭 단수 | 미래의 특정 시점(발각 시점)에 이미 완료되어 있을 일 → "스스로 서명해 버린 꼴이 될 것" | haber 미래 habrás(불규칙), firmado 규칙
+
+### 5-48. **Álvaro:** No tengo nada que ocultar, Fabián.
+- **해석:** 저는 숨길 게 아무것도 없어요, 파비안.
+- **주요 단어:** `ocultar` (동사) 숨기다
+- **문법:** tener nada que + 부정사 = ~할 것이 없다(tener que "해야 한다"와 구별: 사이에 명사/대명사가 끼면 "~할 것").
+- **표현:** 결백을 주장하는 상투적 표현.
+- **시제:**
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 상태 | 불규칙
+  - `ocultar` → ocultar | 부정사 | que + 부정사 | 규칙
+
+### 5-49. **Fabián:** Ojalá sea verdad.
+- **해석:** 부디 그게 사실이길.
+- **주요 단어:** `ojalá` (감탄사) 부디 ~하기를 / `verdad` (명사, 여성) 사실, 진실
+- **문법:** ojalá + 항상 접속법. 현재·미래에 대한 실현 가능한 바람은 접속법 현재.
+- **표현:** ojalá는 아랍어 기원("신이 원하신다면").
+- **시제:**
+  - `sea` → ser | 접속법 현재, 3인칭 단수 | ojalá 뒤 접속법, 현재에 대한 바람(가능성이 있다고 봄). ojalá fuera(접속법 과거)라면 가능성이 낮다는 뉘앙스 | 불규칙
+
+### 5-50. **Fabián:** Puedes irte.
+- **해석:** 가 봐도 돼.
+- **주요 단어:** `irse` (재귀) 떠나다, 가 버리다
+- **문법:** 재귀대명사 te가 부정사 끝에 붙음(= te puedes ir).
+- **표현:** 대화를 끝내며 내보내는 말. ir(가다) vs irse(자리를 떠나다).
+- **시제:**
+  - `puedes` → poder | 직설법 현재, 2인칭 단수 | 현재의 허락 | 불규칙(o→ue)
+  - `irte` → irse | 부정사 + te | poder + 부정사 | 불규칙 동사
+
+### 5-51. **Fabián:** Pero recuerda que a partir de ahora te vigilaremos más de cerca.
+- **해석:** 하지만 이제부터는 우리가 너를 더 가까이서 지켜볼 거라는 걸 기억해.
+- **주요 단어:** `recordar` 기억하다 / `a partir de ahora` 지금부터 / `vigilar` (동사) 감시하다 / `de cerca` 가까이서
+- **문법:** recordar que + 직설법(사실). 직접목적 te가 활용 동사 앞.
+- **표현:** "a partir de ahora" = 이제부터. "vigilar de cerca" = 밀착 감시하다.
+- **시제:**
+  - `recuerda` → recordar | 긍정 명령, 2인칭 단수(tú) | 지시 | 불규칙(o→ue)
+  - `vigilaremos` → vigilar | 직설법 단순미래 futuro simple, 1인칭 복수 | 앞으로의 방침·결정을 선언하는 공식적·단호한 미래 | 규칙
+
+### 5-52. **Álvaro:** Lo tendré presente.
+- **해석:** 명심하겠습니다.
+- **주요 단어:** `tener presente` 명심하다, 염두에 두다
+- **문법:** lo = 앞 내용. presente는 목적어 상태를 나타내는 보어.
+- **표현:** "tener presente algo" = ~을 염두에 두다(격식 있는 표현).
+- **시제:**
+  - `tendré` → tener | 직설법 단순미래, 1인칭 단수 | 앞으로 계속 명심하겠다는 약속 | 불규칙 미래 어간(tendr-)
+
+### 5-53. **Álvaro:** Gracias por la oportunidad, de todas formas.
+- **해석:** 어쨌든 기회 주셔서 감사합니다.
+- **주요 단어:** `gracias por` ~에 대해 감사 / `oportunidad` 기회 / `de todas formas` 어쨌든
+- **문법:** gracias por + 명사/부정사.
+- **표현:** "de todas formas" = 어쨌든(de todos modos와 같음).
+- **시제:** 동사 없음
+
+### 5-54. **Fabián:** No me las des todavía.
+- **해석:** 아직 고마워하지 마.(직역: 아직 그것(감사)을 나에게 주지 마.)
+- **주요 단어:** `dar` 주다 / `todavía` 아직
+- **문법:** 부정 명령(no + 접속법). 대명사 순서: 간접목적 me + 직접목적 las(= las gracias). 부정 명령에선 대명사가 동사 앞.
+- **표현:** "dar las gracias" = 감사하다 → "No me las des" = 고맙다고 하지 마.
+- **시제:**
+  - `des` → dar | 접속법 현재, 2인칭 단수 — 부정 명령 | tú 부정 명령은 접속법 형태 | 불규칙(dé, des, dé...)
+
+### 5-55. **Fabián:** Todavía no te la has ganado del todo.
+- **해석:** 넌 아직 그걸 완전히 얻어낸 게 아니니까.
+- **주요 단어:** `ganarse` (재귀) 얻어내다 / `del todo` 완전히
+- **문법:** te(재귀) + la(= la oportunidad 또는 la confianza) 순서. 현재완료 앞에 대명사.
+- **표현:** "ganarse algo" = 노력으로 얻다. "no ~ del todo" = 완전히 ~한 것은 아니다.
+- **시제:**
+  - `has ganado` → ganarse | 직설법 현재완료, 2인칭 단수 | todavía no와 함께 "지금까지 아직 ~하지 않았다"(현재까지의 상태) → 현재완료 | 규칙

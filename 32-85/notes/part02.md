@@ -568,7 +568,7 @@
 - **문법:** 간접화법 시제 일치: 과거 전달동사(dije) 뒤 que절은 불완료과거(era).
 - **시제:**
   - `dije` → decir | 직설법 단순과거, 1인칭 단수 | 과거의 완결된 발언 | 불규칙(dij-)
-  - `era` → ser | 직설법 불완료과거, 1인칭... 아님 3인칭 단수 | 전달 내용 속의 성질 묘사, 시제 일치 | 불규칙
+  - `era` → ser | 직설법 불완료과거 pretérito imperfecto, 3인칭 단수(디에고) | 전달 내용 속의 성질 묘사, 시제 일치 | 불규칙
 
 ### 3-20. **Fabián:** Listo o desesperado, ya lo veremos.
 - **해석:** 똑똑한지 절박한지는 곧 알게 되겠지.
@@ -667,3 +667,227 @@
 - **시제:**
   - `imagino` → imaginar | 직설법 현재, 1인칭 단수 | 현재 추측
   - `viene` → venir | 직설법 현재, 3인칭 단수 | 정해진 일정(현재로 미래) | 불규칙
+
+### 3-34. **Fabián:** El contenedor sale de Cartagena, hace escala en Panamá y llega a Algeciras con otra referencia.
+- **해석:** 컨테이너는 카르타헤나에서 출발해 파나마를 경유하고, 다른 참조번호를 달고 알헤시라스에 도착해.
+- **주요 단어:** `hacer escala` 경유하다, 기항하다 / `llegar a` ~에 도착하다 / `referencia` (명사) 참조번호
+- **문법:** 동사 세 개 병렬(현재형으로 절차 설명).
+- **표현:** `hacer escala en` 항공·해운 경유 표현.
+- **시제:**
+  - `sale` → salir | 직설법 현재, 3인칭 단수 | 정해진 절차·일정을 현재로 서술
+  - `hace` → hacer | 직설법 현재, 3인칭 단수 | 위와 같음 | 1인칭 hago 불규칙
+  - `llega` → llegar | 직설법 현재, 3인칭 단수 | 위와 같음
+
+### 3-35. **Fabián:** Así nadie puede seguirle la pista de un puerto a otro.
+- **해석:** 그러면 아무도 항구에서 항구로 추적할 수 없지.
+- **주요 단어:** `seguir la pista` 추적하다 / `de ... a ...` ~에서 ~로
+- **문법:** `seguirle`: 간접목적어 le(=그 컨테이너)가 부정사에 부착 — 소유·관련의 간접목적어.
+- **표현:** `seguirle la pista a algo/alguien` "~의 행적을 쫓다" 관용구.
+- **시제:**
+  - `puede` → poder | 직설법 현재, 3인칭 단수 | 가능성 | 불규칙
+  - `seguir(le)` → seguir | 부정사 | poder 뒤
+
+### 3-36. **Álvaro:** ¿Y una vez que esté en el puerto, quién se encarga de sacarlo?
+- **해석:** 그럼 일단 항구에 도착하면, 누가 그걸 빼내는 일을 맡죠?
+- **주요 단어:** `una vez que` 일단 ~하면 / `encargarse de` ~을 맡다 / `sacar` (동사) 꺼내다
+- **문법:** `una vez que + 접속법`: 미래의 일(아직 일어나지 않음)을 가리키는 시간절이라 접속법. `sacarlo`: 부정사 + lo.
+- **시제:**
+  - `esté` → estar | 접속법 현재, 3인칭 단수 | 미래 시점 시간절이라 접속법, 위치이므로 estar
+  - `encarga` → encargarse | 직설법 현재, 3인칭 단수 | 역할 분담(정해진 사실)
+  - `sacar(lo)` → sacar | 부정사 | de 뒤
+
+### 3-37. **Fabián:** Eso ya no es asunto tuyo, Diego.
+- **해석:** 그건 네가 알 바 아니야, 디에고.
+- **주요 단어:** `asunto` (명사) 일, 용무 / `ya no` 더 이상 ~아니다
+- **문법:** `tuyo`: 소유형용사 후치형.
+- **표현:** `No es asunto tuyo` "네 일 아니다, 상관 마라".
+- **시제:**
+  - `es` → ser | 직설법 현재 | 규정
+
+### 3-38. **Fabián:** Tú entregas el papeleo limpio, nosotros nos encargamos del resto.
+- **해석:** 넌 깨끗한 서류를 넘기고, 나머지는 우리가 맡는다.
+- **주요 단어:** `entregar` (동사) 넘기다, 인도하다 / `limpio` (형용사) 깨끗한 / `resto` (명사) 나머지
+- **문법:** 주어 대명사 tú / nosotros를 명시해 역할을 대조. `del` = de + el.
+- **표현:** 현재형으로 지시를 전달 — 명령보다 단정적.
+- **시제:**
+  - `entregas` → entregar | 직설법 현재, 2인칭 단수 | 역할 규정(지시적 현재)
+  - `encargamos` → encargarse | 직설법 현재, 1인칭 복수 | 역할 규정
+
+### 3-39. **Álvaro:** Comprendo.
+- **해석:** 알겠습니다.
+- **시제:**
+  - `comprendo` → comprender | 직설법 현재, 1인칭 단수 | 현재 이해
+
+### 3-40. **Álvaro:** Solo quería entender bien mi parte para no cometer errores.
+- **해석:** 실수하지 않으려고 제 역할을 확실히 알고 싶었을 뿐입니다.
+- **주요 단어:** `parte` (명사) 몫, 역할
+- **문법:** `para no + 부정사`(부정 목적).
+- **표현:** 불완료과거 quería는 공손·완곡 표현.
+- **시제:**
+  - `quería` → querer | 직설법 불완료과거, 1인칭 단수 | 공손한 불완료과거(quiero보다 부드럽게 해명) — 단순과거 quise는 "원했다(그리고 시도했다/실패했다)"라 부적절
+  - `entender` → entender | 부정사
+  - `cometer` → cometer | 부정사
+
+### 3-41. **Fabián:** Bien pensado.
+- **해석:** 잘 생각했어.
+- **표현:** `Bien pensado` "현명하다, 잘 생각했다".
+- **시제:**
+  - `pensado` → pensar | 과거분사 | 형용사적으로 판단 표현
+
+### 3-42. **Fabián:** Si el papeleo llegara sucio, todo el envío se caería, y con él, tu futuro en este negocio.
+- **해석:** 만약 서류가 지저분하게 오면, 선적 전체가 무너지고, 그와 함께 이 바닥에서 너의 미래도 끝나는 거야.
+- **주요 단어:** `sucio` (형용사) 더러운 / `envío` (명사) 발송, 선적 / `caerse` (재귀동사) 무너지다 / `futuro` (명사) 미래
+- **문법:** 가정 조건문 `si + 접속법 불완료과거, 조건법` (가능성이 낮거나 가정적인 상황). `con él, tu futuro`: 동사 caería 생략.
+- **시제:**
+  - `llegara` → llegar | 접속법 불완료과거 pretérito imperfecto de subjuntivo(-ra형), 3인칭 단수 | 가정 조건(일어나지 않길 바라는 상황) — si + 현재(llega)보다 가능성을 낮게·가정적으로 제시
+  - `caería` → caerse | 조건법, 3인칭 단수 | 가정 조건의 결과 | 조건법은 규칙(caer-ía)
+
+### 3-43. **Álvaro:** No fallaré.
+- **해석:** 실패하지 않을 겁니다.
+- **주요 단어:** `fallar` (동사) 실패하다, 실수하다
+- **시제:**
+  - `fallaré` → fallar | 직설법 미래, 1인칭 단수 | 약속·의지
+
+### 3-44. **Álvaro:** ¿Cuándo tendré los documentos del cargamento?
+- **해석:** 화물 서류는 언제 받게 될까요?
+- **주요 단어:** `documento` (명사) 서류
+- **시제:**
+  - `tendré` → tener | 직설법 미래, 1인칭 단수 | 미래 시점 질문 | 불규칙 어간 tendr-
+
+### 3-45. **Fabián:** Manolo te los hará llegar en un par de días.
+- **해석:** 마놀로가 이삼일 안에 너에게 보내줄 거야.
+- **주요 단어:** `hacer llegar` 전달하다, 보내다 / `un par de` 두어 개의
+- **문법:** 이중 목적대명사 `te los`: 간접(te) + 직접(los = los documentos) 순서. `hacer + 부정사` 사역("~하게 하다").
+- **표현:** `hacer llegar algo a alguien` "~에게 ~을 보내다(도착하게 하다)".
+- **시제:**
+  - `hará` → hacer | 직설법 미래, 3인칭 단수 | 미래의 예정 | 불규칙 어간 har-
+  - `llegar` → llegar | 부정사 | 사역 hacer 뒤
+
+### 3-46. **Fabián:** Antes necesito que abras una empresa a tu nombre, algo relacionado con importación de maquinaria.
+- **해석:** 그 전에 네 이름으로 회사를 하나 차려야 해. 기계 수입 관련된 걸로.
+- **주요 단어:** `abrir` (동사) 열다, 개설하다 / `empresa` (명사) 회사 / `a tu nombre` 네 명의로 / `relacionado con` ~와 관련된
+- **문법:** `necesitar que + 접속법`. `relacionado`: 과거분사 형용사, algo(중성)에 맞춰 남성 단수.
+- **시제:**
+  - `necesito` → necesitar | 직설법 현재 | 현재 필요
+  - `abras` → abrir | 접속법 현재, 2인칭 단수 | necesito que 뒤 접속법
+  - `relacionado` → relacionar | 과거분사 | 형용사적 수식
+
+### 3-47. **Álvaro:** Ya tenía una a medio montar, de hecho, desde antes de que Manolo me contactara.
+- **해석:** 사실 마놀로가 연락하기 전부터 이미 반쯤 세워 둔 회사가 하나 있었습니다.
+- **주요 단어:** `a medio + 부정사` 반쯤 ~된 / `montar` (동사) 세우다, 차리다 / `de hecho` 사실은 / `contactar` (동사) 연락하다
+- **문법:** `una` = una empresa(명사 생략). `antes de que + 접속법`: antes de que 뒤는 **항상** 접속법, 주절이 과거라 접속법 불완료과거.
+- **표현:** `a medio montar` "반쯤 차려진 상태로".
+- **시제:**
+  - `tenía` → tener | 직설법 불완료과거, 1인칭 단수 | 과거 시점에 지속되던 상태(보유) 묘사
+  - `montar` → montar | 부정사 | a medio 뒤
+  - `contactara` → contactar | 접속법 불완료과거(-ra형), 3인칭 단수 | antes de que(필수 접속법) + 과거 문맥이라 불완료과거
+
+### 3-48. **Fabián:** Perfecto.
+- **해석:** 완벽해.
+- **시제:** 동사 없음
+
+### 3-49. **Fabián:** Cuanto más limpia parezca por fuera, mejor nos va a todos.
+- **해석:** 겉으로 깨끗해 보일수록 우리 모두에게 좋지.
+- **주요 단어:** `cuanto más ... , mejor/más` ~할수록 더 / `por fuera` 겉으로 / `irle bien a alguien` ~에게 잘 되다
+- **문법:** 비례 비교 `cuanto más + 접속법(미정·가정적 정도), 주절`. `nos va (bien) a todos`: 간접목적어 중복(nos ... a todos).
+- **시제:**
+  - `parezca` → parecer | 접속법 현재, 3인칭 단수 | 아직 확정되지 않은 정도·미래의 일을 말하는 cuanto más 절이라 접속법 | 불규칙(parezco → parezca)
+  - `va` → ir | 직설법 현재, 3인칭 단수 | 일반적 결과 | 불규칙
+
+### 3-50. **Álvaro:** ¿Y el pago de esta primera operación?
+- **해석:** 그럼 이번 첫 작업의 보수는요?
+- **시제:** 동사 없음
+
+### 3-51. **Fabián:** Si todo sale bien, cobrarás el diez por ciento del valor de la mercancía.
+- **해석:** 다 잘되면, 물건 가치의 10퍼센트를 받게 될 거야.
+- **주요 단어:** `cobrar` (동사) (돈을) 받다 / `por ciento` 퍼센트 / `valor` (명사) 가치
+- **문법:** 현실 조건문 si + 현재, 미래.
+- **시제:**
+  - `sale` → salir | 직설법 현재 | 현실 조건 si절
+  - `cobrarás` → cobrar | 직설법 미래, 2인칭 단수 | 조건 결과·약속
+
+### 3-52. **Fabián:** Si algo saliera mal, probablemente no tengas una segunda oportunidad de hablar conmigo.
+- **해석:** 만약 뭔가 잘못되면, 아마 나랑 다시 얘기할 기회는 없을 거야.
+- **주요 단어:** `probablemente` (부사) 아마 / `conmigo` 나와 함께
+- **문법:** 가정 조건 si + 접속법 불완료과거. 주절은 `probablemente + 접속법 현재`: 추측 부사가 동사 앞에 오면 접속법 가능(의심 표시).
+- **표현:** 3-51의 현실 조건(sale)과 대비해 실패는 가정적(saliera)으로 말해 위협적 뉘앙스.
+- **시제:**
+  - `saliera` → salir | 접속법 불완료과거(-ra형), 3인칭 단수 | 일어나지 않았으면 하는 가정 | 규칙(salieron → saliera)
+  - `tengas` → tener | 접속법 현재, 2인칭 단수 | probablemente 뒤 불확실성 표시 접속법 (직설법 tendrás면 더 확정적) | 불규칙(tengo → tenga)
+  - `hablar` → hablar | 부정사 | de 뒤
+
+### 3-53. **Álvaro:** Entendido perfectamente.
+- **해석:** 완벽히 알겠습니다.
+- **시제:**
+  - `entendido` → entender | 과거분사 | 앞에서 설명
+
+### 3-54. **Álvaro:** No hay motivo para preocuparse.
+- **해석:** 걱정하실 이유는 없습니다.
+- **주요 단어:** `motivo` (명사) 이유 / `preocuparse` 앞에서 설명
+- **문법:** `hay`: haber 비인칭. `preocuparse`: 비인칭적 부정사(se 부착).
+- **시제:**
+  - `hay` → haber | 직설법 현재, 비인칭 3인칭 단수 | 존재 표현 | 불규칙형 hay
+  - `preocuparse` → preocuparse | 부정사 | para 뒤
+
+### 3-55. **Fabián:** Eso espero, Diego.
+- **해석:** 그러길 바라, 디에고.
+- **시제:**
+  - `espero` → esperar | 앞에서 설명
+
+### 3-56. **Fabián:** En este negocio, la primera operación es la que decide si sigues con nosotros o desapareces de nuestra vista para siempre.
+- **해석:** 이 바닥에선 첫 작업이 네가 우리와 계속 가느냐, 아니면 우리 눈앞에서 영원히 사라지느냐를 결정해.
+- **주요 단어:** `decidir` (동사) 결정하다 / `seguir con` ~와 계속하다 / `desaparecer` (동사) 사라지다 / `vista` (명사) 시야 / `para siempre` 영원히
+- **문법:** 강조구문 `es la que decide` (ser + 관계사: "결정하는 것은 바로 ~이다"). `si`: 간접의문 "~인지 아닌지"(조건 아님), 뒤에 직설법.
+- **표현:** `desaparecer de la vista` "눈앞에서 사라지다" — 제거(살해)를 암시하는 위협.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 규정
+  - `decide` → decidir | 직설법 현재, 3인칭 단수 | 일반적 규칙
+  - `sigues` → seguir | 직설법 현재, 2인칭 단수 | 간접의문 si 뒤 직설법 | e→i 불규칙
+  - `desapareces` → desaparecer | 직설법 현재, 2인칭 단수 | 위와 같음 | 1인칭 desaparezco 불규칙
+
+### 3-57. **Manolo:** Yo me encargo de que todo salga bien, Fabián.
+- **해석:** 모든 게 잘되게 내가 책임질게, 파비안.
+- **문법:** `encargarse de que + 접속법`: 결과를 보장하려는 목적·의도라 접속법.
+- **표현:** 현재형으로 가까운 미래의 약속.
+- **시제:**
+  - `encargo` → encargarse | 직설법 현재, 1인칭 단수 | 즉석 약속(현재로 미래 의지)
+  - `salga` → salir | 접속법 현재, 3인칭 단수 | 아직 실현되지 않은 목표 결과 | 불규칙(salgo → salga)
+
+### 3-58. **Manolo:** Respondo por él.
+- **해석:** 내가 그를 보증해.
+- **주요 단어:** `responder por` ~을 보증하다, 책임지다
+- **표현:** `responder por alguien` "누구의 보증을 서다".
+- **시제:**
+  - `respondo` → responder | 직설법 현재, 1인칭 단수 | 현재의 선언
+
+### 3-59. **Fabián:** Más te vale, Manolo.
+- **해석:** 그래야 할 거야, 마놀로.
+- **문법:** `valer` + 간접목적어 te: "너에게 이득이다".
+- **표현:** `Más te vale` — "그러는 게 너한테 좋을 거다" 경고성 관용구.
+- **시제:**
+  - `vale` → valer | 직설법 현재, 3인칭 단수 | 관용 표현
+
+### 3-60. **Fabián:** Bueno, Diego, bienvenido a la familia.
+- **해석:** 좋아, 디에고, 가족이 된 걸 환영한다.
+- **표현:** `la familia` — 범죄 조직을 '가족'이라 부르는 은유.
+- **시제:** 동사 없음
+
+### 3-61. **Fabián:** No me hagas arrepentirme.
+- **해석:** 날 후회하게 만들지 마.
+- **주요 단어:** `arrepentirse` (재귀동사) 후회하다
+- **문법:** 부정 명령(tú) = no + 접속법 현재, 대명사는 동사 앞. `hacer + 부정사` 사역. arrepentirme의 me는 재귀대명사(부정사에 부착).
+- **시제:**
+  - `hagas` → hacer | 부정 명령, 2인칭 단수(접속법 현재형) | 경고 | 불규칙
+  - `arrepentirme` → arrepentirse | 부정사 | 사역 hacer 뒤 | 활용 시 e→ie 불규칙
+
+### 3-62. **Álvaro:** No se arrepentirá.
+- **해석:** 후회하지 않으실 겁니다.
+- **시제:**
+  - `arrepentirá` → arrepentirse | 직설법 미래, 3인칭 단수(usted) | 미래에 대한 확언·약속
+
+### 3-63. **Álvaro:** Se lo garantizo.
+- **해석:** 장담합니다.
+- **주요 단어:** `garantizar` (동사) 보장하다
+- **문법:** `se lo`: 간접목적어 le(=a usted)가 직접목적어 lo 앞에서 se로 바뀜(le lo → se lo).
+- **시제:**
+  - `garantizo` → garantizar | 직설법 현재, 1인칭 단수 | 발화 자체가 행위인 수행적 현재

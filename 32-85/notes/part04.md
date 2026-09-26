@@ -599,3 +599,239 @@
   - `He tenido` → tener | 직설법 현재완료 1인칭 단수 | 시점을 특정하지 않은 인생 경험("살면서 ~한 적이 있다")이라 현재완료 | 과거분사 규칙(tenido)
   - `tomar` → 부정사 | tener que 뒤
   - `han gustado` → gustar | 직설법 현재완료 3인칭 복수 | 주절과 같은 경험의 틀, 현재까지 이어지는 감정 | 규칙
+
+### 6-75. **Álvaro:** Prefiero no imaginarme cuáles.
+- **해석:** 어떤 결정들이었는지는 상상하지 않을래요.
+- **주요 단어:** `preferir` 선호하다 (앞에서 설명) / `imaginarse` 상상하다 / `cuáles` (의문사, 복수) 어떤 것들
+- **문법:** ① 주어가 같으므로 `preferir` + 부정사 (que + 접속법 아님). ② 간접의문 `cuáles` (decisiones를 받아 복수). ③ 부정사에 재귀대명사 부착 (imaginarme).
+- **시제:**
+  - `Prefiero` → preferir | 직설법 현재 1인칭 단수 | 현재 의향 | e → ie
+  - `imaginarme` → imaginarse | 부정사 | preferir 뒤
+
+### 6-76. **Fabián:** Mejor así.
+- **해석:** 그게 낫지.
+- **표현:** `Mejor así` = "그러는 게 나아".
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 6-77. **Fabián:** Bueno, cuéntame algo tuyo.
+- **해석:** 자, 네 얘기 좀 해 봐.
+- **주요 단어:** `contar` 이야기하다 / `algo tuyo` 너에 관한 뭔가
+- **문법:** 긍정명령 + 대명사 부착: cuenta + me → cuéntame (강세 표시). `tuyo` = 소유형용사 강세형 (algo 뒤).
+- **시제:**
+  - `cuéntame` → contar | 명령형 2인칭 단수 tú | 친근한 요청 | 어간모음변화 o → ue
+
+### 6-78. **Fabián:** ¿Qué hacías antes de dedicarte a esto?
+- **해석:** 이 일을 하기 전에는 뭘 했어?
+- **주요 단어:** `dedicarse a` ~에 종사하다, ~을 업으로 삼다 / `antes de` + 부정사 ~하기 전에
+- **문법:** 주어가 같아서 `antes de` + 부정사 (6-1의 antes de que + 접속법과 비교). 부정사에 재귀대명사 부착.
+- **표현:** `¿A qué te dedicas?` = "무슨 일 하세요?"의 기본 표현.
+- **시제:**
+  - `hacías` → hacer | 직설법 불완료과거 2인칭 단수 | 과거에 지속적으로 하던 일(직업)을 묻는 것이라 불완료과거 | 불완료과거는 규칙
+  - `dedicarte` → dedicarse | 부정사 | 전치사 de 뒤
+
+### 6-79. **Álvaro:** Empecé en el transporte de mercancías normal, legal del todo.
+- **해석:** 평범한 화물 운송업으로 시작했어요, 완전히 합법적인 거였죠.
+- **주요 단어:** `empezar` (동사) 시작하다 / `transporte` (명사, 남) 운송 / `mercancía` (명사, 여) 화물, 상품 / `legal` (형용사) 합법적인 / `del todo` 완전히
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Empecé` → empezar | 직설법 단순과거 1인칭 단수 | 시작 시점의 단발 사건 | 철자 변화: z → c (e 앞) empecé; 현재형은 e → ie
+
+### 6-80. **Álvaro:** Con los años, iba conociendo gente, y las líneas se fueron difuminando.
+- **해석:** 해가 가면서 사람들을 알게 되었고, 경계가 점점 흐려졌죠.
+- **주요 단어:** `con los años` 세월이 흐르면서 / `conocer` 알다 / `línea` (명사, 여) 선, 경계 / `difuminarse` (재귀동사) 흐려지다
+- **문법:** `ir` + 현재분사 = 점진적 진행("점점 ~해 가다"). 재귀대명사 `se`는 조동사 앞에 위치 (se fueron difuminando = fueron difuminándose).
+- **표현:** `las líneas se difuminan` = (합법과 불법의) 경계가 모호해지다.
+- **시제:**
+  - `iba conociendo` → ir + conocer | 직설법 불완료과거 1인칭 단수 + 현재분사 | 과거의 점진적·반복적 과정(배경)이라 불완료과거 | ir 불완료과거 불규칙(iba)
+  - `se fueron difuminando` → ir + difuminarse | 직설법 단순과거 3인칭 복수 + 현재분사 | 점진적이었지만 결국 완결된 변화로 요약 → 단순과거 | ir 단순과거 불규칙(fueron)
+  - 비교: iba conociendo(불완료 = 진행되던 배경) vs se fueron difuminando(단순과거 = 끝난 결과까지 포함한 과정)
+  - `conociendo` → conocer | 현재분사 | 규칙
+  - `difuminando` → difuminar(se) | 현재분사 | 규칙
+
+### 6-81. **Fabián:** Así empezamos casi todos.
+- **해석:** 거의 다 그렇게 시작하지.
+- **주요 단어:** `casi todos` 거의 모두
+- **문법:** 주어 casi todos가 동사 뒤로 도치. 화자도 포함되어 1인칭 복수.
+- **시제:**
+  - `empezamos` → empezar | 직설법 현재 1인칭 복수 | 일반적 사실(누구나 그렇다)을 말하는 현재. 형태상 단순과거와 같지만 문맥상 일반론이라 현재로 해석 | e → ie는 nosotros에선 일어나지 않음
+
+### 6-82. **Fabián:** Nadie decide un día ser lo que soy yo ahora; simplemente vas cayendo, paso a paso.
+- **해석:** 어느 날 갑자기 지금의 나 같은 사람이 되기로 결심하는 사람은 없어. 그냥 한 걸음씩 빠져드는 거지.
+- **주요 단어:** `nadie` (대명사) 아무도 / `decidir` 결정하다 / `simplemente` 그저 / `caer` (동사) 떨어지다, 빠지다 / `paso a paso` 한 걸음씩
+- **문법:** ① `nadie`가 동사 앞에 오면 no 불필요. ② `lo que soy yo` = "내가 지금인 바(존재)". ③ `vas cayendo`: 일반 주어로서의 tú (영어 you처럼 '누구든'). ir + 현재분사 = 점진적 진행.
+- **표현:** 2인칭 단수로 일반론을 말하는 것은 스페인 구어에서 매우 흔함.
+- **시제:**
+  - `decide` → decidir | 직설법 현재 3인칭 단수 | 일반적 진리 | 규칙
+  - `ser` → 부정사 | decidir 뒤
+  - `soy` → ser | 직설법 현재 1인칭 단수 | 현재 신분·정체성 | 불규칙
+  - `vas cayendo` → ir + caer | 직설법 현재 2인칭 단수 + 현재분사 | 일반론 속 점진적 과정 | ir 불규칙(vas), 현재분사 cayendo (모음 사이 i → y)
+
+### 6-83. **Álvaro:** Es curioso escucharle hablar así, casi con nostalgia.
+- **해석:** 그렇게 거의 향수에 젖은 듯 말씀하시는 걸 들으니 신기하네요.
+- **주요 단어:** `curioso` (형용사) 흥미로운, 신기한 / `escuchar` 듣다 / `nostalgia` (명사, 여) 향수, 그리움
+- **문법:** ① `Es + 형용사 + 부정사` (진주어). ② 지각동사 `escuchar` + 목적어 + 부정사 = "~가 ~하는 것을 듣다". ③ `le`: usted를 가리키는 목적대명사. 원래 직접목적이라 lo가 문법적이지만, 스페인에서는 남성 인칭 직접목적에 le를 쓰는 **leísmo**가 허용됨.
+- **표현:** 다시 `usted`(escucharle)로 존대.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 현재의 느낌 | 불규칙
+  - `escucharle` → escuchar | 부정사 | 진주어
+  - `hablar` → 부정사 | 지각동사 뒤
+
+### 6-84. **Fabián:** A veces me pregunto qué habría pasado si mi padre no hubiera muerto tan pronto.
+- **해석:** 가끔 아버지가 그렇게 일찍 돌아가시지 않았다면 어떻게 됐을까 스스로 묻곤 해.
+- **주요 단어:** `preguntarse` 스스로 묻다 (앞에서 설명) / `pasar` (동사) 일어나다 / `pronto` (부사) 일찍
+- **문법:** 6-36과 같은 과거 사실 반대 가정 (si + 접속법 과거완료 / 조건법 완료). `qué habría pasado`는 간접의문문.
+- **표현:** 6-36과 거의 같은 말을 반복 — 이 기억이 파비안에게 얼마나 큰 상처인지 드러냄.
+- **시제:**
+  - `me pregunto` → preguntarse | 직설법 현재 1인칭 단수 | 현재의 습관(a veces) | 규칙
+  - `habría pasado` → pasar | 조건법 완료 3인칭 단수 | 실현되지 않은 과거의 가상 결과 | haber 조건법 + pasado
+  - `hubiera muerto` → morir | 접속법 과거완료 3인칭 단수 | 과거 사실의 반대 가정 | 과거분사 불규칙 muerto
+
+### 6-85. **Fabián:** Pero, en fin, no sirve de nada darle vueltas.
+- **해석:** 하지만 뭐, 곱씹어 봐야 소용없지.
+- **주요 단어:** `en fin` 어쨌든, 뭐 / `darle vueltas (a algo)` (관용) 곱씹다, 계속 생각하다
+- **문법:** `darle`의 `le`는 '그 일'을 가리키는 간접목적어 (관용적으로 거의 고정). 부정사구가 servir의 주어.
+- **표현:** `darle vueltas a algo` = 어떤 일을 머릿속으로 되풀이해 생각하다. `No le des más vueltas` = "더 고민하지 마".
+- **시제:**
+  - `sirve` → servir | 직설법 현재 3인칭 단수 | 일반적 판단 | e → i
+  - `darle` → dar | 부정사 | 주어 역할
+
+### 6-86. **Álvaro:** Es humano, de todas formas.
+- **해석:** 그래도 인간적인 거죠.
+- **문법:** 특이사항 없음 (6-38에서 설명)
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 일반적 진리 | 불규칙
+
+### 6-87. **Fabián:** (Cambia el tono, más serio) Dime, Diego: si un día descubrieras que alguien cercano a mí me estuviera engañando, ¿me lo dirías?
+- **해석:** (말투를 바꾸어 더 진지하게) 말해 봐, 디에고. 만약 언젠가 내 측근 중 누군가가 날 속이고 있다는 걸 알게 된다면, 나한테 말해 주겠나?
+- **주요 단어:** `cambiar` 바꾸다 / `tono` (명사, 남) 어조 / `descubrir` (동사) 알아내다, 발견하다 / `cercano a` ~에 가까운 / `engañar` (동사) 속이다
+- **문법:** ① **현재·미래의 비현실/가능성이 낮은 가정**: si + 접속법 불완료과거(descubrieras), 조건법(dirías). ② 종속절 `que ... me estuviera engañando`: 가정문 안의 내용이라 접속법 과거 진행형으로 시제 일치 (직설법 estaba engañando도 가능하나 가정적 뉘앙스를 강조). ③ `me lo dirías`: 간접 me → 직접 lo 순서.
+- **시제:**
+  - `Cambia` → cambiar | 직설법 현재 3인칭 단수 (지문) | 지문은 현재 | 규칙
+  - `Dime` → decir | 명령형 tú | 요청 | 불규칙 di
+  - `descubrieras` → descubrir | 접속법 불완료과거 2인칭 단수 (-ra형) | 가능성 낮은 가정의 si절 | 규칙 (descubrieron → descubrie- + ras)
+  - `estuviera engañando` → estar + engañar | 접속법 불완료과거 3인칭 단수 + 현재분사 (진행형) | 가정 속에서 진행 중인 행위 | estar 불규칙(estuv-)
+  - `engañando` → engañar | 현재분사 | 규칙
+  - `dirías` → decir | 조건법 단순형 2인칭 단수 | 가정문의 귀결절 | 불규칙 어간 dir- (diría)
+
+### 6-88. **Álvaro:** (Con cautela) Por supuesto.
+- **해석:** (조심스럽게) 물론이죠.
+- **주요 단어:** `cautela` (명사, 여) 신중함, 조심 / `por supuesto` 물론
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 6-89. **Álvaro:** La lealtad tiene que ser mutua para que esto funcione.
+- **해석:** 이게 잘 돌아가려면 충성은 서로 간의 것이어야 하죠.
+- **주요 단어:** `mutuo` (형용사) 상호의 / `para que` ~하도록
+- **문법:** ① 의무 `tener que` + 부정사. ② `para que` + 접속법: 목적을 나타내는 para que 뒤는 **항상** 접속법.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 일반적 원칙 | 불규칙
+  - `ser` → 부정사 | tener que 뒤
+  - `funcione` → funcionar | 접속법 현재 3인칭 단수 | para que 뒤 | 규칙
+
+### 6-90. **Fabián:** Buena respuesta.
+- **해석:** 좋은 대답이군.
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 6-91. **Fabián:** Espero que la cumplas si el momento llega.
+- **해석:** 그때가 오면 그 말을 지키길 바라.
+- **주요 단어:** `esperar` 바라다 / `cumplir` (동사) (약속을) 지키다, 이행하다 / `momento` (명사, 남) 때, 순간
+- **문법:** ① `esperar que` + 접속법 (희망). ② `la` = la respuesta(방금 한 대답/약속). ③ `si` + 직설법 현재: 실현 가능한 조건 (si 뒤엔 접속법 현재를 쓰지 않음).
+- **시제:**
+  - `Espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 희망 | 규칙
+  - `cumplas` → cumplir | 접속법 현재 2인칭 단수 | 희망 동사 뒤라 접속법 | 규칙
+  - `llega` → llegar | 직설법 현재 3인칭 단수 | 실현 가능한 조건의 si절은 직설법 현재 | 규칙
+
+### 6-92. **Álvaro:** No tendrá que preocuparse por eso.
+- **해석:** 그 점은 걱정하실 필요 없을 거예요.
+- **주요 단어:** `preocuparse por` ~를 걱정하다
+- **문법:** `tener que` + 부정사의 부정형 = "~할 필요 없다". 재귀대명사 se가 usted 주어에 맞춤.
+- **시제:**
+  - `tendrá` → tener | 직설법 미래 3인칭 단수 (usted) | 미래에 대한 확신·약속 | 불규칙 미래 어간 tendr-
+  - `preocuparse` → 부정사 | tener que 뒤
+
+### 6-93. **Fabián:** Eso espero, de verdad.
+- **해석:** 진심으로 그러길 바라.
+- **주요 단어:** `de verdad` 정말로
+- **문법:** `Eso espero` = 목적어 eso를 앞으로 뺀 강조 어순 ("그러길 바란다").
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 희망 | 규칙
+
+### 6-94. **Fabián:** (Levanta la copa) Brindemos, por los negocios largos y sin sorpresas.
+- **해석:** (잔을 든다) 건배하지, 오래가고 뒤탈 없는 거래를 위하여.
+- **주요 단어:** `levantar` (동사) 들어 올리다 / `copa` (명사, 여) (와인)잔 / `brindar por` ~를 위해 건배하다 / `sorpresa` (명사, 여) 뜻밖의 일
+- **문법:** nosotros 명령형(접속법 현재 1인칭 복수)으로 "~하자". 건배 대상은 `por`.
+- **표현:** `sin sorpresas` = 예상 밖의 일(배신 등) 없이 — 은근한 경고.
+- **시제:**
+  - `Levanta` → levantar | 직설법 현재 3인칭 단수 (지문) | 지문은 현재 | 규칙
+  - `Brindemos` → brindar | 명령형 1인칭 복수 (접속법 현재형) | 함께 하자는 권유 | 규칙
+
+### 6-95. **Álvaro:** Por eso mismo.
+- **해석:** 바로 그걸 위해.
+- **문법:** `por`는 건배의 대상. `mismo`는 강조 ("바로 그것").
+- **시제:**
+  - 동사 없음
+
+### 6-96. **Álvaro:** Salud, Fabián.
+- **해석:** 건배, 파비안.
+- **주요 단어:** `salud` (명사, 여) 건강 → 건배
+- **표현:** `¡Salud!` = 건배할 때, 재채기한 사람에게 하는 말.
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 6-97. **Fabián:** Salud.
+- **해석:** 건배.
+- **문법:** 특이사항 없음 (앞에서 설명)
+- **시제:**
+  - 동사 없음
+
+### 6-98. **Fabián:** Y gracias por la compañía esta noche, Diego.
+- **해석:** 그리고 오늘 밤 함께해 줘서 고마워, 디에고.
+- **주요 단어:** `compañía` (명사, 여) 동행, 함께함
+- **문법:** `gracias por` + 명사. `esta noche` = 오늘 밤 (전치사 없이 시간 부사구).
+- **시제:**
+  - 동사 없음
+
+### 6-99. **Fabián:** Ha sido más agradable de lo que esperaba.
+- **해석:** 생각했던 것보다 즐거웠어.
+- **주요 단어:** `agradable` (형용사) 즐거운, 기분 좋은
+- **문법:** 비교 대상이 절(내용)일 때 `más ... de lo que` + 절 (que가 아닌 de lo que).
+- **시제:**
+  - `Ha sido` → ser | 직설법 현재완료 3인칭 단수 | 방금 끝난 오늘 밤의 일을 현재와 연결해 평가 — 스페인식 '오늘의 일' 현재완료 | 과거분사 sido
+  - `esperaba` → esperar | 직설법 불완료과거 1인칭 단수 | 저녁 전에 품고 있던 기대(지속 상태) | 규칙
+
+### 6-100. **Álvaro:** Lo mismo digo.
+- **해석:** 저도 같은 마음이에요.
+- **주요 단어:** `lo mismo` 같은 것
+- **표현:** `Lo mismo digo` = "저도 마찬가지예요" (상대의 인사·감사에 그대로 답할 때).
+- **문법:** 목적어 lo mismo를 앞으로 낸 관용 어순.
+- **시제:**
+  - `digo` → decir | 직설법 현재 1인칭 단수 | 지금 하는 발화 | 불규칙: 1인칭 digo
+
+### 6-101. **Álvaro:** Me alegra que empecemos a entendernos mejor.
+- **해석:** 우리가 서로를 더 잘 이해하기 시작해서 기쁘네요.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `empezar a` + 부정사 ~하기 시작하다 / `entenderse` (상호 재귀) 서로 이해하다
+- **문법:** ① `Me alegra que` + 접속법: 감정 표현 뒤 → 접속법 (실제 사실이어도). ② `entendernos`: 상호의 재귀 (서로).
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재 3인칭 단수 | 현재의 감정 (que절이 주어) | 규칙
+  - `empecemos` → empezar | 접속법 현재 1인칭 복수 | 감정 동사 뒤라 접속법 | 철자 변화 z → c (e 앞): empecemos; nosotros형이라 e → ie 없음
+  - `entendernos` → entenderse | 부정사 | empezar a 뒤
+
+### 6-102. **Fabián:** Empezamos, sí.
+- **해석:** 시작은 했지, 그래.
+- **문법:** 앞 문장의 empecemos를 받아 직설법으로 사실 확인.
+- **시제:**
+  - `Empezamos` → empezar | 직설법 현재 1인칭 복수 | "(지금) 시작하고 있다"는 현재 사실 확인. 형태가 단순과거와 같으나 문맥상 현재 | 규칙적 형태 (nosotros)
+
+### 6-103. **Fabián:** Aunque el camino todavía es largo.
+- **해석:** 하지만 아직 갈 길은 멀어.
+- **주요 단어:** `camino` (명사, 남) 길 / `largo` (형용사) 긴 ※ '큰'이 아님
+- **문법:** `aunque` + 직설법: 실제 사실에 대한 양보·보충이라 직설법.
+- **표현:** `El camino es largo` = 갈 길이 멀다 — 아직 완전히 믿지 않는다는 경고.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 상황 평가 (길의 속성) | 불규칙

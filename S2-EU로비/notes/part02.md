@@ -409,3 +409,205 @@
   - `encantaría` → encantar | 조건법 단순 3인칭 단수 | 가정적 제안에 대한 공손한 수락이라 조건법 | 규칙
   - 비교: `Me encanta`(현재: 지금 좋아함) vs `Me encantaría`(제안된 일에 대해 "그러면 좋겠다")
 
+## 장면 7. 호텔방에서의 걱정과 약속
+> 그날 밤, 브뤼셀의 호텔방에서 알바로와 카밀라가 하루 성과를 공유하며 서로를 걱정합니다.
+
+### 7-1. **Álvaro:** (En la habitación del hotel) ¿Cómo ha ido con Casals?
+- **해석:** (호텔방에서) 카살스와는 어떻게 됐어?
+- **주요 단어:** `habitación` (명사) 방 / `ir` (동사) 가다·(일이) 진행되다
+- **문법:** `¿Cómo ha ido?` / `¿Cómo te ha ido?` = 일이 어떻게 됐는지 묻는 표현. ir가 "진행되다"의 뜻.
+- **표현:** 스페인식 구어 "¿Qué tal ha ido?"와 같은 뜻.
+- **시제:**
+  - `ha ido` → ir | 직설법 현재완료 3인칭 단수 | 오늘 있었던 일을 묻는 것이라 스페인식으로 현재완료 | ir는 불규칙 동사지만 과거분사 ido는 규칙형
+  - 비교: 중남미에서는 흔히 `¿Cómo fue?`(단순과거)
+
+### 7-2. **Camila:** Bien, quizás demasiado bien.
+- **해석:** 잘 됐어. 어쩌면 너무 잘.
+- **주요 단어:** `quizás` (부사) 어쩌면 / `demasiado` (부사) 지나치게
+- **문법:** 동사 생략 응답.
+- **시제:** 동사 없음
+
+### 7-3. **Camila:** Me ha invitado a un evento privado con sus clientes.
+- **해석:** 자기 고객들이 오는 비공개 행사에 나를 초대했어.
+- **주요 단어:** `invitar a` (동사구) ~에 초대하다 / `privado` (형용사) 비공개의
+- **문법:** `me`는 직접목적어(나를), 완료형에서 haber 앞에 위치. `invitar a + 장소/행사`.
+- **시제:**
+  - `ha invitado` → invitar | 직설법 현재완료 3인칭 단수 | 오늘 일어난 일이라 현재완료(스페인식) | 규칙
+
+### 7-4. **Álvaro:** (Preocupado) Eso podría ser justo lo que necesitamos, o una trampa demasiado obvia.
+- **해석:** (걱정하며) 그게 우리한테 딱 필요한 걸 수도 있고, 아니면 너무 뻔한 함정일 수도 있어.
+- **주요 단어:** `preocupado` (형용사) 걱정하는 / `justo` (부사) 딱·바로 / `trampa` (명사) 함정 / `obvio` (형용사) 뻔한
+- **문법:** `lo que` = ~하는 것(중성 관계사). `o` = 또는.
+- **시제:**
+  - `Preocupado` → preocupar | 과거분사 형용사 | 지문에서 알바로의 상태(남성 단수)
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 가능성·추측("~일 수도 있다")이라 조건법 | 불규칙 어간 podr-
+  - `ser` → ser | 부정사 | poder 뒤 원형
+  - `necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요 | 규칙
+
+### 7-5. **Camila:** Lo sé.
+- **해석:** 알아.
+- **주요 단어:** `saber` (동사) 알다
+- **문법:** `lo`는 앞 내용 전체를 받는 중성 대명사.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재의 앎 | 불규칙 (saber → sé, 강세 부호로 재귀대명사 se와 구별)
+
+### 7-6. **Camila:** Aunque, con lo que vi hoy, creo que de verdad confía en mi tapadera.
+- **해석:** 그래도 오늘 본 걸로는, 그 사람이 정말로 내 위장 신분을 믿는 것 같아.
+- **주요 단어:** `ver` (동사) 보다 / `confiar en` (동사구) ~을 믿다 / `tapadera` (명사) 위장·(잠입용) 가짜 신분 / `de verdad` (부사구) 정말로
+- **문법:** `con lo que vi` = 내가 본 것으로 판단하건대. 긍정 `creo que` + 직설법.
+- **표현:** `tapadera` = 위장 신분·은폐 수단 (스파이·잠입 수사에서 자주 쓰는 말).
+- **시제:**
+  - `vi` → ver | 직설법 단순과거 1인칭 단수 | 식사 자리라는 끝난 장면을 하나의 완결된 사건으로 봄 | 불규칙 (vi, viste, vio — 강세 부호 없음)
+  - 비교: 스페인 표준에서는 `hoy`와 함께 흔히 현재완료(`he visto`)를 쓰지만, 끝난 특정 장면으로 느끼면 단순과거도 쓰임
+  - `creo` → creer | 직설법 현재 1인칭 단수 | 현재 판단
+  - `confía` → confiar | 직설법 현재 3인칭 단수 | 현재 상태 | 철자 변화: i에 강세 (confío, confías, confía)
+
+### 7-7. **Álvaro:** ¿Qué exactamente te dijo, sobre “incentivos adicionales”?
+- **해석:** "추가 인센티브"에 대해서 정확히 뭐라고 했어?
+- **주요 단어:** `decir` (동사) 말하다 / `incentivo` (명사) 인센티브
+- **문법:** `te`는 간접목적어(너에게), 활용 동사 앞.
+- **시제:**
+  - `dijo` → decir | 직설법 단순과거 3인칭 단수 | 대화 중 특정 순간의 발언이라는 완결된 행위 | 불규칙 어간 dij- (dije, dijiste, dijo; 3인칭 복수 dijeron)
+
+### 7-8. **Camila:** Nada concreto todavía, pero dejó claro que existen formas discretas de influir en la sensibilidad de ciertos eurodiputados.
+- **해석:** 아직 구체적인 건 없어. 하지만 특정 유럽의원들의 성향에 영향을 줄 은밀한 방법이 있다는 건 분명히 했어.
+- **주요 단어:** `dejar claro` (숙어) 분명히 하다 / `existir` (동사) 존재하다 / `influir en` (동사구) ~에 영향을 미치다
+- **문법:** `dejar claro que` + 직설법(사실 확인). 주절이 과거인데 종속절이 현재(`existen`)인 것은 지금도 유효한 사실이기 때문(시제 일치 예외).
+- **시제:**
+  - `dejó` → dejar | 직설법 단순과거 3인칭 단수 | 대화 중의 완결된 행위 | 규칙
+  - `existen` → existir | 직설법 현재 3인칭 복수 | 현재도 유효한 사실 | 규칙
+  - 비교: `existían`(불완료과거)이라면 과거 시점 기준으로 보고하는 느낌
+  - `influir` → influir | 부정사 | de 뒤 원형 | 현재형은 y 삽입 (influyo, influye)
+
+### 7-9. **Álvaro:** Eso confirma el patrón de sobornos, aunque todavía sin pruebas directas.
+- **해석:** 그러면 뇌물 패턴이 확인되는 셈이야. 아직 직접적인 증거는 없지만.
+- **주요 단어:** `confirmar` (동사) 확인하다 / `patrón` (명사) 패턴 / `soborno` (명사) 뇌물 / `prueba` (명사) 증거
+- **문법:** `aunque` 뒤에 동사 없이 전치사구가 옴(생략).
+- **시제:**
+  - `confirma` → confirmar | 직설법 현재 3인칭 단수 | 현재 판단 | 규칙
+
+### 7-10. **Camila:** Exacto.
+- **해석:** 맞아.
+- **주요 단어:** `exacto` (형용사) 정확한 → 응답어 "바로 그거야"
+- **시제:** 동사 없음
+
+### 7-11. **Camila:** El evento privado podría darnos justo eso.
+- **해석:** 비공개 행사가 바로 그걸 줄 수도 있어.
+- **주요 단어:** `dar` (동사) 주다
+- **문법:** `darnos` — 부정사 + 간접목적어 nos. `eso` = 직접 증거.
+- **시제:**
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 가능성 (앞에서 설명)
+  - `darnos` → dar | 부정사 | poder 뒤 원형
+
+### 7-12. **Álvaro:** (La mira con preocupación genuina) Camila, después de todo lo que pasamos con Rigoberto, me cuesta verte otra vez tan cerca del peligro.
+- **해석:** (진심으로 걱정스럽게 그녀를 바라본다) 카밀라, 리고베르토 일로 그 모든 걸 겪고 나서, 네가 또 이렇게 위험 가까이에 있는 걸 보는 게 힘들어.
+- **주요 단어:** `genuino` (형용사) 진정한 / `pasar` (동사) 겪다 / `costar` (동사) (비용이) 들다, 힘들다 / `peligro` (명사) 위험
+- **문법:** `me cuesta + 부정사` = ~하기가 힘들다 (gustar형). `verte` — 부정사 + te. `después de + 명사`.
+- **표현:** `todo lo que pasamos` = 우리가 겪은 모든 것 (시즌 1 사건 암시).
+- **시제:**
+  - `mira` → mirar | 직설법 현재 3인칭 단수 | 지문 (앞에서 설명)
+  - `pasamos` → pasar | 직설법 단순과거 1인칭 복수 | 끝난 과거 사건 | 규칙 (1인칭 복수는 현재형과 모양이 같아 문맥으로 구별 — después de가 과거임을 알려 줌)
+  - `cuesta` → costar | 직설법 현재 3인칭 단수 | 지금의 감정 | 불규칙: o→ue
+  - `verte` → ver | 부정사 | 주어 역할 원형
+
+### 7-13. **Camila:** (Le toma la mano) Lo entiendo.
+- **해석:** (그의 손을 잡는다) 이해해.
+- **주요 단어:** `tomar` (동사) 잡다 / `entender` (동사) 이해하다
+- **문법:** `Le toma la mano` — 신체 부위는 소유형용사 대신 정관사 la + 간접목적어 le(그의).
+- **시제:**
+  - `toma` → tomar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `entiendo` → entender | 직설법 현재 1인칭 단수 | 현재 이해 | 불규칙: e→ie
+
+### 7-14. **Camila:** Pero esta vez es diferente, Álvaro.
+- **해석:** 하지만 이번엔 달라, 알바로.
+- **주요 단어:** `vez` (명사) 번 / `diferente` (형용사) 다른
+- **문법:** `ser diferente` — 상황의 본질적 차이를 말해 ser.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 상황 평가
+
+### 7-15. **Camila:** Elijo estar aquí, con los ojos abiertos, y contigo cerca.
+- **해석:** 난 눈을 똑바로 뜨고, 네가 곁에 있는 상태로 여기 있기를 선택한 거야.
+- **주요 단어:** `elegir` (동사) 선택하다 / `abierto` (형용사, abrir의 과거분사) 열린 / `contigo` (대명사) 너와 함께
+- **문법:** `elegir + 부정사`. `contigo` = con + ti의 특수형.
+- **표현:** `con los ojos abiertos` = 위험을 알고서 (눈을 뜬 채로).
+- **시제:**
+  - `Elijo` → elegir | 직설법 현재 1인칭 단수 | 현재의 의지적 선택 | 불규칙: e→i + 철자 g→j
+  - `estar` → estar | 부정사 | elegir 뒤 원형, 위치를 나타내므로 estar
+  - `abiertos` → abrir | 불규칙 과거분사 (abrir → abierto) | 형용사로 ojos(남성 복수)에 일치
+
+### 7-16. **Álvaro:** Eso no hace que me preocupe menos.
+- **해석:** 그렇다고 내가 덜 걱정되는 건 아니야.
+- **주요 단어:** `hacer que` (동사구) ~하게 만들다 / `preocuparse` (재귀동사) 걱정하다
+- **문법:** 사역 `hacer que` + **접속법**. 재귀동사 preocuparse의 me.
+- **시제:**
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | 현재 | 불규칙(1인칭 hago)
+  - `preocupe` → preocuparse | 접속법 현재 1인칭 단수 | hacer que(사역) 뒤라 접속법 | 규칙
+
+### 7-17. **Camila:** (Sonríe con ternura) Lo sé.
+- **해석:** (다정하게 웃는다) 알아.
+- **주요 단어:** `ternura` (명사) 다정함
+- **문법:** 7-5와 같은 구조.
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 | 지문 (앞에서 설명)
+  - `sé` → saber | 직설법 현재 1인칭 단수 (앞에서 설명)
+
+### 7-18. **Camila:** Y eso, de alguna forma extraña, me hace sentir más segura, no menos.
+- **해석:** 그리고 그게 이상하게도 날 덜이 아니라 더 안심하게 만들어.
+- **주요 단어:** `extraño` (형용사) 이상한 / `sentir(se)` (동사) 느끼다 / `seguro` (형용사) 안전한·안심한
+- **문법:** 사역 `hacer + 부정사` (주어 같을 필요 없음; me가 hacer의 목적어). 7-16의 hacer que + 접속법과 비교. `segura`는 화자(여성)에 일치.
+- **표현:** `de alguna forma` = 어떻게 보면·어쩐지.
+- **시제:**
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | 현재
+  - `sentir` → sentir | 부정사 | 사역 hacer 뒤 원형 (현재형 e→ie: siento)
+
+### 7-19. **Álvaro:** (La abraza brevemente) Prométeme que en cuanto algo se sienta mal, saldrás de inmediato.
+- **해석:** (그녀를 잠시 안는다) 뭔가 느낌이 안 좋으면 바로 빠져나오겠다고 약속해 줘.
+- **주요 단어:** `abrazar` (동사) 안다 / `prometer` (동사) 약속하다 / `en cuanto` (접속사) ~하자마자 / `salir` (동사) 나가다 / `de inmediato` (부사구) 즉시
+- **문법:** 긍정 명령 + 대명사 결합(`prométeme`, 강세 부호 추가). **`en cuanto` + 접속법** — 미래의 일을 가리키는 시간절은 접속법. 귀결절은 미래형.
+- **표현:** `sentirse mal` = 느낌이 좋지 않다, 불길하다.
+- **시제:**
+  - `abraza` → abrazar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `Prométeme` → prometer | 명령법 tú 긍정형 | 친밀한 요청 | 규칙 (prometer → promete + me)
+  - `se sienta` → sentirse | 접속법 현재 3인칭 단수 | 아직 일어나지 않은 미래의 시점이라 en cuanto 뒤 접속법 | 불규칙: e→ie (sienta). ※ sentarse(앉다)의 `se sienta`(직설법)와 형태가 같으니 문맥 주의
+  - `saldrás` → salir | 직설법 미래 2인칭 단수 (futuro simple) | 약속 내용으로서 미래 행동 | 불규칙 어간 saldr-
+  - 비교: `en cuanto algo se siente mal`(직설법)이면 습관적 사실 "~할 때마다"
+
+### 7-20. **Camila:** Lo prometo.
+- **해석:** 약속할게.
+- **주요 단어:** `prometer` (동사) 약속하다
+- **문법:** lo = 앞의 약속 내용.
+- **시제:**
+  - `prometo` → prometer | 직설법 현재 1인칭 단수 | 말하는 순간 이루어지는 행위(수행문) | 규칙
+
+### 7-21. **Camila:** Igual que tú me lo prometiste, la última vez.
+- **해석:** 지난번에 네가 나한테 약속했던 것처럼.
+- **주요 단어:** `igual que` (접속사구) ~와 마찬가지로 / `último` (형용사) 지난·마지막의
+- **문법:** 이중 대명사 `me lo` (간접 me + 직접 lo) 순서.
+- **시제:**
+  - `prometiste` → prometer | 직설법 단순과거 2인칭 단수 | "지난번"이라는 현재와 단절된 특정 과거 사건이라 단순과거 | 규칙
+
+### 7-22. **Álvaro:** (Sonríe, recordando) Y aquí seguimos, los dos.
+- **해석:** (추억하며 미소 짓는다) 그리고 우리 둘 다 여전히 여기 있지.
+- **주요 단어:** `recordar` (동사) 기억하다·회상하다 / `seguir` (동사) 계속 ~하다·여전히 있다
+- **문법:** `seguir + 장소` = 여전히 ~에 있다. `los dos` = 우리 둘.
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 | 지문 (앞에서 설명)
+  - `recordando` → recordar | 현재분사 (gerundio) | 미소 짓는 동안 동시에 일어나는 동작
+  - `seguimos` → seguir | 직설법 현재 1인칭 복수 | 지금까지 이어지는 상태 | seguir는 e→i 불규칙이지만 nosotros형은 규칙 모양 (sigo, sigues… seguimos)
+
+### 7-23. **Camila:** Los dos.
+- **해석:** 우리 둘.
+- **문법:** 앞 말을 되받은 명사구.
+- **시제:** 동사 없음
+
+### 7-24. **Camila:** Eso es lo único que necesito recordar, cuando las cosas se ponen difíciles.
+- **해석:** 상황이 힘들어질 때 내가 기억해야 할 건 그것뿐이야.
+- **주요 단어:** `lo único` (명사구) 유일한 것 / `recordar` (동사) 기억하다 / `ponerse difícil` (동사구) 어려워지다
+- **문법:** `lo único que` + 직설법. **`cuando` + 직설법** — 일반적·반복적 상황("~할 때면")이라 직설법.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 일반적 사실
+  - `recordar` → recordar | 부정사 | necesitar 뒤 원형 (현재형 o→ue: recuerdo)
+  - `se ponen` → ponerse | 직설법 현재 3인칭 복수 | 반복되는 상황의 일반론 | poner 1인칭 pongo 불규칙
+  - 비교: `cuando las cosas se pongan difíciles`(접속법)면 "앞으로 힘들어지면"이라는 특정 미래
+

@@ -416,3 +416,305 @@
 - **문법:** 비교 구문 뒤 `nadie`: 비교 대상 뒤에서 부정어가 "누구(에게든)"의 뜻. `más de lo que`.
 - **시제:**
   - `he confiado` → confiar | 직설법 현재완료 pretérito perfecto compuesto, 1인칭 단수 | "몇 년 동안 지금까지"의 경험을 현재까지 포함하는 기간으로 보므로 현재완료. 비교: 끝난 과거 기간이면 단순과거 | 규칙
+
+## 장면 18. 진짜 임무를 털어놓다
+> 며칠 후, 조용한 순간에 알바로가 카밀라에게 자신의 진짜 임무를 털어놓습니다.
+
+### 18-1. **Álvaro:** (En un lugar apartado, de noche) Camila, tengo que contarle algo importante, y necesito que confíe en mí hasta el final.
+- **해석:** (밤, 외딴 곳에서) 카밀라, 중요한 걸 말해야 해요. 그리고 끝까지 날 믿어 줘야 해요.
+- **주요 단어:** `apartado` (형용사) 외딴, 떨어진 / `de noche` 밤에 / `contar` (동사) 이야기하다 / `hasta el final` 끝까지
+- **문법:** `tener que + 부정사` 의무. `necesitar que + 접속법` (요구·필요 뒤 주어가 바뀌면 접속법). 전치사 뒤 `mí` (강세 있음).
+- **시제:**
+  - `apartado` → apartar | 과거분사 participio (형용사) | 장소 묘사 | 규칙
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | 현재의 의무 | 불규칙 (tengo)
+  - `contarle` → contar | 부정사 + le | tener que 뒤 | 동사는 o→ue
+  - `necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재의 필요 | 규칙
+  - `confíe` → confiar | 접속법 현재 presente de subjuntivo, 3인칭 단수 | 필요·요구(necesitar que) 뒤라 접속법 | 강세 불규칙 (confíe)
+
+### 18-2. **Camila:** (Con cautela) Me está asustando un poco, la verdad.
+- **해석:** (조심스럽게) 솔직히 좀 무섭네요.
+- **주요 단어:** `cautela` (명사, 여성) 조심 / `asustar` (동사) 겁주다 / `la verdad` 솔직히
+- **문법:** `estar + 현재분사` 진행형. 대명사는 estar 앞 (`me está asustando` = `está asustándome`).
+- **표현:** 문장 끝의 `la verdad` "솔직히 말해서" — 구어체.
+- **시제:**
+  - `está asustando` → asustar | 직설법 현재진행 (estar 현재 + gerundio), 3인칭 단수 | 지금 이 순간 진행 중인 감정 유발 | estar 불규칙, asustando 규칙
+
+### 18-3. **Álvaro:** No soy marinero.
+- **해석:** 나는 선원이 아니에요.
+- **주요 단어:** `marinero` (명사, 남성) 선원
+- **문법:** 직업은 ser, 관사 생략 (`soy marinero`).
+- **시제:**
+  - `soy` → ser | 직설법 현재, 1인칭 단수 | 정체·직업 | 불규칙
+
+### 18-4. **Álvaro:** Trabajo para el gobierno, investigando esta organización desde dentro.
+- **해석:** 정부를 위해 일하고 있어요, 이 조직을 내부에서 조사하면서요.
+- **주요 단어:** `gobierno` (명사, 남성) 정부 / `investigar` (동사) 조사하다 / `organización` (명사, 여성) 조직 / `desde dentro` 내부에서
+- **문법:** `para` 수혜자·고용주 ("~을 위해"). 현재분사로 방식·동시 행위 표현.
+- **시제:**
+  - `Trabajo` → trabajar | 직설법 현재, 1인칭 단수 | 현재의 직업·지속 상태 | 규칙
+  - `investigando` → investigar | 현재분사 gerundio | 일하는 방식을 부연 | 규칙
+
+### 18-5. **Camila:** (Se queda helada) ¿Todo esto... ha sido una mentira?
+- **해석:** (얼어붙는다) 이 모든 게... 거짓말이었어요?
+- **주요 단어:** `quedarse` (재귀동사) ~한 상태가 되다 / `helado` (형용사) 얼어붙은 / `mentira` (명사, 여성) 거짓말
+- **문법:** `quedarse + 형용사` 상태 변화 ("~하게 되다").
+- **표현:** `quedarse helado/a` 충격으로 얼어붙다.
+- **시제:**
+  - `queda` (se) → quedarse | 직설법 현재, 3인칭 단수 | 지문 | 규칙
+  - `helada` → helar | 과거분사 participio (형용사, 여성) | 상태 | 규칙 (helar 자체는 e→ie: hiela)
+  - `ha sido` → ser | 직설법 현재완료 pretérito perfecto compuesto, 3인칭 단수 | 지금까지 이어져 온 관계 전체를 현재 시점에서 평가하므로 현재완료 | 과거분사 sido (규칙형)
+
+### 18-6. **Álvaro:** La tapadera sí.
+- **해석:** 위장 신분은 그래요.
+- **주요 단어:** `tapadera` (명사, 여성) 위장, 은폐 수단
+- **문법:** `ha sido una mentira` 생략. `sí` 로 긍정.
+- **시제:** 동사 없음
+
+### 18-7. **Álvaro:** Pero lo que siento por usted, no.
+- **해석:** 하지만 당신에 대한 내 감정은 아니에요.
+- **주요 단어:** `sentir por` ~에 대해 (감정을) 느끼다
+- **문법:** `lo que` "~하는 것". 생략 구조 (`no ha sido una mentira`).
+- **시제:**
+  - `siento` → sentir | 직설법 현재, 1인칭 단수 | 지금 느끼는 감정 | 불규칙 e→ie
+
+### 18-8. **Álvaro:** Eso es completamente real.
+- **해석:** 그건 완전히 진짜예요.
+- **주요 단어:** `real` (형용사) 진짜의, 실제의
+- **문법:** 본질적 성격 → ser.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 본질 규정 | 불규칙
+
+### 18-9. **Camila:** (Con la voz temblorosa) ¿Y ahora qué?
+- **해석:** (떨리는 목소리로) 그럼 이제 어떻게 되는 거죠?
+- **주요 단어:** `ahora` (부사) 이제
+- **문법:** 동사 생략 의문문.
+- **표현:** `¿Y ahora qué?` "그래서 이제 어쩌라고요/어떻게 돼요?" 관용적 표현.
+- **시제:** 동사 없음
+
+### 18-10. **Camila:** ¿Va a detenerme a mí también?
+- **해석:** 저도 체포할 건가요?
+- **주요 단어:** `detener` (동사) 체포하다 / `también` (부사) ~도
+- **문법:** `me ... a mí` 중복 강조. 부정사 뒤 대명사.
+- **시제:**
+  - `Va` → ir | 직설법 현재, 3인칭 단수(usted) | ir a + 부정사로 가까운 미래·의도 질문 | 불규칙
+  - `detenerme` → detener | 부정사 + me | 동사는 tener 계열 불규칙
+
+### 18-11. **Álvaro:** No si me ayuda a hacer esto bien.
+- **해석:** 당신이 이 일을 제대로 하도록 나를 도와준다면 아니에요.
+- **주요 단어:** `ayudar a + 부정사` ~하는 것을 돕다
+- **문법:** `No` (체포하지 않는다) + 조건절. 실현 가능한 조건 → si + 직설법 현재.
+- **시제:**
+  - `ayuda` → ayudar | 직설법 현재, 3인칭 단수 | si 조건절은 직설법 현재 | 규칙
+  - `hacer` → hacer | 부정사 | ayudar a 뒤
+
+### 18-12. **Álvaro:** Necesito pruebas sólidas contra Rigoberto, y una forma de sacarla a usted de aquí, con su hermano a salvo.
+- **해석:** 리고베르토에 대한 확실한 증거가 필요해요. 그리고 당신 동생을 안전하게 지키면서 당신을 여기서 빼낼 방법도요.
+- **주요 단어:** `prueba` (명사, 여성) 증거 / `sólido` (형용사) 확실한 / `sacar` (동사) 꺼내다, 빼내다 / `hermano` (명사, 남성) 형제 / `a salvo` 안전하게
+- **문법:** `la ... a usted` 중복 강조(usted 여성). 부정사 뒤 대명사 `sacarla`.
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재 필요 | 규칙
+  - `sacarla` → sacar | 부정사 + la | forma de 뒤 | 규칙
+
+### 18-13. **Camila:** (Procesando, con lágrimas) Llevo tres años soñando con que alguien dijera exactamente eso.
+- **해석:** (받아들이며, 눈물을 머금고) 3년 동안 누군가 딱 그 말을 해 주기를 꿈꿔 왔어요.
+- **주요 단어:** `procesar` (동사) (정보·감정을) 처리하다, 소화하다 / `soñar con` ~을 꿈꾸다 / `alguien` 누군가
+- **문법:** `llevar + 기간 + 현재분사` "~동안 계속 ~해 오다". `soñar con que + 접속법` (소망).
+- **표현:** `Llevo tres años...` = `Hace tres años que sueño...`
+- **시제:**
+  - `Procesando` → procesar | 현재분사 gerundio | 지문 동시 동작 | 규칙
+  - `Llevo` → llevar | 직설법 현재, 1인칭 단수 | 과거부터 현재까지 계속되는 행위 (현재 포함이라 현재형) | 규칙
+  - `soñando` → soñar | 현재분사 gerundio | llevar + 기간 뒤 진행 | 동사는 o→ue (sueño), gerundio는 규칙
+  - `dijera` → decir | 접속법 과거 pretérito imperfecto de subjuntivo, 3인칭 단수 | 소망 뒤라 접속법; 3년간 품어 온 (과거에서 본) 비현실적 바람이라 과거형. 현재형 `diga`면 현재의 소망 | 불규칙 (단순과거 dijeron → dij- + -era, -iera 아닌 -era)
+
+### 18-14. **Álvaro:** Ahora es real.
+- **해석:** 이제 현실이에요.
+- **주요 단어:** `real` 앞에서 설명
+- **문법:** ser + 형용사.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 불규칙
+
+### 18-15. **Álvaro:** Pero necesito que confíe en mí completamente, y que actuemos con mucho cuidado.
+- **해석:** 하지만 날 완전히 믿어 줘야 해요. 그리고 우리 아주 조심스럽게 행동해야 해요.
+- **주요 단어:** `actuar` (동사) 행동하다 / `cuidado` (명사, 남성) 주의
+- **문법:** `necesitar que + 접속법` 두 번 (`que confíe`, `que actuemos`).
+- **시제:**
+  - `necesito` → necesitar | 직설법 현재 | 앞에서 설명
+  - `confíe` → confiar | 접속법 현재, 3인칭 단수 | 앞에서 설명
+  - `actuemos` → actuar | 접속법 현재 presente de subjuntivo, 1인칭 복수 | 필요 뒤라 접속법 | nosotros형은 강세 없음 (actúe, 하지만 actuemos)
+
+### 18-16. **Camila:** (Asiente, decidida) Le ayudaré.
+- **해석:** (결심한 듯 고개를 끄덕이며) 도울게요.
+- **주요 단어:** `asentir` (동사) 고개를 끄덕이다, 동의하다 / `decidido` (형용사) 결심한
+- **문법:** `ayudar`는 스페인에서 `le`(레이스모)도 흔히 씀. 표준으로는 직접목적어 `lo`.
+- **표현:** `Le ayudaré` 스페인식 le 사용.
+- **시제:**
+  - `Asiente` → asentir | 직설법 현재, 3인칭 단수 | 지문 | 불규칙 e→ie
+  - `decidida` → decidir | 과거분사 participio (형용사, 여성) | 상태 | 규칙
+  - `ayudaré` → ayudar | 직설법 단순미래 futuro simple, 1인칭 단수 | 결심·약속 | 규칙
+
+### 18-17. **Camila:** Con todo lo que tengo.
+- **해석:** 제가 가진 모든 걸 다해서요.
+- **주요 단어:** `todo lo que` ~하는 모든 것
+- **문법:** `todo lo que` 관계 구문.
+- **시제:**
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 소유 | 불규칙
+
+### 18-18. **Álvaro:** Gracias, Camila.
+- **해석:** 고마워요, 카밀라.
+- **주요 단어:** `gracias` 감사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 18-19. **Álvaro:** De verdad.
+- **해석:** 진심으로요.
+- **주요 단어:** `de verdad` 정말로, 진심으로
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 18-20. **Camila:** No me lo agradezca todavía.
+- **해석:** 아직 고마워하지 마세요.
+- **주요 단어:** `agradecer` 앞에서 설명
+- **문법:** 부정 명령 → 대명사 동사 앞 (`me lo`: 간접 + 직접 순서).
+- **시제:**
+  - `agradezca` → agradecer | 명령법 부정 (usted, 접속법 현재) | 앞에서 설명 (16-12)
+
+### 18-21. **Camila:** Esto todavía puede salir muy mal.
+- **해석:** 이건 아직 아주 나쁘게 끝날 수도 있어요.
+- **주요 단어:** `salir mal` 잘못되다 (앞에서 설명)
+- **문법:** `poder + 부정사` 가능성.
+- **시제:**
+  - `puede` → poder | 직설법 현재, 3인칭 단수 | 현재 시점의 가능성 | 불규칙 o→ue
+  - `salir` → salir | 부정사 | poder 뒤
+
+## 장면 19. 증거 확보 계획
+> 알바로와 카밀라가 함께 리고베르토를 무너뜨릴 증거 확보 계획을 세웁니다.
+
+### 19-1. **Álvaro:** Camila, ¿qué tipo de documentación tiene acceso usted, que pudiera servir como prueba definitiva?
+- **해석:** 카밀라, 결정적인 증거가 될 만한 어떤 종류의 서류에 접근할 수 있어요?
+- **주요 단어:** `documentación` (명사, 여성) 서류, 문서 / `acceso` (명사, 남성) 접근 / `servir como` ~로 쓰이다 / `definitivo` (형용사) 결정적인
+- **문법:** `tener acceso a algo`이므로 표준형은 `¿a qué tipo de documentación tiene acceso?` (구어에서 전치사 a 탈락). 관계절 `que pudiera servir`: 존재 여부가 불확실한 선행사 → 접속법.
+- **시제:**
+  - `tiene` → tener | 직설법 현재, 3인칭 단수(usted) | 현재 접근 권한 | 불규칙 e→ie
+  - `pudiera` → poder | 접속법 과거 pretérito imperfecto de subjuntivo, 3인칭 단수 | 불확실한(가정적) 선행사라 접속법; 과거형으로 가능성을 조심스럽게 표현 (현재형 `pueda`도 가능) | 불규칙 (pud- + -iera)
+  - `servir` → servir | 부정사 | poder 뒤 | 동사는 e→i (sirve)
+
+### 19-2. **Camila:** Todo, en realidad.
+- **해석:** 사실상 전부요.
+- **주요 단어:** `en realidad` 사실은
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 19-3. **Camila:** Los libros de cuentas completos, las rutas de todos los envíos, y los contactos de compradores en toda España.
+- **해석:** 전체 회계 장부, 모든 운송 경로, 그리고 스페인 전역의 구매자 연락처요.
+- **주요 단어:** `libro de cuentas` 회계 장부 / `ruta` (명사, 여성) 경로 / `envío` (명사, 남성) 발송, 운송 / `contacto` (명사, 남성) 연락처 / `comprador` (명사, 남성) 구매자
+- **문법:** 명사 나열. 형용사 `completos`가 `libros`와 일치.
+- **시제:** 동사 없음
+
+### 19-4. **Álvaro:** Eso sería suficiente para desmantelar la red entera, no solo esta parte.
+- **해석:** 그거면 이 일부만이 아니라 조직망 전체를 무너뜨리기에 충분하겠네요.
+- **주요 단어:** `suficiente` (형용사) 충분한 / `desmantelar` (동사) 해체하다 / `red` (명사, 여성) 망, 네트워크 / `entero` (형용사) 전체의
+- **문법:** `para + 부정사` 목적.
+- **시제:**
+  - `sería` → ser | 조건법 단순 condicional simple, 3인칭 단수 | "그걸 손에 넣는다면"이라는 가정의 결과 | 규칙형 (ser + ía)
+  - `desmantelar` → desmantelar | 부정사 | para 뒤 | 규칙
+
+### 19-5. **Camila:** El problema es que esos libros están en una caja fuerte, en el despacho de Rigoberto.
+- **해석:** 문제는 그 장부들이 리고베르토의 사무실 금고 안에 있다는 거예요.
+- **주요 단어:** `caja fuerte` 금고 / `despacho` (명사, 남성) 사무실, 집무실
+- **문법:** `El problema es que + 직설법`. 위치는 estar.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 불규칙
+  - `están` → estar | 직설법 현재, 3인칭 복수 | 위치 | 불규칙
+
+### 19-6. **Camila:** Solo él y yo tenemos acceso.
+- **해석:** 그와 저만 접근할 수 있어요.
+- **주요 단어:** `solo` (부사) ~만
+- **문법:** 주어 `él y yo` → 1인칭 복수 동사.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재 사실 | nosotros형은 규칙형
+
+### 19-7. **Álvaro:** ¿Podría copiar la información sin que se dé cuenta?
+- **해석:** 그가 눈치채지 못하게 정보를 복사할 수 있을까요?
+- **주요 단어:** `copiar` (동사) 복사하다 / `darse cuenta` 알아차리다
+- **문법:** `sin que + 접속법` (항상 접속법).
+- **시제:**
+  - `Podría` → poder | 조건법 단순, 3인칭 단수 | 가능성을 조심스럽게 묻는 공손·가정 | 불규칙 어간 podr-
+  - `copiar` → copiar | 부정사 | 규칙
+  - `dé` (se) → darse cuenta | 접속법 현재 presente de subjuntivo, 3인칭 단수 | sin que 뒤는 항상 접속법 | 불규칙 (dar → dé, 전치사 de와 구별하는 강세)
+
+### 19-8. **Camila:** Con tiempo, y mucho cuidado, sí.
+- **해석:** 시간을 들이고 아주 조심하면, 네, 할 수 있어요.
+- **주요 단어:** `tiempo` (명사, 남성) 시간
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 19-9. **Camila:** Necesitaría al menos una noche entera de acceso sin vigilancia.
+- **해석:** 적어도 감시 없이 접근할 수 있는 밤이 하룻밤은 꼬박 필요할 거예요.
+- **주요 단어:** `al menos` 적어도 / `vigilancia` (명사, 여성) 감시
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Necesitaría` → necesitar | 조건법 단순, 1인칭 단수 | 가정 상황(복사한다면)에서의 필요 | 규칙
+
+### 19-10. **Álvaro:** ¿Hay algún momento en que eso sea posible?
+- **해석:** 그게 가능한 때가 있을까요?
+- **주요 단어:** `algún` (형용사) 어떤 / `momento` (명사, 남성) 때 / `posible` (형용사) 가능한
+- **문법:** 존재가 불확실한 선행사(`algún momento`) + 관계절 → 접속법. `en que` = cuando.
+- **시제:**
+  - `Hay` → haber | 직설법 현재 (비인칭) | 존재 질문 | 불규칙
+  - `sea` → ser | 접속법 현재 presente de subjuntivo, 3인칭 단수 | 불확실한 선행사라 접속법 | 불규칙 (ser → sea)
+
+### 19-11. **Camila:** Rigoberto viaja a Vigo la semana que viene, para una reunión con proveedores.
+- **해석:** 리고베르토가 다음 주에 공급업자들과 회의가 있어 비고에 가요.
+- **주요 단어:** `viajar` (동사) 여행하다, 가다 / `la semana que viene` 다음 주 / `reunión` (명사, 여성) 회의 / `proveedor` (명사, 남성) 공급업자
+- **문법:** 확정된 미래 일정은 현재형으로 표현.
+- **시제:**
+  - `viaja` → viajar | 직설법 현재, 3인칭 단수 | 확정된 가까운 미래 일정이라 현재형 | 규칙
+  - `viene` → venir | 직설법 현재, 3인칭 단수 | 관용구 `que viene` "다가오는" | 불규칙 e→ie
+
+### 19-12. **Camila:** Esa noche, el despacho quedará prácticamente vacío.
+- **해석:** 그날 밤 사무실은 거의 비어 있을 거예요.
+- **주요 단어:** `quedar` (동사) ~한 상태로 남다 / `prácticamente` (부사) 사실상 / `vacío` (형용사) 빈
+- **문법:** `quedar + 형용사` 결과 상태.
+- **시제:**
+  - `quedará` → quedar | 직설법 단순미래 futuro simple, 3인칭 단수 | 미래 상태 예측 | 규칙
+
+### 19-13. **Álvaro:** Entonces esa es nuestra oportunidad.
+- **해석:** 그럼 그때가 우리의 기회네요.
+- **주요 단어:** `oportunidad` (명사, 여성) 기회
+- **문법:** ser 동일시.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 불규칙
+
+### 19-14. **Camila:** Necesitaré que usted vigile los alrededores, mientras copio todo.
+- **해석:** 제가 전부 복사하는 동안 당신이 주변을 지켜 줘야 해요.
+- **주요 단어:** `vigilar` (동사) 감시하다, 지키다 / `los alrededores` 주변 / `mientras` (접속사) ~하는 동안
+- **문법:** `necesitar que + 접속법`. `mientras` + 직설법 = 동시 행위 서술 (미래의 일이라 `mientras copie`(접속법)도 표준적으로 가능).
+- **시제:**
+  - `Necesitaré` → necesitar | 직설법 단순미래, 1인칭 단수 | 그날 밤(미래)의 필요 | 규칙
+  - `vigile` → vigilar | 접속법 현재, 3인칭 단수 | necesitar que 뒤라 접속법 | 규칙
+  - `copio` → copiar | 직설법 현재, 1인칭 단수 | mientras 절의 동시 행위를 현재형으로 생생하게 | 규칙
+
+### 19-15. **Álvaro:** Cuente con ello.
+- **해석:** 맡겨 주세요.
+- **주요 단어:** `contar con` ~을 믿다, 의지하다
+- **문법:** usted 긍정 명령. `ello` = 중성 대명사 (전치사 뒤 "그것").
+- **표현:** `Cuente con ello` / `Cuenta conmigo` "믿어도 돼요, 맡겨요".
+- **시제:**
+  - `Cuente` → contar | 명령법 imperativo (usted, 접속법 현재 형태), 3인칭 단수 | usted에게 하는 권유 | 불규칙 o→ue
+
+### 19-16. **Álvaro:** Y Camila, en cuanto tengamos esto, la sacamos de aquí de inmediato, a usted y a su hermano.
+- **해석:** 그리고 카밀라, 이걸 손에 넣는 즉시 당신과 동생을 바로 여기서 빼낼게요.
+- **주요 단어:** `en cuanto` ~하자마자 / `de inmediato` 즉시
+- **문법:** 시간 접속사(`en cuanto`) + 미래의 일 → 접속법. `la ... a usted y a su hermano` 중복 (엄밀히는 두 사람이라 `los`가 맞지만 구어에서 흔한 형태).
+- **시제:**
+  - `tengamos` → tener | 접속법 현재, 1인칭 복수 | 아직 일어나지 않은 미래의 시점을 나타내는 en cuanto 뒤라 접속법 | 불규칙 (tengo → tengamos)
+  - `sacamos` → sacar | 직설법 현재, 1인칭 복수 | 미래 대신 현재형으로 확신·즉각성 강조 | 규칙
+
+### 19-17. **Camila:** (Con una mezcla de miedo y esperanza) Después de tres años, casi no puedo creer que esto esté pasando de verdad.
+- **해석:** (두려움과 희망이 뒤섞인 채) 3년 만에, 이 일이 정말로 일어나고 있다는 게 거의 믿기지 않아요.
+- **주요 단어:** `mezcla` (명사, 여성) 혼합 / `esperanza` (명사, 여성) 희망 / `pasar` (동사) 일어나다
+- **문법:** `no creer que + 접속법` (부정된 믿음 → 접속법). 진행형의 접속법 `esté + 현재분사`.
+- **시제:**
+  - `puedo` → poder | 직설법 현재, 1인칭 단수 | 현재의 (불)가능 | 불규칙 o→ue
+  - `creer` → creer | 부정사 | poder 뒤
+  - `esté pasando` → pasar | 접속법 현재진행 (estar 접속법 현재 + gerundio), 3인칭 단수 | no creer que 뒤라 접속법, 지금 진행 중인 일이라 진행형. 비교: `creo que está pasando` (긍정 → 직설법) | estar 불규칙 (esté)

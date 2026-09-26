@@ -581,3 +581,261 @@
 - **시제:**
   - `tendremos` → tener | 직설법 단순미래 1인칭 복수 | 약속·다짐 | 불규칙 어간 tendr-
 
+## 장면 15. 카를로스에게 보고
+> 알바로가 카를로스에게 연락해 수아소 사건을 보고합니다. 두 사람은 이 사건이 루에다의 조직과 연결됐을 가능성을 논의합니다.
+
+### 15-1. **Carlos:** (Contesta) Álvaro, me acabo de enterar de lo de Zuazo.
+- **해석:** (전화를 받으며) 알바로, 수아소 일 방금 들었어.
+- **주요 단어:** `enterarse de` ~을 알게 되다 / `lo de + 명사` ~에 관한 일
+- **문법:** `me acabo de enterar`: 재귀대명사가 활용 동사 앞 (acabo de enterarme도 가능). `lo de Zuazo`: 중성 관사 lo + de '수아소 건'.
+- **표현:** `lo de...` '~ 일/건' 구어 표현.
+- **시제:**
+  - `Contesta` → contestar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `acabo` → acabar | 직설법 현재 1인칭 단수 | acabar de로 방금 일어난 일 | 규칙
+  - `enterar` → enterarse | 부정사 | acabar de 뒤 | 규칙
+
+### 15-2. **Carlos:** ¿Estás bien?
+- **해석:** 괜찮아?
+- **주요 단어:** `estar bien` 괜찮다
+- **문법:** 상태는 estar.
+- **시제:**
+  - `Estás` → estar | 직설법 현재 2인칭 단수 | 현재 상태 | 불규칙 (강세형)
+
+### 15-3. **Álvaro:** Físicamente sí.
+- **해석:** 몸은 괜찮아.
+- **주요 단어:** `físicamente` (부사) 신체적으로
+- **문법:** 동사 생략 (Físicamente estoy bien). '몸은 괜찮지만 마음은 아니다'라는 함축.
+- **시제:** 동사 없음
+
+### 15-4. **Álvaro:** Pero esto tiene toda la pinta de ser un aviso, o algo peor.
+- **해석:** 하지만 이건 아무리 봐도 경고 같아. 아니면 더 나쁜 거거나.
+- **주요 단어:** `la pinta` (명사·여) 겉모습 / `el aviso` 경고 / `peor` 더 나쁜
+- **문법:** `tener pinta de + 부정사/명사` ~처럼 보이다.
+- **표현:** `tener toda la pinta de...` '딱 봐도 ~ 같다' (스페인 구어).
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재의 인상 | 불규칙
+  - `ser` → ser | 부정사 | 전치사 de 뒤 | —
+
+### 15-5. **Carlos:** Cuéntamelo todo desde el principio.
+- **해석:** 처음부터 전부 말해 봐.
+- **주요 단어:** `contar` 이야기하다 / `desde el principio` 처음부터
+- **문법:** 긍정명령 + 간접목적 me + 직접목적 lo 순서로 붙임 (cuenta + me + lo → cuéntamelo, 강세 부호 추가). todo가 lo를 중복 강조.
+- **시제:**
+  - `Cuéntame(lo)` → contar | 긍정명령 tú | 친근한 요청 | o→ue (contar → cuenta)
+
+### 15-6. **Álvaro:** La autopsia confirma que no fue natural.
+- **해석:** 부검 결과 자연사가 아닌 걸로 확인됐어.
+- **주요 단어:** `confirmar` 확인하다
+- **문법:** `confirmar que + 직설법`(사실 확인).
+- **시제:**
+  - `confirma` → confirmar | 직설법 현재 3인칭 단수 | 현재 유효한 결과 | 규칙
+  - `fue` → ser | 직설법 단순과거 3인칭 단수 | 완결된 사건 규정 | 앞에서 설명
+
+### 15-7. **Álvaro:** Alguien entró en su casa, sin forzar la puerta, y le provocó el paro cardíaco.
+- **해석:** 누군가 문을 부수지 않고 그의 집에 들어가서 심정지를 일으켰어.
+- **주요 단어:** `entrar en` ~에 들어가다 / `forzar` (동사) 강제로 열다 / `la puerta` 문 / `provocar` 일으키다
+- **문법:** `sin + 부정사` ~하지 않고. `le provocó`: le = 수아소(간접목적, 피해자). `entrar en`은 스페인식 (중남미는 entrar a도 흔함).
+- **시제:**
+  - `entró` → entrar | 직설법 단순과거 3인칭 단수 | 연속된 완결 동작 | 규칙
+  - `forzar` → forzar | 부정사 | sin 뒤 | o→ue 동사(fuerzo)지만 부정사라 변화 없음
+  - `provocó` → provocar | 직설법 단순과거 3인칭 단수 | 완결 동작 | 규칙 (1인칭은 provoqué 철자 변화)
+
+### 15-8. **Carlos:** (Tenso) Eso es una ejecución limpia.
+- **해석:** (긴장한 채) 그건 깔끔한 처형이야.
+- **주요 단어:** `tenso` 긴장한 / `la ejecución` (명사·여) 처형, 실행 / `limpio` (형용사) 깨끗한, 흔적 없는
+- **문법:** ser + 명사.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 판단 | 불규칙
+
+### 15-9. **Carlos:** No es el estilo de un empresario desesperado como Roldán.
+- **해석:** 롤단 같은 궁지에 몰린 사업가의 방식이 아니야.
+- **주요 단어:** `el estilo` 스타일, 방식 / `el empresario` 사업가 / `desesperado` 절박한
+- **문법:** `como` ~같은(비교·예시).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `desesperado` → desesperar | 과거분사 남성 단수 | 형용사로 사용 | 규칙
+
+### 15-10. **Álvaro:** Eso mismo pensé yo.
+- **해석:** 나도 딱 그렇게 생각했어.
+- **주요 단어:** `mismo` 바로 그
+- **문법:** 목적어(Eso mismo)를 앞에, 주어 yo를 뒤에 두어 강조.
+- **시제:**
+  - `pensé` → pensar | 직설법 단순과거 1인칭 단수 | 소식을 들은 그 순간에 한 생각(완결된 과거) | 단순과거에서는 어간변화 없음, 규칙
+
+### 15-11. **Álvaro:** Esto huele a gente con experiencia, gente como la de Rueda.
+- **해석:** 이건 경험 많은 자들, 루에다 쪽 사람들 같은 냄새가 나.
+- **주요 단어:** `oler a` ~ 냄새가 나다, ~ 같은 낌새가 있다 / `la experiencia` 경험
+- **문법:** `la de Rueda` = la gente de Rueda (명사 생략 후 관사만 남김).
+- **표현:** `oler a...` 비유적으로 '~의 낌새가 나다'.
+- **시제:**
+  - `huele` → oler | 직설법 현재 3인칭 단수 | 현재의 인상 | 불규칙 o→hue (oler → huelo, hueles, huele)
+
+### 15-12. **Carlos:** Es posible.
+- **해석:** 그럴 수도 있지.
+- **주요 단어:** `posible` 가능한
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 판단 | 불규칙
+
+### 15-13. **Carlos:** Si Rueda sigue teniendo contactos activos desde su red anterior, no sería la primera vez que recurre a algo así.
+- **해석:** 루에다가 이전 조직 때부터의 연줄을 여전히 활발하게 유지하고 있다면, 이런 수단에 기대는 게 처음은 아닐 거야.
+- **주요 단어:** `seguir + 현재분사` 계속 ~하다 / `el contacto` 연줄 / `activo` 활동 중인 / `la red` (명사·여) 네트워크, 조직 / `anterior` 이전의 / `recurrir a` ~에 의존하다, ~을 동원하다
+- **문법:** 조건문 si + 직설법 현재 + 조건법(결과를 조심스러운 추측으로 완화하는 혼합형). `la primera vez que + 직설법`.
+- **표현:** `algo así` 그런 것.
+- **시제:**
+  - `sigue` → seguir | 직설법 현재 3인칭 단수 | 현재 실제일 수 있는 조건 | e→i 어간변화 (seguir → sigue)
+  - `teniendo` → tener | 현재분사 | seguir + 현재분사로 지속 | 규칙 현재분사
+  - `sería` → ser | 조건법 단순형 3인칭 단수 | 추측을 조심스럽게 표현 | 규칙 (ser + ía)
+  - `recurre` → recurrir | 직설법 현재 3인칭 단수 | 일반적 행동 방식 | 규칙
+
+### 15-14. **Álvaro:** ¿Puedes ayudarnos a investigar esa conexión?
+- **해석:** 그 연결 고리 조사하는 걸 도와줄 수 있어?
+- **주요 단어:** `ayudar a + 부정사` ~하는 것을 돕다 / `la conexión` 연결
+- **문법:** 대명사 nos가 부정사 ayudar 뒤에 붙음 (Nos puedes ayudar도 가능).
+- **시제:**
+  - `Puedes` → poder | 직설법 현재 2인칭 단수 | 부탁 | o→ue
+  - `ayudarnos` → ayudar | 부정사 | poder 뒤 | 규칙
+  - `investigar` → investigar | 부정사 | ayudar a 뒤 | 규칙
+
+### 15-15. **Carlos:** Voy a solicitar acceso al caso, aunque formalmente todavía es competencia de la policía judicial ordinaria.
+- **해석:** 사건 접근 권한을 신청해 볼게. 형식상으론 아직 일반 사법경찰 관할이긴 하지만.
+- **주요 단어:** `solicitar` (동사) 신청하다 / `el acceso` 접근 / `formalmente` 형식상 / `la competencia` (명사·여) 관할, 권한 / `la policía judicial` 사법경찰
+- **문법:** `ir a + 부정사` 계획. `aunque + 직설법` 사실 인정.
+- **표현:** `ser competencia de...` ~의 관할이다.
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a 계획 | 불규칙
+  - `solicitar` → solicitar | 부정사 | 규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 사실 | 불규칙
+
+### 15-16. **Carlos:** Necesito una base sólida para justificar la intervención del CNI.
+- **해석:** CNI 개입을 정당화하려면 탄탄한 근거가 필요해.
+- **주요 단어:** `la base` 근거 / `sólido` 탄탄한 / `justificar` 정당화하다 / `la intervención` 개입 / `el CNI` 스페인 국가정보센터(Centro Nacional de Inteligencia)
+- **문법:** para + 부정사 목적. de + el → del.
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재 필요 | 규칙
+  - `justificar` → justificar | 부정사 | para 뒤 | 규칙
+
+### 15-17. **Álvaro:** ¿Y si te doy lo que tenemos sobre el patrón de las otras muertes relacionadas con Rueda?
+- **해석:** 루에다와 관련된 다른 죽음들의 패턴에 대해 우리가 가진 걸 넘겨주면 어때?
+- **주요 단어:** `dar` 주다 / `lo que` ~하는 것 / `la muerte` 죽음 / `relacionado con` ~와 관련된
+- **문법:** `¿Y si + 직설법 현재?` '~하면 어때?' 제안. `lo que`: 선행사 포함 관계사. relacionadas는 muertes에 성·수 일치.
+- **표현:** `¿Y si...?` 제안의 구어 표현.
+- **시제:**
+  - `doy` → dar | 직설법 현재 1인칭 단수 | 제안하는 가까운 행동 | 불규칙 1인칭 (dar → doy)
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 현재 보유한 자료(실재하므로 직설법) | 규칙적 형태
+  - `relacionadas` → relacionar | 과거분사 여성 복수 | 형용사 | 규칙
+
+### 15-18. **Carlos:** Eso ayudaría muchísimo.
+- **해석:** 그러면 엄청 도움이 될 거야.
+- **주요 단어:** `ayudar` 돕다 / `muchísimo` 매우 많이 (mucho의 절대최상급)
+- **문법:** 조건법으로 가정된 행동의 결과.
+- **시제:**
+  - `ayudaría` → ayudar | 조건법 단순형 3인칭 단수 | 앞 제안(¿Y si...?)이 실현될 경우의 결과 | 규칙
+
+### 15-19. **Carlos:** Mándame todo lo que tengas esta misma noche.
+- **해석:** 가진 거 전부 오늘 밤 안으로 보내 줘.
+- **주요 단어:** `mandar` 보내다 / `esta misma noche` 바로 오늘 밤
+- **문법:** 긍정명령 + me 붙임(강세 부호). `todo lo que + 접속법`: 알바로가 무엇을 얼마나 가졌는지 모르는 불특정 대상이라 접속법.
+- **시제:**
+  - `Mándame` → mandar | 긍정명령 tú | 요청 | 규칙
+  - `tengas` → tener | 접속법 현재 2인칭 단수 | 불특정 선행사의 관계절이라 접속법. 비교: todo lo que tienes는 이미 아는 구체적 자료 | 불규칙 접속법 어간 teng-
+
+### 15-20. **Álvaro:** Lo haré.
+- **해석:** 그럴게.
+- **주요 단어:** 앞에서 설명
+- **문법:** 중성 lo.
+- **시제:**
+  - `haré` → hacer | 직설법 단순미래 1인칭 단수 | 약속 | 불규칙 어간 har-
+
+### 15-21. **Carlos:** Álvaro, esto significa que estás mucho más expuesto de lo que crees.
+- **해석:** 알바로, 이건 네가 생각하는 것보다 훨씬 더 노출돼 있다는 뜻이야.
+- **주요 단어:** `significar` 의미하다 / `expuesto` (형용사) 노출된, 위험에 처한
+- **문법:** `más + 형용사 + de lo que + 절`: 절과 비교할 때는 que가 아니라 de lo que. estar + 과거분사(결과 상태).
+- **시제:**
+  - `significa` → significar | 직설법 현재 3인칭 단수 | 현재 의미 | 규칙
+  - `estás` → estar | 직설법 현재 2인칭 단수 | 현재 상태 | 불규칙
+  - `expuesto` → exponer | 과거분사 남성 단수 | 상태 형용사 | 불규칙 과거분사 (exponer → expuesto)
+  - `crees` → creer | 직설법 현재 2인칭 단수 | 현재의 생각 | 규칙
+
+### 15-22. **Carlos:** Si Rueda está detrás, y sabe que estás investigando, podrías ser un objetivo.
+- **해석:** 만약 루에다가 배후에 있고 네가 조사 중이라는 걸 안다면, 네가 표적이 될 수도 있어.
+- **주요 단어:** `detrás` 뒤에, 배후에 / `el objetivo` 목표, 표적
+- **문법:** si + 직설법 현재 → 조건법(가능성을 완곡하게). `estar detrás` 배후에 있다. `saber que + 직설법`.
+- **표현:** `estar detrás (de algo)` 배후에 있다.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재 가능한 조건 | 불규칙
+  - `sabe` → saber | 직설법 현재 3인칭 단수 | 현재 조건 | 3인칭은 규칙적 형태
+  - `estás` → estar | 직설법 현재 2인칭 단수 | 진행형 보조동사 | 불규칙
+  - `investigando` → investigar | 현재분사 | 진행 중인 조사 | 규칙
+  - `podrías` → poder | 조건법 단순형 2인칭 단수 | 가능성·경고를 완곡하게 | 불규칙 어간 podr-
+  - `ser` → ser | 부정사 | poder 뒤 | —
+
+### 15-23. **Álvaro:** Lo sé.
+- **해석:** 알아.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 15-24. **Álvaro:** Pero no pienso parar ahora.
+- **해석:** 하지만 이제 와서 멈출 생각은 없어.
+- **주요 단어:** `pensar + 부정사` ~할 작정이다 / `parar` 멈추다
+- **문법:** `pensar + 부정사` = 의도 ('~할 생각이다'), 부정형은 강한 거부.
+- **표현:** `no pienso + 부정사` '절대 ~ 안 할 거야'.
+- **시제:**
+  - `pienso` → pensar | 직설법 현재 1인칭 단수 | 현재의 의지 | e→ie
+  - `parar` → parar | 부정사 | pensar 뒤 | 규칙
+
+### 15-25. **Carlos:** No te pido que pares.
+- **해석:** 멈추라는 게 아니야.
+- **주요 단어:** `pedir` 요청하다
+- **문법:** `pedir que + 접속법`. te = 간접목적.
+- **시제:**
+  - `pido` → pedir | 직설법 현재 1인칭 단수 | 현재의 요청 | e→i (pedir → pido)
+  - `pares` → parar | 접속법 현재 2인칭 단수 | pedir que(요청) 뒤 | 규칙 (-ar → -es)
+
+### 15-26. **Carlos:** Te pido que tengas cuidado extremo, y que me informes de cada paso a partir de ahora.
+- **해석:** 극도로 조심하고, 지금부터 모든 단계를 나한테 알려 달라는 거야.
+- **주요 단어:** `extremo` 극도의 / `informar de` ~을 알리다 / `el paso` 단계, 걸음 / `a partir de ahora` 지금부터
+- **문법:** `pedir que + 접속법` 두 개를 que로 병렬 연결.
+- **시제:**
+  - `pido` → pedir | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `tengas` → tener | 접속법 현재 2인칭 단수 | 요청 뒤 접속법 | 불규칙 어간 teng-
+  - `informes` → informar | 접속법 현재 2인칭 단수 | 요청 뒤 접속법 | 규칙
+
+### 15-27. **Álvaro:** De acuerdo.
+- **해석:** 알았어.
+- **주요 단어:** `de acuerdo` 좋아, 알았어
+- **문법:** 동사 생략 (Estoy de acuerdo).
+- **시제:** 동사 없음
+
+### 15-28. **Carlos:** Voy a mover algunos hilos esta noche.
+- **해석:** 오늘 밤에 연줄을 좀 움직여 볼게.
+- **주요 단어:** `mover` 움직이다 / `el hilo` (명사·남) 실
+- **문법:** `ir a + 부정사` 계획.
+- **표현:** `mover hilos` 인맥·영향력을 동원하다.
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a 계획 | 불규칙
+  - `mover` → mover | 부정사 | ir a 뒤 | o→ue 동사지만 부정사라 변화 없음
+
+### 15-29. **Carlos:** Hablamos mañana con más información.
+- **해석:** 정보가 더 생기면 내일 얘기하자.
+- **주요 단어:** `mañana` (부사) 내일 / `la información` 정보
+- **문법:** 현재형으로 가까운 미래 약속.
+- **표현:** `Hablamos (mañana)` 헤어질 때 쓰는 '(내일) 얘기하자'.
+- **시제:**
+  - `Hablamos` → hablar | 직설법 현재 1인칭 복수 | 확정된 가까운 미래를 현재형으로 (구어). 비교: hablaremos(미래형)보다 가볍고 자연스러움 | 규칙
+
+### 15-30. **Álvaro:** Gracias, Carlos.
+- **해석:** 고마워, 카를로스.
+- **주요 단어:** `gracias` 고마워
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 15-31. **Carlos:** Cuídate, de verdad.
+- **해석:** 진짜 몸조심해.
+- **주요 단어:** `cuidarse` (재귀동사) 몸조심하다 / `de verdad` 정말로
+- **문법:** 재귀동사 긍정명령 + te 붙임(cuida + te → cuídate, 강세 부호).
+- **표현:** `Cuídate` 작별 인사로도 쓰는 '몸조심해'.
+- **시제:**
+  - `Cuídate` → cuidarse | 긍정명령 tú | 당부 | 규칙

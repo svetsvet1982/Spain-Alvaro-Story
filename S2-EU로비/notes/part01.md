@@ -518,3 +518,304 @@
 - **시제:**
   - `se vote` → votar | 접속법 현재 3인칭 단수 (수동의 se) | antes de que 뒤는 반드시 접속법
 
+## 장면 3. 위장 신분으로 카살스와 첫 대면
+> 브뤼셀. 카밀라가 '엘레나 몬투리올'이라는 위장 신분으로 메리디안 퍼블릭 어페어스 주최 행사에 참석해, 대표 이니고 카살스와 첫 대화를 나눕니다.
+
+### 3-1. **Íñigo:** (En la recepción del evento) Bienvenida.
+- **해석:** (행사 리셉션에서) 환영합니다.
+- **주요 단어:** `recepción` (명사, 여) 리셉션, 환영회 / `bienvenido/a` (형용사) 환영받는
+- **문법:** 상대가 여성이라 bienvenid**a**로 성 일치.
+- **시제:** 동사 없음
+
+### 3-2. **Íñigo:** No recuerdo haberla visto en eventos anteriores.
+- **해석:** 예전 행사들에서 뵌 기억이 없는데요.
+- **주요 단어:** `recordar` (동사) 기억하다 / `anterior` (형용사) 이전의
+- **문법:** 완료부정사 `haber + 과거분사` = "~한 것". 주어가 같아 que절 대신 부정사. la = usted(여성)에 대한 직접목적 대명사, 부정사 haber 뒤에 붙음.
+- **표현:** 처음 보는 사람에게 은근히 신원을 떠보는 정중한 말투(usted).
+- **시제:**
+  - `recuerdo` → recordar | 직설법 현재 1인칭 단수 | 현재의 기억 상태 | 불규칙(o→ue)
+  - `haberla` → haber | 부정사 + la | 완료부정사의 조동사
+  - `visto` → ver | 과거분사 | 완료부정사(haber visto)로 '본 것'이 과거에 완료됨 | 불규칙 과거분사
+
+### 3-3. **Camila:** Primera vez en Bruselas, la verdad.
+- **해석:** 사실 브뤼셀은 처음이에요.
+- **주요 단어:** `primera vez` 처음
+- **문법:** 동사 생략(Es mi primera vez…).
+- **표현:** `la verdad` 앞에서 설명.
+- **시제:** 동사 없음
+
+### 3-4. **Camila:** Gestiono fondos para clientes privados, y quería entender mejor el impacto de la nueva directiva.
+- **해석:** 개인 고객들의 자금을 운용하고 있는데, 새 지침의 영향을 좀 더 잘 이해하고 싶었어요.
+- **주요 단어:** `gestionar` (동사) 관리하다, 운용하다 / `fondo` (명사, 남) 자금, 펀드 / `cliente privado` 개인 고객
+- **문법:** querer + 부정사.
+- **표현:** `quería…`는 "~하고 싶었어요/싶은데요"라는 공손한 바람 표현.
+- **시제:**
+  - `Gestiono` → gestionar | 직설법 현재 1인칭 단수 | 현재의 직업(위장 설정)
+  - `quería` → querer | 직설법 불완료과거 1인칭 단수 | 여기 오게 된 동기(과거부터 이어진 바람)를 표현하면서 공손한 뉘앙스도 줌 | 불완료과거는 규칙(quer- + ía)
+  - `entender` → entender | 부정사 | querer + 부정사
+  - 비교: quise entender(단순과거)는 "이해하려 시도했다(한 번)"
+
+### 3-5. **Íñigo:** Ha venido al lugar correcto, entonces.
+- **해석:** 그럼 제대로 찾아오셨네요.
+- **주요 단어:** `venir` (동사) 오다 / `lugar` (명사, 남) 장소 / `correcto` (형용사) 올바른
+- **문법:** a + el → al. usted 주어라 3인칭.
+- **표현:** `Ha venido al lugar correcto` = "잘 오셨습니다".
+- **시제:**
+  - `Ha venido` → venir | 직설법 현재완료 3인칭 단수(usted) | 방금 도착해 지금 여기 있는 결과와 연결 | venir는 불규칙이지만 과거분사 venido는 규칙
+
+### 3-6. **Íñigo:** Esta directiva preocupa mucho a nuestros clientes.
+- **해석:** 이 지침은 저희 고객들을 무척 걱정시키고 있거든요.
+- **주요 단어:** `preocupar` (앞에서 설명)
+- **문법:** preocupar + a + 사람(간접목적 성격). 주어는 esta directiva.
+- **시제:**
+  - `preocupa` → preocupar | 직설법 현재 3인칭 단수 | 현재 지속되는 상황
+
+### 3-7. **Camila:** ¿En qué sentido, exactamente?
+- **해석:** 정확히 어떤 면에서요?
+- **주요 단어:** `sentido` (명사, 남) 의미, 면
+- **문법:** 동사 생략.
+- **표현:** `¿En qué sentido?` = "어떤 의미로요?"
+- **시제:** 동사 없음
+
+### 3-8. **Íñigo:** Endurece muchísimo los requisitos de transparencia para estructuras de gestión patrimonial internacional.
+- **해석:** 국제 자산관리 구조에 대한 투명성 요건을 대폭 강화하거든요.
+- **주요 단어:** `endurecer` (동사) 강화하다, 엄격하게 하다 / `requisito` (명사, 남) 요건 / `gestión patrimonial` 자산관리
+- **문법:** 주어(la directiva) 생략. muchísimo = mucho의 절대최상급.
+- **시제:**
+  - `Endurece` → endurecer | 직설법 현재 3인칭 단수 | 지침 내용의 현재 사실 | 1단 endurezco(-zco 불규칙)
+
+### 3-9. **Íñigo:** Demasiado, en nuestra opinión.
+- **해석:** 저희가 보기엔 지나치게요.
+- **주요 단어:** `demasiado` (부사) 너무 / `opinión` (명사, 여) 의견
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 3-10. **Camila:** ¿Y qué hace Meridian al respecto?
+- **해석:** 그럼 메리디안은 그에 대해 뭘 하나요?
+- **주요 단어:** `al respecto` 그것에 관해
+- **문법:** 의문문에서 주어(Meridian)가 동사 뒤로 도치.
+- **시제:**
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | 현재의 활동 | 불규칙 동사지만 3단은 hace(1단 hago)
+
+### 3-11. **Íñigo:** Trabajamos para que los legisladores entiendan las consecuencias prácticas de una regulación tan estricta, para la competitividad europea.
+- **해석:** 입법자들이 이렇게 엄격한 규제가 유럽의 경쟁력에 미칠 실질적 결과를 이해하도록 일하고 있습니다.
+- **주요 단어:** `legislador` (명사, 남) 입법자 / `consecuencia` (명사, 여) 결과 / `práctico` (형용사) 실질적인 / `regulación` (명사, 여) 규제 / `estricto` (형용사) 엄격한 / `competitividad` (명사, 여) 경쟁력
+- **문법:** `para que + 접속법`(목적). `tan + 형용사` = 그렇게 ~한.
+- **표현:** 로비를 '이해 돕기'로 포장하는 전형적인 완곡어법.
+- **시제:**
+  - `Trabajamos` → trabajar | 직설법 현재 1인칭 복수 | 현재의 일상 업무
+  - `entiendan` → entender | 접속법 현재 3인칭 복수 | para que 뒤라 접속법 | 불규칙(e→ie)
+
+### 3-12. **Camila:** (Con cuidado, disimulando lo que ya sabe) ¿Y eso incluye enmiendas concretas?
+- **해석:** (이미 알고 있는 걸 숨기며 조심스럽게) 그게 구체적인 수정안까지 포함하나요?
+- **주요 단어:** `con cuidado` 조심스럽게 / `disimular` (동사) 감추다, 모른 척하다 / `incluir` (동사) 포함하다 / `concreto` (형용사) 구체적인
+- **문법:** lo que ya sabe = 이미 알고 있는 것. 
+- **시제:**
+  - `disimulando` → disimular | 현재분사 | 부대 상황
+  - `sabe` → saber | 직설법 현재 3인칭 단수 | 현재 알고 있는 사실 | 3단은 규칙형(1단만 sé)
+  - `incluye` → incluir | 직설법 현재 3인칭 단수 | 현재 사실을 물음 | 불규칙(-uir 동사: 모음 사이 y 삽입)
+
+### 3-13. **Íñigo:** Colaboramos estrechamente con varios eurodiputados en la redacción técnica, sí.
+- **해석:** 여러 유럽의회 의원들과 기술적인 문안 작성에서 긴밀히 협력하고 있죠, 네.
+- **주요 단어:** `colaborar` (동사) 협력하다 / `estrechamente` (부사) 긴밀히 / `redacción` (명사, 여) 작성, 문안
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Colaboramos` → colaborar | 직설법 현재 1인칭 복수 | 현재 계속되는 활동
+
+### 3-14. **Íñigo:** Es un proceso completamente legítimo de participación en el debate legislativo.
+- **해석:** 입법 논의에 참여하는 완전히 합법적인 과정입니다.
+- **주요 단어:** `legítimo` (형용사) 합법적인, 정당한 / `participación` (명사, 여) 참여 / `debate legislativo` 입법 논의
+- **문법:** ser + 명사(본질·정의).
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 성격 규정 | 불규칙
+
+### 3-15. **Camila:** Suena a un trabajo delicado.
+- **해석:** 섬세한 일처럼 들리네요.
+- **주요 단어:** `sonar a` ~처럼 들리다 / `delicado` (형용사) 미묘한, 섬세한
+- **문법:** `sonar a + 명사` = "~같이 들리다".
+- **표현:** `delicado`에 "위험하고 조심해야 하는"이라는 이중 의미.
+- **시제:**
+  - `Suena` → sonar | 직설법 현재 3인칭 단수 | 현재 인상 | 불규칙(o→ue)
+
+### 3-16. **Íñigo:** Lo es, aunque muy necesario.
+- **해석:** 그렇죠. 하지만 아주 필요한 일이에요.
+- **주요 단어:** `necesario` (형용사) 필요한
+- **문법:** 속사 대명사 lo(= delicado)를 ser 앞에 두어 반복을 피함. aunque 뒤 동사 생략.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞 말에 동의
+
+### 3-17. **Íñigo:** Sin voces como la nuestra, las leyes acaban escritas sin entender la realidad del sector.
+- **해석:** 저희 같은 목소리가 없으면, 법은 업계 현실도 이해하지 못한 채 쓰이고 말아요.
+- **주요 단어:** `voz` (명사, 여) 목소리(복수 voces) / `acabar` (동사) 끝나다, 결국 ~하게 되다 / `realidad` (명사, 여) 현실
+- **문법:** `acabar + 과거분사` = 결국 ~한 상태가 되다(escritas는 leyes에 일치). `sin + 부정사`. la nuestra = 소유대명사(= nuestra voz).
+- **시제:**
+  - `acaban` → acabar | 직설법 현재 3인칭 복수 | 일반적 경향
+  - `escritas` → escribir | 과거분사 여성 복수 | 결과 상태 | 불규칙 과거분사(escrito)
+  - `entender` → entender | 부정사 | sin 뒤
+
+### 3-18. **Camila:** Me gustaría entender mejor cómo funciona ese proceso de colaboración.
+- **해석:** 그 협력 과정이 어떻게 돌아가는지 좀 더 알고 싶네요.
+- **주요 단어:** `gustar` (동사) 좋아하다
+- **문법:** `me gustaría + 부정사` = ~하고 싶다(공손). 간접의문 cómo + 직설법.
+- **시제:**
+  - `gustaría` → gustar | 조건법 3인칭 단수 | 공손한 바람 표현이라 조건법
+  - `entender` → entender | 부정사 | 주어 역할
+  - `funciona` → funcionar | 직설법 현재 3인칭 단수 | 간접의문 속 현재 사실
+
+### 3-19. **Íñigo:** Con gusto se lo explico.
+- **해석:** 기꺼이 설명해 드리죠.
+- **주요 단어:** `con gusto` 기꺼이 / `explicar` (동사) 설명하다
+- **문법:** 간접목적 le + 직접목적 lo → **se lo**(le가 lo 앞에서 se로 바뀜). se = a usted, lo = 그 과정.
+- **시제:**
+  - `explico` → explicar | 직설법 현재 1인칭 단수 | 곧 할 행동을 약속하듯 현재형으로 표현
+
+### 3-20. **Íñigo:** ¿Le interesaría reunirse la próxima semana, con más calma?
+- **해석:** 다음 주에 좀 더 여유 있게 만나 보시겠어요?
+- **주요 단어:** `interesar` (동사) 관심을 끌다 / `reunirse` (재귀동사) 만나다, 모이다 / `con calma` 여유 있게
+- **문법:** gustar형 동사 interesar: 주어는 reunirse…, 간접목적 le(= usted). 재귀대명사 se가 부정사 뒤에(주어 usted에 맞춤).
+- **시제:**
+  - `interesaría` → interesar | 조건법 3인칭 단수 | 공손한 제안
+  - `reunirse` → reunirse | 부정사 | 주어 역할
+
+### 3-21. **Camila:** Encantada.
+- **해석:** 기꺼이요.
+- **주요 단어:** `encantado/a` 기쁜, 기꺼이
+- **문법:** 여성 화자라 encantad**a**.
+- **표현:** 제안을 받아들일 때 "좋아요, 기꺼이" (첫인사 "반갑습니다"로도 쓰임).
+- **시제:**
+  - `Encantada` → encantar | 과거분사 여성 단수 | 형용사적 감정 상태
+
+### 3-22. **Íñigo:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** `perfecto` 완벽한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-23. **Íñigo:** Le enviaré los detalles.
+- **해석:** 자세한 내용은 보내 드리겠습니다.
+- **주요 단어:** `enviar` (동사) 보내다 / `detalle` (명사, 남) 세부 사항
+- **문법:** 간접목적 le(= 당신에게).
+- **시제:**
+  - `enviaré` → enviar | 직설법 단순미래 1인칭 단수 (futuro simple) | 앞으로 할 일에 대한 약속 | 규칙(부정사 + é)
+
+## 장면 4. 투명성 등록부가 가리키는 세 의원
+> 동시에, 하비에르가 유럽의회 투명성 등록부를 조사하며 관련 의원들을 파악합니다.
+
+### 4-1. **Javier:** (En una cafetería cerca del Parlamento, con documentos) Álvaro, el registro de transparencia confirma reuniones frecuentes entre Meridian y al menos tres eurodiputados de la comisión de asuntos económicos.
+- **해석:** (의회 근처 카페에서, 서류를 들고) 알바로, 투명성 등록부를 보면 메리디안과 경제위원회 소속 유럽의회 의원 최소 세 명 사이에 잦은 만남이 확인돼요.
+- **주요 단어:** `confirmar` (동사) 확인하다 / `reunión` (명사, 여) 회의, 만남 / `frecuente` (형용사) 잦은 / `al menos` 적어도 / `comisión` (명사, 여) 위원회 / `asuntos económicos` 경제 문제
+- **문법:** `entre A y B` = A와 B 사이.
+- **시제:**
+  - `confirma` → confirmar | 직설법 현재 3인칭 단수 | 기록이 보여 주는 현재 사실
+
+### 4-2. **Álvaro:** ¿Los mismos tres en cada reunión?
+- **해석:** 매번 같은 세 명이야?
+- **주요 단어:** `mismo` (형용사) 같은 / `cada` 매, 각각의
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 4-3. **Javier:** Sí, siempre el mismo trío.
+- **해석:** 네, 늘 같은 3인조예요.
+- **주요 단어:** `trío` (명사, 남) 3인조
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 4-4. **Javier:** Y coincide, casi exactamente, con quienes propusieron las enmiendas que suavizan los requisitos de transparencia.
+- **해석:** 그리고 투명성 요건을 완화하는 수정안을 제안한 사람들과 거의 정확히 일치해요.
+- **주요 단어:** `coincidir con` (앞에서 설명) / `proponer` (동사) 제안하다 / `suavizar` (앞에서 설명)
+- **문법:** `quienes` = 선행사 포함 관계대명사 복수(~한 사람들). 관계절 que suavizan…은 구체적 수정안이라 직설법.
+- **시제:**
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 현재 확인되는 사실
+  - `propusieron` → proponer | 직설법 단순과거 3인칭 복수 | 과거에 완결된 행위(수정안 제출) | 불규칙(poner형: pus- → propus-ieron)
+  - `suavizan` → suavizar | 직설법 현재 3인칭 복수 | 수정안의 현재 내용·효과
+
+### 4-5. **Álvaro:** ¿Alguno de ellos accesible para una entrevista?
+- **해석:** 그중에 인터뷰가 가능한 사람 있어?
+- **주요 단어:** `alguno` (대명사) 누군가, 어떤 것 / `accesible` (형용사) 접근 가능한
+- **문법:** 동사 생략(¿[Es] alguno de ellos accesible…?).
+- **시제:** 동사 없음
+
+### 4-6. **Javier:** Uno, un eurodiputado polaco, ya ha aceptado hablar conmigo, aunque de forma genérica sobre la directiva.
+- **해석:** 한 명, 폴란드 출신 의원이 벌써 저와 이야기하기로 했어요. 지침에 대해 일반적인 얘기만 한다는 조건이긴 하지만요.
+- **주요 단어:** `polaco` (형용사) 폴란드의 / `aceptar` (동사) 수락하다 / `conmigo` 나와 함께 / `de forma genérica` 일반적으로
+- **문법:** `aceptar + 부정사`. `conmigo` = con + mí의 특수형. aunque 뒤 동사 생략.
+- **시제:**
+  - `ha aceptado` → aceptar | 직설법 현재완료 3인칭 단수 | ya와 함께 "벌써 ~했다" — 최근 일이며 현재 유효(인터뷰 예정)라 현재완료
+  - `hablar` → hablar | 부정사 | aceptar의 목적어
+
+### 4-7. **Álvaro:** Empecemos por ahí, entonces.
+- **해석:** 그럼 거기서부터 시작하자.
+- **주요 단어:** `empezar por` ~부터 시작하다 / `ahí` 거기
+- **문법:** nosotros 명령(= 접속법 현재 1인칭 복수) "~하자".
+- **시제:**
+  - `Empecemos` → empezar | 명령법 1인칭 복수(접속법 현재 형태, presente de subjuntivo con valor imperativo) | 제안·권유("~하자") | 불규칙: 어간 e→ie는 nosotros형에서 일어나지 않지만 철자 변화 z→c (empiece, empecemos)
+
+### 4-8. **Álvaro:** Aunque sospecho que va a ser una entrevista bastante cuidadosa por su parte.
+- **해석:** 다만 그쪽에선 꽤 조심스럽게 인터뷰에 응할 것 같긴 해.
+- **주요 단어:** `sospechar` (동사) 짐작하다, 의심하다 / `bastante` (부사) 꽤 / `cuidadoso` (형용사) 조심스러운 / `por su parte` 그쪽에서는
+- **문법:** sospechar que + 직설법(확신에 가까운 추측). `ir a + 부정사` = 가까운 미래.
+- **시제:**
+  - `sospecho` → sospechar | 직설법 현재 1인칭 단수 | 현재의 생각
+  - `va` → ir | 직설법 현재 3인칭 단수 | ir a + 부정사로 예상되는 미래 | 불규칙
+  - `ser` → ser | 부정사 | ir a 뒤
+  - 비교: va a ser(구어적·가까운 예측) vs será(단순미래, 좀 더 격식·추측)
+
+### 4-9. **Javier:** Seguro que sí.
+- **해석:** 틀림없이 그럴 거예요.
+- **주요 단어:** `seguro` (형용사·부사) 확실한
+- **문법:** `Seguro que sí` = 동사 생략된 강한 긍정.
+- **시제:** 동사 없음
+
+### 4-10. **Javier:** Pero cualquier detalle que confirme el patrón nos ayuda.
+- **해석:** 그래도 패턴을 확인해 주는 세부 사항이라면 뭐든 도움이 돼요.
+- **주요 단어:** `cualquier` (앞에서 설명) / `detalle` (앞에서 설명) / `ayudar` (동사) 돕다
+- **문법:** 불특정 선행사(cualquier detalle) + 관계절 → **접속법** confirme. nos = 우리를(직접목적).
+- **시제:**
+  - `confirme` → confirmar | 접속법 현재 3인칭 단수 | 존재 여부가 불확실한 불특정 대상을 수식해 접속법
+  - `ayuda` → ayudar | 직설법 현재 3인칭 단수 | 일반적 사실
+
+### 4-11. **Álvaro:** ¿Y los otros dos?
+- **해석:** 나머지 두 명은?
+- **주요 단어:** `otro` 다른
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 4-12. **Javier:** Más reticentes.
+- **해석:** 더 꺼리는 눈치예요.
+- **주요 단어:** `reticente` (형용사) 꺼리는, 말을 아끼는
+- **문법:** 동사 생략(Son más reticentes).
+- **시제:** 동사 없음
+
+### 4-13. **Javier:** Uno ni siquiera respondió a mi solicitud.
+- **해석:** 한 명은 제 요청에 답조차 안 했어요.
+- **주요 단어:** `ni siquiera` ~조차 않다 / `responder a` ~에 답하다 / `solicitud` (명사, 여) 요청, 신청
+- **문법:** `ni siquiera`가 동사 앞에 오면 no 불필요.
+- **시제:**
+  - `respondió` → responder | 직설법 단순과거 3인칭 단수 | 과거 특정 시점의 일(요청에 대한 반응)을 완결된 사건으로 봄 | 규칙
+  - 비교: no ha respondido(현재완료)라고 하면 "지금까지도 아직 안 했다"는 현재와의 연결이 강조됨
+
+### 4-14. **Álvaro:** Eso, en sí mismo, ya dice algo.
+- **해석:** 그것 자체가 이미 뭔가를 말해 주네.
+- **주요 단어:** `en sí mismo` 그 자체로 / `decir` (동사) 말하다
+- **문법:** 특이사항 없음
+- **표현:** `ya dice algo` = "이미 시사하는 바가 있다".
+- **시제:**
+  - `dice` → decir | 직설법 현재 3인칭 단수 | 현재의 의미·평가 | 불규칙(e→i: dic-)
+
+### 4-15. **Javier:** Coincido.
+- **해석:** 동감이에요.
+- **주요 단어:** `coincidir` (앞에서 설명) 의견이 일치하다
+- **문법:** 특이사항 없음
+- **표현:** `Coincido (contigo)` = "같은 생각이야".
+- **시제:**
+  - `Coincido` → coincidir | 직설법 현재 1인칭 단수 | 현재 의견
+
+### 4-16. **Javier:** El silencio, en este tipo de casos, suele significar más que cualquier respuesta preparada.
+- **해석:** 이런 사건에서는 침묵이 보통 어떤 준비된 답변보다 더 많은 걸 의미하죠.
+- **주요 단어:** `silencio` (명사, 남) 침묵 / `soler + 부정사` (앞에서 설명) / `significar` (동사) 의미하다 / `respuesta` (명사, 여) 답변
+- **문법:** 비교 `más que`. 과거분사 preparada가 respuesta에 일치.
+- **시제:**
+  - `suele` → soler | 직설법 현재 3인칭 단수 | 일반적 경향 | 불규칙(o→ue)
+  - `significar` → significar | 부정사 | soler + 부정사
+  - `preparada` → preparar | 과거분사 여성 단수 | 형용사적 수식("준비된")
+

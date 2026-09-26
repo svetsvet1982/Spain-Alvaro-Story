@@ -519,3 +519,258 @@
   - `van` → ir | 직설법 현재 3인칭 복수 (ustedes) | ir a + 부정사 = 가까운 미래·예측 | 불규칙 (voy, vas, va, vamos, vais, van)
   - `necesitar` → 부정사 | ir a + 부정사. 단순미래 necesitarán보다 구어적이고 확신 있는 예측
 
+## 장면 3. 조작된 입찰의 흔적
+> 하비에르와 알바로가 공공사업 발주 기록을 분석하며, 롤단의 회사가 수주한 계약들에서 구체적인 이상 징후를 발견합니다.
+
+### 3-1. **Javier:** (Con varios documentos extendidos) He conseguido los expedientes de los tres contratos más grandes que ganó la constructora de Roldán.
+- **해석:** (여러 서류를 펼쳐 놓고) 롤단의 건설사가 따낸 가장 큰 계약 세 건의 서류철을 구했어.
+- **주요 단어:** `extender` (동사) 펼치다 / `conseguir` (동사) 얻다, 구하다 / `expediente` (남성명사) (행정) 서류철, 파일 / `ganar` (동사) (계약을) 따내다
+- **문법:** 최상급 los … más grandes. que ganó…는 목적격 관계절, 주어 도치.
+- **표현:** `expediente` = 행정·사법 절차의 문서철. `ganar un contrato/concurso` = 수주하다.
+- **시제:**
+  - `extendidos` → extender | 과거분사 남성 복수 | documentos에 일치하는 "펼쳐진" 상태 (지문)
+  - `He conseguido` → conseguir | 직설법 현재완료 1인칭 단수 | 방금 손에 넣어 지금 가지고 있는 결과를 강조 | 과거분사 규칙형 conseguido (현재 consigo는 e→i 불규칙)
+  - `ganó` → ganar | 직설법 단순과거 3인칭 단수 | 과거에 완결된 수주 | 규칙. 현재완료(he conseguido)와 대비: 오늘의 결과 vs 과거의 완결 사건
+
+### 3-2. **Álvaro:** ¿Y qué tienen de raro?
+- **해석:** 그래서 뭐가 이상한데?
+- **주요 단어:** `raro` (형용사) 이상한
+- **문법:** tener de + 형용사 = ~한 점을 가지다. ¿Qué tiene de raro? = 뭐가 이상한가?
+- **표현:** `¿Qué tiene de malo/raro…?` 구어에서 자주 쓰는 틀.
+- **시제:**
+  - `tienen` → tener | 직설법 현재 3인칭 복수 | 서류의 현재 특징 | 불규칙 e→ie
+
+### 3-3. **Javier:** Para empezar, los tres se adjudicaron con un solo competidor presentado, y ese competidor se retiró justo antes de la resolución final.
+- **해석:** 우선, 세 건 모두 경쟁 업체가 단 하나만 응찰한 상태에서 낙찰됐고, 그 업체는 최종 결정 직전에 빠졌어.
+- **주요 단어:** `para empezar` 우선, 먼저 / `adjudicar` (동사) 낙찰시키다 / `competidor` (남성명사) 경쟁자 / `presentar(se)` (동사) 응모하다 / `retirarse` (재귀동사) 철회하다, 물러나다 / `justo antes de` 바로 직전에 / `resolución` (여성명사) 결정, 판정
+- **문법:** se adjudicaron = 수동의 se (주어 los tres). se retiró = 재귀동사. presentado = 과거분사 형용사.
+- **시제:**
+  - `empezar` → 부정사 | para + 부정사 (관용구)
+  - `se adjudicaron` → adjudicar | 직설법 단순과거 3인칭 복수 | 과거의 완결된 사건 | 규칙
+  - `presentado` → presentar | 과거분사 남성 단수 | "응찰한" 상태
+  - `se retiró` → retirarse | 직설법 단순과거 3인칭 단수 | 특정 시점의 한 번의 행위 | 규칙
+
+### 3-4. **Álvaro:** Eso es una señal clásica de concurso amañado.
+- **해석:** 그건 담합 입찰의 전형적인 신호야.
+- **주요 단어:** `señal` (여성명사) 신호, 징후 / `clásico` (형용사) 전형적인 / `concurso` (남성명사) 공모, 입찰 / `amañar` (동사) 조작하다
+- **문법:** ser + 명사. amañado는 과거분사 형용사.
+- **표현:** `concurso amañado` = 짜고 치는 입찰, 조작된 공모.
+- **시제:**
+  - `es` → ser | 직설법 현재 (앞에서 설명)
+  - `amañado` → amañar | 과거분사 남성 단수 | "조작된" 상태
+
+### 3-5. **Javier:** Además, el precio final quedó apenas un dos por ciento por debajo del presupuesto máximo, en los tres casos.
+- **해석:** 게다가 세 건 모두 최종 가격이 최대 예산보다 겨우 2% 낮았어.
+- **주요 단어:** `además` (부사) 게다가 / `precio` (남성명사) 가격 / `apenas` (부사) 겨우, 간신히 / `por ciento` 퍼센트 / `por debajo de` ~ 아래로 / `presupuesto` (남성명사) 예산
+- **문법:** quedar + 위치/상태 = ~로 되다(결과). un dos por ciento에서 부정관사 un은 수치 앞 관용.
+- **표현:** `presupuesto máximo`(또는 de licitación) = 입찰 상한가.
+- **시제:**
+  - `quedó` → quedar | 직설법 단순과거 3인칭 단수 | 과거 입찰 결과로 확정된 완결 사실 | 규칙
+
+### 3-6. **Javier:** Nadie negocia tan mal por casualidad.
+- **해석:** 아무도 우연히 그렇게 협상을 못하진 않아.
+- **주요 단어:** `nadie` (부정대명사) 아무도 / `negociar` (동사) 협상하다 / `tan` 그렇게 / `por casualidad` 우연히
+- **문법:** nadie가 동사 앞이면 no 불필요.
+- **표현:** 반어적 표현 — 의도적인 가격 담합이라는 뜻.
+- **시제:**
+  - `negocia` → negociar | 직설법 현재 3인칭 단수 | 일반적 진리 | 규칙
+
+### 3-7. **Álvaro:** ¿Y quién firmó las adjudicaciones?
+- **해석:** 그럼 낙찰은 누가 서명했어?
+- **주요 단어:** `quién` (의문대명사) 누가 / `firmar` (동사) 서명하다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `firmó` → firmar | 직설법 단순과거 3인칭 단수 | 과거 특정 행위 | 규칙
+
+### 3-8. **Javier:** El mismo funcionario municipal en dos de los tres casos.
+- **해석:** 세 건 중 두 건은 같은 시청 공무원이야.
+- **주요 단어:** `funcionario` (남성명사) 공무원 / `municipal` (형용사) 시의, 지방자치단체의
+- **문법:** 동사 생략 (Las firmó…).
+- **시제:** 동사 없음
+
+### 3-9. **Javier:** En el tercero, alguien distinto, pero del mismo departamento.
+- **해석:** 세 번째는 다른 사람인데, 같은 부서 소속이야.
+- **주요 단어:** `tercero` (서수) 세 번째 / `distinto` (형용사) 다른 / `departamento` (남성명사) 부서
+- **문법:** el tercero = el tercer caso (명사 생략 시 tercero 완전형).
+- **시제:** 동사 없음
+
+### 3-10. **Álvaro:** Necesitamos hablar con ese funcionario, si es posible.
+- **해석:** 가능하면 그 공무원과 얘기해야 해.
+- **주요 단어:** 앞에서 설명
+- **문법:** si + 직설법 현재 (현실 조건).
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재 1인칭 복수 (앞에서 설명)
+  - `hablar` → 부정사 | necesitar + 부정사
+  - `es` → ser | 직설법 현재 | si 조건절이라 현재형
+
+### 3-11. **Javier:** Ya lo intenté.
+- **해석:** 이미 해 봤어.
+- **주요 단어:** `intentar` (동사) 시도하다
+- **문법:** lo = 그와 이야기하는 것.
+- **시제:**
+  - `intenté` → intentar | 직설법 단순과거 1인칭 단수 | 완결된 시도. 스페인에서 오늘 일이면 lo he intentado도 흔함 | 규칙
+
+### 3-12. **Javier:** No contesta llamadas, y su oficina dice que está de baja médica desde la semana pasada.
+- **해석:** 전화를 안 받고, 사무실에서는 지난주부터 병가 중이래.
+- **주요 단어:** `contestar` (동사) 응답하다 / `llamada` (여성명사) 전화 / `decir` (동사) 말하다 / `baja médica` 병가 / `semana pasada` 지난주
+- **문법:** estar de baja = 휴직(병가) 상태 (estar de + 명사 = 일시적 상태). desde + 과거 시점 + 현재형 = ~부터 지금까지.
+- **표현:** `estar de baja (médica)` 스페인식 "병가 중". 중남미는 licencia médica.
+- **시제:**
+  - `contesta` → contestar | 직설법 현재 3인칭 단수 | 지금도 계속되는 상태 | 규칙
+  - `dice` → decir | 직설법 현재 3인칭 단수 | 전달하는 말 | 불규칙 e→i, 1인칭 digo
+  - `está` → estar | 직설법 현재 3인칭 단수 | desde와 함께 과거에 시작해 현재까지 이어지는 상태라 현재형 (영어의 현재완료 진행 대응) | 불규칙
+
+### 3-13. **Álvaro:** Qué oportuno.
+- **해석:** 참 공교롭네.
+- **주요 단어:** `oportuno` (형용사) 시기적절한
+- **문법:** 감탄문 Qué + 형용사.
+- **표현:** 반어적 — "타이밍 참 좋네(수상하다)".
+- **시제:** 동사 없음
+
+### 3-14. **Javier:** Eso mismo pensé yo.
+- **해석:** 나도 바로 그렇게 생각했어.
+- **주요 단어:** 앞에서 설명 (1-26)
+- **문법:** 앞에서 설명
+- **시제:**
+  - `pensé` → pensar | 직설법 단순과거 1인칭 단수 (앞에서 설명)
+
+### 3-15. **Javier:** Mientras tanto, ¿intentamos contactar directamente con Roldán?
+- **해석:** 그동안 롤단에게 직접 연락해 볼까?
+- **주요 단어:** `mientras tanto` 그동안 / `contactar con` ~와 연락하다 / `directamente` (부사) 직접
+- **문법:** 현재형 의문문으로 제안 ("~할까?").
+- **표현:** 스페인에서는 `contactar con alguien` 형태가 흔함.
+- **시제:**
+  - `intentamos` → intentar | 직설법 현재 1인칭 복수 | 제안을 묻는 현재형 (¿Lo hacemos? 류) | 규칙
+  - `contactar` → 부정사 | intentar + 부정사
+
+### 3-16. **Álvaro:** Sería lo correcto, antes de publicar nada.
+- **해석:** 뭐든 내보내기 전에 그렇게 하는 게 맞겠지.
+- **주요 단어:** `correcto` (형용사) 올바른 / `publicar` 게재하다 / `nada` 아무것도
+- **문법:** lo + 형용사 = ~한 것. antes de + 부정사. 부정적 뉘앙스 문맥(antes de)에서 nada = "무엇이든".
+- **시제:**
+  - `Sería` → ser | 조건법 단순 3인칭 단수 | 완곡한 판단("~일 것이다") | 규칙 어미 (ser + ía)
+  - `publicar` → 부정사 | antes de 뒤
+
+### 3-17. **Álvaro:** Démosle la oportunidad de responder.
+- **해석:** 그에게 답할 기회를 주자.
+- **주요 단어:** `dar` (동사) 주다 / `oportunidad` (여성명사) 기회 / `responder` (동사) 대답하다
+- **문법:** nosotros 명령형 + 간접목적 le가 뒤에 붙음 → 강세부호 (démosle). (se가 붙을 때만 -s 탈락: démoselo)
+- **시제:**
+  - `Démosle` → dar | 명령법 1인칭 복수 (접속법 현재 demos) + le | "~하자" 제안 | 불규칙 (dé, des, dé, demos…)
+  - `responder` → 부정사 | de 뒤
+
+### 3-18. **Javier:** Le he mandado un cuestionario por escrito esta mañana.
+- **해석:** 오늘 아침에 서면 질의서를 보냈어.
+- **주요 단어:** `mandar` (동사) 보내다 / `cuestionario` (남성명사) 질문지 / `por escrito` 서면으로 / `esta mañana` 오늘 아침
+- **문법:** 간접목적 le가 활용 동사 앞.
+- **시제:**
+  - `he mandado` → mandar | 직설법 현재완료 1인칭 단수 | esta mañana(아직 끝나지 않은 오늘)에 속한 일이라 현재완료 — 스페인 스페인어의 전형적 용법. 중남미에서는 mandé가 흔함 | 규칙
+
+### 3-19. **Javier:** Todavía no hay respuesta.
+- **해석:** 아직 답이 없어.
+- **주요 단어:** `respuesta` (여성명사) 대답
+- **문법:** 특이사항 없음
+- **시제:**
+  - `hay` → haber | 직설법 현재 무인칭 (앞에서 설명)
+
+### 3-20. **Álvaro:** Démosle unos días.
+- **해석:** 며칠 기다려 주자.
+- **주요 단어:** `unos` 몇몇의
+- **문법:** 앞에서 설명 (Démosle)
+- **표현:** `dar unos días a alguien` = 며칠 말미를 주다.
+- **시제:**
+  - `Démosle` → dar | 명령법 1인칭 복수 + le (앞에서 설명)
+
+### 3-21. **Álvaro:** Si no contesta, lo reflejamos así en el reportaje.
+- **해석:** 답이 없으면 기사에 그렇게 반영하자.
+- **주요 단어:** `reflejar` (동사) 반영하다, 싣다 / `así` 그렇게 / `reportaje` (남성명사) 취재 기사, 르포
+- **문법:** Si + 직설법 현재, 주절 직설법 현재 (미래 계획을 현재형으로).
+- **표현:** 기사에 "당사자는 답변하지 않았다"라고 쓰는 언론 관행.
+- **시제:**
+  - `contesta` → contestar | 직설법 현재 3인칭 단수 | si 조건절 현재
+  - `reflejamos` → reflejar | 직설법 현재 1인칭 복수 | 미래 결정을 현재형으로 표현(구어적, 확정적 뉘앙스) | 규칙
+
+### 3-22. **Javier:** De acuerdo.
+- **해석:** 좋아.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-23. **Javier:** Mientras tanto, sigamos con los documentos.
+- **해석:** 그동안은 서류 작업을 계속하자.
+- **주요 단어:** `seguir con` ~을 계속하다
+- **문법:** nosotros 명령형.
+- **시제:**
+  - `sigamos` → seguir | 명령법 1인칭 복수 (접속법 현재) | "계속하자" | 불규칙: e→i, gu→g (siga, sigamos)
+
+### 3-24. **Javier:** Quiero cruzar las fechas de estos contratos con las transferencias que ya tenemos identificadas.
+- **해석:** 이 계약들의 날짜를 이미 파악해 둔 송금 내역과 대조해 보고 싶어.
+- **주요 단어:** `cruzar` (동사) 교차하다, 대조하다 / `fecha` (여성명사) 날짜 / `identificar` (동사) 확인하다, 식별하다
+- **문법:** tener + 과거분사(목적어에 일치) = 결과 상태 강조 ("~해 둔 상태로 가지고 있다"). identificadas는 transferencias에 일치.
+- **표현:** `cruzar datos` = 데이터를 교차 대조하다.
+- **시제:**
+  - `Quiero` → querer | 직설법 현재 1인칭 단수 (앞에서 설명)
+  - `cruzar` → 부정사 | querer + 부정사
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 현재 보유 상태
+  - `identificadas` → identificar | 과거분사 여성 복수 | tener + 과거분사 결과 구문. haber 완료형(hemos identificado)과 달리 과거분사가 목적어와 일치
+
+### 3-25. **Álvaro:** Buena idea.
+- **해석:** 좋은 생각이야.
+- **주요 단어:** `idea` (여성명사) 생각
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-26. **Álvaro:** Si coinciden en el tiempo, eso refuerza muchísimo la conexión.
+- **해석:** 시기가 맞아떨어지면, 연결고리가 훨씬 강해져.
+- **주요 단어:** `coincidir` (동사) 일치하다 / `reforzar` (동사) 강화하다 / `muchísimo` 매우 많이 (절대최상급) / `conexión` (여성명사) 연관
+- **문법:** 현실 조건 si + 현재, 주절 현재. -ísimo 절대최상급.
+- **시제:**
+  - `coinciden` → coincidir | 직설법 현재 3인칭 복수 | si 조건절 | 규칙
+  - `refuerza` → reforzar | 직설법 현재 3인칭 단수 | 조건이 충족될 때의 일반적 결과 | 불규칙 o→ue (+ z→c는 e 앞에서만)
+
+### 3-27. **Javier:** (Revisando) Aquí está: la primera transferencia grande al partido llega apenas diez días después de que se firmara el primer contrato.
+- **해석:** (살펴보며) 여기 있다. 정당으로 간 첫 대규모 송금이 첫 계약이 체결된 지 불과 열흘 뒤에 들어와.
+- **주요 단어:** `revisar` (동사) 검토하다 / `aquí está` 여기 있다 / `llegar` 도착하다 / `después de que` ~한 후에 / `firmar` 서명하다
+- **문법:** después de que + 접속법 (특히 과거 서술에서 접속법 과거 사용이 표준적·문어적). se firmara = 수동의 se.
+- **표현:** 과거 사건을 현재형(llega)으로 서술하는 역사적 현재 — 문서를 읽으며 생생하게 전달.
+- **시제:**
+  - `Revisando` → revisar | 현재분사 | 지문의 동시 동작
+  - `está` → estar | 직설법 현재 3인칭 단수 | 위치를 나타내 estar
+  - `llega` → llegar | 직설법 현재 3인칭 단수 | 역사적 현재 (llegó 대신 기록을 읽으며 생생하게)
+  - `se firmara` → firmar | 접속법 불완료과거 3인칭 단수 (수동 se) | después de que 뒤 과거 사건은 접속법 과거가 규범적 (구어에서는 직설법 se firmó도 들림) | 규칙 (firmaron → firmara)
+
+### 3-28. **Álvaro:** Eso no es casualidad, es un patrón.
+- **해석:** 그건 우연이 아니라 패턴이야.
+- **주요 단어:** `casualidad` (여성명사) 우연 / `patrón` 앞에서 설명
+- **문법:** ser + 명사.
+- **시제:**
+  - `es` (×2) → ser | 직설법 현재 3인칭 단수 | 판단·규정 (앞에서 설명)
+
+### 3-29. **Javier:** Exacto.
+- **해석:** 바로 그거야.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-30. **Javier:** Tenemos que documentar esto con muchísimo cuidado antes de publicar nada.
+- **해석:** 뭐든 내보내기 전에 이걸 아주 신중하게 문서로 뒷받침해야 해.
+- **주요 단어:** `documentar` (동사) 문서로 입증하다 / `cuidado` (남성명사) 주의
+- **문법:** tener que + 부정사. antes de + 부정사.
+- **시제:**
+  - `Tenemos` → tener | 직설법 현재 1인칭 복수 (앞에서 설명)
+  - `documentar` → 부정사 | tener que 뒤
+  - `publicar` → 부정사 | antes de 뒤
+
+### 3-31. **Álvaro:** Estoy de acuerdo.
+- **해석:** 동의해.
+- **주요 단어:** `estar de acuerdo` 동의하다
+- **문법:** 의견 상태이므로 estar.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재 1인칭 단수 | 현재의 동의 | 불규칙 (estoy)
+
+### 3-32. **Álvaro:** Sigamos.
+- **해석:** 계속하자.
+- **주요 단어:** 앞에서 설명
+- **문법:** nosotros 명령형.
+- **시제:**
+  - `Sigamos` → seguir | 명령법 1인칭 복수 (앞에서 설명)

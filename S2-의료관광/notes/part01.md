@@ -577,3 +577,246 @@
 - **시제:**
   - `Está` → estar | 직설법 현재 3인칭 단수(usted) | 현재 상태이므로 estar | 불규칙(강세 está)
 
+## 장면 3. 클리니카 아우로라 첫 방문
+> 알바로가 '알레한드로 푸익' 신분으로 클리니카 아우로라를 방문해 환자로 위장 접수합니다.
+
+### 3-1. **Recepcionista:** (En la recepción) Buenos días, ¿tiene cita?
+- **해석:** (접수처에서) 안녕하세요, 예약하셨나요?
+- **주요 단어:** `recepción` (명사, 여) 접수처 / `cita` (명사, 여) 예약, 약속
+- **문법:** usted에게 3인칭 단수 tiene.
+- **표현:** `¿Tiene cita?` 병원·관공서에서 늘 듣는 질문. `pedir cita` = 예약하다.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수(usted) | 현재 예약 보유 여부 | 불규칙(e→ie)
+
+### 3-2. **Álvaro:** Sí, a nombre de Alejandro Puig.
+- **해석:** 네, 알레한드로 푸익 이름으로요.
+- **주요 단어:** `nombre` (명사, 남) 이름
+- **표현:** `a nombre de` "~의 이름으로" (예약·송금 등).
+- **시제:** 동사 없음
+
+### 3-3. **Recepcionista:** Un momento, por favor.
+- **해석:** 잠시만 기다려 주세요.
+- **표현:** `Un momento` 잠깐만요.
+- **시제:** 동사 없음
+
+### 3-4. **Recepcionista:** El doctor Casas le atenderá enseguida.
+- **해석:** 카사스 선생님이 곧 봐 드릴 거예요.
+- **주요 단어:** `atender` (동사) 응대하다, 진료하다 / `enseguida` (부사) 곧, 즉시
+- **문법:** `el doctor + 성`: 3인칭으로 말할 땐 정관사 필요 (직접 부를 땐 "Doctor Casas"). `le`: usted 목적어(스페인식 le).
+- **시제:**
+  - `atenderá` → atender | 직설법 단순미래 3인칭 단수 | 곧 일어날 일을 확정적으로 안내 | 규칙 (현재형은 e→ie: atiende)
+
+### 3-5. **Doctor:** (Ya en la consulta) Buenos días, señor Puig.
+- **해석:** (이미 진료실 안) 안녕하세요, 푸익 씨.
+- **주요 단어:** `ya` (부사) 이미, 이제 / `consulta` 앞에서 설명
+- **문법:** 호칭 `señor + 성` (부를 때 관사 없음).
+- **시제:** 동사 없음
+
+### 3-6. **Doctor:** Cuénteme, ¿qué le trae por aquí?
+- **해석:** 말씀해 보세요, 무슨 일로 오셨어요?
+- **주요 단어:** `contar` (동사) 이야기하다; 세다
+- **문법:** `Cuénteme` = cuente + me, usted 명령 + 대명사 부착, 강세 표시.
+- **표현:** `¿Qué le trae por aquí?` 앞에서 설명 (2-35).
+- **시제:**
+  - `Cuénteme` → contar | 명령법 usted 긍정 (접속법 현재 cuente) | 정중한 요청 | 어간변화(o→ue)
+  - `trae` → traer | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 3-7. **Álvaro:** Llevo meses con un dolor sordo en las articulaciones, sobre todo por las mañanas, y una fatiga que no se me pasa ni durmiendo bien.
+- **해석:** 몇 달째 관절이 묵직하게 아파요. 특히 아침에요. 그리고 잘 자도 피로가 가시질 않아요.
+- **주요 단어:** 앞에서 설명 (2-36과 동일 문장 — 연습한 대로 그대로 말함)
+- **문법:** `Llevar + 기간`, 비의도 se + me, ni + 현재분사 (앞에서 설명)
+- **시제:**
+  - `Llevo` → llevar | 직설법 현재 1인칭 단수 | 지속 기간 (앞에서 설명)
+  - `pasa` → pasarse | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `durmiendo` → dormir | 현재분사 | 앞에서 설명
+
+### 3-8. **Doctor:** Entiendo.
+- **해석:** 그렇군요.
+- **주요 단어:** `entender` 앞에서 설명
+- **표현:** 상대 말을 받아들이는 맞장구 "알겠습니다, 그렇군요".
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 지금 이해함 | 어간변화(e→ie)
+
+### 3-9. **Doctor:** ¿Ha probado algún tratamiento hasta ahora?
+- **해석:** 지금까지 어떤 치료라도 받아 보셨나요?
+- **주요 단어:** `probar` (동사) 시도해 보다, 맛보다 / `hasta ahora` 지금까지
+- **문법:** hasta ahora와 현재완료의 결합이 전형적.
+- **시제:**
+  - `Ha probado` → probar | 직설법 현재완료 3인칭 단수(usted) (pretérito perfecto compuesto) | "지금까지"라는 현재까지 이어진 기간 안의 경험 | haber + 과거분사(probado, 규칙)
+  - 비교: `¿Probó...?`(단순과거)는 특정 과거 시점을 전제 — hasta ahora와는 현재완료가 자연스러움(스페인 기준).
+
+### 3-10. **Álvaro:** Solo analgésicos normales, sin mucho resultado.
+- **해석:** 일반 진통제만요. 별 효과는 없었어요.
+- **주요 단어:** `analgésico` (명사, 남) 진통제 / `resultado` (명사, 남) 결과, 효과
+- **문법:** 동사 생략 (He probado solo analgésicos...).
+- **시제:** 동사 없음
+
+### 3-11. **Doctor:** (Asiente) Es un patrón que vemos con frecuencia.
+- **해석:** (고개를 끄덕이며) 저희가 자주 보는 양상이에요.
+- **주요 단어:** `asentir` (동사) 동의하다, 고개를 끄덕이다 / `con frecuencia` 자주
+- **문법:** 관계절 `que vemos` (선행사 patrón, 직접목적어).
+- **시제:**
+  - `Asiente` → asentir | 직설법 현재 3인칭 단수 (지문) | 지문 속 동작 묘사 | 어간변화(e→ie)
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 분류 | 불규칙
+  - `vemos` → ver | 직설법 현재 1인칭 복수 | 반복되는 일 | 1인칭 단수 veo만 불규칙
+
+### 3-12. **Doctor:** Aquí ofrecemos un tratamiento exclusivo, mucho más efectivo que lo que encontrará en la sanidad pública.
+- **해석:** 여기서는 공공 의료에서 찾으실 수 있는 것보다 훨씬 효과적인 독점 치료를 제공합니다.
+- **주요 단어:** `ofrecer` 앞에서 설명 / `exclusivo` 앞에서 설명 / `efectivo` (형용사) 효과적인
+- **문법:** 비교 `más ... que`; `lo que` "~하는 것". `mucho más` "훨씬 더".
+- **표현:** 엘레나가 경고한 "독점 치료" 영업 멘트가 그대로 등장.
+- **시제:**
+  - `ofrecemos` → ofrecer | 직설법 현재 1인칭 복수 | 현재 제공 중인 서비스 | 1인칭 단수 ofrezco만 불규칙
+  - `encontrará` → encontrar | 직설법 단순미래 3인칭 단수(usted) | 가정적 예측 "(가시면) 찾게 될 것" | 규칙
+
+### 3-13. **Álvaro:** ¿En qué consiste exactamente?
+- **해석:** 정확히 어떤 치료인가요?
+- **주요 단어:** `consistir en` ~로 이루어지다 / `exactamente` (부사) 정확히
+- **문법:** consistir는 항상 en과 함께 → 의문문에서 전치사가 의문사 앞으로 (¿En qué...?).
+- **표현:** `¿En qué consiste?` "그게 뭔데요/내용이 뭐죠?" 매우 흔한 질문.
+- **시제:**
+  - `consiste` → consistir | 직설법 현재 3인칭 단수 | 치료의 구성(일반적 사실) | 규칙
+
+### 3-14. **Doctor:** Una combinación de terapias regenerativas, con resultados muy rápidos.
+- **해석:** 재생 치료들의 조합이고요, 결과가 아주 빨리 나옵니다.
+- **주요 단어:** `combinación` (명사, 여) 조합 / `terapia` (명사, 여) 요법 / `regenerativo` (형용사) 재생의
+- **문법:** 동사 생략 (Consiste en una combinación...).
+- **시제:** 동사 없음
+
+### 3-15. **Doctor:** La mayoría de nuestros pacientes nota mejoría en la primera semana.
+- **해석:** 저희 환자 대부분이 첫 주에 호전을 느낍니다.
+- **주요 단어:** `la mayoría de` ~의 대부분 / `notar` (동사) 알아차리다, 느끼다 / `mejoría` (명사, 여) 호전
+- **문법:** `la mayoría de + 복수명사` 주어 → 동사는 단수(nota)·복수(notan) 모두 가능. 여기선 mayoría에 맞춘 단수.
+- **시제:**
+  - `nota` → notar | 직설법 현재 3인칭 단수 | 일반적 사실로 제시 | 규칙
+
+### 3-16. **Álvaro:** Suena prometedor.
+- **해석:** 희망적으로 들리네요.
+- **주요 단어:** `sonar` 앞에서 설명 / `prometedor` (형용사) 유망한 (← prometer)
+- **문법:** sonar + 형용사 "~하게 들리다" (주어 생략: 그 치료가).
+- **시제:**
+  - `Suena` → sonar | 직설법 현재 3인칭 단수 | 현재의 인상 | 어간변화(o→ue)
+
+### 3-17. **Álvaro:** ¿Y el coste?
+- **해석:** 그럼 비용은요?
+- **주요 단어:** `coste` (명사, 남) 비용 (스페인식; 중남미는 costo)
+- **표현:** `coste`는 스페인 스페인어 형태.
+- **시제:** 동사 없음
+
+### 3-18. **Doctor:** El paquete completo son tres mil euros, aunque si paga hoy mismo, puedo ofrecerle un descuento especial.
+- **해석:** 전체 패키지는 3천 유로인데, 오늘 바로 결제하시면 특별 할인을 해 드릴 수 있어요.
+- **주요 단어:** `completo` (형용사) 전체의 / `mil` 천 / `pagar` 앞에서 설명 / `hoy mismo` 바로 오늘 / `descuento` (명사, 남) 할인
+- **문법:**
+  - `El paquete ... son tres mil euros`: 가격을 말할 때 ser가 뒤의 복수 보어(euros)에 일치하는 경우가 많음.
+  - `si + 직설법 현재, 직설법 현재`: 현실적 조건문.
+  - `ofrecerle`: 간접목적 le(당신에게)가 부정사 뒤에 부착.
+- **표현:** 엘레나가 말한 "선불 압박" 수법 — `si paga hoy mismo` 즉시 결제 유도.
+- **시제:**
+  - `son` → ser | 직설법 현재 3인칭 복수 | 가격 제시 | 불규칙
+  - `paga` → pagar | 직설법 현재 3인칭 단수(usted) | si 조건절(현실 조건)은 직설법 현재 (접속법 현재 불가) | 규칙
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 가능성 제안 | 불규칙(o→ue)
+  - `ofrecerle` → ofrecer | 부정사 + 대명사 | poder 뒤
+
+### 3-19. **Álvaro:** (Alerta, disimulando) Es una cifra considerable.
+- **해석:** (경계하면서도 티 내지 않고) 상당한 금액이네요.
+- **주요 단어:** `alerta` (형용사·명사) 경계하는 / `disimular` (동사) 숨기다, 티 내지 않다 / `cifra` (명사, 여) 숫자, 금액 / `considerable` (형용사) 상당한
+- **시제:**
+  - `disimulando` → disimular | 현재분사 (지문) | 말하는 동안 감정을 숨기는 동시 동작
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 평가 | 불규칙
+
+### 3-20. **Álvaro:** ¿Podría informarme mi médico de cabecera antes de decidir?
+- **해석:** 결정하기 전에 제 주치의에게 한번 알아봐도 될까요? (직역: 제 주치의가 저에게 알려줄 수 있을까요?)
+- **주요 단어:** `informar` 앞에서 설명 / `médico de cabecera` 주치의, 가정의 / `antes de + 부정사` ~하기 전에 / `decidir` (동사) 결정하다
+- **문법:** 문장 구조상 주어는 mi médico de cabecera, me는 목적어 → "제 주치의가 저에게 조언해 줄 수 있을까요?". 문맥상 뜻은 "주치의와 상의해 봐도 될까요?"(= ¿Podría consultarlo con mi médico...?). 엘레나가 말한 "주치의에게 알리지 말라"는 반응을 떠보는 질문.
+- **표현:** `médico de cabecera` 스페인에서 1차 진료 의사(주치의).
+- **시제:**
+  - `Podría` → poder | 조건법 3인칭 단수 | 공손한 요청·허락 구하기 | 불규칙 어간(poder → podr-)
+  - `informarme` → informar | 부정사 + 대명사 | poder 뒤
+  - `decidir` → decidir | 부정사 | antes de 뒤
+
+### 3-21. **Doctor:** (Ligera tensión) Preferimos que estos tratamientos se manejen con discreción, señor Puig.
+- **해석:** (약간 긴장하며) 이런 치료는 조용히 진행하는 걸 선호합니다, 푸익 씨.
+- **주요 단어:** `ligero` (형용사) 가벼운 / `tensión` (명사, 여) 긴장 / `preferir` (동사) 선호하다 / `manejar` (동사) 다루다 / `discreción` 앞에서 설명
+- **문법:** `preferir que + 접속법` (선호·바람 뒤 다른 주어). `se manejen`: 수동 se, 주어 tratamientos(복수).
+- **표현:** 엘레나가 경고한 "다른 의사에게 비밀" 요구 — 경고 신호.
+- **시제:**
+  - `Preferimos` → preferir | 직설법 현재 1인칭 복수 | 현재의 방침 | 어간변화 동사(e→ie)지만 nosotros형은 변화 없음
+  - `manejen` → manejar | 접속법 현재 3인칭 복수 (수동 se) | 선호(preferir que) 뒤라 접속법 | 규칙
+
+### 3-22. **Doctor:** Muchos médicos generalistas no entienden bien estas terapias innovadoras.
+- **해석:** 많은 일반의들은 이런 혁신적인 치료를 잘 이해하지 못하거든요.
+- **주요 단어:** `médico generalista` 일반의 / `innovador` (형용사) 혁신적인
+- **시제:**
+  - `entienden` → entender | 직설법 현재 3인칭 복수 | 일반적 주장 | 어간변화(e→ie)
+
+### 3-23. **Álvaro:** (Anotando mentalmente la señal de alarma) Entiendo.
+- **해석:** (경고 신호를 속으로 기억해 두며) 그렇군요.
+- **주요 단어:** `anotar` (동사) 적어 두다 / `mentalmente` (부사) 마음속으로 / `señal de alarma` 앞에서 설명
+- **표현:** `anotar mentalmente` "머릿속에 메모하다".
+- **시제:**
+  - `Anotando` → anotar | 현재분사 (지문) | 대답과 동시에 진행되는 동작
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 3-24. **Álvaro:** ¿Y hay algún registro sanitario oficial de este tratamiento?
+- **해석:** 그럼 이 치료에 대한 공식 보건 등록은 있나요?
+- **주요 단어:** `registro sanitario` 앞에서 설명 / `oficial` (형용사) 공식의
+- **문법:** 존재의 `hay` (haber 무인칭).
+- **시제:**
+  - `hay` → haber | 직설법 현재 3인칭 단수 (무인칭 존재) | 현재 존재 여부 | 불규칙 특수형
+
+### 3-25. **Doctor:** Todo está debidamente autorizado, aunque el papeleo específico se lo puedo mostrar en otra visita.
+- **해석:** 모두 정식으로 허가받았습니다. 다만 구체적인 서류는 다음 방문 때 보여 드릴 수 있어요.
+- **주요 단어:** `debidamente` (부사) 정당하게, 정식으로 / `autorizar` 앞에서 설명 / `papeleo` (명사, 남) 서류 작업, 서류 / `mostrar` (동사) 보여주다
+- **문법:**
+  - `estar + 과거분사`: 결과 상태("허가된 상태이다").
+  - `el papeleo ... se lo puedo mostrar`: 목적어를 앞으로 뺀 뒤 대명사 lo로 반복(목적어 전치 시 중복). `se lo`: le lo → se lo (간접 le가 lo 앞에서 se로 바뀜).
+- **표현:** 서류를 미루는 회피성 답변.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 허가라는 결과 상태이므로 estar | 불규칙
+  - `autorizado` → autorizar | 과거분사 | estar + 과거분사 = 결과 상태 (cf. ser autorizado는 수동 동작)
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 가능 | 불규칙
+  - `mostrar` → mostrar | 부정사 | poder 뒤 (현재형은 o→ue: muestro)
+
+### 3-26. **Álvaro:** Me gustaría verlo antes de comprometerme.
+- **해석:** 결정하기 전에 그걸 보고 싶네요.
+- **주요 단어:** `gustar` (동사) 좋아하다 / `ver` (동사) 보다 / `comprometerse` (재귀동사) 약속하다, 확약하다
+- **문법:** `Me gustaría + 부정사` 공손한 희망. `verlo`: lo = el papeleo. `comprometerme` 재귀대명사 부착.
+- **표현:** `Me gustaría...` "~하고 싶습니다" 가장 흔한 공손 표현.
+- **시제:**
+  - `gustaría` → gustar | 조건법 3인칭 단수 | 공손한 희망 | 규칙
+  - `verlo` → ver | 부정사 + 대명사 | gustar의 주어 역할
+  - `comprometerme` → comprometerse | 부정사 (재귀) | antes de 뒤
+
+### 3-27. **Doctor:** Por supuesto, aunque le recomiendo no demorar mucho la decisión.
+- **해석:** 물론이죠. 다만 결정을 너무 미루지 않으시길 권합니다.
+- **주요 단어:** `por supuesto` 물론 / `recomendar` (동사) 권하다 / `demorar` (동사) 미루다 / `decisión` (명사, 여) 결정
+- **문법:** `recomendar + 부정사` (le = 당신에게). `recomendarle que no demore`처럼 접속법도 가능.
+- **표현:** 결정을 서두르게 하는 압박 전술.
+- **시제:**
+  - `recomiendo` → recomendar | 직설법 현재 1인칭 단수 | 지금 하는 권고 | 어간변화(e→ie)
+  - `demorar` → demorar | 부정사 | recomendar 뒤
+
+### 3-28. **Doctor:** Las plazas para este tratamiento son limitadas.
+- **해석:** 이 치료는 자리가 한정되어 있어서요.
+- **주요 단어:** `plaza` (명사, 여) 광장; 자리, 정원 / `limitado` (형용사) 제한된
+- **문법:** `ser limitado` = 원래 수가 적다는 성질(estar limitado도 가능하나 ser가 "정원이 한정됨"이라는 특성 강조).
+- **표현:** "한정 수량" 영업 압박 문구.
+- **시제:**
+  - `son` → ser | 직설법 현재 3인칭 복수 | 특성 서술 | 불규칙
+  - `limitadas` → limitar | 과거분사 여성 복수 | 형용사적 용법
+
+### 3-29. **Álvaro:** Lo pensaré, gracias por su tiempo, doctor.
+- **해석:** 생각해 볼게요, 시간 내 주셔서 감사합니다, 선생님.
+- **주요 단어:** `pensar` (동사) 생각하다 / `gracias por` ~에 감사
+- **문법:** 중성 lo = 제안 전체. `gracias por + 명사`.
+- **표현:** `Lo pensaré` 즉답을 피하는 정중한 거절·보류 표현.
+- **시제:**
+  - `pensaré` → pensar | 직설법 단순미래 1인칭 단수 | 앞으로 하겠다는 의사 | 규칙 (현재형은 e→ie: pienso)
+
+### 3-30. **Doctor:** Le esperamos pronto, señor Puig.
+- **해석:** 곧 다시 뵙기를 기다리겠습니다, 푸익 씨.
+- **주요 단어:** `esperar` 앞에서 설명 / `pronto` (부사) 곧
+- **문법:** `le`: usted(남성) 직접목적어 — 스페인에서 허용되는 leísmo (lo esperamos도 가능).
+- **표현:** 가게·병원의 작별 인사 "또 오세요".
+- **시제:**
+  - `esperamos` → esperar | 직설법 현재 1인칭 복수 | 현재의 기대·가까운 미래 | 규칙

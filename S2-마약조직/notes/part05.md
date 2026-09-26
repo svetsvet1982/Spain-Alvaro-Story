@@ -588,3 +588,217 @@
   - `Volvamos` → volver | 명령법 nosotros (접속법 현재 1인칭 복수) | 권유 | nosotros형은 어간변화 없음 (vuelva → volvamos)
   - `note` → notar | 접속법 현재 3인칭 단수 | antes de que 뒤 필수 접속법 | 규칙형
 
+## 장면 24. 시메온의 보고
+> 리고베르토가 돌아온 다음 날, 시메온이 지난밤의 이상함을 다시 파고들며 위기가 고조됩니다.
+
+### 24-1. **Simeón:** (A Rigoberto, en privado, sin saber que Álvaro escucha desde cerca) Rigoberto, tengo que contarte algo sobre la otra noche.
+- **해석:** (알바로가 가까이서 듣고 있는 줄 모른 채 리고베르토에게 은밀히) 리고베르토, 지난번 밤에 대해 말해야 할 게 있어.
+- **주요 단어:** `en privado` 은밀히·단둘이 / `sin + 부정사` ~하지 않은 채 / `escuchar` 듣다 / `contar` 이야기하다 / `la otra noche` 며칠 전 밤
+- **문법:** tener que + 부정사 (의무). 부정사 뒤 간접목적대명사 te 접미 (contarte). 두 사람은 tú로 대화 (측근 사이).
+- **시제:**
+  - `saber` → saber | 부정사 | sin 뒤 | (활용 시 불규칙 sé)
+  - `escucha` → escuchar | 직설법 현재 3인칭 단수 | 지금 벌어지는 사실 | 규칙형
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | tener que로 의무 | 불규칙
+  - `contarte` → contar | 부정사 + te | 규칙 부정사 (활용 시 o→ue)
+
+### 24-2. **Rigoberto:** Adelante.
+- **해석:** 말해 봐.
+- **표현:** Adelante = 계속해/들어와/말해 봐 (허락·재촉)
+- **시제:** 동사 없음
+
+### 24-3. **Simeón:** Encontré la luz de tu despacho encendida, y a Mateo cerca, dando excusas raras.
+- **해석:** 네 집무실 불이 켜져 있었고, 마테오가 근처에서 이상한 핑계를 대고 있었어.
+- **주요 단어:** `excusa` (명사) 핑계 / `raro` 이상한 / `dar excusas` 핑계를 대다
+- **문법:** encontrar + 목적어 + 보어 구조가 두 번 (la luz ... encendida / a Mateo cerca, dando...). 사람이라 a Mateo.
+- **시제:**
+  - `Encontré` → encontrar | 직설법 단순과거 1인칭 단수 | 과거 한 시점의 발견 | 단순과거는 어간변화 없음
+  - `encendida` → encender | 과거분사 | 앞에서 설명
+  - `dando` → dar | 현재분사 | 목적어가 그때 하고 있던 행동 | 규칙 현재분사
+
+### 24-4. **Rigoberto:** ¿Raras en qué sentido?
+- **해석:** 어떤 식으로 이상했는데?
+- **주요 단어:** `en qué sentido` 어떤 의미에서
+- **시제:** 동사 없음
+
+### 24-5. **Simeón:** Insistió mucho en que él se encargaría de apagarla, como si no quisiera que yo entrara.
+- **해석:** 자기가 끄겠다고 엄청 고집했어, 마치 내가 들어가는 걸 원치 않는 것처럼.
+- **주요 단어:** `insistir en` ~을 고집하다 / `encargarse de` 앞에서 설명 / `como si` 마치 ~인 것처럼
+- **문법:** insistir en que + 절. 과거 시점에서 본 미래 → 조건법. `como si + 접속법 불완료과거` (항상). querer que + 접속법, 주절이 과거 계열이라 접속법 불완료과거로 시제 일치.
+- **시제:**
+  - `Insistió` → insistir | 직설법 단순과거 3인칭 단수 | 과거의 완결된 행동 | 규칙형
+  - `se encargaría` → encargarse | 조건법 단순 3인칭 단수 | 과거 시점에서의 미래(간접화법: "내가 할게" → 할 것이라고) | 규칙형
+  - `apagarla` → apagar | 부정사 + la | 앞에서 설명
+  - `quisiera` → querer | 접속법 불완료과거 3인칭 단수 (pretérito imperfecto de subjuntivo) | como si 뒤 필수 | 불규칙 (단순과거 quisieron → quisiera)
+  - `entrara` → entrar | 접속법 불완료과거 1인칭 단수 | querer que 뒤 + 과거 시제 일치 | 규칙형 (entrase도 가능)
+
+### 24-6. **Rigoberto:** (Su expresión se endurece) Eso es exactamente el tipo de coincidencia que no me gusta.
+- **해석:** (표정이 굳어진다) 그게 바로 내가 싫어하는 종류의 우연이야.
+- **주요 단어:** `expresión` 표정 / `endurecerse` 굳어지다 / `tipo` 종류 / `coincidencia` 우연 / `gustar` 좋아하다
+- **문법:** gustar 구조 (me gusta: 좋아하는 대상이 주어). 관계절 que가 coincidencia를 받음, 실재하는 종류라 직설법.
+- **시제:**
+  - `se endurece` → endurecerse | 직설법 현재 3인칭 단수 | 지문 | 1인칭 불규칙 (endurezco)
+  - `es` → ser | 직설법 현재 | 정의·판단 | 불규칙
+  - `gusta` → gustar | 직설법 현재 3인칭 단수 | 일반적 선호 | 규칙형
+
+### 24-7. **Simeón:** ¿Qué quieres que haga?
+- **해석:** 내가 뭘 하길 원해?
+- **문법:** querer que + 접속법 (주어가 다를 때, 의지 표현).
+- **시제:**
+  - `quieres` → querer | 직설법 현재 2인칭 단수 | 현재의 의향 | 불규칙 e→ie
+  - `haga` → hacer | 접속법 현재 1인칭 단수 | 의지 동사 뒤 접속법 | 불규칙 (hago → haga)
+
+### 24-8. **Rigoberto:** Revisa la caja fuerte, ahora mismo.
+- **해석:** 금고를 확인해, 지금 당장.
+- **시제:**
+  - `Revisa` → revisar | 명령법 긍정 tú (3인칭 단수 직설법 현재와 같은 형태) | 부하에게 직접 명령 | 규칙형
+
+### 24-9. **Rigoberto:** Si algo falta, o algo está fuera de lugar, quiero saberlo de inmediato.
+- **해석:** 뭐라도 없어졌거나 제자리에 없으면, 즉시 알고 싶어.
+- **주요 단어:** `faltar` 없다·빠지다 / `fuera de lugar` 제자리가 아닌 / `de inmediato` 즉시
+- **문법:** 현실 조건 si + 직설법 현재. 위치·상태는 estar. saberlo — 부정사 뒤 lo 접미 (lo = 그 사실).
+- **시제:**
+  - `falta` → faltar | 직설법 현재 3인칭 단수 | 현실적 조건 | 규칙형
+  - `está` → estar | 직설법 현재 3인칭 단수 | 위치·상태 | 불규칙
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재의 의지 | 불규칙 e→ie
+  - `saberlo` → saber | 부정사 + lo | querer의 목적어 | (활용 불규칙)
+
+### 24-10. **Simeón:** Voy para allá.
+- **해석:** 지금 가 볼게.
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | 곧 할 행동을 현재형으로 | 불규칙
+
+## 장면 25. 정체를 묻다
+> 몇 시간 후, 리고베르토가 알바로를 직접 대면하며 진실을 요구합니다.
+
+### 25-1. **Rigoberto:** (Entra abruptamente, con Simeón y otros dos hombres) Mateo.
+- **해석:** (시메온과 다른 두 남자를 데리고 갑자기 들어온다) 마테오.
+- **주요 단어:** `abruptamente` (부사) 갑자기 / `otros dos` 다른 두 명
+- **문법:** 스페인어는 otros dos hombres 어순 (otro가 숫자 앞).
+- **시제:**
+  - `Entra` → entrar | 직설법 현재 3인칭 단수 | 지문 | 규칙형
+  - 대사는 동사 없음
+
+### 25-2. **Rigoberto:** O debería decir, quienquiera que sea usted realmente.
+- **해석:** 아니, 당신이 실제로 누구든 간에, 라고 해야 하나.
+- **주요 단어:** `deber` ~해야 하다 / `quienquiera que` 누구든지 / `realmente` 실제로
+- **문법:** 조건법 debería로 완곡·빈정거림. `quienquiera que + 접속법` (정체 미상).
+- **시제:**
+  - `debería` → deber | 조건법 단순 1인칭 단수 | 완곡한 의무·수사적 질문 | 규칙 조건법
+  - `decir` → decir | 부정사 | 불규칙 동사의 원형
+  - `sea` → ser | 접속법 현재 3인칭 단수 (usted) | 모르는 정체를 가리키는 양보절이라 접속법 | 불규칙
+
+### 25-3. **Álvaro:** (Manteniendo una calma forzada) No sé de qué está hablando.
+- **해석:** (억지로 침착함을 유지하며) 무슨 말씀을 하시는지 모르겠네요.
+- **주요 단어:** `mantener` 유지하다 / `calma` 침착 / `forzado` 억지의 / `hablar de` ~에 대해 말하다
+- **문법:** 간접의문 de qué — 전치사가 의문사 앞에.
+- **시제:**
+  - `Manteniendo` → mantener | 현재분사 | 지문 | 규칙 현재분사 (활용은 tener처럼 불규칙)
+  - `forzada` → forzar | 과거분사 (형용사) | 억지로 만든 상태 | 규칙형
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재의 앎 | 불규칙 (sé)
+  - `está hablando` → hablar | 현재진행 | 지금 하는 말 | 규칙형
+
+### 25-4. **Rigoberto:** Simeón encontró marcas en la caja fuerte.
+- **해석:** 시메온이 금고에서 흔적을 발견했어.
+- **주요 단어:** `marca` 자국·흔적
+- **시제:**
+  - `encontró` → encontrar | 직설법 단순과거 3인칭 단수 | 과거의 완결 행위 | 규칙형 (단순과거엔 어간변화 없음)
+
+### 25-5. **Rigoberto:** Alguien la abrió esa noche, y no fui yo.
+- **해석:** 그날 밤 누군가 그걸 열었어, 그리고 난 아니었지.
+- **문법:** la = caja fuerte, 동사 앞 위치. `no fui yo` — 강조 구문 "나는 아니다".
+- **시제:**
+  - `abrió` → abrir | 직설법 단순과거 3인칭 단수 | 특정 과거 시점(esa noche)의 완결 행위 | 규칙형 (과거분사만 불규칙 abierto)
+  - `fui` → ser | 직설법 단순과거 1인칭 단수 | 과거 사건의 주체 확인 | 불규칙 (ir과 형태 동일)
+
+### 25-6. **Álvaro:** Pudo haber sido cualquiera.
+- **해석:** 누구라도 그랬을 수 있죠.
+- **주요 단어:** `cualquiera` 누구든지
+- **문법:** poder + 완료부정사(haber + 과거분사) = ~였을 수도 있다 (과거 가능성).
+- **시제:**
+  - `Pudo` → poder | 직설법 단순과거 3인칭 단수 | 과거 사건에 대한 가능성 | 불규칙 (pud-)
+  - `haber sido` → ser | 완료부정사 (infinitivo compuesto) | 과거의 완료된 일 | 불규칙 과거분사 sido
+  - 비교: Podría haber sido(조건법)는 더 가설적·조심스러움.
+
+### 25-7. **Rigoberto:** Solo dos personas tienen acceso: Camila, y yo.
+- **해석:** 접근 권한이 있는 건 두 사람뿐이야: 카밀라, 그리고 나.
+- **주요 단어:** `solo` 오직 / `acceso` 접근(권한)
+- **시제:**
+  - `tienen` → tener | 직설법 현재 3인칭 복수 | 현재 사실 | 불규칙 e→ie
+
+### 25-8. **Rigoberto:** Y usted estaba muy cerca esa noche, con excusas muy pobres.
+- **해석:** 그리고 당신은 그날 밤 아주 가까이 있었지, 아주 궁색한 핑계를 대면서.
+- **주요 단어:** `pobre` (명사 뒤) 빈약한·궁색한
+- **문법:** 위치는 estar.
+- **시제:**
+  - `estaba` → estar | 직설법 불완료과거 3인칭 단수 | 과거 사건의 배경 상태 | 규칙적 불완료과거
+  - 비교: estuvo(단순과거)는 "(그 시간 동안) 있었다"는 완결 사실, estaba는 상황 묘사.
+
+### 25-9. **Álvaro:** (Sin ceder terreno) Eso no prueba nada.
+- **해석:** (물러서지 않고) 그건 아무것도 증명하지 못해요.
+- **주요 단어:** `ceder terreno` (숙어) 물러서다 / `probar` 증명하다 / `nada` 아무것도
+- **문법:** 이중 부정 no ... nada.
+- **시제:**
+  - `ceder` → ceder | 부정사 | sin 뒤 | 규칙형
+  - `prueba` → probar | 직설법 현재 3인칭 단수 | 일반적 판단 | 불규칙 o→ue
+
+### 25-10. **Rigoberto:** (Se acerca, con la voz fría) Voy a preguntarle una vez, con calma.
+- **해석:** (다가오며 차가운 목소리로) 한 번만 차분하게 묻겠어요.
+- **주요 단어:** `preguntar` 묻다 / `una vez` 한 번
+- **문법:** ir a + 부정사. 간접목적대명사 le 접미.
+- **표현:** 경고성 "한 번만 묻는다".
+- **시제:**
+  - `Se acerca` → acercarse | 직설법 현재 | 앞에서 설명
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a로 즉각적 의도 | 불규칙
+  - `preguntarle` → preguntar | 부정사 + le | 규칙형
+
+### 25-11. **Rigoberto:** ¿Para quién trabaja realmente?
+- **해석:** 진짜로 누굴 위해 일하는 거지?
+- **문법:** 전치사 para가 의문사 앞에.
+- **시제:**
+  - `trabaja` → trabajar | 직설법 현재 3인칭 단수 (usted) | 현재 지속되는 사실 | 규칙형
+
+### 25-12. **Álvaro:** (Sostiene su mirada, sin responder)
+- **해석:** (대답 없이 그의 시선을 버틴다)
+- **주요 단어:** `sostener la mirada` 시선을 피하지 않다 / `responder` 대답하다
+- **문법:** 대사 없이 지문만 있는 줄.
+- **시제:**
+  - `Sostiene` → sostener | 직설법 현재 3인칭 단수 | 지문 | 불규칙 (tener 계열 e→ie, 1인칭 sostengo)
+  - `responder` → responder | 부정사 | sin 뒤 | 규칙형
+
+### 25-13. **Rigoberto:** (A sus hombres) Regístrenlo.
+- **해석:** (부하들에게) 이놈 몸 수색해.
+- **주요 단어:** `registrar` 수색하다 (앞의 "기록하다"와 다른 의미)
+- **문법:** ustedes 긍정 명령 + lo 접미 → 악센트 추가 (registren + lo).
+- **시제:**
+  - `Regístrenlo` → registrar | 명령법 긍정 ustedes (접속법 현재형) | 여러 부하에게 명령 | 규칙형
+
+### 25-14. **Rigoberto:** Y busquen a Camila, ahora mismo.
+- **해석:** 그리고 카밀라를 찾아, 지금 당장.
+- **시제:**
+  - `busquen` → buscar | 명령법 긍정 ustedes | 명령 | 철자 변화 c→qu
+
+### 25-15. **Álvaro:** (El corazón se le acelera, pensando en Camila) Ella no tiene nada que ver con esto.
+- **해석:** (카밀라를 생각하며 심장이 빨리 뛴다) 그녀는 이 일과 아무 상관 없어요.
+- **주요 단어:** `acelerarse` 빨라지다 / `pensar en` ~를 생각하다 / `tener que ver con` ~와 관계가 있다
+- **문법:** se le + 동사 (신체 반응, 영향받는 사람 le). tener (nada) que ver con = 관련이 (전혀) 있다/없다.
+- **시제:**
+  - `se acelera` → acelerarse | 직설법 현재 3인칭 단수 | 지문 | 규칙형
+  - `pensando` → pensar | 현재분사 | 동시 상황 | 규칙 현재분사
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재 사실 주장 | 불규칙
+  - `ver` → ver | 부정사 | 숙어의 일부
+
+### 25-16. **Rigoberto:** (Sonríe fríamente) Así que sí hay algo que ver.
+- **해석:** (차갑게 웃는다) 그러니까 상관이 있긴 하다는 거군.
+- **주요 단어:** `sonreír` 미소 짓다 / `así que` 그러니까 / `sí` (강조 부사) 정말로
+- **문법:** sí로 동사 강조 (부정한 말을 뒤집음). hay algo que ver = 관련이 있다.
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 | 지문 | 불규칙 e→i (악센트 í)
+  - `hay` → haber | 직설법 현재 | 존재 | 불규칙
+  - `ver` → ver | 부정사 | 앞에서 설명
+
+### 25-17. **Rigoberto:** Gracias por confirmarlo.
+- **해석:** 확인해 줘서 고마워.
+- **문법:** gracias por + 부정사. lo 접미.
+- **표현:** 비꼬는 감사.
+- **시제:**
+  - `confirmarlo` → confirmar | 부정사 + lo | por 뒤 | 규칙형

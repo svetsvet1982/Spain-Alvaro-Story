@@ -602,3 +602,146 @@
 - **시제:**
   - `aprecio` → apreciar | 직설법 현재, 1인칭 단수 | 현재의 태도 | 규칙
 
+## 장면 4. 카를로스에게 보고
+> 알바로가 카를로스에게 진행 상황을 보고합니다.
+
+### 4-1. **Álvaro:** Carlos, Ibargüen prácticamente ha confirmado el reetiquetado de manifiestos y el uso de transbordos para evitar controles.
+- **해석:** 카를로스, 이바르구엔이 적하목록 라벨 바꾸기와 검사를 피하려는 환적 이용을 사실상 인정했어요.
+- **주요 단어:** `prácticamente` (부사) 사실상 / `confirmar` (동사) 확인하다, 인정하다 / `uso` (명사, 남성) 사용 / `evitar` (동사) 피하다
+- **문법:** `para + 부정사` 목적.
+- **시제:**
+  - `ha confirmado` → confirmar | 직설법 현재완료, 3인칭 단수 | 방금(최근 회의에서) 일어난 일이 지금 보고의 근거가 되므로 현재완료 | 규칙
+  - `evitar` → evitar | 부정사 | para 목적
+  - 비교: 스페인에서는 최근·오늘 일에 현재완료, 중남미라면 confirmó(단순과거)가 흔함
+
+### 4-2. **Carlos:** Eso es mucho más de lo que esperábamos tan pronto.
+- **해석:** 이렇게 빨리 그 정도까지라니 기대 이상이군.
+- **주요 단어:** `esperar` (동사) 기대하다 / `tan pronto` 이렇게 일찍
+- **문법:** 비교 대상이 절(lo que...)일 때 `más de lo que`(que가 아니라 de). 
+- **표현:** `más de lo que esperábamos` = 예상 이상.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재 평가 | 앞에서 설명
+  - `esperábamos` → esperar | 직설법 불완료과거 pretérito imperfecto, 1인칭 복수 | 과거에 지속되던 기대(배경 상태)라 불완료과거 | 규칙(-ábamos, 강세 표기)
+  - 비교: 단순과거 esperamos는 완결된 행동, 기대·생각 같은 심리 상태는 보통 불완료과거
+
+### 4-3. **Carlos:** ¿Te ha enseñado algún documento concreto?
+- **해석:** 구체적인 서류는 보여줬나?
+- **주요 단어:** `enseñar` (동사) 보여주다; 가르치다 / `documento` (명사, 남성) 서류
+- **문법:** 간접목적 te + 현재완료. 스페인에서 enseñar = mostrar(보여주다) 의미로 자주 쓰임.
+- **시제:**
+  - `ha enseñado` → enseñar | 직설법 현재완료, 3인칭 단수 | "지금까지 ~한 적 있나" 경험·결과를 묻는 현재완료 | 규칙
+
+### 4-4. **Álvaro:** Todavía no, pero promete hacerlo si sigo avanzando en la relación comercial.
+- **해석:** 아직요, 하지만 제가 사업 관계를 계속 진전시키면 그러겠다고 약속했어요.
+- **주요 단어:** `prometer` (동사) 약속하다 / `seguir` (동사) 계속하다 / `avanzar` (동사) 진척되다 / `relación comercial` 거래 관계
+- **문법:** `seguir + 현재분사` = 계속 ~하다. `prometer + 부정사`(주어 동일). lo는 "보여주는 것"을 받는 중성 대명사, 부정사 뒤 결합. si + 직설법 현재.
+- **표현:** `Todavía no` = 아직 아니다.
+- **시제:**
+  - `promete` → prometer | 직설법 현재, 3인칭 단수 | 현재 유효한 약속 상태를 생생하게 전달 | 규칙
+  - `hacer` (hacerlo) → hacer | 부정사 | prometer의 목적어 | 불규칙 동사(hago, hice...)
+  - `sigo` → seguir | 직설법 현재, 1인칭 단수 | si 조건절 | 불규칙: 어간 e→i + 철자 gu→g (sigo, sigues)
+  - `avanzando` → avanzar | 현재분사 | seguir + 현재분사로 지속 | 규칙
+
+### 4-5. **Carlos:** Sigue con cuidado.
+- **해석:** 조심해서 계속해.
+- **주요 단어:** `seguir con` ~을 계속하다
+- **문법:** tú 긍정 명령형 = 직설법 현재 3인칭 단수 형태.
+- **시제:**
+  - `sigue` → seguir | 명령법 imperativo, 2인칭 단수(tú) 긍정 | 지시·당부 | 불규칙 e→i (부정 명령은 no sigas)
+
+### 4-6. **Carlos:** Necesitamos ver un manifiesto real, con destino final identificable, para que esto tenga valor probatorio.
+- **해석:** 이게 증거 가치를 가지려면 최종 목적지를 식별할 수 있는 실제 적하목록을 봐야 해.
+- **주요 단어:** `real` (형용사) 실제의 / `identificable` (형용사) 식별 가능한 / `valor probatorio` 증거 능력, 증명력
+- **문법:** `para que + 접속법`(항상 접속법, 목적). necesitar + 부정사(주어 동일).
+- **표현:** `valor probatorio` 법률 용어 "증거 가치".
+- **시제:**
+  - `necesitamos` → necesitar | 직설법 현재, 1인칭 복수 | 앞에서 설명
+  - `ver` → ver | 부정사 | necesitar + 부정사
+  - `tenga` → tener | 접속법 현재, 3인칭 단수 | para que 목적절이라 접속법 | 불규칙(1인칭 tengo 기반 teng-)
+
+### 4-7. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entendido` 이해됨
+- **문법:** 과거분사 단독 사용 = "알겠다(이해됨)".
+- **표현:** 지시를 받았을 때의 짧은 응답.
+- **시제:**
+  - `entendido` → entender | 과거분사, 감탄사적 용법 | 지시를 이해했음을 완료 상태로 표현 | 규칙 과거분사
+
+### 4-8. **Álvaro:** ¿Sabéis algo más sobre a quién podrían estar vendiendo estos componentes?
+- **해석:** 이 부품들을 누구에게 팔고 있을지에 대해 더 아는 거 있어요?
+- **주요 단어:** `saber` (동사) 알다 / `vender` (동사) 팔다
+- **문법:** vosotros(카를로스 팀 전체)에게 묻는 스페인식 2인칭 복수. 간접의문 `a quién`(간접목적 사람). 조건법 + estar + 현재분사로 현재 진행 중인 일에 대한 추측.
+- **표현:** `sabéis` — 스페인 본토에서만 쓰는 vosotros 활용.
+- **시제:**
+  - `sabéis` → saber | 직설법 현재, 2인칭 복수(vosotros) | 현재 가진 정보 | 규칙형(1인칭 단수 sé만 불규칙)
+  - `podrían` → poder | 조건법 단순형, 3인칭 복수 | 불확실한 추측("~하고 있을 수도") | 불규칙 어간 podr-
+  - `estar` → estar | 부정사 | poder + estar + 현재분사 진행
+  - `vendiendo` → vender | 현재분사 | 지금 진행 중인 거래 | 규칙(-er → -iendo)
+
+### 4-9. **Carlos:** Estamos cruzando datos con inteligencia de otros países aliados.
+- **해석:** 다른 동맹국 정보기관들과 데이터를 대조하고 있어.
+- **주요 단어:** `cruzar` (동사) 교차시키다 / `dato` (명사, 남성) 데이터 / `inteligencia` (명사, 여성) 정보(기관) / `aliado` (형용사) 동맹의
+- **문법:** 진행형 estar + 현재분사.
+- **표현:** `cruzar datos` = 데이터를 교차 검증하다.
+- **시제:**
+  - `estamos` → estar | 직설법 현재, 1인칭 복수 | 진행형 조동사 | 앞에서 설명
+  - `cruzando` → cruzar | 현재분사 | 지금 진행 중인 작업 강조 | 규칙(접속법에서 z→c: cruce)
+
+### 4-10. **Carlos:** Hay coincidencias con una entidad bajo sanciones, aunque todavía sin confirmar del todo.
+- **해석:** 제재 대상인 한 기관과 일치하는 점들이 있어, 아직 완전히 확인된 건 아니지만.
+- **주요 단어:** `coincidencia` (명사, 여성) 일치 / `entidad` (명사, 여성) 기관, 단체 / `confirmar` (동사) 확인하다 / `del todo` 완전히
+- **문법:** 존재의 `hay`(haber 비인칭). `sin + 부정사` = "~되지 않은". aunque 뒤 동사 생략.
+- **시제:**
+  - `hay` → haber | 직설법 현재, 비인칭(3인칭 단수 특수형) | 존재 표현 | 불규칙(ha 대신 hay)
+  - `confirmar` → confirmar | 부정사 | sin 뒤 부정사(수동적 의미 "확인되지 않은")
+
+### 4-11. **Álvaro:** ¿Alguna entidad que reconozcas del pasado?
+- **해석:** 예전에 봤던 곳 중에 알아볼 만한 데가 있나요?
+- **주요 단어:** `reconocer` (동사) 알아보다 / `pasado` (명사, 남성) 과거
+- **문법:** 존재 여부가 불확실한 선행사(alguna entidad) + 관계절 → 접속법.
+- **시제:**
+  - `reconozcas` → reconocer | 접속법 현재, 2인칭 단수 | 불확정 선행사 관계절이라 접속법 | 불규칙: -cer 동사 1인칭 -zco (reconozco → reconozca-)
+
+### 4-12. **Carlos:** Nada que apunte directamente a Rueda esta vez, si es lo que preguntas.
+- **해석:** 네가 묻는 게 그거라면, 이번엔 루에다를 직접 가리키는 건 없어.
+- **주요 단어:** `apuntar a` ~을 가리키다 / `directamente` (부사) 직접 / `preguntar` (동사) 묻다
+- **문법:** 부정 선행사(nada) + 관계절 → 접속법. `si es lo que preguntas` = si + 직설법(사실 조건).
+- **시제:**
+  - `apunte` → apuntar | 접속법 현재, 3인칭 단수 | 부정 선행사 nada 뒤라 접속법 | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수 | si 조건절 | 앞에서 설명
+  - `preguntas` → preguntar | 직설법 현재, 2인칭 단수 | 지금 묻고 있는 내용 | 규칙
+
+### 4-13. **Carlos:** Parece un actor distinto, más centrado en tecnología que en armas convencionales.
+- **해석:** 다른 세력으로 보여, 재래식 무기보다 기술에 더 집중하는.
+- **주요 단어:** `distinto` (형용사) 다른 / `centrado en` ~에 집중한 / `arma` (명사, 여성) 무기 / `convencional` (형용사) 재래식의
+- **문법:** `parecer + 명사` = ~처럼 보이다(여기선 gustar형 아님). 비교 `más ... que ...`. arma는 여성이지만 단수에서 el arma.
+- **시제:**
+  - `parece` → parecer | 직설법 현재, 3인칭 단수 | 현재의 판단 | 앞에서 설명
+  - `centrado` → centrar(se) | 과거분사(형용사) | actor 수식, 상태 | 규칙
+
+### 4-14. **Álvaro:** Eso al menos simplifica un poco el panorama.
+- **해석:** 그나마 상황이 좀 단순해지네요.
+- **주요 단어:** `al menos` 적어도 / `simplificar` (동사) 단순화하다 / `panorama` (명사, 남성) 전망, 전체 상황
+- **문법:** panorama는 -a로 끝나지만 남성명사.
+- **시제:**
+  - `simplifica` → simplificar | 직설법 현재, 3인칭 단수 | 현재 판단 | 규칙
+
+### 4-15. **Carlos:** Un poco, sí.
+- **해석:** 조금은, 그렇지.
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 4-16. **Carlos:** Sigue con la siguiente reunión.
+- **해석:** 다음 회의 진행해.
+- **주요 단어:** `siguiente` (형용사) 다음의
+- **문법:** tú 긍정 명령. sigue와 siguiente는 같은 어원(seguir).
+- **시제:**
+  - `sigue` → seguir | 명령법, 2인칭 단수 | 앞에서 설명
+
+### 4-17. **Carlos:** Cuanto más documentación consigas, mejor.
+- **해석:** 서류를 많이 확보할수록 좋아.
+- **주요 단어:** `documentación` (명사, 여성) 서류, 문서 자료 / `conseguir` (동사) 얻다, 확보하다
+- **문법:** `cuanto más + 명사 + 접속법, mejor` = ~할수록 좋다. 미래의 불확정 행동이라 접속법. (여성명사 앞이지만 관용적으로 cuanto más 형태 유지, 규범상 cuanta más도 가능)
+- **시제:**
+  - `consigas` → conseguir | 접속법 현재, 2인칭 단수 | 미래의 불확정 행위를 가리키는 비례 구문이라 접속법 | 불규칙: e→i + 철자 gu→g (consigo → consiga-)
+

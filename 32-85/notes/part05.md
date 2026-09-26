@@ -771,3 +771,179 @@
 - **표현:** `Eso espero` "그러길 바란다". `por tu bien` "너 좋으라고, 너를 위해".
 - **시제:**
   - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재 바람 | 규칙
+
+### 7-91. **파비안:** Prefiero no tener que tomar ciertas decisiones.
+- **해석:** 어떤 결정들은 안 내려도 됐으면 해.
+- **주요 단어:** `preferir` (동사) 선호하다 / `tomar una decisión` 결정을 내리다 / `cierto` (형용사, 명사 앞) 어떤
+- **문법:** `preferir + 부정사`(주어 동일). `tener que + 부정사` ~해야 한다. cierto는 명사 앞에서 "어떤", 뒤에서 "확실한".
+- **표현:** `ciertas decisiones` — 알바로를 처리하는 일을 암시하는 완곡어법.
+- **시제:**
+  - `Prefiero` → preferir | 직설법 현재 1인칭 단수 | 현재 선호 | e→ie 불규칙
+  - `tener` → tener | 부정사 | preferir 뒤
+  - `tomar` → tomar | 부정사 | tener que 뒤
+
+### 7-92. **알바로:** Entonces no tendrá que tomarlas.
+- **해석:** 그럼 내리실 필요 없을 겁니다.
+- **문법:** `tomarlas`: las = ciertas decisiones.
+- **시제:**
+  - `tendrá` → tener | 직설법 단순미래 3인칭 단수(usted) | 미래에 대한 확언 | 불규칙 어간 tendr-
+  - `tomarlas` → tomar | 부정사 + las | tener que 뒤
+
+### 7-93. **알바로:** Yo cumplo lo que digo.
+- **해석:** 저는 말한 건 지킵니다.
+- **주요 단어:** `cumplir` (동사) 이행하다, 지키다
+- **문법:** 주어 Yo를 명시해 강조.
+- **시제:**
+  - `cumplo` → cumplir | 직설법 현재 1인칭 단수 | 변치 않는 원칙·습관 | 규칙
+  - `digo` → decir | 직설법 현재 1인칭 단수 | 일반적 행위 | 불규칙 (digo)
+
+### 7-94. **파비안:** Última pregunta, y quiero que la pienses bien antes de contestar: si te soltara ahora mismo, ¿volverías mañana como si nada hubiera pasado?
+- **해석:** 마지막 질문이야, 대답하기 전에 잘 생각해: 내가 지금 당장 널 풀어준다면, 내일 아무 일도 없었던 것처럼 돌아오겠나?
+- **주요 단어:** `pensar` (동사) 생각하다 / `soltar` (동사) 풀어주다 / `volver` (동사) 돌아오다
+- **문법:** `querer que + 접속법`(주어가 다름). `si + 접속법 과거, 조건법` 가정문. `como si` 뒤엔 항상 접속법 과거/과거완료. la = pregunta.
+- **표현:** `como si nada hubiera pasado` "아무 일도 없었던 것처럼".
+- **시제:**
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재 바람 | e→ie
+  - `pienses` → pensar | 접속법 현재 2인칭 단수 | querer que 뒤 | e→ie 불규칙 (piense, pienses)
+  - `contestar` → contestar | 부정사 | antes de 뒤
+  - `soltara` → soltar | 접속법 과거 1인칭 단수 | 가정 조건 | 규칙(과거형에선 모음변화 없음)
+  - `volverías` → volver | 조건법 단순 2인칭 단수 | 가정의 결과 | 규칙 어미
+  - `hubiera pasado` → pasar | 접속법 과거완료 3인칭 단수 | como si + 귀결보다 앞선 일 | haber 불규칙 hubiera
+
+### 7-95. **알바로:** Volvería, porque entiendo que esto forma parte de ganarme su confianza.
+- **해석:** 돌아올 겁니다, 이것도 당신의 신뢰를 얻는 과정의 일부라고 이해하니까요.
+- **주요 단어:** `formar parte de` ~의 일부이다 / `ganarse` (재귀동사) 얻어내다 / `confianza` (명사, 여성) 신뢰
+- **문법:** `entender que + 직설법`(사실 인식). `ganarme`: 재귀 me — 자기 것으로 얻다.
+- **시제:**
+  - `Volvería` → volver | 조건법 단순 1인칭 단수 | 가정 질문에 조건법으로 응답
+  - `entiendo` → entender | 직설법 현재 1인칭 단수 | e→ie
+  - `forma` → formar | 직설법 현재 3인칭 단수 | 규칙
+  - `ganarme` → ganarse | 부정사 + me | de 뒤
+
+### 7-96. **알바로:** No le guardo rencor por hacer lo que tiene que hacer.
+- **해석:** 해야 할 일을 하시는 거니 원망하지 않아요.
+- **주요 단어:** `guardar` (동사) 간직하다 / `rencor` (명사, 남성) 원한
+- **문법:** `por + 부정사` 이유. le = usted에게.
+- **표현:** `guardar rencor a alguien` "~에게 앙금을 품다".
+- **시제:**
+  - `guardo` → guardar | 직설법 현재 1인칭 단수 | 현재 감정 | 규칙
+  - `hacer` → hacer | 부정사 | por 뒤
+  - `tiene` → tener | 직설법 현재 3인칭 단수(usted) | 불규칙
+  - `hacer` → hacer | 부정사 | tener que 뒤
+
+### 7-97. **파비안:** (Observa unos segundos más, en silencio) Manolo, comprueba lo de la naviera y lo de Rafa.
+- **해석:** (말없이 몇 초 더 지켜본다) 마놀로, 해운회사 건이랑 라파 건 확인해.
+- **주요 단어:** `observar` (동사) 관찰하다 / `silencio` (명사, 남성) 침묵
+- **문법:** `lo de + 명사` "~에 관한 일".
+- **시제:**
+  - `Observa` → observar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `comprueba` → comprobar | 긍정 명령 tú | 지시 | o→ue 불규칙
+
+### 7-98. **파비안:** Si todo coincide, lo dejamos aquí.
+- **해석:** 다 맞으면 여기서 끝내지.
+- **주요 단어:** `coincidir` (동사) 일치하다 / `dejar` (동사) 그만두다
+- **문법:** `si + 직설법 현재, 직설법 현재` 현실 조건.
+- **표현:** `dejarlo aquí` "여기서 그만두다".
+- **시제:**
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 현실적 조건 | 규칙
+  - `dejamos` → dejar | 직설법 현재 1인칭 복수 | 가까운 미래를 현재형으로 | 규칙
+
+### 7-99. **마놀로:** Lo haré esta misma noche.
+- **해석:** 오늘 밤 안에 하겠습니다.
+- **표현:** `esta misma noche` "바로 오늘 밤".
+- **문법:** 특이사항 없음
+- **시제:**
+  - `haré` → hacer | 직설법 단순미래 1인칭 단수 | 약속 | 불규칙 어간 har-
+
+### 7-100. **파비안:** (Se aparta, hace un gesto) Suéltalo.
+- **해석:** (물러서며 손짓한다) 풀어줘.
+- **주요 단어:** `apartarse` (재귀동사) 비켜서다 / `gesto` (명사, 남성) 몸짓
+- **문법:** 긍정 명령 + lo(강세 표시).
+- **시제:**
+  - `Se aparta` → apartarse | 직설법 현재 3인칭 단수 | 지문
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | 지문 | 불규칙
+  - `Suéltalo` → soltar | 긍정 명령 tú + lo | 지시 | o→ue (suelta)
+
+### 7-101. **파비안:** Ya hemos comprobado lo que necesitábamos, de momento.
+- **해석:** 일단은 필요한 건 확인했어.
+- **표현:** `de momento` "당분간은, 일단은".
+- **문법:** 특이사항 없음
+- **시제:**
+  - `hemos comprobado` → comprobar | 직설법 현재완료 1인칭 복수 | 방금 끝난 일(오늘 밤) | 규칙
+  - `necesitábamos` → necesitar | 직설법 불완료과거 1인칭 복수 | 확인 전에 품고 있던 필요 | 규칙
+
+### 7-102. **마놀로:** (Desatándolo) Toma, bebe más agua.
+- **해석:** (그를 풀어주며) 자, 물 더 마셔.
+- **주요 단어:** `desatar` (동사) 풀다
+- **문법:** 현재분사 + lo(강세 표시).
+- **표현:** `Toma` "자, 받아" — 물건을 건넬 때.
+- **시제:**
+  - `Desatándolo` → desatar | 현재분사 + lo | 동시 동작 | 규칙
+  - `Toma` → tomar | 긍정 명령 tú | 건넴 | 규칙
+  - `bebe` → beber | 긍정 명령 tú | 앞에서 설명
+
+### 7-103. **마놀로:** Se te pasará el mareo en un par de horas.
+- **해석:** 두어 시간이면 어지러움이 가실 거야.
+- **주요 단어:** `pasarse` (재귀동사) 지나가다, 가시다 / `mareo` (명사, 남성) 어지러움
+- **문법:** `se te pasa`: se + 영향받는 사람 te. `en + 기간` ~후에.
+- **표현:** `un par de` 두어 개의.
+- **시제:**
+  - `pasará` → pasar(se) | 직설법 단순미래 3인칭 단수 | 예측 | 규칙
+
+### 7-104. **알바로:** (Aún tembloroso, frotándose las muñecas) Gracias... supongo.
+- **해석:** (여전히 떨며 손목을 문지른다) 고맙… 다고 해야겠죠.
+- **주요 단어:** `frotarse` (재귀동사) 문지르다 / `suponer` (동사) 추측하다
+- **문법:** 재귀대명사가 현재분사 뒤에 붙음(frotándose, 강세 표시).
+- **표현:** `supongo` "아마 그렇겠죠" — 여기선 씁쓸한 아이러니.
+- **시제:**
+  - `frotándose` → frotarse | 현재분사 | 동시 동작 | 규칙
+  - `supongo` → suponer | 직설법 현재 1인칭 단수 | 현재 판단 | poner 계열 불규칙 (supongo)
+
+### 7-105. **파비안:** No te lo tomes a mal, Diego.
+- **해석:** 나쁘게 받아들이지 마, 디에고.
+- **문법:** 부정 명령 = no + 대명사(te lo) + 접속법 현재. te는 재귀(tomarse).
+- **표현:** `tomarse algo a mal` "~를 언짢게 받아들이다".
+- **시제:**
+  - `tomes` → tomar(se) | 부정 명령 tú (접속법 현재 2인칭 단수) | 금지 | 규칙
+
+### 7-106. **파비안:** En mi posición, no puedo permitirme el lujo de confiar sin comprobar antes.
+- **해석:** 내 위치에선, 먼저 확인도 안 하고 믿는 사치를 부릴 수 없거든.
+- **주요 단어:** `posición` (명사, 여성) 위치 / `permitirse` (재귀동사) 스스로에게 허락하다 / `lujo` (명사, 남성) 사치 / `confiar` (동사) 믿다
+- **문법:** `sin + 부정사` ~하지 않고.
+- **표현:** `permitirse el lujo de` "~할 여유를 부리다".
+- **시제:**
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | o→ue
+  - `permitirme` → permitirse | 부정사 + me | poder 뒤
+  - `confiar` → confiar | 부정사 | de 뒤
+  - `comprobar` → comprobar | 부정사 | sin 뒤
+
+### 7-107. **알바로:** Lo entiendo.
+- **해석:** 이해합니다.
+- **시제:**
+  - `entiendo` → entender | 직설법 현재 1인칭 단수 | 앞에서 설명
+- **문법:** lo = 앞 내용 전체.
+
+### 7-108. **알바로:** Aunque espero que la próxima vez elija una forma menos drástica de comprobarlo.
+- **해석:** 그래도 다음번엔 좀 덜 극단적인 방법으로 확인하시길 바랍니다.
+- **주요 단어:** `elegir` (동사) 고르다 / `forma` (명사, 여성) 방법 / `drástico` (형용사) 극단적인
+- **문법:** `esperar que + 접속법` 희망. 문두 aunque "하지만".
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 규칙
+  - `elija` → elegir | 접속법 현재 3인칭 단수(usted) | 희망 뒤 접속법 | e→i 변화 + 철자 g→j (elija)
+  - `comprobarlo` → comprobar | 부정사 + lo | de 뒤
+
+### 7-109. **파비안:** (Sonríe levemente) Si superas la próxima prueba tan bien como esta, puede que no haga falta una próxima vez.
+- **해석:** (살짝 미소 짓는다) 다음 시험도 이번만큼 잘 통과하면, 다음번이 필요 없을지도 모르지.
+- **주요 단어:** `sonreír` (동사) 미소 짓다 / `levemente` (부사) 살짝 / `superar` (동사) 통과하다 / `prueba` (명사, 여성) 시험
+- **문법:** `si + 직설법 현재` 현실 조건. `puede que + 접속법` "~일지도 모른다". `tan ... como` 동등비교.
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 | 지문 | 불규칙 (sonrío, sonríes, sonríe)
+  - `superas` → superar | 직설법 현재 2인칭 단수 | 현실 조건 | 규칙
+  - `puede` → poder | 직설법 현재 3인칭 단수 | puede que 구문
+  - `haga` → hacer | 접속법 현재 3인칭 단수 | 가능성(puede que) 뒤 접속법 | 불규칙 (haga)
+
+### 7-110. **알바로:** Eso espero también.
+- **해석:** 저도 그러길 바랍니다.
+- **문법:** 특이사항 없음
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 앞에서 설명

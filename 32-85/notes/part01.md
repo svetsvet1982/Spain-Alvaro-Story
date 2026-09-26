@@ -657,3 +657,157 @@
   - `entran` → entrar | 직설법 현재, 3인칭 복수 | 현재 반복되는 사실 | 규칙
   - `está` → estar | 직설법 현재, 3인칭 단수 | 위치 표현은 estar | 불규칙
   - 비교: 위치(장소)는 estar, 단 사건의 발생 장소는 ser ("La reunión es en Cádiz")
+
+### 1-74. **Álvaro:** Entendido.
+- **해석:** 알겠어.
+- **주요 단어:** `entendido` (과거분사/형용사) 이해된
+- **문법:** 과거분사 단독으로 '알겠다'는 대답.
+- **표현:** "Entendido" = 알겠습니다, 이해했어 (군대·업무식 짧은 대답 느낌).
+- **시제:**
+  - `Entendido` → entender | 과거분사 participio (단독 사용) | 이해가 완료된 상태 | 규칙 과거분사
+
+### 1-75. **Álvaro:** ¿Cuándo empezamos?
+- **해석:** 언제 시작해?
+- **주요 단어:** `cuándo` (의문사) 언제 / `empezar` (동사) 시작하다
+- **문법:** 현재형으로 가까운 미래를 표현.
+- **시제:**
+  - `empezamos` → empezar | 직설법 현재, 1인칭 복수 | 가까운 미래·확정된 일정을 현재형으로 표현 | 1인칭 복수라 어간 변화 없음 (empiezo와 비교)
+
+### 1-76. **Carlos:** La próxima semana.
+- **해석:** 다음 주에.
+- **주요 단어:** `próximo` (형용사) 다음의 / `semana` (명사, 여성) 주
+- **문법:** 동사 생략. "la próxima semana" = "la semana que viene".
+- **시제:**
+  - 동사 없음
+
+### 1-77. **Carlos:** Antes tienes que memorizar tu nueva identidad al detalle; un solo error podría delatarte.
+- **해석:** 그 전에 네 새 신분을 세세한 것까지 외워야 해. 실수 하나로 정체가 탄로 날 수 있으니까.
+- **주요 단어:** `antes` (부사) 그 전에 / `tener que` ~해야 한다 / `memorizar` (동사) 암기하다 / `nuevo` (형용사) 새로운 / `al detalle` 세세하게 / `solo` (형용사) 단 하나의 / `error` (명사) 실수 / `delatar` (동사) 밀고하다, (정체를) 드러내다
+- **문법:** "tener que + 부정사" 의무. te가 부정사 뒤에 붙음(delatarte).
+- **표현:** "un solo error" = 단 한 번의 실수. "delatar a alguien" = 정체를 드러나게 하다, 고발하다.
+- **시제:**
+  - `tienes que memorizar` → tener | 직설법 현재, 2인칭 단수 + que + 부정사 | 현재의 의무 | 불규칙 e→ie
+  - `memorizar` → memorizar | 부정사 | tener que 뒤
+  - `podría` → poder | 조건법 단순, 3인칭 단수 | 가능성·위험의 추측 (완곡) | 불규칙 podr-
+  - `delatarte` → delatar | 부정사 + te | poder 뒤
+
+### 1-78. **Álvaro:** Entiendo el riesgo, pero también entiendo por qué merece la pena correrlo.
+- **해석:** 위험은 알아, 하지만 왜 그 위험을 감수할 가치가 있는지도 알아.
+- **주요 단어:** `entender` (동사) 이해하다 / `riesgo` (명사) 위험 / `merecer la pena` ~할 가치가 있다 / `correr` (동사) 달리다, (위험을) 무릅쓰다
+- **문법:** 간접의문문 "por qué + 직설법". lo(= el riesgo)가 부정사 뒤에 붙음.
+- **표현:** "merecer la pena" (스페인식; 중남미는 valer la pena) = ~할 만하다. "correr un riesgo" = 위험을 무릅쓰다.
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재, 1인칭 단수 | 현재의 이해 | e→ie
+  - `entiendo` → entender | 앞에서 설명
+  - `merece` → merecer | 직설법 현재, 3인칭 단수 | 일반적 가치 판단 | -cer 동사: 1인칭 단수만 merezco로 불규칙
+  - `correrlo` → correr | 부정사 + lo | merecer la pena 뒤 부정사
+
+### 1-79. **Carlos:** Me alegra que lo veas así, Álvaro.
+- **해석:** 네가 그렇게 봐 주니 기쁘다, 알바로.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `ver` (동사) 보다 / `así` (부사) 그렇게
+- **문법:** 감정 표현(me alegra) + que + 접속법. que절 전체가 alegra의 주어.
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재, 3인칭 단수 | 앞에서 설명
+  - `veas` → ver | 접속법 현재, 2인칭 단수 | 감정 동사 뒤 que절이라 접속법 | 불규칙 (ve- : vea, veas...)
+  - 비교: 앞의 "Me alegra oír eso"(주어가 부정사) vs "Me alegra que lo veas"(주어가 다른 사람의 행동 → que + 접속법)
+
+### 1-80. **Carlos:** No es un camino fácil, pero es el correcto.
+- **해석:** 쉬운 길은 아니지만, 옳은 길이야.
+- **주요 단어:** `camino` (명사) 길 / `fácil` (형용사) 쉬운 / `correcto` (형용사) 옳은
+- **문법:** "el correcto" = el camino correcto (명사 생략, 관사 + 형용사).
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 본질적 성격 판단이라 ser | 불규칙
+  - `es` → ser | 앞과 같음
+
+### 1-81. **Álvaro:** No te preocupes, llevo toda la vida memorizando datos para mis reportajes.
+- **해석:** 걱정 마, 평생 기사 쓰려고 자료를 외우며 살아왔잖아.
+- **주요 단어:** `preocuparse` (재귀동사) 걱정하다 / `toda la vida` 평생 / `memorizar` (동사) 외우다 / `dato` (명사) 자료, 데이터
+- **문법:** 부정 명령은 접속법 현재형 사용, 대명사는 동사 앞(no te preocupes). llevar + 기간 + 현재분사.
+- **표현:** "No te preocupes" = 걱정 마 (매우 흔한 표현).
+- **시제:**
+  - `preocupes` → preocuparse | 부정 명령법 (접속법 현재 2인칭 단수 형태) | 부정 명령은 항상 접속법 | 규칙
+  - `llevo` → llevar | 직설법 현재, 1인칭 단수 | 과거부터 지금까지 지속 | 규칙
+  - `memorizando` → memorizar | 현재분사 | 지속 행동 | 규칙
+
+### 1-82. **Carlos:** Esto es distinto, Álvaro.
+- **해석:** 이건 달라, 알바로.
+- **주요 단어:** `distinto` (형용사) 다른
+- **문법:** 특이사항 없음
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 본질적 차이에 대한 판단 | 불규칙
+
+### 1-83. **Carlos:** Si te equivocaras aquí, las consecuencias no serían solo profesionales.
+- **해석:** 여기서 실수라도 하면, 그 대가는 직업적인 문제로 끝나지 않을 거야.
+- **주요 단어:** `equivocarse` (재귀동사) 실수하다, 틀리다 / `aquí` (부사) 여기서 / `consecuencia` (명사, 여성) 결과, 대가 / `solo` (부사) 단지 / `profesional` (형용사) 직업상의
+- **문법:** si + 접속법 과거, 조건법 (가능성을 낮게 보거나 조심스럽게 가정). 재귀대명사 te가 동사 앞.
+- **표현:** 생명의 위험을 에둘러 말하는 완곡 표현.
+- **시제:**
+  - `equivocaras` → equivocarse | 접속법 과거, 2인칭 단수 | 일어나지 않기를 바라는 가상적 가정 | 규칙
+  - `serían` → ser | 조건법 단순, 3인칭 복수 | 가정의 결과 | 규칙 조건법
+  - 비교: "Si te equivocas, las consecuencias no serán..."(현실적 경고) vs 접속법 과거(좀 더 가정적·완곡한 경고)
+
+### 1-84. **Álvaro:** Lo sé.
+- **해석:** 알아.
+- **주요 단어:** `saber` (동사) 알다
+- **문법:** 중성 대명사 lo(= 그 사실).
+- **시제:**
+  - `sé` → saber | 직설법 현재, 1인칭 단수 | 현재 알고 있음 | 불규칙 1인칭 sé (재귀대명사 se와 구별하려고 강세 부호)
+
+### 1-85. **Álvaro:** Pero también sé que, si consigo sacar esto a la luz, habrá merecido la pena cada riesgo.
+- **해석:** 하지만 이걸 세상에 밝혀낸다면, 모든 위험이 감수할 만한 가치가 있었던 게 될 거라는 것도 알아.
+- **주요 단어:** `conseguir` (동사) 해내다 / `sacar a la luz` 세상에 드러내다, 폭로하다 / `merecer la pena` ~할 가치가 있다 / `cada` (형용사) 각각의
+- **문법:** "si + 직설법 현재, 미래완료". 주어 cada riesgo가 동사 뒤에 도치. 
+- **표현:** "sacar a la luz" = (숨겨진 것을) 밝히다, 폭로하다.
+- **시제:**
+  - `sé` → saber | 앞에서 설명
+  - `consigo` → conseguir | 직설법 현재, 1인칭 단수 | 실현 가능한 조건 | 불규칙 e→i + 철자 gu→g (consigo)
+  - `sacar` → sacar | 부정사 | conseguir 뒤 부정사
+  - `habrá merecido` → merecer | 직설법 미래완료 futuro compuesto, 3인칭 단수 | 미래의 어느 시점(폭로에 성공한 때)에서 돌아보면 이미 완료되어 있을 일 | haber 불규칙 어간 habr-, 과거분사 merecido 규칙
+  - 비교: "merecerá la pena"(미래) = 가치가 있을 것이다 / "habrá merecido la pena"(미래완료) = (그때 돌아보면) 가치가 있었던 게 될 것이다
+
+### 1-86. **Carlos:** Espero que tengas razón.
+- **해석:** 네 말이 맞기를 바라.
+- **주요 단어:** `esperar` (동사) 바라다, 기다리다 / `tener razón` 옳다
+- **문법:** 희망 동사 esperar + que + 접속법.
+- **표현:** "tener razón" = (말이) 맞다.
+- **시제:**
+  - `Espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 바람 | 규칙
+  - `tengas` → tener | 접속법 현재, 2인칭 단수 | 희망 동사 뒤라 접속법 | 불규칙 (teng- : tenga, tengas...)
+
+### 1-87. **Carlos:** Nos vemos el lunes con los documentos de tu nueva identidad.
+- **해석:** 월요일에 네 새 신분 서류 가지고 보자.
+- **주요 단어:** `verse` (재귀동사) 서로 만나다 / `lunes` (명사, 남성) 월요일 / `documento` (명사) 서류
+- **문법:** 요일 앞 정관사 el = '(돌아오는) 월요일에'. 상호 재귀 nos vemos.
+- **표현:** "Nos vemos" = 또 보자, 그때 보자 (작별 인사).
+- **시제:**
+  - `vemos` → verse | 직설법 현재, 1인칭 복수 | 확정된 가까운 미래 약속을 현재형으로 표현 | 규칙 형태
+
+### 1-88. **Álvaro:** Allí estaré.
+- **해석:** 거기 갈게. (꼭 가 있을게.)
+- **주요 단어:** `allí` (부사) 거기
+- **문법:** 위치를 나타내는 estar.
+- **표현:** "Allí estaré" = 꼭 갈게 (약속 확인 표현).
+- **시제:**
+  - `estaré` → estar | 직설법 미래, 1인칭 단수 | 미래의 약속·다짐 | 규칙 미래형
+
+### 1-89. **Álvaro:** Gracias por confiar en mí, Carlos.
+- **해석:** 날 믿어 줘서 고마워, 카를로스.
+- **주요 단어:** `gracias por` ~에 감사하다 / `confiar en` ~을 믿다 / `mí` (전치격 대명사) 나
+- **문법:** "gracias por + 부정사/명사". 전치사 뒤 mí는 강세 부호(소유사 mi와 구별).
+- **시제:**
+  - `confiar` → confiar | 부정사 | por 뒤 부정사
+
+### 1-90. **Carlos:** Gracias a ti por atreverte.
+- **해석:** 용기 내 줘서 오히려 내가 고맙지.
+- **주요 단어:** `gracias a ti` 너에게 고마워 / `atreverse` (재귀동사) 감히 ~하다, 용기를 내다
+- **문법:** por + 부정사. 재귀대명사 te가 부정사 뒤에 붙음.
+- **표현:** "Gracias a ti" = 나야말로 고마워 (감사에 대한 응답).
+- **시제:**
+  - `atreverte` → atreverse | 부정사 (재귀) | por 뒤 부정사
+
+### 1-91. **Carlos:** No todos lo harían.
+- **해석:** 아무나 그렇게 하진 않을 거야.
+- **주요 단어:** `todos` (대명사) 모두
+- **문법:** "no todos" = 모두가 ~하는 것은 아니다 (부분 부정). 중성 lo(= 그런 일).
+- **시제:**
+  - `harían` → hacer | 조건법 단순, 3인칭 복수 | "그런 제안을 받는다면"이라는 가정이 숨어 있는 가상 결과 | 불규칙 어간 har-

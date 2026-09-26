@@ -664,3 +664,411 @@
 - **시제:**
   - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재 의무 | 1인칭 복수는 규칙형
   - `hablar` → hablar | 부정사
+
+### 25-18. **Marta:** Esto involucra a un servicio de inteligencia extranjero y presuntamente a gente dentro del propio CNI.
+- **해석:** 이 일에는 외국 정보기관이, 그리고 추정컨대 CNI 내부 인물들까지 연루돼 있어요.
+- **주요 단어:** `involucrar` 연루시키다 / `servicio de inteligencia` 정보기관 / `extranjero` 외국의 / `presuntamente` (부사) 추정상, 혐의상 / `propio` (명사 앞) ~자체의 / `CNI` 스페인 국가정보센터(Centro Nacional de Inteligencia)
+- **문법:** `involucrar a` — 사람·기관 목적어 앞 `a`. `el propio CNI` "바로 그 CNI 자체".
+- **표현:** `presuntamente` 보도·법률 용어로 혐의가 확정되지 않았음을 표시.
+- **시제:**
+  - `involucra` → involucrar | 직설법 현재, 3인칭 단수 | 현재 사실 | 규칙
+
+### 25-19. **Jefe:** Marta tiene razón.
+- **해석:** 마르타 말이 맞아.
+- **주요 단어:** `tener razón` 옳다
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `tiene` → tener | 직설법 현재, 3인칭 단수 | 불규칙 (e → ie)
+
+### 25-20. **Jefe:** No podemos publicar esto como si fuera un reportaje cualquiera.
+- **해석:** 이걸 흔한 기사처럼 내보낼 수는 없어.
+- **주요 단어:** `publicar` 게재하다 / `reportaje` (명사, 남) 기획 기사, 르포 / `cualquiera` (명사 뒤) 평범한, 아무
+- **문법:** `como si` + 반드시 접속법 불완료과거(또는 대과거). `un ... cualquiera` 명사 뒤 cualquiera = "그저 그런".
+- **시제:**
+  - `podemos` → poder | 직설법 현재, 1인칭 복수 | 규칙형
+  - `publicar` → publicar | 부정사
+  - `fuera` → ser | 접속법 불완료과거, 3인칭 단수 | como si 뒤는 항상 접속법 과거(현재 사실과 다른 가정) | 불규칙 (fueron → fuera)
+
+### 25-21. **Álvaro:** Entiendo.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entender` 이해하다
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재, 1인칭 단수 | e → ie
+
+### 25-22. **Álvaro:** ¿Qué necesitamos tener en cuenta exactamente?
+- **해석:** 정확히 뭘 고려해야 하나요?
+- **주요 단어:** `tener en cuenta` 고려하다
+- **문법:** 특이사항 없음.
+- **표현:** `tener en cuenta` 염두에 두다.
+- **시제:**
+  - `necesitamos` → necesitar | 직설법 현재, 1인칭 복수 | 규칙
+  - `tener` → tener | 부정사
+
+### 25-23. **Marta:** Primero, todo lo que afecte a la seguridad nacional en curso tiene que revisarse con mucho cuidado.
+- **해석:** 우선, 현재 진행 중인 국가 안보에 영향을 주는 것은 무엇이든 아주 신중하게 검토해야 해요.
+- **주요 단어:** `afectar a` ~에 영향을 미치다 / `seguridad nacional` 국가 안보 / `en curso` 진행 중인 / `revisar` 검토하다 / `cuidado` 주의
+- **문법:** `todo lo que` + 접속법 — 선행사가 불특정("~하는 것은 무엇이든")이라 접속법. `revisarse` 수동 se + 부정사 결합.
+- **시제:**
+  - `afecte` → afectar | 접속법 현재, 3인칭 단수 | 불특정 선행사 관계절 → 접속법 (직설법 afecta면 이미 특정된 것) | 규칙
+  - `tiene` → tener | 직설법 현재 | 의무 | 불규칙
+  - `revisarse` → revisar | 부정사 + se(수동)
+
+### 25-24. **Marta:** No podemos poner en riesgo la operación judicial que sigue abierta.
+- **해석:** 아직 진행 중인 사법 절차를 위험에 빠뜨릴 수는 없어요.
+- **주요 단어:** `poner en riesgo` 위험에 빠뜨리다 / `judicial` 사법의 / `seguir + 형용사` 여전히 ~하다 / `abierto` 열린
+- **문법:** `seguir + 형용사` 상태 지속. 관계대명사 que.
+- **시제:**
+  - `podemos` → 앞에서 설명
+  - `poner` → poner | 부정사
+  - `sigue` → seguir | 직설법 현재, 3인칭 단수 | 현재 지속 상태 | e → i
+
+### 25-25. **Jefe:** ¿Hay algo de esto que todavía esté bajo secreto de sumario?
+- **해석:** 이 중에 아직 수사 기밀(비공개 명령) 상태인 게 있나?
+- **주요 단어:** `bajo` (전치사) ~아래 / `secreto de sumario` (법률) 수사 비공개 명령
+- **문법:** 존재 여부를 묻는 불확실한 선행사(`¿Hay algo que...?`) → 관계절 접속법.
+- **표현:** `secreto de sumario` 스페인 사법 용어: 판사가 수사 자료 공개를 금지하는 조치.
+- **시제:**
+  - `Hay` → haber | 직설법 현재, 무인칭 | 불규칙
+  - `esté` → estar | 접속법 현재, 3인칭 단수 | 존재가 불확실한 선행사라 접속법 | 불규칙 (esté)
+
+### 25-26. **Álvaro:** Sí, la mayor parte.
+- **해석:** 네, 대부분이요.
+- **주요 단어:** `la mayor parte` 대부분
+- **문법:** 생략 구문.
+- **시제:**
+  - 동사 없음
+
+### 25-27. **Álvaro:** El juez ha decretado secreto de sumario por ahora, así que tendremos que esperar antes de publicar los detalles más sensibles.
+- **해석:** 판사가 당분간 비공개 명령을 내렸기 때문에, 가장 민감한 세부 사항은 보도하기 전에 기다려야 할 거예요.
+- **주요 단어:** `juez` 판사 / `decretar` 명령하다 / `por ahora` 당분간 / `así que` 그래서 / `detalle` 세부 사항 / `sensible` 민감한 (영어 sensible "분별 있는"과 다름—false friend)
+- **문법:** `así que` 결과 접속사 + 직설법. `antes de + 부정사`. 최상급 `los ... más sensibles`.
+- **시제:**
+  - `ha decretado` → decretar | 직설법 현재완료, 3인칭 단수 | 최근의 결정이 지금도 효력 | 규칙
+  - `tendremos` → tener | 직설법 단순미래, 1인칭 복수 | 앞으로의 의무 | 불규칙 미래 어간 tendr-
+  - `esperar` → esperar | 부정사
+  - `publicar` → publicar | 부정사
+
+### 25-28. **Marta:** Entonces, de momento, solo podemos confirmar lo que ya es de dominio público: las detenciones, el material incautado, sin entrar en cómo se obtuvo la información.
+- **해석:** 그렇다면 당분간은 이미 공개된 것만 확인해 줄 수 있어요. 체포, 압수된 물품 정도요. 정보를 어떻게 얻었는지는 다루지 않고요.
+- **주요 단어:** `de momento` 당분간 / `confirmar` 확인하다 / `de dominio público` 공공연한, 공개된 / `detención` 체포 / `incautar` 압수하다 / `entrar en` (주제를) 다루다 / `obtener` 얻다
+- **문법:** `sin + 부정사`. 간접의문문 `cómo` (강세). `se obtuvo` 수동 se.
+- **표현:** `ser de dominio público` 널리 알려져 있다.
+- **시제:**
+  - `podemos` → 앞에서 설명
+  - `confirmar` → confirmar | 부정사
+  - `es` → ser | 직설법 현재 | 불규칙
+  - `incautado` → incautar | 과거분사 | 형용사적 용법(압수된)
+  - `entrar` → entrar | 부정사 | sin 뒤
+  - `se obtuvo` → obtener | 직설법 단순과거, 3인칭 단수 | 과거에 완결된 입수 행위 | 불규칙 (tener 계열: obtuv-)
+
+### 25-29. **Jefe:** ¿Y la parte de Ramón, el agente español corrupto?
+- **해석:** 그리고 라몬, 그 부패한 스페인 요원 부분은?
+- **주요 단어:** `agente` 요원 / `corrupto` 부패한
+- **문법:** 동격 구문(Ramón, el agente...). 동사 생략.
+- **시제:**
+  - 동사 없음
+
+### 25-30. **Álvaro:** Ese es el tema más delicado.
+- **해석:** 그게 가장 민감한 사안이에요.
+- **주요 단어:** `tema` (명사, 남) 주제, 사안 / `delicado` 민감한
+- **문법:** 최상급 `el ... más`. `tema`는 -a로 끝나지만 남성.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 불규칙
+
+### 25-31. **Álvaro:** Si publicamos su identidad antes de que avance la investigación interna, podríamos comprometerla.
+- **해석:** 내부 조사가 진척되기 전에 그의 신원을 공개하면, 조사를 망칠 수도 있어요.
+- **주요 단어:** `identidad` 신원 / `avanzar` 진척되다 / `interno` 내부의 / `comprometer` 위태롭게 하다
+- **문법:** `antes de que` + 항상 접속법. `si + 직설법 현재` 조건에 결과절은 조건법(가능성을 완곡하게). `comprometerla` 부정사 + la(= investigación).
+- **시제:**
+  - `publicamos` → publicar | 직설법 현재, 1인칭 복수 | si 조건절 현재 | 규칙
+  - `avance` → avanzar | 접속법 현재, 3인칭 단수 | antes de que 뒤는 항상 접속법 | 철자변화 (z → c)
+  - `podríamos` → poder | 조건법 단순, 1인칭 복수 | 가능성을 조심스럽게 제시 | 불규칙 조건 어간 podr-
+  - `comprometerla` → comprometer | 부정사 + 대명사
+
+### 25-32. **Marta:** Coincido.
+- **해석:** 동의해요.
+- **주요 단어:** `coincidir` 의견이 일치하다
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Coincido` → coincidir | 직설법 현재, 1인칭 단수 | 규칙
+
+### 25-33. **Marta:** Sugiero que hablemos con Carlos para ver hasta dónde podemos llegar sin poner en peligro el caso.
+- **해석:** 사건을 위태롭게 하지 않고 어디까지 보도할 수 있는지 카를로스와 이야기해 보는 걸 제안해요.
+- **주요 단어:** `sugerir` 제안하다 / `hasta dónde` 어디까지 / `llegar` 도달하다 / `caso` 사건
+- **문법:** `sugerir que` + 접속법. `para + 부정사` 목적. 간접의문문 `hasta dónde` + 직설법.
+- **시제:**
+  - `Sugiero` → sugerir | 직설법 현재, 1인칭 단수 | e → ie
+  - `hablemos` → hablar | 접속법 현재, 1인칭 복수 | 제안 동사 뒤 접속법 | 규칙
+  - `ver` → ver | 부정사
+  - `podemos` → 앞에서 설명 (간접의문문이라 직설법)
+  - `llegar` → llegar | 부정사
+  - `poner` → poner | 부정사
+
+### 25-34. **Jefe:** De acuerdo.
+- **해석:** 좋아.
+- **주요 단어:** `de acuerdo` 동의, 좋다
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 25-35. **Jefe:** Álvaro, contacta con él hoy mismo.
+- **해석:** 알바로, 오늘 당장 그에게 연락하게.
+- **주요 단어:** `contactar con` ~와 연락하다 / `hoy mismo` 바로 오늘
+- **문법:** `mismo`가 시간 부사를 강조.
+- **시제:**
+  - `contacta` → contactar | 명령법 tú 긍정 (= 직설법 3인칭 단수형) | 지시 | 규칙
+
+### 25-36. **Álvaro:** Lo haré.
+- **해석:** 그러겠습니다.
+- **주요 단어:** `hacer` 하다
+- **문법:** `lo` 중성 대명사.
+- **시제:**
+  - `haré` → hacer | 직설법 단순미래, 1인칭 단수 | 약속·의지 | 불규칙 미래 어간 har-
+
+### 25-37. **Javier:** ¿Y en cuanto al formato?
+- **해석:** 그럼 형식은요?
+- **주요 단어:** `en cuanto a` ~에 관해서는 / `formato` 형식
+- **문법:** `a + el` → `al`. (`en cuanto` "~하자마자"와 구분.)
+- **시제:**
+  - 동사 없음
+
+### 25-38. **Javier:** ¿Un solo reportaje, o una serie?
+- **해석:** 기사 한 편이요, 아니면 시리즈요?
+- **주요 단어:** `solo` 단 하나의 / `serie` (명사, 여) 연재
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 25-39. **Jefe:** Una serie, sin duda.
+- **해석:** 당연히 시리즈지.
+- **주요 단어:** `sin duda` 의심할 여지 없이
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 25-40. **Jefe:** Esto da para varios capítulos: la infiltración, la red en sí, la corrupción institucional, y el impacto en Colombia y Venezuela.
+- **해석:** 이건 여러 편으로 나올 만해. 잠입, 조직 자체, 제도적 부패, 그리고 콜롬비아와 베네수엘라에 미친 영향까지.
+- **주요 단어:** `dar para` ~할 만큼 충분하다 / `capítulo` 편, 장 / `en sí` 그 자체 / `impacto` 영향
+- **문법:** 콜론 뒤 나열.
+- **표현:** `dar para algo` "~하기에 충분하다" (Esto da para una película "영화 한 편 나오겠다").
+- **시제:**
+  - `da` → dar | 직설법 현재, 3인칭 단수 | 현재 판단 | 불규칙 (1인칭 doy)
+
+### 25-41. **Álvaro:** Me parece bien.
+- **해석:** 좋습니다.
+- **주요 단어:** `parecer` ~로 보이다
+- **문법:** gustar형 구문(me = 간접목적어).
+- **표현:** `Me parece bien` "좋다고 생각한다".
+- **시제:**
+  - `parece` → parecer | 직설법 현재, 3인칭 단수 | 현재 의견 | 1인칭 parezco (c → zc)
+
+### 25-42. **Álvaro:** Aunque preferiría que mi papel en la infiltración no fuera el centro de la historia.
+- **해석:** 다만 잠입에서의 제 역할이 이야기의 중심이 되지 않았으면 해요.
+- **주요 단어:** `aunque` 하지만 / `preferir` 선호하다 / `papel` 역할 / `centro` 중심 / `historia` 이야기
+- **문법:** 조건법 주절 + `que` + 접속법 불완료과거 (시제 일치: 조건법 뒤 접속법 과거). `Aunque`로 시작하는 문장 — 앞 말에 단서를 다는 구어 용법.
+- **시제:**
+  - `preferiría` → preferir | 조건법 단순, 1인칭 단수 | 바람을 공손히 완화 | 규칙 조건법 (현재형은 prefiero e→ie)
+  - `fuera` → ser | 접속법 불완료과거, 3인칭 단수 | 조건법 주절의 희망 뒤라 접속법 과거 | 불규칙
+
+### 25-43. **Álvaro:** Lo importante es lo que se descubrió, no yo.
+- **해석:** 중요한 건 밝혀진 사실이지, 제가 아니에요.
+- **주요 단어:** `lo importante` 중요한 것 / `descubrir` 발견하다
+- **문법:** `lo + 형용사` 추상명사화. `se descubrió` 수동 se.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 불규칙
+  - `se descubrió` → descubrir | 직설법 단순과거, 3인칭 단수 | 조사 과정에서 완결된 발견 | 규칙 (과거분사는 불규칙 descubierto)
+
+### 25-44. **Jefe:** Entiendo tu humildad, pero seamos realistas: un periodista infiltrándose en una red de narcotráfico de armas es la historia.
+- **해석:** 자네의 겸손은 이해하지만 현실적으로 보자고. 기자가 무기 밀매 조직에 잠입했다는 것, 그게 바로 이야기야.
+- **주요 단어:** `humildad` 겸손 / `realista` 현실적인 / `infiltrarse` 잠입하다 / `narcotráfico` 마약 밀매 (여기선 밀매 조직 전반)
+- **문법:** `seamos` 1인칭 복수 명령(= 접속법 현재) "~하자". 현재분사 `infiltrándose`가 명사 수식(구어적). `es la historia` — 정관사로 "바로 그 이야기" 강조.
+- **표현:** `seamos realistas` "현실적으로 생각하자".
+- **시제:**
+  - `Entiendo` → 앞에서 설명
+  - `seamos` → ser | 명령법 1인칭 복수(접속법 현재 형태) | 청유 | 불규칙 (sea-)
+  - `infiltrándose` → infiltrarse | 현재분사 + 재귀대명사 | 진행 동작 묘사
+  - `es` → ser | 직설법 현재 | 불규칙
+
+### 25-45. **Jefe:** No podemos ignorarlo.
+- **해석:** 그걸 무시할 수는 없어.
+- **주요 단어:** `ignorar` 무시하다 (모르다의 뜻도)
+- **문법:** 부정사 + 대명사.
+- **시제:**
+  - `podemos` → 앞에서 설명
+  - `ignorarlo` → ignorar | 부정사 + 대명사
+
+### 25-46. **Álvaro:** Aun así, preferiría un enfoque medido.
+- **해석:** 그래도 절제된 접근이 좋겠어요.
+- **주요 단어:** `aun así` 그렇더라도 / `enfoque` 접근 방식 / `medido` 절제된
+- **문법:** `aun`(= incluso, 강세 없음) vs `aún`(= todavía) 구분.
+- **시제:**
+  - `preferiría` → 앞에서 설명 (조건법, 공손)
+  - `medido` → medir | 과거분사 | 형용사적 용법
+
+### 25-47. **Álvaro:** No quiero que esto se convierta en un espectáculo sobre mí.
+- **해석:** 이게 저에 관한 구경거리가 되는 건 원치 않아요.
+- **주요 단어:** `convertirse en` ~이 되다 / `espectáculo` 구경거리, 쇼
+- **문법:** `querer que` + 접속법 (주어 다름).
+- **시제:**
+  - `quiero` → querer | 직설법 현재 | e → ie
+  - `se convierta` → convertirse | 접속법 현재, 3인칭 단수 | 희망 뒤 접속법 | e → ie
+
+### 25-48. **Marta:** Podemos encontrar un equilibrio.
+- **해석:** 균형점을 찾을 수 있어요.
+- **주요 단어:** `encontrar` 찾다 / `equilibrio` 균형
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Podemos` → 앞에서 설명
+  - `encontrar` → encontrar | 부정사
+
+### 25-49. **Marta:** Contamos los hechos con rigor, sin sensacionalismo, pero sin ocultar tampoco lo que hiciste.
+- **해석:** 사실을 엄밀하게, 선정주의 없이 전하되, 당신이 한 일을 감추지도 않는 거죠.
+- **주요 단어:** `hecho` 사실 / `rigor` 엄밀함 / `sensacionalismo` 선정주의 / `ocultar` 숨기다 / `tampoco` ~도 아니다
+- **문법:** `sin ... tampoco` — 부정의 연속(~하지도 않고). 
+- **표현:** 현재형으로 제안·계획을 말함("이렇게 하죠").
+- **시제:**
+  - `Contamos` → contar | 직설법 현재, 1인칭 복수 | 제안하는 계획을 현재형으로 (1인칭 복수라 어간변화 없음)
+  - `ocultar` → ocultar | 부정사
+  - `hiciste` → hacer | 직설법 단순과거, 2인칭 단수 | 과거 완결 행위 | 불규칙
+
+### 25-50. **Marta:** Es relevante para que el lector entienda la credibilidad de la fuente.
+- **해석:** 독자가 취재원의 신뢰성을 이해하는 데 중요하니까요.
+- **주요 단어:** `relevante` 중요한, 관련 있는 / `lector` 독자 / `credibilidad` 신뢰성 / `fuente` 출처, 취재원
+- **문법:** `para que` + 항상 접속법 (목적).
+- **시제:**
+  - `Es` → ser | 직설법 현재 | 불규칙
+  - `entienda` → entender | 접속법 현재, 3인칭 단수 | para que 뒤 접속법 | e → ie
+
+### 25-51. **Jefe:** Estoy de acuerdo con Marta.
+- **해석:** 마르타 말에 동의하네.
+- **주요 단어:** `estar de acuerdo con` ~에 동의하다
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재, 1인칭 단수 | 불규칙
+
+### 25-52. **Jefe:** Bueno, ¿cuándo podríais tener un primer borrador?
+- **해석:** 자, 초고는 언제쯤 나올 수 있겠나?
+- **주요 단어:** `borrador` 초안 / `primer` (primero의 남성 단수 명사 앞 탈락형) 첫
+- **문법:** vosotros형 조건법. `primero` → `primer` (남성 단수 명사 앞 어미 탈락).
+- **시제:**
+  - `podríais` → poder | 조건법 단순, 2인칭 복수(vosotros) | 가능성을 부드럽게 묻는 공손 표현 | 불규칙 어간 podr-
+  - `tener` → tener | 부정사
+
+### 25-53. **Álvaro:** Dos semanas, si el secreto de sumario no se alarga más de lo esperado.
+- **해석:** 수사 비공개 명령이 예상보다 길어지지 않는다면 2주요.
+- **주요 단어:** `alargarse` 길어지다 / `lo esperado` 예상된 것
+- **문법:** si + 현재 (현실 조건). `más de lo + 과거분사` "~된 것보다 더".
+- **시제:**
+  - `se alarga` → alargarse | 직설법 현재, 3인칭 단수 | si 조건절 | 규칙 (접속법 alargue, g→gu)
+  - `esperado` → esperar | 과거분사 | lo와 결합해 명사화
+
+### 25-54. **Javier:** Yo puedo tener mi parte lista antes, en cuanto Álvaro me pase toda la documentación.
+- **해석:** 난 알바로가 자료를 다 넘겨주는 대로 내 부분을 더 빨리 준비할 수 있어요.
+- **주요 단어:** `listo` (estar/tener와) 준비된 / `en cuanto` ~하자마자 / `documentación` 자료, 문서
+- **문법:** `tener + 목적어 + 형용사` (~을 ~한 상태로 두다; lista는 parte에 일치). `en cuanto` + 접속법 — 아직 일어나지 않은 미래라 접속법 (24-51의 과거 직설법과 비교).
+- **시제:**
+  - `puedo` → poder | 직설법 현재, 1인칭 단수 | o → ue
+  - `tener` → tener | 부정사
+  - `pase` → pasar | 접속법 현재, 3인칭 단수 | 미래 시점의 시간절이라 접속법 | 규칙
+
+### 25-55. **Jefe:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` 완벽한
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 25-56. **Jefe:** Marta, mantennos informados de cualquier novedad legal.
+- **해석:** 마르타, 법적인 새 소식이 있으면 뭐든 알려 주게.
+- **주요 단어:** `mantener` 유지하다 / `informado` 소식을 들은 / `novedad` 새 소식
+- **문법:** tú 긍정명령 `mantén` + `nos` → `mantennos` (강세 부호 탈락). `mantener + 목적어 + 과거분사` (복수 일치 informados).
+- **표현:** `mantener informado a alguien` 계속 알려 주다.
+- **시제:**
+  - `mantennos` → mantener | 명령법 tú 긍정 | 요청 | 불규칙 (tener → ten, mantener → mantén)
+  - `informados` → informar | 과거분사 | 목적어 상태
+
+### 25-57. **Marta:** Así lo haré.
+- **해석:** 그렇게 하겠습니다.
+- **주요 단어:** `así` 그렇게
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `haré` → 앞에서 설명 (단순미래, 약속)
+
+### 25-58. **Marta:** Y por favor, cualquier duda antes de escribir una sola línea, consultadme primero.
+- **해석:** 그리고 제발, 한 줄이라도 쓰기 전에 궁금한 게 있으면 먼저 저한테 물어보세요.
+- **주요 단어:** `duda` 의문 / `línea` 줄 / `consultar` 상의하다
+- **문법:** vosotros 긍정명령 `consultad` + `me` → `consultadme` (-d 유지; 재귀 os일 때만 -d 탈락). `cualquier` (명사 앞 어미 탈락).
+- **표현:** `ni una sola línea` 식의 강조 "단 한 줄도".
+- **시제:**
+  - `escribir` → escribir | 부정사 | antes de 뒤
+  - `consultadme` → consultar | 명령법 vosotros 긍정 | 요청 (스페인식) | 규칙
+
+### 25-59. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entendido` 알겠다
+- **문법:** 과거분사 단독 사용 — 응답 표현.
+- **시제:**
+  - `Entendido` → entender | 과거분사 | "이해됨"이라는 확인 응답
+
+### 25-60. **Jefe:** Una última cosa, Álvaro: buen trabajo.
+- **해석:** 마지막으로 하나, 알바로. 수고했어.
+- **주요 단어:** `último` 마지막의 / `buen` (bueno의 탈락형)
+- **문법:** `bueno` → `buen` (남성 단수 명사 앞).
+- **표현:** `Buen trabajo` "잘했어".
+- **시제:**
+  - 동사 없음
+
+### 25-61. **Jefe:** De verdad.
+- **해석:** 진심이야.
+- **주요 단어:** `de verdad` 진심으로
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 25-62. **Jefe:** Sé que no ha sido fácil.
+- **해석:** 쉽지 않았다는 거 알아.
+- **주요 단어:** `fácil` 쉬운
+- **문법:** `saber que` + 직설법.
+- **시제:**
+  - `Sé` → saber | 직설법 현재, 1인칭 단수 | 불규칙
+  - `ha sido` → ser | 직설법 현재완료, 3인칭 단수 | 막 끝난 경험 전체를 현재 시점에서 평가 | 과거분사 sido
+
+### 25-63. **Álvaro:** Gracias, jefe.
+- **해석:** 감사합니다, 국장님.
+- **주요 단어:** `gracias` 감사
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 25-64. **Álvaro:** Espero que sirva para algo más que un titular.
+- **해석:** 헤드라인 하나 이상의 의미가 있으면 좋겠어요.
+- **주요 단어:** `titular` (명사, 남) 헤드라인
+- **문법:** `esperar que` + 접속법. `más que` 비교.
+- **시제:**
+  - `Espero` → 앞에서 설명
+  - `sirva` → servir | 접속법 현재 | 희망 뒤 | e → i
+
+### 25-65. **Jefe:** Servirá.
+- **해석:** 그럴 거야.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Servirá` → servir | 직설법 단순미래 | 확신 있는 예측 | 규칙
+
+### 25-66. **Jefe:** Este es el tipo de periodismo por el que entramos en esto.
+- **해석:** 이게 바로 우리가 이 일에 뛰어든 이유인 그런 저널리즘이야.
+- **주요 단어:** `tipo` 종류 / `periodismo` 저널리즘 / `entrar en` ~에 들어가다(업계에 뛰어들다)
+- **문법:** 전치사 + 관계사 `por el que` (= por el cual) "그것 때문에".
+- **시제:**
+  - `es` → ser | 직설법 현재 | 불규칙
+  - `entramos` → entrar | 직설법 단순과거, 1인칭 복수 (현재형과 형태 동일) | 과거에 이 업계에 들어온 완결된 사건이므로 단순과거로 해석 | 규칙
+
+### 25-67. **Jefe:** Bueno, manos a la obra, que hay mucho que escribir.
+- **해석:** 자, 일 시작하자. 쓸 게 많으니까.
+- **주요 단어:** `manos a la obra` 일에 착수하자 / `escribir` 쓰다
+- **문법:** `que` 이유(구어). `hay mucho que + 부정사` "~할 것이 많다".
+- **표현:** `¡Manos a la obra!` "자, 일하자!" (관용구).
+- **시제:**
+  - `hay` → haber | 직설법 현재, 무인칭 | 불규칙
+  - `escribir` → escribir | 부정사

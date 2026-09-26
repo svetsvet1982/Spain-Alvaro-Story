@@ -661,3 +661,289 @@
   - `intenta` → intentar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙
   - `llamar` → llamar | 부정사 | intentar 뒤
   - `contesta` → contestar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙
+
+### 20-20. **Fabián:** ¿Todo bien?
+- **해석:** 다 괜찮아?
+- **주요 단어:** `todo bien` 다 괜찮다
+- **문법:** 동사 생략(¿Está todo bien?).
+- **시제:** 동사 없음
+
+### 20-21. **Álvaro:** Sí, no contestaba; le he dejado un mensaje.
+- **해석:** 네, 안 받더라고요. 메시지 남겨 뒀어요.
+- **주요 단어:** `contestar` (앞에서 설명) / `dejar un mensaje` 메시지를 남기다
+- **문법:** le = 그(상대)에게(간접목적).
+- **시제:**
+  - `contestaba` → contestar | 직설법 불완료과거 3인칭 단수 | 전화를 거는 동안 계속 안 받던 상황(배경·지속). 비교: no contestó는 "안 받았다"는 결과 요약 | 규칙
+  - `he dejado` → dejar | 직설법 현재완료 1인칭 단수 | 방금 한 일이라 현재완료(스페인식) | 규칙
+
+### 20-22. **Álvaro:** Nada importante.
+- **해석:** 별거 아니에요.
+- **주요 단어:** `nada importante` 중요한 것 없음
+- **문법:** nada + 형용사(남성 단수).
+- **시제:** 동사 없음
+
+### 20-23. **Fabián:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` 완벽한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 20-24. **Fabián:** Entonces vámonos.
+- **해석:** 그럼 가자.
+- **주요 단어:** `entonces` 그럼 / `irse` (앞에서 설명)
+- **문법:** nosotros 긍정명령 + nos: vamos + nos → `vámonos` (-s 탈락, 악센트).
+- **시제:**
+  - `vámonos` → irse | 명령법 1인칭 복수 | "(여기서) 떠나자" 청유 | 불규칙(청유형으로 vayamos 대신 vamos 사용)
+
+### 20-25. **Álvaro:** ¿Qué debo esperar allí, en Venezuela?
+- **해석:** 거기, 베네수엘라에서는 뭘 예상해야 하죠?
+- **주요 단어:** `deber + 부정사` ~해야 하다 / `esperar` (동사) 예상하다, 기대하다
+- **문법:** esperar가 여기선 "기다리다"가 아닌 "예상하다".
+- **시제:**
+  - `debo` → deber | 직설법 현재 1인칭 단수 | 조언을 구하는 의무 표현 | 규칙
+  - `esperar` → esperar | 부정사 | deber 뒤
+
+### 20-26. **Fabián:** Gente distinta a la de aquí.
+- **해석:** 여기와는 다른 사람들이야.
+- **주요 단어:** `distinto a` ~와 다른
+- **문법:** `la de aquí` = la gente de aquí (관사로 명사 대신).
+- **시제:** 동사 없음
+
+### 20-27. **Fabián:** Más desconfiada, más peligrosa si se les da motivo.
+- **해석:** 의심이 더 많고, 빌미를 주면 더 위험해.
+- **주요 단어:** `desconfiado` (형용사) 의심 많은 / `peligroso` (형용사) 위험한 / `motivo` (남성명사) 이유, 구실
+- **문법:** 형용사는 gente(여성 단수)에 일치. `se les da`: 비인칭 se + les(그들에게, 의미상 복수). 문법상 gente는 단수지만 대명사는 의미 따라 복수 사용.
+- **표현:** `dar motivo` 빌미를 주다.
+- **시제:**
+  - `da` → dar | 직설법 현재 3인칭 단수 | si 조건절 현재(일반 조건) | 불규칙(1인칭 doy)
+
+### 20-28. **Fabián:** No hables a menos que te pregunten directamente.
+- **해석:** 직접 묻지 않는 한 말하지 마.
+- **주요 단어:** `a menos que` (앞에서 설명)
+- **문법:** tú 부정명령 = no + 접속법 현재. a menos que + 접속법. pregunten 3인칭 복수 = 불특정 "사람들이".
+- **시제:**
+  - `hables` → hablar | 부정명령 2인칭 단수 (접속법 현재 형태) | 금지 | 규칙
+  - `pregunten` → preguntar | 접속법 현재 3인칭 복수 | a menos que 뒤 필수 접속법; 불특정 주어 3인칭 복수 | 규칙
+
+### 20-29. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entender` (동사) 이해하다
+- **문법:** 과거분사 단독 응답.
+- **시제:**
+  - `Entendido` → entender | 과거분사 | "이해됨" 결과 상태 확인 | 규칙형 분사
+
+### 20-30. **Álvaro:** ¿Tengo que avisar a alguien de que salgo del país?
+- **해석:** 제가 출국한다는 걸 누구한테 알려야 하나요?
+- **주요 단어:** `avisar a alguien de algo` 누군가에게 ~을 알리다 / `salir de` ~에서 나가다 / `país` (남성명사) 나라
+- **문법:** avisar de que + 직설법(사실 통보). de + el = del.
+- **시제:**
+  - `Tengo` → tener | 직설법 현재 | tener que 의무 | 불규칙
+  - `avisar` → avisar | 부정사 | tener que 뒤
+  - `salgo` → salir | 직설법 현재 1인칭 단수 | 곧 일어날 확정 미래 | 불규칙 (salir → salgo, -g-)
+
+### 20-31. **Fabián:** A nadie.
+- **해석:** 아무한테도.
+- **주요 단어:** `nadie` 아무도
+- **문법:** 앞 질문의 a alguien에 대응(a nadie).
+- **시제:** 동사 없음
+
+### 20-32. **Fabián:** Cuanta menos gente sepa dónde estamos, mejor para todos, especialmente para ti.
+- **해석:** 우리가 어디 있는지 아는 사람이 적을수록 모두에게, 특히 너한테 좋아.
+- **주요 단어:** `cuanto menos ..., mejor` ~할수록 더 좋다 / `especialmente` 특히
+- **문법:** 비례 구문 `cuanto/a + menos + 명사 ..., mejor`. cuanta는 gente(여성)에 일치. 가정적·일반적 비례이므로 접속법(sepa). 간접의문 dónde.
+- **시제:**
+  - `sepa` → saber | 접속법 현재 3인칭 단수 | cuanto 비례절에서 미정·가정적 수량이라 접속법 | 불규칙 (sepa)
+  - `estamos` → estar | 직설법 현재 1인칭 복수 | 위치(estar) | 불규칙
+
+### 20-33. **Álvaro:** (Traga saliva) Claro, tiene sentido.
+- **해석:** (침을 삼키며) 그렇죠, 일리 있네요.
+- **주요 단어:** `tragar` (동사) 삼키다 / `saliva` (여성명사) 침 / `tener sentido` 말이 되다
+- **표현:** `tragar saliva` 긴장해서 침을 삼키다.
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Traga` → tragar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재 판단 | 불규칙
+
+### 20-34. **Fabián:** No pongas esa cara, Diego.
+- **해석:** 그런 표정 짓지 마, 디에고.
+- **주요 단어:** `poner cara` 표정을 짓다 / `cara` (여성명사) 얼굴
+- **문법:** tú 부정명령 = no + 접속법 현재.
+- **표현:** `No pongas esa cara` "그런 얼굴 하지 마" 관용 표현.
+- **시제:**
+  - `pongas` → poner | 부정명령 2인칭 단수(접속법 현재) | 금지 | 불규칙 (pongo → ponga, -g-)
+
+### 20-35. **Fabián:** Es una gran oportunidad.
+- **해석:** 큰 기회야.
+- **주요 단어:** `oportunidad` (여성명사) 기회 / `gran` grande의 단수 명사 앞 형태
+- **문법:** gran(명사 앞) = 대단한.
+- **시제:**
+  - `Es` → ser | 직설법 현재 | 평가 | 불규칙
+
+### 20-36. **Fabián:** Poca gente llega a conocer a esta gente en persona.
+- **해석:** 이 사람들을 직접 만나 보는 사람은 거의 없어.
+- **주요 단어:** `llegar a + 부정사` 결국 ~하게 되다 / `conocer` (동사) 알게 되다, 만나다
+- **문법:** gente → 동사 3인칭 단수. 사람 목적어 앞 a.
+- **표현:** `llegar a conocer` ~를 만날 수 있는 데까지 이르다(도달의 뉘앙스).
+- **시제:**
+  - `llega` → llegar | 직설법 현재 3인칭 단수 | 일반적 사실 | 규칙
+  - `conocer` → conocer | 부정사 | llegar a 뒤 (1인칭 conozco 불규칙)
+
+### 20-37. **Álvaro:** Lo sé, es solo que ha sido todo muy rápido.
+- **해석:** 알아요, 그냥 모든 게 너무 빨리 진행돼서요.
+- **주요 단어:** `es que` ~라서 그래요(변명·설명) / `rápido` 빠른
+- **문법:** `lo sé`: lo = 그 사실(중성). `es solo que` 이유·해명 구문.
+- **표현:** `es (solo) que...` "그냥 ~해서 그래요" — 해명할 때의 구어.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재 인지 | 불규칙 (sé)
+  - `es` → ser | 직설법 현재 | es que 구문 | 불규칙
+  - `ha sido` → ser | 직설법 현재완료 3인칭 단수 | 방금까지의 일(오늘)이라 현재완료 | 불규칙(분사 sido)
+
+### 20-38. **Fabián:** Así es este negocio.
+- **해석:** 이 사업이 원래 그래.
+- **주요 단어:** `negocio` (남성명사) 사업
+- **문법:** así 전치, 주어 este negocio 후치.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 본질적 특성 | 불규칙
+
+### 20-39. **Fabián:** Nada se planea con semanas de antelación.
+- **해석:** 몇 주 전에 미리 계획되는 건 없어.
+- **주요 단어:** `planear` (동사) 계획하다 / `antelación` (여성명사) 사전, 미리
+- **문법:** 수동 se(pasiva refleja): nada가 주어. nada가 동사 앞이라 no 불필요.
+- **표현:** `con antelación` 미리.
+- **시제:**
+  - `se planea` → planear | 직설법 현재 3인칭 단수 (수동 se) | 일반적 관행 | 규칙
+
+### 20-40. **Fabián:** Hay que estar listo siempre.
+- **해석:** 항상 준비돼 있어야 해.
+- **주요 단어:** `hay que + 부정사` (일반적으로) ~해야 한다 / `listo` (형용사) 준비된
+- **문법:** hay que = 비인칭 의무. `estar listo` 준비된(ser listo = 영리한과 구별).
+- **시제:**
+  - `Hay` → haber | 직설법 현재(비인칭) | 일반 의무 | 불규칙
+  - `estar` → estar | 부정사 | hay que 뒤
+
+### 20-41. **Álvaro:** Entiendo.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entender` (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 현재 이해 | 어간 e→ie
+
+### 20-42. **Álvaro:** Estoy listo.
+- **해석:** 준비됐어요.
+- **주요 단어:** `listo` (앞에서 설명)
+- **문법:** estar listo = 준비된 상태.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재 | 현재 상태 | 불규칙
+
+### 20-43. **Fabián:** Así me gusta.
+- **해석:** 그래야지.
+- **주요 단어:** `gustar` (동사) 마음에 들다
+- **문법:** gustar형: me(나에게) + gusta.
+- **표현:** `Así me gusta` "바로 그거야, 좋아" — 칭찬 관용구.
+- **시제:**
+  - `gusta` → gustar | 직설법 현재 3인칭 단수 | 현재 평가 | 규칙
+
+### 20-44. **Fabián:** Vamos, que perdemos el vuelo.
+- **해석:** 가자, 비행기 놓치겠다.
+- **주요 단어:** `perder` (동사) 놓치다
+- **문법:** 문두 `que` = 이유 설명(구어, "~하니까").
+- **표현:** `Vamos, que...` "가자, ~하겠어" 재촉하는 구어.
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수(청유 용법) | 재촉 | 불규칙
+  - `perdemos` → perder | 직설법 현재 1인칭 복수 | 임박한 미래를 현재로 생생하게 | nosotros는 어간 변화 없음(pierdo는 e→ie)
+
+### 20-45. **Álvaro:** (Ya en el coche, camino al aeropuerto, piensa para sí mirando por la ventana) Carlos no sabe nada.
+- **해석:** (이미 공항으로 가는 차 안에서 창밖을 보며 속으로 생각한다) 카를로스는 아무것도 몰라.
+- **주요 단어:** `camino a` ~로 가는 길에 / `para sí` 속으로 / `mirar por la ventana` 창밖을 보다
+- **문법:** 두 줄로 나뉜 원문을 한 문장으로 합침. no ... nada 이중부정.
+- **시제:**
+  - `piensa` → pensar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 어간 e→ie
+  - `mirando` → mirar | 현재분사 | 동시 동작 | 규칙
+  - `sabe` → saber | 직설법 현재 3인칭 단수 | 현재 상태 | 불규칙 (1인칭 sé)
+
+### 20-46. **Álvaro:** Si algo sale mal ahora, nadie va a saber dónde buscarme.
+- **해석:** 지금 뭔가 잘못되면 아무도 날 어디서 찾아야 할지 모를 거야.
+- **주요 단어:** `salir mal` 잘못되다 / `buscar` (동사) 찾다
+- **문법:** si + 직설법 현재, 주절 ir a + 부정사 = 현실적 조건. `dónde + 부정사` 간접의문. nadie 동사 앞 → no 불필요.
+- **시제:**
+  - `sale` → salir | 직설법 현재 3인칭 단수 | si 조건절 현재 | 불규칙(salgo)
+  - `va` → ir | 직설법 현재 | ir a + 부정사로 예상되는 결과 | 불규칙
+  - `saber` → saber | 부정사 | ir a 뒤
+  - `buscar(me)` → buscar | 부정사 | dónde + 부정사
+
+### 20-47. **Fabián:** ¿En qué piensas, Diego?
+- **해석:** 무슨 생각해, 디에고?
+- **주요 단어:** `pensar en` ~에 대해 생각하다
+- **문법:** 전치사 en이 의문사 앞으로.
+- **시제:**
+  - `piensas` → pensar | 직설법 현재 2인칭 단수 | 지금 하고 있는 생각 | 어간 e→ie
+
+### 20-48. **Fabián:** Estás muy callado.
+- **해석:** 되게 조용하네.
+- **주요 단어:** `callado` (형용사) 조용한, 말 없는
+- **문법:** estar + 형용사 = 일시적 상태(평소와 다름).
+- **시제:**
+  - `Estás` → estar | 직설법 현재 2인칭 단수 | 지금의 상태 | 불규칙
+
+### 20-49. **Álvaro:** En nada, solo organizando mentalmente los papeles que voy a necesitar allí.
+- **해석:** 아무것도요, 그냥 거기서 필요할 서류를 머릿속으로 정리하고 있었어요.
+- **주요 단어:** `mentalmente` (부사) 머릿속으로 / `papeles` (남성명사 복수) 서류
+- **문법:** en nada = 앞 질문 en qué에 대응. 현재분사 단독(=estoy organizando 생략).
+- **시제:**
+  - `organizando` → organizar | 현재분사 | (estoy) 생략된 진행형 | 규칙
+  - `voy` → ir | 직설법 현재 | ir a + 부정사로 가까운 미래 | 불규칙
+  - `necesitar` → necesitar | 부정사 | ir a 뒤
+
+### 20-50. **Fabián:** Buen hombre.
+- **해석:** 좋은 녀석이야.
+- **주요 단어:** `buen` bueno의 남성 단수 명사 앞 형태
+- **문법:** bueno → buen (어미 탈락).
+- **시제:** 동사 없음
+
+### 20-51. **Fabián:** Eso es lo que me gusta de ti, siempre pensando en el trabajo.
+- **해석:** 그게 내가 너한테서 좋아하는 점이야, 항상 일 생각하는 거.
+- **주요 단어:** `gustar de` ~의 (점이) 마음에 들다
+- **문법:** lo que 중성 관계사. `de ti` ~에게서(의 점). 현재분사가 앞 내용을 부연.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 규정 | 불규칙
+  - `gusta` → gustar | 직설법 현재 | 현재 호감 | 규칙
+  - `pensando` → pensar | 현재분사 | 지속적 태도 묘사 | 규칙(분사 형태는 어간 변화 없음)
+
+### 20-52. **Álvaro:** (Fuerza una sonrisa) Así es como se hacen bien las cosas.
+- **해석:** (억지로 미소 지으며) 일은 그렇게 해야 제대로 되죠.
+- **주요 단어:** `forzar` (동사) 억지로 하다 / `sonrisa` (여성명사) 미소
+- **문법:** 강조 구문 `así es como...`(~하는 방식은 바로 그렇다). 수동 se: las cosas가 주어라 hacen 복수.
+- **시제:**
+  - `Fuerza` → forzar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 어간 o→ue
+  - `es` → ser | 직설법 현재 | 강조 구문 | 불규칙
+  - `se hacen` → hacer | 직설법 현재 3인칭 복수 (수동 se) | 일반적 원칙 | 불규칙(1인칭 hago)
+
+### 20-53. **Fabián:** Bienvenido a las ligas mayores, Diego.
+- **해석:** 메이저리그에 온 걸 환영해, 디에고.
+- **주요 단어:** `bienvenido` (형용사) 환영받는 / `liga` (여성명사) 리그
+- **문법:** bienvenido는 상대(남성 단수)에 일치.
+- **표현:** `las ligas mayores` 큰 무대(야구 메이저리그에서 온 중남미식 표현).
+- **시제:** 동사 없음 (bienvenido는 형용사화된 단어)
+
+### 20-54. **Fabián:** Después de este viaje, ya no habrá vuelta atrás.
+- **해석:** 이번 여행 후에는 더 이상 되돌릴 수 없을 거야.
+- **주요 단어:** `vuelta atrás` 되돌아감 / `ya no` 더 이상 ~않다
+- **문법:** haber 비인칭 미래.
+- **표현:** `no hay vuelta atrás` 돌이킬 수 없다 — 관용구.
+- **시제:**
+  - `habrá` → haber | 직설법 단순미래 3인칭 단수(비인칭) | 앞으로의 확실한 결과를 단언 | 불규칙 어간 habr-
+
+### 20-55. **Álvaro:** Lo sé.
+- **해석:** 알아요.
+- **주요 단어:** `saber` (앞에서 설명)
+- **문법:** lo 중성.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 20-56. **Álvaro:** Estoy preparado.
+- **해석:** 준비돼 있어요.
+- **주요 단어:** `preparado` (형용사) 준비된
+- **문법:** estar + 과거분사 = 결과 상태.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재 | 현재 상태 | 불규칙
+  - `preparado` → preparar | 과거분사 | 준비가 끝난 상태 | 규칙

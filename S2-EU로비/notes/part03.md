@@ -542,3 +542,250 @@
   - `actuemos` → actuar | 접속법 현재 1인칭 복수 | 아직 일어나지 않은 미래 행위를 조건으로 삼아 접속법 | 규칙 (actú- 강세 변화는 단수형에만: actúe; 복수는 actuemos)
   - `escape` → escaparse | 접속법 현재 3인칭 단수 | riesgo de que 뒤 불확실성이라 접속법 | 규칙
 
+## 장면 12. 로셀요의 날카로운 전화
+> 며칠 후, 로셀요가 카밀라에게 직접 연락해 개인적인 만남을 제안합니다. 이번엔 훨씬 날카로운 대화입니다.
+
+### 12-1. **Adrián:** (Llama a Camila) Elena, espero no molestar.
+- **해석:** (카밀라에게 전화한다) 엘레나, 방해가 안 됐으면 좋겠네요.
+- **주요 단어:** `llamar` (동사) 전화하다 / `esperar` 앞에서 설명 / `molestar` (동사) 방해하다, 귀찮게 하다
+- **문법:** `esperar + 부정사` — 주어가 같으면(내가 바라고, 내가 방해하지 않기를) 접속법 대신 부정사. 사람 목적어 앞 a(a Camila).
+- **표현:** `Espero no molestar` 전화·방문 시 쓰는 정중한 첫인사.
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 3인칭 단수 | 지문 현재형 | 규칙
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙
+  - `molestar` → molestar | 부정사 | 주어 동일이라 부정사(주어가 다르면 espero que no le moleste처럼 접속법)
+
+### 12-2. **Adrián:** Quería proponerle algo, en privado.
+- **해석:** 따로 제안드리고 싶은 게 있어서요.
+- **주요 단어:** `proponer` (동사) 제안하다 / `en privado` 사적으로, 따로
+- **문법:** 간접목적 대명사 le(= a usted)가 부정사 뒤에 붙음(proponerle).
+- **표현:** `en privado` 둘만의 자리에서.
+- **시제:**
+  - `Quería` → querer | 직설법 불완료과거 1인칭 단수 | **공손의 불완료과거**(imperfecto de cortesía): 현재의 바람을 과거형으로 부드럽게 | 불완료과거는 규칙형(quería)
+  - `proponer` → proponer | 부정사 | querer 뒤 (poner 계열 불규칙 동사: propongo, propuse)
+  - 비교: Quiero(직설), Quería(공손), Querría(조건법, 더 공손)
+
+### 12-3. **Camila:** (Alerta, manteniendo la calma) En absoluto, dígame.
+- **해석:** (경계하면서도 침착함을 유지하며) 전혀요, 말씀하세요.
+- **주요 단어:** `alerta` (형용사/명사) 경계하는 / `mantener` 앞에서 설명 / `calma` (여성명사) 침착 / `en absoluto` 전혀
+- **문법:** usted 긍정 명령형 + 대명사 붙임(dígame) — 대명사가 붙어 강세 표시(í) 추가.
+- **표현:** `En absoluto` "전혀요(방해 안 돼요)". `Dígame` "말씀하세요" — 전화 응대에서도 흔한 표현.
+- **시제:**
+  - `manteniendo` → mantener | 현재분사 | 말하는 동안 유지되는 태도 | 규칙형 현재분사
+  - `dígame` → decir | 명령법 usted 긍정 (imperativo, 형태는 접속법 현재 3인칭 단수 diga) | 정중한 요청 | 불규칙 (decir → diga)
+
+### 12-4. **Adrián:** Sus preguntas en el evento fueron muy precisas, demasiado precisas para alguien nueva en este mundo.
+- **해석:** 행사에서 하신 질문들이 아주 정확하더군요. 이 세계에 새로 들어온 사람치고는 지나치게 정확했어요.
+- **주요 단어:** `pregunta` (여성명사) 질문 / `preciso` (형용사) 정확한 / `demasiado` (부사) 지나치게 / `nuevo` (형용사) 새로운
+- **문법:** ser + 형용사(질문의 성격 규정). `para + 사람` ~치고는. alguien은 보통 남성형 수식이지만 여기선 여성 화자를 지칭해 nueva.
+- **표현:** `demasiado ... para alguien nuevo` "초보자치고는 너무 ~하다" — 의심을 드러내는 말.
+- **시제:**
+  - `fueron` → ser | 직설법 단순과거 3인칭 복수 | 과거 특정 행사에서의 완결된 평가 | 불규칙 (ser·ir 공통형 fui, fue, fueron)
+  - 비교: eran precisas(불완료과거)는 배경 묘사, fueron은 그 행사 전체를 하나의 완결된 사건으로 평가
+
+### 12-5. **Camila:** Prefiero entender bien las cosas antes de comprometerme, ya se lo dije.
+- **해석:** 제가 뛰어들기 전에 일을 잘 이해하는 걸 선호한다고, 이미 말씀드렸잖아요.
+- **주요 단어:** `preferir` (동사) 선호하다 / `entender` 앞에서 설명 / `comprometerse` (재귀동사) 약속하다, 관여하다 / `ya` 이미
+- **문법:** `antes de + 부정사`(주어 동일). `se lo dije` — 간접목적 le(a usted)가 직접목적 lo 앞에서 **se**로 바뀜(le lo → se lo).
+- **표현:** `ya se lo dije` "이미 말씀드렸죠".
+- **시제:**
+  - `Prefiero` → preferir | 직설법 현재 1인칭 단수 | 일반적 성향 | 불규칙 (e→ie)
+  - `entender` → entender | 부정사 | preferir 뒤
+  - `comprometerme` → comprometerse | 부정사(재귀) | antes de 뒤
+  - `dije` → decir | 직설법 단순과거 1인칭 단수 | 행사 때 한 번 말한 완결된 행위 | 불규칙 (강변화 dij-: dije, dijo, dijeron)
+
+### 12-6. **Adrián:** Eso decía.
+- **해석:** 그렇게 말씀하셨죠.
+- **주요 단어:** `decir` 앞에서 설명
+- **문법:** 주어 usted 생략(decía는 1·3인칭 동형 — 문맥상 usted).
+- **표현:** 상대 말을 받아주면서도 의심을 남기는 여운 있는 응답.
+- **시제:**
+  - `decía` → decir | 직설법 불완료과거 3인칭 단수 (usted) | 과거 발언을 '그때 하던 말'로 회상하는 뉘앙스(행위의 완결보다 내용에 초점) | 불완료과거는 규칙형(decía)
+  - 비교: Eso dijo(단순과거)는 "그렇게 말했다"는 사실 확인, Eso decía는 "그런 말씀을 하셨었죠" 하는 회상적·여운 있는 어조
+
+### 12-7. **Adrián:** Aunque hay algo en usted que me resulta... familiar, de alguna manera que no consigo ubicar.
+- **해석:** 그런데 당신에게는 뭔가... 낯익은 데가 있어요. 어디서인지 딱 짚어낼 수가 없지만요.
+- **주요 단어:** `resultar` (동사) ~하게 느껴지다, ~로 판명되다 / `familiar` (형용사) 낯익은 / `de alguna manera` 어떤 식으로든 / `conseguir` 앞에서 설명 / `ubicar` (동사) 위치를 알아내다, 짚어내다
+- **문법:** `algo que + 직설법` — 실제로 느끼는 구체적인 것이라 직설법(resulta). `me resulta + 형용사` 나에게 ~하게 느껴지다(gustar형 구조). `conseguir + 부정사` ~해내다.
+- **표현:** 말줄임표(...)로 의도적인 뜸 — 위협적인 뉘앙스.
+- **시제:**
+  - `hay` → haber | 직설법 현재 (비인칭) | 존재 | 불규칙 특수형
+  - `resulta` → resultar | 직설법 현재 3인칭 단수 | 지금 느끼는 인상 | 규칙
+  - `consigo` → conseguir | 직설법 현재 1인칭 단수 | 현재 능력 부족 | 불규칙 (e→i, 1인칭 gu→g: consigo)
+  - `ubicar` → ubicar | 부정사 | conseguir 뒤
+
+### 12-8. **Camila:** (El pulso se le acelera, sin mostrarlo) Tengo una cara común, según me dicen.
+- **해석:** (맥박이 빨라지지만 티를 내지 않는다) 제가 흔한 얼굴이라고들 하더라고요.
+- **주요 단어:** `pulso` (남성명사) 맥박 / `acelerarse` (재귀동사) 빨라지다 / `mostrar` 앞에서 설명 / `cara` (여성명사) 얼굴 / `común` (형용사) 흔한 / `según` (전치사) ~에 따르면
+- **문법:** `se le acelera` — 재귀동사 + 간접목적 le(신체 소유자 표시: 그녀의 맥박). `mostrarlo` lo = 중성, 그 사실. `me dicen` 3인칭 복수 무주어 = "사람들이 ~라고 한다".
+- **표현:** `según me dicen` "다들 그러더라고요".
+- **시제:**
+  - `se acelera` → acelerarse | 직설법 현재 3인칭 단수 | 지문 현재형 | 규칙
+  - `mostrar` → mostrar | 부정사 | sin 뒤
+  - `Tengo` → tener | 직설법 현재 1인칭 단수 | 변하지 않는 특징 | 불규칙 (tengo)
+  - `dicen` → decir | 직설법 현재 3인칭 복수 (불특정 주어) | 반복적으로 듣는 말 | 불규칙 (e→i)
+
+### 12-9. **Adrián:** (Ríe brevemente) No es la cara, Elena.
+- **해석:** (짧게 웃는다) 얼굴이 아니에요, 엘레나.
+- **주요 단어:** `reír` (동사) 웃다 / `brevemente` (부사) 짧게
+- **문법:** ser 부정문.
+- **시제:**
+  - `Ríe` → reír | 직설법 현재 3인칭 단수 | 지문 현재형 | 불규칙 (e→i, 강세 í: río, ríes, ríe)
+  - `es` → ser | 직설법 현재 3인칭 단수 | 불규칙
+
+### 12-10. **Adrián:** Es la forma de pensar.
+- **해석:** 생각하는 방식이에요.
+- **주요 단어:** `pensar` (동사) 생각하다 / `forma` 앞에서 설명
+- **문법:** `forma de + 부정사` 앞에서 설명.
+- **시제:**
+  - `Es` → ser | 앞에서 설명
+  - `pensar` → pensar | 부정사 | 전치사 de 뒤
+
+### 12-11. **Adrián:** Muy estructurada, muy metódica.
+- **해석:** 아주 체계적이고, 아주 꼼꼼하죠.
+- **주요 단어:** `estructurado` (과거분사→형용사) 체계적인 / `metódico` (형용사) 방법적인, 꼼꼼한
+- **문법:** 형용사가 forma(여성)에 일치. 동사(es) 생략.
+- **표현:** 9-9에서 카밀라가 로셀요의 '문장 구성 방식'을 알아본 것과 대칭 — 로셀요도 그녀의 사고방식을 알아봄.
+- **시제:**
+  - `estructurada` → estructurar | 과거분사 (형용사 용법) | 규칙
+
+### 12-12. **Camila:** Es mi formación profesional, supongo.
+- **해석:** 직업 훈련 덕분이겠죠.
+- **주요 단어:** `formación` (여성명사) 교육, 훈련 / `profesional` (형용사) 직업의 / `suponer` (동사) 추측하다
+- **문법:** 문장 끝에 삽입된 `supongo` "~인 것 같아요".
+- **표현:** 대수롭지 않게 넘기려는 말투.
+- **시제:**
+  - `Es` → ser | 앞에서 설명
+  - `supongo` → suponer | 직설법 현재 1인칭 단수 | 현재 추측 | 불규칙 (poner 계열: supongo)
+
+### 12-13. **Adrián:** Quizás.
+- **해석:** 그럴지도요.
+- **주요 단어:** `quizás` (부사) 아마도
+- **문법:** 단독 사용(뒤에 동사가 오면 접속법/직설법 모두 가능).
+- **표현:** 믿지 않는다는 뉘앙스의 짧은 대답.
+- **시제:** 동사 없음
+
+### 12-14. **Adrián:** Dígame, ¿dónde estudió exactamente contabilidad y finanzas?
+- **해석:** 말씀해 보세요, 회계와 재무는 정확히 어디서 공부하셨죠?
+- **주요 단어:** `estudiar` (동사) 공부하다 / `contabilidad` (여성명사) 회계 / `finanzas` (여성명사 복수) 재무, 금융
+- **문법:** usted 명령형 dígame 앞에서 설명. 의문사 dónde.
+- **표현:** exactamente를 넣어 추궁하는 어조.
+- **시제:**
+  - `Dígame` → decir | 명령법 usted 긍정 | 앞에서 설명
+  - `estudió` → estudiar | 직설법 단순과거 3인칭 단수 (usted) | 과거 완결된 학업 | 규칙
+
+### 12-15. **Camila:** (Piensa rápido, recurriendo a la tapadera preparada) Universidad de los Andes, en Bogotá, y luego un máster en Ginebra.
+- **해석:** (준비해 둔 위장 신분을 떠올리며 빠르게 생각한다) 보고타의 안데스 대학교에서요, 그리고 그 뒤 제네바에서 석사를 했어요.
+- **주요 단어:** `pensar` 앞에서 설명 / `recurrir a` ~에 의지하다 / `tapadera` (여성명사) 위장, 은폐 수단 / `preparado` (과거분사→형용사) 준비된 / `luego` 그 후 / `máster` (남성명사) 석사 / `Ginebra` 제네바
+- **문법:** 대사는 동사 없는 명사구. `recurrir a` 전치사 a와 함께.
+- **표현:** `tapadera` 위장(첩보·범죄 맥락의 구어).
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 | 지문 현재형 | 불규칙 (e→ie)
+  - `recurriendo` → recurrir | 현재분사 | 동시 동작(수단) | 규칙
+  - `preparada` → preparar | 과거분사 (형용사 용법) | 미리 준비된 상태 | 규칙
+
+### 12-16. **Adrián:** (La observa con atención renovada) Interesante combinación.
+- **해석:** (새삼 주의 깊게 그녀를 살핀다) 흥미로운 조합이네요.
+- **주요 단어:** `observar` (동사) 관찰하다 / `atención` (여성명사) 주의 / `renovado` (과거분사→형용사) 새로워진 / `combinación` (여성명사) 조합
+- **문법:** 직접목적 대명사 la가 동사 앞. 형용사 interesante를 명사 앞에 두어 강조(동사 생략).
+- **시제:**
+  - `observa` → observar | 직설법 현재 3인칭 단수 | 지문 현재형 | 규칙
+  - `renovada` → renovar | 과거분사 (형용사 용법) | 규칙 과거분사
+
+### 12-17. **Adrián:** ¿Y trabajó alguna vez en Colombia directamente, en el sector que sea?
+- **해석:** 그럼 콜롬비아에서 직접 일해 본 적은 있나요? 분야는 어디든 상관없이요.
+- **주요 단어:** `trabajar` (동사) 일하다 / `alguna vez` 언젠가, 한 번이라도 / `sector` (남성명사) 분야
+- **문법:** `el/lo que sea` — 접속법으로 "어떤 ~이든"(불특정·양보).
+- **표현:** `en el sector que sea` "무슨 분야든".
+- **시제:**
+  - `trabajó` → trabajar | 직설법 단순과거 3인칭 단수 (usted) | 과거 경험 여부를 특정 과거 기간의 일로 물음(중남미식; 스페인에선 ¿Ha trabajado alguna vez...?도 흔함) | 규칙
+  - `sea` → ser | 접속법 현재 3인칭 단수 | 불특정 대상(어느 것이든)이라 접속법 | 불규칙 (ser → sea)
+
+### 12-18. **Camila:** (Alerta máxima, sin ceder terreno) Brevemente, antes de especializarme en gestión patrimonial internacional.
+- **해석:** (최고로 경계하며, 한 치도 물러서지 않고) 잠깐 했어요, 국제 자산관리 쪽으로 전문 분야를 정하기 전에요.
+- **주요 단어:** `máximo` (형용사) 최대의 / `ceder` (동사) 양보하다 / `terreno` (남성명사) 땅, 입지 / `especializarse` (재귀동사) 전문으로 하다 / `gestión` (여성명사) 관리 / `patrimonial` (형용사) 자산의
+- **문법:** `antes de + 부정사`, 재귀대명사가 부정사에 붙음(especializarme). `especializarse en` ~을 전공하다.
+- **표현:** `ceder terreno` 물러서다, 밀리다. `gestión patrimonial` 자산관리(wealth management).
+- **시제:**
+  - `ceder` → ceder | 부정사 | sin 뒤 | 규칙
+  - `especializarme` → especializarse | 부정사(재귀) | antes de 뒤 | 규칙
+
+### 12-19. **Camila:** ¿Por qué la pregunta?
+- **해석:** 왜 그런 걸 물으시죠?
+- **주요 단어:** `pregunta` 앞에서 설명
+- **문법:** 동사 생략(¿Por qué hace la pregunta?).
+- **표현:** 역으로 되묻는 방어적 질문.
+- **시제:** 동사 없음
+
+### 12-20. **Adrián:** Curiosidad, nada más.
+- **해석:** 그냥 궁금해서요.
+- **주요 단어:** `curiosidad` (여성명사) 호기심 / `nada más` 그뿐
+- **문법:** 특이사항 없음
+- **표현:** `nada más` "그것뿐이에요".
+- **시제:** 동사 없음
+
+### 12-21. **Adrián:** Colombia siempre ha sido un mercado interesante para este tipo de estructuras.
+- **해석:** 콜롬비아는 늘 이런 종류의 구조에 흥미로운 시장이었죠.
+- **주요 단어:** `siempre` 항상 / `mercado` (남성명사) 시장 / `estructura` (여성명사) 구조(여기선 자금 은닉 구조)
+- **문법:** ser + 명사(본질 규정).
+- **표현:** `este tipo de estructuras` — 불법 자금 구조를 에둘러 표현.
+- **시제:**
+  - `ha sido` → ser | 직설법 현재완료 3인칭 단수 | siempre와 함께 과거부터 지금까지 이어지는 상태 | 과거분사 sido(규칙)
+  - 비교: siempre fue(단순과거)는 이미 끝난 과거 전체를 말하고, siempre ha sido는 지금까지도 그렇다는 뜻
+
+### 12-22. **Camila:** Ciertamente.
+- **해석:** 그렇죠.
+- **주요 단어:** `ciertamente` (부사) 확실히, 물론
+- **문법:** 특이사항 없음
+- **표현:** 짧게 동의하면서 더 말하지 않는 방어적 응답.
+- **시제:** 동사 없음
+
+### 12-23. **Adrián:** Bueno, no quiero robarle más tiempo.
+- **해석:** 자, 더 이상 시간을 뺏고 싶지 않네요.
+- **주요 단어:** `robar` (동사) 훔치다, 빼앗다
+- **문법:** 간접목적 대명사 le(= a usted, 당신에게서)가 부정사 뒤에 붙음.
+- **표현:** `no quiero robarle más tiempo` 통화·대화를 마무리하는 정중한 상투구.
+- **시제:**
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재의 의지 | 불규칙 (e→ie)
+  - `robar` → robar | 부정사 | querer 뒤
+
+### 12-24. **Adrián:** ¿Le interesaría reunirse conmigo, a solas, la próxima semana?
+- **해석:** 다음 주에 저와 단둘이 만나 보시겠어요?
+- **주요 단어:** `interesar` (동사) 관심을 끌다 / `reunirse` (재귀동사) 만나다, 모이다 / `a solas` 단둘이 / `próximo` (형용사) 다음의 / `semana` (여성명사) 주
+- **문법:** `interesar`는 gustar형 동사: `le interesa + 부정사` (당신에게 ~이 관심을 끈다). 부정사 reunirse가 주어.
+- **표현:** `a solas` 둘만. 조건법으로 공손한 제안.
+- **시제:**
+  - `interesaría` → interesar | 조건법 단순 3인칭 단수 | 공손한 제안·질문 | 규칙
+  - `reunirse` → reunirse | 부정사(재귀) | interesar의 주어 역할 | 현재형에서 강세 불규칙(reúno)
+
+### 12-25. **Adrián:** Me gustaría explicarle con más detalle cómo podríamos trabajar juntos.
+- **해석:** 우리가 어떻게 함께 일할 수 있을지 더 자세히 설명해 드리고 싶어요.
+- **주요 단어:** `gustar` (동사) 좋아하다 / `explicar` (동사) 설명하다 / `detalle` (남성명사) 세부 / `juntos` (형용사) 함께
+- **문법:** `me gustaría + 부정사`. 대명사 le가 부정사 뒤(explicarle). 간접의문문 cómo(강세 유지).
+- **표현:** `con más detalle` 더 자세히.
+- **시제:**
+  - `gustaría` → gustar | 조건법 단순 3인칭 단수 | 바람을 공손하게 | 규칙
+  - `explicar` → explicar | 부정사 | gustar의 주어
+  - `podríamos` → poder | 조건법 단순 1인칭 복수 | 아직 가정 단계인 협력 가능성 | 불규칙 어간 podr-
+  - `trabajar` → trabajar | 부정사 | poder 뒤
+
+### 12-26. **Camila:** Me encantaría.
+- **해석:** 좋아요, 기꺼이요.
+- **주요 단어:** `encantar` (동사) 매우 좋아하다
+- **문법:** gustar형 동사.
+- **표현:** 제안에 대한 열성적인 수락("정말 좋죠").
+- **시제:**
+  - `encantaría` → encantar | 조건법 단순 3인칭 단수 | 가정적 제안에 대한 공손한 수락 | 규칙
+
+### 12-27. **Adrián:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 12-28. **Adrián:** Le enviaré los detalles.
+- **해석:** 세부 사항을 보내 드리죠.
+- **주요 단어:** `enviar` (동사) 보내다 / `detalle` 앞에서 설명
+- **문법:** 간접목적 대명사 le(= a usted)가 활용된 동사 앞.
+- **시제:**
+  - `enviaré` → enviar | 직설법 단순미래 1인칭 단수 | 확정된 약속 | 규칙 (현재형에서만 강세 불규칙 envío)

@@ -1,0 +1,323 @@
+## 장면 41. 베르호벤의 정체와 날짜 대조
+> 며칠 후, 이니고가 J. 베르호벤의 신원을 확인한 결과를 전합니다.
+
+### 41-1. **Íñigo:** (Por videollamada) Tengo algo.
+- **해석:** (화상통화로) 뭔가 찾았어요.
+- **주요 단어:** `videollamada` (명사, 여) 화상통화 / `tener` (동사) 가지다 / `algo` (대명사) 무언가
+- **문법:** `por` + 수단: "~을 통해, ~로" (por teléfono, por correo, por videollamada).
+- **표현:** "Tengo algo."는 조사·수사물에서 "건수가 있다, 단서를 찾았다"는 구어 표현.
+- **시제:**
+  - `Tengo` → tener | 직설법 현재 presente de indicativo, 1인칭 단수 | 지금 손에 쥔 정보를 말하므로 현재 | 불규칙: 1인칭 단수 -go형 (tengo, tienes, tiene...)
+
+### 41-2. **Íñigo:** Jasper Verhoeven, antiguo asesor senior en la Dirección General de Estabilidad Financiera.
+- **해석:** 야스퍼 베르호벤, 금융안정 총국의 전 선임 자문관이에요.
+- **주요 단어:** `antiguo` (형용사) 전(前)의, 예전의 / `asesor` (명사, 남) 자문관, 고문 / `senior` (형용사, 영어 차용) 선임의 / `Dirección General` (명사구, 여) 총국(EU 집행위원회의 부서 단위, DG) / `estabilidad` (명사, 여) 안정 / `financiero` (형용사) 금융의
+- **문법:** 동사 없는 동격 구문(이름 + 설명). `antiguo`는 명사 **앞**에 오면 "전(前)~", 뒤에 오면 "오래된"(un edificio antiguo)으로 뜻이 달라짐.
+- **표현:** 관사 없이 직함을 나열하는 것은 신원 보고 스타일의 간결한 표현.
+- **시제:**
+  - 동사 없음
+
+### 41-3. **Camila:** ¿Y ahora trabaja para Bruselas Estrategia?
+- **해석:** 그럼 지금은 브뤼셀 에스트라테히아에서 일하는 거예요?
+- **주요 단어:** `trabajar` (동사) 일하다 / `para` (전치사) ~을 위해, ~소속으로 / `ahora` (부사) 지금
+- **문법:** `trabajar para` + 회사: "~에서(~을 위해) 일하다". 의문문은 평서문 어순 그대로 억양만 올림.
+- **표현:** 문두의 `Y`는 "그럼, 그래서"처럼 앞 정보에 이어 묻는 구어적 연결.
+- **시제:**
+  - `trabaja` → trabajar | 직설법 현재, 3인칭 단수 | 현재의 상태(현 직장)를 묻기 때문 | 규칙
+
+### 41-4. **Íñigo:** Como consultor externo, sí, desde hace dos años, justo después de dejar su puesto institucional.
+- **해석:** 외부 컨설턴트로요, 네. 2년 전부터요. 기관 직책을 그만둔 바로 직후부터죠.
+- **주요 단어:** `consultor` (명사, 남) 컨설턴트 / `externo` (형용사) 외부의 / `justo` (부사) 딱, 바로 / `dejar` (동사) 떠나다, 그만두다 / `puesto` (명사, 남) 직위, 자리 / `institucional` (형용사) 기관의
+- **문법:** `como` + 명사: "~로서". `desde hace` + 기간: "~전부터 (지금까지)" — 현재까지 계속되는 일을 나타내며 주절이 현재형(trabaja)과 호응. `después de` + 부정사: 전치사 뒤에는 동사원형.
+- **표현:** `justo después de`: "~하자마자 바로" — 전관예우·회전문 인사의 타이밍을 강조.
+- **시제:**
+  - `dejar` → dejar | 부정사 infinitivo | 전치사 `de` 뒤라 부정사 (주어는 문맥상 베르호벤) | 규칙
+  - 참고: 생략된 주동사는 앞 문장의 `trabaja`(현재). `desde hace dos años` + 현재 = "2년째 일하고 있다". 단순과거를 쓰면 "2년 전에 ~했다"(완료된 한 시점)로 뜻이 달라짐.
+
+### 41-5. **Álvaro:** Eso encaja perfectamente con el patrón de puertas giratorias.
+- **해석:** 그건 회전문 인사 패턴과 딱 맞아떨어지네.
+- **주요 단어:** `encajar` (동사) 들어맞다 / `perfectamente` (부사) 완벽하게 / `patrón` (명사, 남) 패턴, 양식 / `puertas giratorias` (명사구, 여, 복수) 회전문 → 공직과 민간 로비 업계를 오가는 관행
+- **문법:** `encajar con` + 명사: "~와 들어맞다". 지시대명사 중성 `eso`는 앞 내용 전체를 가리킴.
+- **표현:** `puertas giratorias`: 정치·경제 기사에서 자주 쓰는 비유 표현(영어 revolving doors).
+- **시제:**
+  - `encaja` → encajar | 직설법 현재, 3인칭 단수 | 지금 판단하는 사실관계라 현재 | 규칙
+
+### 41-6. **Íñigo:** Encaja demasiado bien, diría yo.
+- **해석:** 너무 잘 맞아떨어지죠, 제가 보기엔.
+- **주요 단어:** `demasiado` (부사) 너무, 지나치게 / `bien` (부사) 잘 / `decir` (동사) 말하다
+- **문법:** 주어 `yo`를 동사 뒤에 둔 삽입구 `diría yo` — "나라면 그렇게 말하겠다". 주어 대명사를 명시해 '내 의견'임을 강조.
+- **표현:** `diría yo` / `yo diría`: 단정을 피하며 의견을 부드럽게 제시하는 관용 표현. "너무 잘 맞는다"는 말로 우연이 아님을 암시.
+- **시제:**
+  - `Encaja` → encajar | 직설법 현재, 3인칭 단수 | 앞 문장 반복, 현재의 판단 | 규칙
+  - `diría` → decir | 조건법 단순 condicional simple, 1인칭 단수 | 의견을 완곡하게 내놓는 공손·완화의 조건법 ("말하자면 ~라고 하겠다") | 불규칙: 어간 dir- (diría, dirías...), 미래형 diré와 같은 불규칙 어간
+
+### 41-7. **Íñigo:** Y hay algo más: aparece en el registro de reuniones con reguladores actuales, al menos ocho veces en el último año.
+- **해석:** 그리고 또 있어요. 현직 규제 당국자들과의 회의 기록에 등장해요. 지난 1년간 최소 여덟 번이나요.
+- **주요 단어:** `haber` (동사) 있다(hay) / `aparecer` (동사) 나타나다, 등장하다 / `registro` (명사, 남) 기록, 등록부 / `reunión` (명사, 여) 회의 / `regulador` (명사, 남) 규제 기관(당국자) / `actual` (형용사) 현재의, 현직의 (※ "실제의" 아님) / `al menos` 최소한 / `vez` (명사, 여) 번, 회
+- **문법:** 무인칭 `hay` + 명사: "~이 있다". `algo más`: "더 무언가". `en el último año`: "지난 1년 동안".
+- **표현:** `Y hay algo más:` — 추가 폭로를 예고하는 전형적 구어 표현. `actual`은 영어 actual과 다른 false friend(= current).
+- **시제:**
+  - `hay` → haber | 직설법 현재, 무인칭 3인칭 단수 | 존재를 나타내는 무인칭 용법, 현재 사실 | 불규칙: haber의 존재용 특수형 hay
+  - `aparece` → aparecer | 직설법 현재, 3인칭 단수 | 기록에 '올라 있다'는 현재 상태 | 불규칙(-cer 동사): 1인칭 단수만 aparezco, 이 형태는 규칙적
+
+### 41-8. **Camila:** ¿Sobre qué temas, específicamente?
+- **해석:** 구체적으로 어떤 주제에 관해서요?
+- **주요 단어:** `sobre` (전치사) ~에 관해 / `tema` (명사, 남) 주제 (-ma로 끝나지만 남성) / `específicamente` (부사) 구체적으로
+- **문법:** `qué` + 명사: "어떤 ~". 전치사는 의문사 앞에 옴(¿Sobre qué...?).
+- **시제:**
+  - 동사 없음
+
+### 41-9. **Íñigo:** Precisamente sobre los umbrales de reporte de transacciones sospechosas, y los requisitos de transparencia de beneficiarios finales.
+- **해석:** 바로 의심 거래 보고 기준선과 실소유자 투명성 요건에 관해서예요.
+- **주요 단어:** `precisamente` (부사) 바로, 정확히 / `umbral` (명사, 남) 문턱, 기준선 / `reporte` (명사, 남) 보고 / `transacción` (명사, 여) 거래 / `sospechoso` (형용사) 의심스러운 / `requisito` (명사, 남) 요건 / `transparencia` (명사, 여) 투명성 / `beneficiario final` (명사구, 남) 실소유자(최종 수익자)
+- **문법:** 동사 없는 답변. `de`의 연쇄로 명사구를 확장(umbrales de reporte de transacciones...).
+- **표현:** `precisamente`는 "하필이면 바로 그것"이라는 뉘앙스로 의혹을 강조. 자금세탁방지(AML) 분야 전문용어가 집중된 문장.
+- **시제:**
+  - 동사 없음
+
+### 41-10. **Álvaro:** Exactamente las normas que Roselló necesita debilitar.
+- **해석:** 정확히 로셀로가 약화시켜야 하는 규정들이군.
+- **주요 단어:** `exactamente` (부사) 정확히 / `norma` (명사, 여) 규범, 규정 / `necesitar` (동사) 필요로 하다 / `debilitar` (동사) 약화시키다 (← débil 약한)
+- **문법:** 관계대명사 `que`가 `las normas`를 받아 `debilitar`의 목적어 역할. `necesitar` + 부정사: "~할 필요가 있다".
+- **시제:**
+  - `necesita` → necesitar | 직설법 현재, 3인칭 단수 | 로셀로의 현재 이해관계를 서술 | 규칙
+  - `debilitar` → debilitar | 부정사 | `necesitar` 뒤에 오는 동사원형 | 규칙
+
+### 41-11. **Javier:** ¿Podemos cruzar las fechas de esas reuniones con los pagos que identificó Camila?
+- **해석:** 그 회의 날짜들을 카밀라가 찾아낸 송금 내역과 대조해볼 수 있을까요?
+- **주요 단어:** `poder` (동사) ~할 수 있다 / `cruzar` (동사) 교차하다 → (데이터를) 대조하다 / `fecha` (명사, 여) 날짜 / `pago` (명사, 남) 지불, 송금 / `identificar` (동사) 확인하다, 식별하다
+- **문법:** `cruzar A con B`: "A를 B와 대조하다". 관계절 `que identificó Camila`에서 주어 Camila가 동사 뒤로 도치(스페인어 관계절에서 흔함).
+- **표현:** `cruzar datos/fechas`: 데이터 교차 검증을 뜻하는 실무 표현.
+- **시제:**
+  - `Podemos` → poder | 직설법 현재, 1인칭 복수 | 가능성을 묻는 제안 | 불규칙(o→ue) 이지만 nosotros형은 어간 변화 없음(podemos)
+  - `cruzar` → cruzar | 부정사 | poder 뒤 동사원형 | 규칙(철자 변화: 1인칭 접속법 등에서 z→c, crucé)
+  - `identificó` → identificar | 직설법 단순과거 pretérito perfecto simple(indefinido), 3인칭 단수 | 카밀라가 과거에 끝낸 한 번의 작업 | 규칙
+  - 비교: 스페인 스페인어는 가까운 과거에 현재완료(ha identificado)를 즐겨 쓰지만, 여기선 '이미 끝난 조사 결과'로 보고 단순과거를 씀. 둘 다 가능.
+
+### 41-12. **Camila:** Estoy en ello ahora mismo.
+- **해석:** 지금 바로 하고 있어요.
+- **주요 단어:** `estar` (동사) ~에 있다 / `ello` (중성 대명사) 그것 / `ahora mismo` 지금 당장
+- **문법:** 전치사 뒤 중성 대명사 `ello`(앞의 일 전체를 가리킴). `estar` = 상태·진행.
+- **표현:** `Estoy en ello`: "지금 그거 하는 중이야, 처리 중이야" — 매우 흔한 구어 표현.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재, 1인칭 단수 | 지금 진행 중인 일 | 불규칙: 1인칭 estoy
+
+### 41-13. **Camila:** (Tras un momento) Aquí está: tres de esas reuniones coinciden, con un margen de pocos días, con transferencias significativas desde la fundación de Luxemburgo.
+- **해석:** (잠시 후) 여기 있네요. 그 회의 중 세 건이 며칠 차이로 룩셈부르크 재단에서 나간 거액 송금과 겹쳐요.
+- **주요 단어:** `tras` (전치사) ~후에 / `coincidir` (동사) 일치하다, 겹치다 / `margen` (명사, 남) 여유, 차이 / `transferencia` (명사, 여) 송금, 이체 / `significativo` (형용사) 상당한, 의미 있는 / `fundación` (명사, 여) 재단
+- **문법:** `tres de esas reuniones`: "그 회의들 중 셋"(부분 표현). `coincidir con`: "~와 일치하다". `desde` + 장소: "~로부터(출발지)".
+- **표현:** `Aquí está`: "여기 있다" — 찾던 것을 발견했을 때 쓰는 표현. `con un margen de pocos días`: "며칠 간격으로".
+- **시제:**
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 찾은 것이 지금 여기 있다는 위치 표현 | 불규칙(강세형 está)
+  - `coinciden` → coincidir | 직설법 현재, 3인칭 복수 | 데이터상 변하지 않는 사실관계라 현재 | 규칙
+
+### 41-14. **Íñigo:** Eso es prácticamente una prueba directa de pago por influencia.
+- **해석:** 그건 사실상 영향력 대가 지불의 직접 증거예요.
+- **주요 단어:** `prácticamente` (부사) 사실상, 거의 / `prueba` (명사, 여) 증거 / `directo` (형용사) 직접적인 / `influencia` (명사, 여) 영향력
+- **문법:** `ser` + 명사: 정의·판단. `pago por influencia`: `por`는 교환·대가("~의 대가로").
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재의 판단 | 불규칙
+
+### 41-15. **Álvaro:** Necesitamos mucho más que "prácticamente", antes de publicar o de actuar legalmente.
+- **해석:** 공개하거나 법적으로 조치하기 전에 "사실상"보다 훨씬 더 확실한 게 필요해.
+- **주요 단어:** `necesitar` (동사) 필요하다 / `mucho más que` ~보다 훨씬 더 / `publicar` (동사) 공개하다, 보도하다 / `actuar` (동사) 행동하다, 조치하다 / `legalmente` (부사) 법적으로
+- **문법:** 비교 `más que`. `antes de` + 부정사: "~하기 전에"(주어가 같을 때). 이니고의 단어를 인용부호로 되받아 반박.
+- **표현:** 상대의 단어를 따옴표로 되받는 것은 "그 '사실상'이란 말로는 부족하다"는 신중함의 표현.
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재, 1인칭 복수 | 현재의 필요 | 규칙
+  - `publicar` → publicar | 부정사 | 전치사 `de` 뒤 | 규칙
+  - `actuar` → actuar | 부정사 | 전치사 `de` 뒤 | 규칙(활용 시 강세 actúo 주의)
+
+### 41-16. **Camila:** Estoy de acuerdo.
+- **해석:** 동의해요.
+- **주요 단어:** `de acuerdo` 동의하는
+- **문법:** `estar de acuerdo (con)`: "(~에) 동의하다" — ser가 아닌 estar.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재, 1인칭 단수 | 현재의 입장 | 불규칙(앞에서 설명)
+
+### 41-17. **Camila:** Pero es un comienzo muy sólido.
+- **해석:** 그래도 아주 탄탄한 출발점이에요.
+- **주요 단어:** `comienzo` (명사, 남) 시작 (← comenzar) / `sólido` (형용사) 견고한, 탄탄한
+- **문법:** `ser` + 명사구: 평가·정의.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재의 평가 | 불규칙
+
+## 장면 42. 카를로스에게 보고하다
+> 알바로가 카를로스에게 상황을 보고하며, 이 사건이 국가 차원을 넘어선다는 걸 확인합니다.
+
+### 42-1. **Carlos:** (Escuchando el resumen completo) Esto ya no es solo un caso de evasión fiscal, Álvaro.
+- **해석:** (전체 요약을 들으며) 이건 더 이상 단순한 탈세 사건이 아니야, 알바로.
+- **주요 단어:** `escuchar` (동사) 듣다 / `resumen` (명사, 남) 요약 / `completo` (형용사) 전체의 / `caso` (명사, 남) 사건 / `evasión fiscal` (명사구, 여) 탈세
+- **문법:** `ya no`: "더 이상 ~아니다". `no es solo...`: "단지 ~만이 아니다". 중성 지시대명사 `esto`는 상황 전체.
+- **표현:** `evasión fiscal`(불법 탈세) vs `elusión fiscal`(합법적 조세 회피) 구분 참고.
+- **시제:**
+  - `Escuchando` → escuchar | 현재분사 gerundio | 지문에서 동시에 진행 중인 동작("들으면서") | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재 사건의 성격 규정 | 불규칙
+
+### 42-2. **Carlos:** Es manipulación regulatoria a nivel europeo.
+- **해석:** 유럽 차원의 규제 조작이야.
+- **주요 단어:** `manipulación` (명사, 여) 조작 / `regulatorio` (형용사) 규제의 / `a nivel` + 형용사 ~ 차원에서
+- **문법:** 주어 생략(esto). 추상명사 앞 무관사(Es manipulación...).
+- **표현:** `a nivel europeo/nacional`: "유럽/국가 차원에서" — 뉴스에서 흔한 표현.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 현재의 판단 | 불규칙
+
+### 42-3. **Álvaro:** Eso mismo pensamos nosotros.
+- **해석:** 저희도 딱 그렇게 생각했습니다.
+- **주요 단어:** `mismo` (형용사) 바로 그, 같은 / `pensar` (동사) 생각하다
+- **문법:** `eso mismo`: "바로 그것" — `mismo`로 강조. 목적어 `eso`가 문두로 나오고 주어 `nosotros`는 동사 뒤(강조 위치).
+- **표현:** `Eso mismo pienso yo`: "나도 바로 그렇게 생각한다"는 맞장구 표현.
+- **시제:**
+  - `pensamos` → pensar | 직설법 현재 또는 단순과거, 1인칭 복수 (형태 동일) | -ar 동사는 nosotros형이 현재와 단순과거가 같음. 문맥상 "(우리도) 그렇게 생각한다/생각했다" 둘 다 가능 | 불규칙(e→ie)이지만 nosotros형은 어간 변화 없음
+
+### 42-4. **Carlos:** Voy a necesitar coordinar esto con la Oficina Europea de Lucha contra el Fraude.
+- **해석:** 이건 유럽부정행위방지청(OLAF)과 조율해야겠군.
+- **주요 단어:** `coordinar` (동사) 조율하다 / `oficina` (명사, 여) 사무소, 청 / `lucha` (명사, 여) 싸움, 퇴치 / `fraude` (명사, 남) 사기, 부정
+- **문법:** `ir a` + 부정사(가까운 미래) + `necesitar` + 부정사: 동사 세 개 연쇄. `coordinar A con B`: "A를 B와 조율하다".
+- **표현:** `Oficina Europea de Lucha contra el Fraude` = OLAF(유럽 반부패·부정방지청)의 스페인어 공식 명칭.
+- **시제:**
+  - `Voy` → ir | 직설법 현재, 1인칭 단수 | `ir a + 부정사` 우언적 미래로 곧 할 계획을 표현 | 불규칙(voy, vas, va...)
+  - `necesitar` → necesitar | 부정사 | `ir a` 뒤 | 규칙
+  - `coordinar` → coordinar | 부정사 | `necesitar` 뒤 | 규칙
+  - 비교: 단순미래 `necesitaré`보다 `voy a necesitar`가 "지금 판단으로 곧 ~하게 될 것"이라는 현재와 연결된 계획 느낌.
+
+### 42-5. **Carlos:** Este tipo de casos requiere su implicación directa.
+- **해석:** 이런 유형의 사건은 그들의 직접적인 개입이 필요해.
+- **주요 단어:** `tipo` (명사, 남) 유형 / `requerir` (동사) 필요로 하다, 요구하다 / `implicación` (명사, 여) 관여, 개입
+- **문법:** 주어는 `este tipo`(단수)이므로 동사도 단수 `requiere`(casos에 끌려 복수로 쓰지 않음). `su` = 그 기관(OLAF)의.
+- **시제:**
+  - `requiere` → requerir | 직설법 현재, 3인칭 단수 | 일반적 원칙·규칙을 말하는 현재 | 불규칙: 어간 e→ie (requiero, requiere; 단순과거 3인칭은 e→i: requirió)
+
+### 42-6. **Álvaro:** ¿Cuánto tiempo llevaría activar esa cooperación?
+- **해석:** 그 협력을 가동하는 데 시간이 얼마나 걸릴까요?
+- **주요 단어:** `cuánto tiempo` 얼마나 오래 / `llevar` (동사) (시간이) 걸리다 / `activar` (동사) 가동하다, 활성화하다 / `cooperación` (명사, 여) 협력
+- **문법:** `llevar` + 시간 + (부정사 주어): "~하는 데 (시간이) 걸리다". 여기서 부정사구 `activar esa cooperación`이 문법상 주어.
+- **표현:** `¿Cuánto tiempo lleva...?`는 소요 시간을 묻는 표현. `tardar`와 비슷.
+- **시제:**
+  - `llevaría` → llevar | 조건법 단순 condicional simple, 3인칭 단수 | 아직 결정되지 않은 가정적 상황("만약 한다면 얼마나 걸릴지") + 상사에게 공손하게 묻는 뉘앙스 | 규칙
+  - `activar` → activar | 부정사 | 명사처럼 주어 역할 | 규칙
+
+### 42-7. **Carlos:** Con la evidencia que ya tenéis, podría ser rápido, una o dos semanas.
+- **해석:** 너희가 이미 확보한 증거라면 빠를 수도 있어. 1~2주 정도.
+- **주요 단어:** `evidencia` (명사, 여) 증거 / `ya` (부사) 이미 / `rápido` (형용사) 빠른 / `semana` (명사, 여) 주
+- **문법:** `con` + 명사: 조건("~이 있으면"). 관계절 `que ya tenéis`.
+- **표현:** `tenéis`: 스페인식 vosotros(너희) 활용 — 알바로와 팀 전체를 가리킴.
+- **시제:**
+  - `tenéis` → tener | 직설법 현재, 2인칭 복수(vosotros) | 현재 보유한 증거 | 불규칙 동사이지만 vosotros형은 규칙형
+  - `podría` → poder | 조건법 단순, 3인칭 단수 | 확정이 아닌 가능성·추측을 조심스럽게 표현 | 불규칙: 어간 podr- (미래 podré와 동일)
+  - `ser` → ser | 부정사 | poder 뒤 | 불규칙 동사
+
+### 42-8. **Álvaro:** Camila ha hecho un trabajo excepcional identificando el patrón.
+- **해석:** 카밀라가 패턴을 찾아내는 데 탁월한 일을 해냈습니다.
+- **주요 단어:** `hacer un trabajo` 일을 해내다 / `excepcional` (형용사) 탁월한 / `identificar` (동사) 식별하다
+- **문법:** 현재분사 `identificando`가 방식·분야("패턴을 찾아내면서/찾아내는 데 있어")를 나타냄.
+- **시제:**
+  - `ha hecho` → hacer | 직설법 현재완료 pretérito perfecto compuesto, 3인칭 단수 | 최근 결과가 지금 보고에 직접 연결되므로 현재완료(스페인식 용법) | 불규칙 과거분사 hecho
+  - `identificando` → identificar | 현재분사 | 일을 한 방식 설명 | 규칙
+  - 비교: 단순과거 `hizo`는 완료된 과거 사실로 거리감이 있고, `ha hecho`는 "지금까지의 성과"로 현재와 연결.
+
+### 42-9. **Carlos:** Me alegra oír eso.
+- **해석:** 그 말을 들으니 기쁘군.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `oír` (동사) 듣다
+- **문법:** `gustar`형 구조: 부정사구 `oír eso`가 주어, `me`가 간접목적어("그것을 듣는 것이 나를 기쁘게 한다").
+- **표현:** `Me alegra + 부정사` / `Me alegro de + 부정사`: 둘 다 "~해서 기쁘다".
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재, 3인칭 단수 | 지금 느끼는 감정 | 규칙
+  - `oír` → oír | 부정사 | 주어 역할 | 불규칙 동사(oigo, oyes...)
+
+### 42-10. **Carlos:** ¿Cómo está ella, después de todo?
+- **해석:** 그 모든 일을 겪고 나서 그녀는 좀 어때?
+- **주요 단어:** `cómo` (의문사) 어떻게 / `después de todo` 그 모든 일을 겪은 후에
+- **문법:** 안부 `¿Cómo está?`는 상태이므로 estar.
+- **표현:** `después de todo`는 보통 "결국"이지만 여기선 "(납치 등) 그 모든 일 이후에"라는 문자적 의미.
+- **시제:**
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 현재 상태를 묻는 안부 | 불규칙
+
+### 42-11. **Álvaro:** Bien, considerando las circunstancias.
+- **해석:** 괜찮습니다, 상황을 고려하면요.
+- **주요 단어:** `considerar` (동사) 고려하다 / `circunstancia` (명사, 여) 상황, 사정
+- **문법:** 현재분사 `considerando`가 조건·양보("~을 감안하면")의 부사구.
+- **표현:** `considerando las circunstancias` / `dadas las circunstancias`: "사정을 감안하면".
+- **시제:**
+  - `considerando` → considerar | 현재분사 | 조건적 부사구 | 규칙
+
+### 42-12. **Álvaro:** Decidió ayudar por voluntad propia, no se lo pedí de forma insistente.
+- **해석:** 그녀가 자발적으로 돕기로 결정했어요. 제가 끈질기게 부탁한 게 아닙니다.
+- **주요 단어:** `decidir` (동사) 결정하다 / `ayudar` (동사) 돕다 / `voluntad` (명사, 여) 의지 / `propio` (형용사) 자신의 / `pedir` (동사) 요청하다 / `de forma insistente` 끈질기게
+- **문법:** `decidir` + 부정사(전치사 없음). `se lo pedí`: 간접목적어 le가 직접목적어 lo 앞에서 `se`로 바뀜(le lo → se lo). lo = 돕는 것.
+- **표현:** `por voluntad propia`: "자기 의지로, 자발적으로". `de forma + 형용사` = 부사 대용(insistentemente).
+- **시제:**
+  - `Decidió` → decidir | 직설법 단순과거, 3인칭 단수 | 과거의 한 시점에 내린 결정(완료된 행위) | 규칙
+  - `ayudar` → ayudar | 부정사 | decidir의 목적어 | 규칙
+  - `pedí` → pedir | 직설법 단순과거, 1인칭 단수 | 과거 한 시점의 행위 부정 | 불규칙(e→i 동사)이지만 1인칭 pedí는 규칙형, 3인칭은 pidió
+
+### 42-13. **Carlos:** Eso habla bien de su fortaleza.
+- **해석:** 그건 그녀가 강하다는 걸 보여주는군.
+- **주요 단어:** `hablar bien de` ~을 좋게 말해주다, ~의 좋은 점을 보여주다 / `fortaleza` (명사, 여) 강인함
+- **문법:** 무생물 주어 `eso` + `hablar bien de`: "~에 대해 좋은 것을 말해준다(증명한다)".
+- **표현:** `Eso dice/habla mucho de ti`: "그게 너에 대해 많은 걸 말해준다" 유형의 관용 표현.
+- **시제:**
+  - `habla` → hablar | 직설법 현재, 3인칭 단수 | 일반적 평가 | 규칙
+
+### 42-14. **Carlos:** Necesito que ambos preparéis un informe completo para la oficina europea.
+- **해석:** 두 사람이 유럽 사무국에 낼 완전한 보고서를 준비해줬으면 해.
+- **주요 단어:** `ambos` (대명사) 둘 다 / `preparar` (동사) 준비하다 / `informe` (명사, 남) 보고서
+- **문법:** `necesitar que` + 접속법: 주절 주어(yo)와 종속절 주어(vosotros)가 다르고 요구·필요를 나타내므로 접속법.
+- **표현:** `preparéis`: vosotros형(스페인식).
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재의 요구 | 규칙
+  - `preparéis` → preparar | 접속법 현재 presente de subjuntivo, 2인칭 복수(vosotros) | 필요·요청 동사 뒤 종속절이라 접속법 | 규칙(-ar → -éis)
+  - 비교: 직설법 `preparáis`를 쓰면 "너희가 준비한다"는 사실 진술이 되어 문법적으로 틀림.
+
+### 42-15. **Álvaro:** Lo tendremos listo en unos días.
+- **해석:** 며칠 안에 준비해두겠습니다.
+- **주요 단어:** `listo` (형용사) 준비된 / `en unos días` 며칠 안에
+- **문법:** `tener` + 목적어 + 형용사: "~을 ~한 상태로 해두다". `lo` = el informe, `listo`도 남성 단수로 일치.
+- **표현:** `tenerlo listo`: "완성해두다" — 업무 대화에서 흔한 약속 표현.
+- **시제:**
+  - `tendremos` → tener | 직설법 단순미래 futuro simple, 1인칭 복수 | 앞으로의 약속·확언 | 불규칙: 어간 tendr-
+
+### 42-16. **Carlos:** Perfecto.
+- **해석:** 좋아.
+- **주요 단어:** `perfecto` (형용사) 완벽한 → "좋아, 됐어"
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 42-17. **Carlos:** Y Álvaro, ten cuidado con Roselló.
+- **해석:** 그리고 알바로, 로셀로를 조심해.
+- **주요 단어:** `tener cuidado con` ~을 조심하다
+- **문법:** tú에 대한 긍정 명령형 `ten`.
+- **표현:** `Ten cuidado`: "조심해" — 매우 흔한 경고 표현.
+- **시제:**
+  - `ten` → tener | 명령법 imperativo, 2인칭 단수(tú) 긍정 | 직접적 경고·지시 | 불규칙: tener의 tú 명령형은 ten (부정 명령은 no tengas)
+
+### 42-18. **Carlos:** Si de verdad está detrás de esto, ya sabe que tenemos parte de su estructura desmantelada.
+- **해석:** 정말 그가 이 일의 배후라면, 우리가 그의 조직 일부를 무너뜨렸다는 걸 이미 알고 있을 거야.
+- **주요 단어:** `de verdad` 정말로 / `detrás de` ~뒤에(배후에) / `saber` (동사) 알다 / `estructura` (명사, 여) 구조, 조직 / `desmantelar` (동사) 해체하다
+- **문법:** 현실 조건문 `Si` + 직설법 현재, 주절 직설법 현재. `tener` + 목적어 + 과거분사: "~을 ~된 상태로 가지고 있다" → 과거분사 `desmantelada`는 `parte`(여성)에 일치.
+- **표현:** `estar detrás de algo`: "~의 배후에 있다".
+- **시제:**
+  - `está` → estar | 직설법 현재, 3인칭 단수 | si 조건절(현실 가능성)에서는 직설법 | 불규칙
+  - `sabe` → saber | 직설법 현재, 3인칭 단수 | 현재 알고 있는 상태(추론) | 불규칙(1인칭 sé)
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재의 결과 상태 | 불규칙 동사(nosotros형은 규칙적)
+  - `desmantelada` → desmantelar | 과거분사 participio, 여성 단수 | 형용사처럼 결과 상태를 나타냄 | 규칙
+  - 참고: si 조건절에는 접속법 현재를 쓰지 않음(×Si esté).
+
+### 42-19. **Carlos:** No se quedará quieto.
+- **해석:** 가만히 있지 않을 거야.
+- **주요 단어:** `quedarse` (재귀동사) 머무르다, ~한 상태로 있다 / `quieto` (형용사) 가만히 있는
+- **문법:** 재귀동사 `quedarse` + 형용사: "~한 상태로 남다". 재귀대명사는 활용 동사 앞.
+- **표현:** `no quedarse quieto`: "가만히 있지 않다, 반격하다".
+- **시제:**
+  - `se quedará` → quedarse | 직설법 단순미래, 3인칭 단수 | 미래에 대한 확신 있는 예측 | 규칙
+  - 비교: `va a quedarse`는 가까운 계획, `se quedará`는 예측·단언의 느낌.
+
+### 42-20. **Álvaro:** Lo tendré presente.
+- **해석:** 명심하겠습니다.
+- **주요 단어:** `presente` (형용사) 염두에 둔
+- **문법:** `tener` + 목적어 + 형용사 구조(42-15와 동일). `lo` = 카를로스의 경고.
+- **표현:** `tener (algo) presente`: "~을 명심하다, 염두에 두다".
+- **시제:**
+  - `tendré` → tener | 직설법 단순미래, 1인칭 단수 | 앞으로 지키겠다는 약속 | 불규칙: 어간 tendr-
+

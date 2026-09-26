@@ -451,3 +451,150 @@
   - `Aguanta` → aguantar | 명령법, 2인칭 단수(tú) 긍정 | 격려·지시 | 규칙(tú 긍정 명령 = 직설법 현재 3인칭 단수형)
   - `llego` → llegar | 직설법 현재, 1인칭 단수 | 임박한 미래를 현재형으로 표현(확실하고 곧 일어날 일) | 규칙(철자 변화: 단순과거 1인칭 llegué)
 
+## 장면 44. 계속할 것인가
+> 카를로스가 신속하게 카밀라 보호 조치를 강화하고, 알바로와 카밀라가 계속 조사할지 논의합니다.
+
+### 44-1. **Carlos:** (Llega con un equipo de protección) Camila, a partir de ahora tendrá vigilancia constante, y su hermano también.
+- **해석:** (경호팀과 함께 도착한다) 카밀라 씨, 지금부터 상시 경호를 받게 될 겁니다. 동생분도요.
+- **주요 단어:** `llegar` (동사) 도착하다 / `equipo` (명사, 남) 팀 / `a partir de ahora` 지금부터 / `vigilancia` (명사, 여) 감시, 경호 / `constante` (형용사) 끊임없는
+- **문법:** usted 3인칭 활용(tendrá) — 카를로스는 카밀라에게 존댓말. `y su hermano también`: 동사 생략("동생도 그럴 것이다").
+- **표현:** `a partir de ahora/hoy`: "지금/오늘부터".
+- **시제:**
+  - `Llega` → llegar | 직설법 현재, 3인칭 단수 | 지문 현재형 묘사 | 규칙
+  - `tendrá` → tener | 직설법 단순미래, 3인칭 단수(usted) | 앞으로 제공될 조치를 공식적으로 선언 | 불규칙: 어간 tendr-
+
+### 44-2. **Camila:** Gracias, Carlos.
+- **해석:** 고마워요, 카를로스.
+- **주요 단어:** `gracias` 감사합니다
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 44-3. **Camila:** Aunque confieso que empiezo a preguntarme si vale la pena todo este riesgo.
+- **해석:** 그래도 솔직히 말하면, 이 모든 위험을 감수할 가치가 있는지 의문이 들기 시작했어요.
+- **주요 단어:** `confesar` (동사) 고백하다 / `empezar a` ~하기 시작하다 / `preguntarse` (재귀동사) 자문하다, 궁금해하다 / `valer la pena` ~할 가치가 있다 / `riesgo` (명사, 남) 위험
+- **문법:** 문두 `Aunque`: "그렇긴 하지만"(앞 말에 단서를 붙이는 구어적 용법, 사실 → 직설법). 간접의문 `si` + 직설법("~인지"). `todo este riesgo`가 `vale`의 주어(동사 뒤 도치).
+- **표현:** `valer la pena`: "~할 만한 가치가 있다" — 필수 관용구. `confieso que`: "솔직히 말하자면".
+- **시제:**
+  - `confieso` → confesar | 직설법 현재, 1인칭 단수 | 지금 털어놓는 발화 행위 | 불규칙: e→ie
+  - `empiezo` → empezar | 직설법 현재, 1인칭 단수 | 지금 막 시작된 심리 변화 | 불규칙: e→ie (+ 접속법 empiece 철자 z→c)
+  - `preguntarme` → preguntarse | 부정사(재귀, 대명사 me 부착) | `empezar a` 뒤 | 규칙
+  - `vale` → valer | 직설법 현재, 3인칭 단수 | 간접의문 `si` 뒤는 직설법, 현재의 가치 판단 | 불규칙: 1인칭 valgo
+
+### 44-4. **Carlos:** Es una pregunta válida, y solo usted puede responderla.
+- **해석:** 타당한 질문이에요. 그리고 그건 당신만이 답할 수 있어요.
+- **주요 단어:** `pregunta` (명사, 여) 질문 / `válido` (형용사) 타당한 / `solo` (부사) 오직 / `responder` (동사) 대답하다
+- **문법:** 목적격 대명사 `la`(= la pregunta)가 부정사 뒤에 붙음(responderla). `puede la responder`는 불가, `la puede responder`는 가능.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 평가 | 불규칙
+  - `puede` → poder | 직설법 현재, 3인칭 단수(usted) | 현재의 가능성·권한 | 불규칙: o→ue
+  - `responderla` → responder | 부정사 + 대명사 | poder 뒤 | 규칙
+
+### 44-5. **Álvaro:** Camila, si quieres parar aquí, lo entenderé completamente.
+- **해석:** 카밀라, 여기서 멈추고 싶다면 난 완전히 이해할 거야.
+- **주요 단어:** `querer` (동사) 원하다 / `parar` (동사) 멈추다 / `entender` (동사) 이해하다 / `completamente` (부사) 완전히
+- **문법:** 현실 조건문: `si` + 직설법 현재, 주절 단순미래. `lo` = 멈추는 것(앞 내용).
+- **시제:**
+  - `quieres` → querer | 직설법 현재, 2인칭 단수 | si 조건절의 현실적 가능성 | 불규칙: e→ie
+  - `parar` → parar | 부정사 | querer 뒤 | 규칙
+  - `entenderé` → entender | 직설법 단순미래, 1인칭 단수 | 조건 충족 시의 결과·약속 | 미래형은 규칙(어간 변화 없음)
+
+### 44-6. **Álvaro:** Ya has hecho más que suficiente.
+- **해석:** 넌 이미 충분하고도 남을 만큼 했어.
+- **주요 단어:** `ya` (부사) 이미 / `más que suficiente` 충분하고도 남는
+- **문법:** `ya` + 현재완료: "이미 ~했다".
+- **표현:** `más que suficiente`: "차고 넘치게".
+- **시제:**
+  - `has hecho` → hacer | 직설법 현재완료, 2인칭 단수 | 지금까지의 누적된 공헌을 현재 시점에서 평가 | 불규칙 과거분사 hecho
+  - 비교: `hiciste`(단순과거)는 특정 과거 행위, `has hecho`는 "지금까지 해온 것 전부".
+
+### 44-7. **Camila:** (Piensa un momento) No.
+- **해석:** (잠시 생각한다) 아니요.
+- **주요 단어:** `pensar` (동사) 생각하다 / `momento` (명사, 남) 순간
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재, 3인칭 단수 | 지문 현재형 묘사 | 불규칙: e→ie
+
+### 44-8. **Camila:** Cuanto más lo pienso, más me convenzo de que parar ahora sería dejar que gente como Roselló siga haciendo daño, sin consecuencias.
+- **해석:** 생각하면 할수록, 지금 멈추는 건 로셀로 같은 사람들이 아무 대가 없이 계속 해를 끼치도록 내버려두는 거라는 확신이 들어요.
+- **주요 단어:** `convencerse de` ~을 확신하다 / `dejar que` ~하게 내버려두다 / `seguir` + 현재분사 계속 ~하다 / `hacer daño` 해를 끼치다 / `consecuencia` (명사, 여) 결과, 대가
+- **문법:** 비례 비교 `cuanto más..., más...`: "~할수록 더 ~하다". `convencerse de que`(전치사 de 필수). `parar ahora`(부정사)가 `sería`의 주어. `dejar que` + 접속법. `seguir` + 현재분사 = 지속.
+- **표현:** `hacer daño`: "해를 끼치다". `sin consecuencias`: "처벌·대가 없이".
+- **시제:**
+  - `pienso` → pensar | 직설법 현재, 1인칭 단수 | 반복되는 현재의 사고 | 불규칙: e→ie
+  - `me convenzo` → convencerse | 직설법 현재, 1인칭 단수 | 점점 굳어지는 현재의 확신 | 철자 변화: 1인칭 c→z (convenzo)
+  - `parar` → parar | 부정사 | 명사처럼 주어 역할 | 규칙
+  - `sería` → ser | 조건법 단순, 3인칭 단수 | "만약 지금 멈춘다면"이라는 가정적 결과 | 불규칙 동사지만 조건법은 규칙형
+  - `dejar` → dejar | 부정사 | ser의 보어 | 규칙
+  - `siga` → seguir | 접속법 현재, 3인칭 단수 | `dejar que`(허용) 뒤라 접속법 (gente는 집합명사로 단수 취급) | 불규칙: e→i, gu→g (sigo, siga)
+  - `haciendo` → hacer | 현재분사 | `seguir + 현재분사` 지속 구문 | 규칙적 현재분사
+
+### 44-9. **Álvaro:** Estoy orgulloso de tu decisión, aunque me preocupe tu seguridad.
+- **해석:** 네 결정이 자랑스러워. 네 안전이 걱정되긴 하지만.
+- **주요 단어:** `orgulloso` (형용사) 자랑스러운 / `decisión` (명사, 여) 결정 / `preocupar` (동사) 걱정시키다 / `seguridad` (명사, 여) 안전
+- **문법:** `estar orgulloso de`: 감정 상태라 estar. `aunque` + 접속법: 사실이지만 그 중요성을 낮춰 "~할지라도, ~이긴 하지만 (그래도)"의 양보. `preocupar`는 gustar형(주어: tu seguridad).
+- **시제:**
+  - `Estoy` → estar | 직설법 현재, 1인칭 단수 | 현재 감정 상태 | 불규칙
+  - `preocupe` → preocupar | 접속법 현재, 3인칭 단수 | `aunque` 양보절에서 사실을 인정하되 주절(자랑스러움)을 우선시하는 뉘앙스로 접속법 | 규칙
+  - 비교: `aunque me preocupa`(직설법)는 "걱정되는 게 사실이다"라는 정보 전달, `preocupe`(접속법)는 "걱정되더라도 그건 결정에 대한 자부심을 바꾸지 않는다".
+
+### 44-10. **Camila:** Lo sé.
+- **해석:** 알아요.
+- **주요 단어:** `saber` (동사) 알다
+- **문법:** 중성 `lo`가 앞 내용 전체를 받음. "Lo sé"처럼 스페인어는 목적어 lo를 생략하지 않는 편.
+- **시제:**
+  - `sé` → saber | 직설법 현재, 1인칭 단수 | 현재 알고 있음 | 불규칙: 1인칭 sé (강세 부호로 재귀대명사 se와 구별)
+
+### 44-11. **Camila:** Pero esta vez, quiero ser yo quien elige enfrentar el miedo, no quien simplemente lo sufre.
+- **해석:** 하지만 이번엔 그냥 두려움을 당하기만 하는 사람이 아니라, 두려움에 맞서기로 선택하는 사람이 되고 싶어요.
+- **주요 단어:** `elegir` (동사) 선택하다 / `enfrentar` (동사) 맞서다 / `miedo` (명사, 남) 두려움 / `simplemente` (부사) 단지 / `sufrir` (동사) 겪다, 고통받다
+- **문법:** 강조 구문 `ser yo quien...`: "~하는 사람은 바로 나". 관계대명사 `quien` 뒤 동사는 3인칭(elige)이 일반적(1인칭 elijo도 가능). `lo` = el miedo.
+- **표현:** 대조 구조 `quien elige... no quien sufre`로 능동/수동적 태도를 대비.
+- **시제:**
+  - `quiero` → querer | 직설법 현재, 1인칭 단수 | 현재의 바람 | 불규칙: e→ie
+  - `ser` → ser | 부정사 | querer 뒤 | 불규칙 동사
+  - `elige` → elegir | 직설법 현재, 3인칭 단수 | 관계절 속 일반적 성격 묘사 | 불규칙: e→i, g→j (elijo, elige)
+  - `enfrentar` → enfrentar | 부정사 | elegir의 목적어 | 규칙
+  - `sufre` → sufrir | 직설법 현재, 3인칭 단수 | 관계절 속 성격 묘사 | 규칙
+
+### 44-12. **Carlos:** Con esa actitud, y con la protección que vamos a implementar, deberíamos poder seguir avanzando con seguridad razonable.
+- **해석:** 그런 태도와 우리가 시행할 보호 조치가 있다면, 합리적인 수준의 안전 속에서 계속 진행할 수 있을 겁니다.
+- **주요 단어:** `actitud` (명사, 여) 태도 / `implementar` (동사) 시행하다 / `deber` (동사) ~해야 하다, ~일 것이다 / `avanzar` (동사) 전진하다 / `razonable` (형용사) 합리적인
+- **문법:** 동사 연쇄 `deberíamos poder seguir avanzando`(조건법 + 부정사 + 부정사 + 현재분사). `con` + 명사: 조건. 관계절 `que vamos a implementar`.
+- **표현:** `deberíamos poder`: "~할 수 있어야 할 것이다 → 아마 ~할 수 있을 것이다".
+- **시제:**
+  - `vamos` → ir | 직설법 현재, 1인칭 복수 | `ir a` 우언적 미래로 예정된 조치 | 불규칙
+  - `implementar` → implementar | 부정사 | `ir a` 뒤 | 규칙
+  - `deberíamos` → deber | 조건법 단순, 1인칭 복수 | 단정하지 않고 신중하게 예측·권고하는 조건법 | 규칙
+  - `poder` → poder | 부정사 | deber 뒤 | 불규칙 동사
+  - `seguir` → seguir | 부정사 | poder 뒤 | 불규칙 동사
+  - `avanzando` → avanzar | 현재분사 | `seguir + 현재분사` 지속 | 규칙
+  - 비교: `debemos`(직설법)는 의무 단언, `deberíamos`는 부드러운 예측·권고.
+
+### 44-13. **Camila:** Entonces sigamos.
+- **해석:** 그럼 계속하죠.
+- **주요 단어:** `entonces` (부사) 그럼 / `seguir` (동사) 계속하다
+- **문법:** nosotros 명령형(청유형) = 접속법 현재 1인칭 복수: "~하자".
+- **시제:**
+  - `sigamos` → seguir | 명령법 1인칭 복수(형태는 접속법 현재) | 함께 하자는 권유·결단 | 불규칙: e→i, gu→g (sigo → sigamos)
+
+### 44-14. **Álvaro:** (La mira con admiración) Eres increíble, ¿lo sabías?
+- **해석:** (감탄하며 그녀를 바라본다) 넌 정말 대단해, 알고 있었어?
+- **주요 단어:** `mirar` (동사) 보다 / `admiración` (명사, 여) 감탄 / `increíble` (형용사) 믿을 수 없는, 대단한
+- **문법:** `La mira`: 직접목적어 la(= Camila)가 동사 앞. 부가의문 `¿lo sabías?`.
+- **표현:** `¿lo sabías?`: "알고 있었어?" — 칭찬 뒤에 붙이는 다정한 말투.
+- **시제:**
+  - `mira` → mirar | 직설법 현재, 3인칭 단수 | 지문 현재형 묘사 | 규칙
+  - `Eres` → ser | 직설법 현재, 2인칭 단수 | 본질적 성격 평가 | 불규칙
+  - `sabías` → saber | 직설법 불완료과거, 2인칭 단수 | 과거부터 지속되던 인지 상태를 묻는 관용적 형태("원래 알고 있었니?") | 불완료과거는 규칙형
+  - 비교: `supiste`(단순과거)는 "알게 되었다"는 순간적 의미로, 여기에 맞지 않음.
+
+### 44-15. **Camila:** (Sonríe, a pesar del miedo) Me lo recuerdas de vez en cuando, sí.
+- **해석:** (두려움에도 불구하고 미소 짓는다) 가끔 그렇게 말해주잖아, 응.
+- **주요 단어:** `sonreír` (동사) 미소 짓다 / `a pesar de` ~에도 불구하고 / `recordar` (동사) 상기시키다 / `de vez en cuando` 가끔
+- **문법:** 이중 대명사 `me lo`: 간접(me) + 직접(lo, 앞 문장 내용) 순서. `del` = de + el.
+- **표현:** `de vez en cuando`: "때때로". 대답은 알바로의 반말(tú)에 맞춰 tú로 응수.
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재, 3인칭 단수 | 지문 현재형 묘사 | 불규칙: e→i, 강세 í (sonrío, sonríe)
+  - `recuerdas` → recordar | 직설법 현재, 2인칭 단수 | 가끔 반복되는 습관적 행동 | 불규칙: o→ue
+

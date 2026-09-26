@@ -413,3 +413,235 @@
   - `Prefiero` → preferir | 직설법 현재 1인칭 단수 | 현재의 선택 | 어간모음변화 e→ie
   - `pensar` → 부정사 | preferir 뒤
   - `sirve` → servir | 직설법 현재 3인칭 단수 | 현재의 의미 부여 | 어간모음변화 e→i
+
+## 장면 21. 벨기에 재판, 카밀라의 증언
+> 벨기에 재판이 시작됩니다. 카밀라가 증인으로 출석합니다.
+
+### 21-1. **Juez:** (Tribunal belga) Fiscalía, proceda con el testimonio de la testigo.
+- **해석:** (벨기에 법정) 검찰 측, 증인 신문을 진행하세요.
+- **주요 단어:** `juez` (명사) 판사 / `tribunal` (남성명사) 법정 / `proceder con` ~을 진행하다 / `testigo` 앞에서 설명(la testigo = 여성 증인)
+- **문법:** usted에 대한 명령형 = 접속법 현재 3인칭 형태. testigo는 남녀 공통형으로 관사로 성 구분.
+- **시제:**
+  - `proceda` → proceder | 명령법 usted형 (= 접속법 현재 3인칭 단수) | 판사의 공식 지시 | 규칙 (-er → -a)
+
+### 21-2. **Fiscal:** Señoría, la testigo se infiltró en Meridian Public Affairs bajo identidad encubierta, con la colaboración de las autoridades españolas y belgas.
+- **해석:** 재판장님, 증인은 스페인과 벨기에 당국의 협조 아래 위장 신분으로 메리디안 퍼블릭 어페어스에 잠입했습니다.
+- **주요 단어:** `señoría` (여성명사) 재판장님(판사 존칭) / `infiltrarse en` ~에 잠입하다 / `encubierto` (형용사) 위장된 / `colaboración` (여성명사) 협력 / `autoridad` (여성명사) 당국
+- **문법:** 재귀동사 infiltrarse + en. encubierta는 identidad(여성)에 일치.
+- **표현:** Señoría = 법정에서 판사를 부르는 호칭(Su Señoría).
+- **시제:**
+  - `se infiltró` → infiltrarse | 직설법 단순과거 3인칭 단수 | 과거 완결 사건 서술 | 규칙
+  - `encubierta` → encubrir | 과거분사 (여성 단수) | 형용사적 | 불규칙 과거분사 (cubrir → cubierto 패턴)
+
+### 21-3. **Camila:** (En el estrado) Durante mi tiempo en Meridian, el señor Casals me explicó explícitamente que la consultora facilita “incentivos discretos” a legisladores favorables a sus clientes.
+- **해석:** (증인석에서) 메리디안에 있는 동안 카살스 씨는 그 회사가 고객에게 우호적인 입법자들에게 "은밀한 인센티브"를 제공한다고 제게 명시적으로 설명했습니다.
+- **주요 단어:** `estrado` (남성명사) 증인석, 단상 / `durante` (전치사) ~동안 / `explicar` (동사) 설명하다 / `explícitamente` (부사) 명시적으로 / `facilitar` (동사) 제공하다, 마련해 주다 / `legislador` (남성명사) 입법자 / `favorable a` ~에 우호적인
+- **문법:** 간접화법에서 주절이 과거(explicó)지만 종속절이 현재형(facilita): 지금도 여전히 유효한 사실이라 시제 일치를 하지 않음. facilitaba로도 가능.
+- **시제:**
+  - `explicó` → explicar | 직설법 단순과거 3인칭 단수 | 과거 특정 대화에서의 완결된 행위 | 규칙 (1인칭은 expliqué, c→qu)
+  - `facilita` → facilitar | 직설법 현재 3인칭 단수 | 회사의 현재까지 지속되는 관행을 사실로 제시 | 규칙
+
+### 21-4. **Abogado2:** (De la defensa) ¿Puede citar las palabras exactas que usó?
+- **해석:** (변호인 측) 그가 사용한 정확한 말을 인용할 수 있습니까?
+- **주요 단어:** `citar` (동사) 인용하다 / `usar` (동사) 사용하다
+- **문법:** 관계절 que usó: 실제 존재하는 특정 선행사라 직설법.
+- **시제:**
+  - `Puede` → poder | 앞에서 설명
+  - `citar` → 부정사 | poder 뒤
+  - `usó` → usar | 직설법 단순과거 3인칭 단수 | 과거 특정 발언 | 규칙
+
+### 21-5. **Camila:** Dijo, textualmente: “Hay formas, discretas, de generar esa sensibilidad adicional”, refiriéndose a influir en la postura de ciertos eurodiputados.
+- **해석:** 그는 그대로 이렇게 말했습니다. "그런 추가적인 감수성을 만들어 낼 은밀한 방법들이 있다"고요. 특정 유럽의회 의원들의 입장에 영향을 주는 것을 가리킨 말이었습니다.
+- **주요 단어:** `textualmente` (부사) 글자 그대로 / `forma` (여성명사) 방법 / `sensibilidad` (여성명사) 감수성, 호의적 태도 / `adicional` (형용사) 추가적인 / `referirse a` ~을 가리키다 / `influir en` ~에 영향을 주다 / `postura` (여성명사) 입장 / `cierto` (형용사) 어떤, 특정한
+- **문법:** 현재분사에 재귀대명사가 붙으면 강세 표시(refiriéndose). formas de + 부정사. cierto가 명사 앞에서 "어떤 특정한"(뒤에 오면 "확실한").
+- **표현:** sensibilidad adicional = 뇌물을 암시하는 완곡어.
+- **시제:**
+  - `Dijo` → decir | 직설법 단순과거 3인칭 단수 | 과거 특정 발언 | 불규칙 어간 dij- (dije, dijiste, dijo, dijeron)
+  - `Hay` → haber | 직설법 현재(비인칭) | 인용문 속 일반적 사실 | 앞에서 설명
+  - `generar` → 부정사 | de 뒤
+  - `refiriéndose` → referirse | 현재분사 | 발언과 동시에 그 의미를 설명 | 불규칙 e→i (refer- → refiri-endo)
+  - `influir` → 부정사 | 전치사 a 뒤 | (현재형 influyo: -uir 동사 y 삽입)
+
+### 21-6. **Abogado2:** Eso podría interpretarse de muchas maneras, no necesariamente como soborno directo.
+- **해석:** 그건 여러 방식으로 해석될 수 있지, 반드시 직접적 뇌물로만 볼 건 아닙니다.
+- **주요 단어:** `interpretar` (동사) 해석하다 / `manera` (여성명사) 방식 / `necesariamente` (부사) 반드시 / `soborno` (남성명사) 뇌물
+- **문법:** interpretarse = 수동 se("해석되다"). se가 부정사 뒤에 붙음.
+- **시제:**
+  - `podría` → poder | 조건법 단순형 3인칭 단수 | 단정 피하며 가능성 제시(변호인의 신중한 반박) | 앞에서 설명
+  - `interpretarse` → 부정사 (수동 se) | poder 뒤 | 규칙
+
+### 21-7. **Camila:** En el contexto de la conversación, la interpretación era completamente clara para cualquiera familiarizado con este tipo de estructuras.
+- **해석:** 대화의 맥락에서 보면, 이런 종류의 구조를 잘 아는 사람이라면 누구에게나 그 해석은 완전히 명확했습니다.
+- **주요 단어:** `interpretación` (여성명사) 해석 / `completamente` (부사) 완전히 / `claro` (형용사) 명확한 / `cualquiera` (대명사) 누구든 / `familiarizado con` ~에 익숙한 / `estructura` (여성명사) 구조
+- **문법:** cualquiera(대명사형, 명사 앞 형용사형은 cualquier). familiarizado는 과거분사로 cualquiera 수식.
+- **시제:**
+  - `era` → ser | 직설법 불완료과거 3인칭 단수 | 과거 대화 당시의 상태·성격 묘사 | 불규칙 (era, eras, era...)
+  - `familiarizado` → familiarizar | 과거분사 | 형용사적 | 규칙
+
+### 21-8. **Abogado2:** ¿Y el señor Roselló?
+- **해석:** 그럼 로셀요 씨는요?
+- **주요 단어:** `señor` (남성명사) ~씨
+- **문법:** 특이사항 없음 (동사 생략 질문)
+- **시제:** 동사 없음
+
+### 21-9. **Abogado2:** ¿Qué relación exacta observó entre él y Meridian?
+- **해석:** 그와 메리디안 사이에서 정확히 어떤 관계를 목격했습니까?
+- **주요 단어:** `observar` (동사) 관찰하다, 목격하다 / `entre` (전치사) ~사이에
+- **문법:** entre 뒤에는 전치격이 아닌 주격 대명사 사용(entre tú y yo). él은 3인칭이라 형태 같음.
+- **시제:**
+  - `observó` → observar | 직설법 단순과거 3인칭 단수 (usted) | 잠입 기간의 구체적 관찰을 완결된 사실로 | 규칙
+
+### 21-10. **Camila:** Se presentó como “socio estratégico desde hace años”, y habló abiertamente de “facilitar soluciones discretas para asuntos financieros internacionales”, en el mismo lenguaje que usó anteriormente en España.
+- **해석:** 그는 자신을 "수년 전부터의 전략적 파트너"라고 소개했고, 스페인에서 예전에 썼던 것과 똑같은 말투로 "국제 금융 문제에 대한 은밀한 해결책을 마련한다"고 공공연히 말했습니다.
+- **주요 단어:** `presentarse como` 자신을 ~로 소개하다 / `socio` (남성명사) 파트너 / `estratégico` (형용사) 전략적인 / `abiertamente` (부사) 공공연히 / `solución` (여성명사) 해결책 / `asunto` (남성명사) 문제, 사안 / `lenguaje` (남성명사) 언어, 말투 / `anteriormente` (부사) 이전에
+- **문법:** desde hace + 기간 = "~전부터". hablar de + 부정사. el mismo... que = "~와 같은".
+- **시제:**
+  - `Se presentó` → presentarse | 직설법 단순과거 3인칭 단수 | 과거 특정 만남에서의 완결 행위 | 규칙
+  - `hace` → hacer | 직설법 현재 3인칭 단수(비인칭, 경과 시간) | 인용문 속 desde hace años | 불규칙 1인칭 hago
+  - `habló` → hablar | 직설법 단순과거 3인칭 단수 | 완결된 발언 | 규칙
+  - `facilitar` → 부정사 | de 뒤
+  - `usó` → usar | 직설법 단순과거 3인칭 단수 | 스페인에서의 과거 발언(완결) | 규칙
+
+### 21-11. **Fiscal:** No tengo más preguntas, señoría.
+- **해석:** 더 이상 질문 없습니다, 재판장님.
+- **주요 단어:** `fiscal` (명사) 검사 / `más` 더
+- **문법:** 특이사항 없음
+- **표현:** 신문 종료를 알리는 법정 정형 문구.
+- **시제:**
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 현재 상태 | 불규칙 tengo
+
+### 21-12. **Juez:** Gracias, señora Reyes.
+- **해석:** 감사합니다, 레예스 씨.
+- **주요 단어:** `gracias` 감사합니다 / `señora` ~씨(여성)
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 21-13. **Juez:** Se suspende la sesión hasta mañana.
+- **해석:** 내일까지 휴정합니다.
+- **주요 단어:** 앞에서 설명(19-16)
+- **문법:** 수동 se, 앞에서 설명
+- **시제:**
+  - `Se suspende` → suspender | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+## 장면 22. 로셀요의 증언
+> 재판 중, 로셀요가 직접 증언대에 서서 알바로와 간접적으로 맞섭니다.
+
+### 22-1. **Fiscal:** Señor Roselló, ¿reconoce haber coordinado pagos a eurodiputados a través de Meridian Public Affairs?
+- **해석:** 로셀요 씨, 메리디안 퍼블릭 어페어스를 통해 유럽의회 의원들에게 돈이 지급되도록 조율한 것을 인정합니까?
+- **주요 단어:** `reconocer` (동사) 인정하다 / `coordinar` (동사) 조율하다 / `pago` (남성명사) 지불금 / `a través de` ~을 통해
+- **문법:** reconocer + 완료부정사(haber + 과거분사) = 과거에 한 일을 인정함(주어 동일).
+- **시제:**
+  - `reconoce` → reconocer | 직설법 현재 3인칭 단수 (usted) | 지금 인정하는지 물음 | 1인칭만 불규칙 reconozco
+  - `haber coordinado` → coordinar | 완료부정사 | 이미 끝난 과거 행위 | 규칙 과거분사
+
+### 22-2. **Adrián:** (Con calma calculada) Reconozco haber sido cliente de Meridian, como muchos otros actores del sector financiero.
+- **해석:** (계산된 침착함으로) 금융 업계의 다른 많은 주체들처럼 제가 메리디안의 고객이었다는 것은 인정합니다.
+- **주요 단어:** `calculado` (형용사) 계산된 / `cliente` (명사) 고객 / `actor` (남성명사) (경제·정치의) 주체, 행위자 / `sector` (남성명사) 업계
+- **문법:** 직업·신분 앞 ser 뒤 관사 생략(cliente). como = "~처럼".
+- **표현:** 질문의 핵심(뇌물 조율)을 피하고 무해한 부분만 인정하는 회피 화법.
+- **시제:**
+  - `calculada` → calcular | 과거분사 (여성 단수, calma 일치) | 지문 속 형용사적 용법 | 규칙
+  - `Reconozco` → reconocer | 직설법 현재 1인칭 단수 | 지금 하는 인정 | 불규칙 -cer → -zco
+  - `haber sido` → ser | 완료부정사 | 과거의 신분 | sido 규칙
+
+### 22-3. **Fiscal:** ¿Y reconoce haber diseñado la estructura de sociedades pantalla utilizada por Custodio Ferrán en España?
+- **해석:** 그리고 쿠스토디오 페란이 스페인에서 사용한 페이퍼 컴퍼니 구조를 설계했다는 것도 인정합니까?
+- **주요 단어:** `diseñar` (동사) 설계하다 / `sociedad pantalla` 페이퍼 컴퍼니 / `utilizar` (동사) 이용하다
+- **문법:** utilizada는 estructura(여성 단수)에 일치하는 과거분사 + por(행위자).
+- **시제:**
+  - `reconoce` → reconocer | 앞에서 설명
+  - `haber diseñado` → diseñar | 완료부정사 | 과거 행위 | 규칙
+  - `utilizada` → utilizar | 과거분사 (여성 단수) | 수동적 의미 | 규칙
+
+### 22-4. **Adrián:** Ofrecí consultoría de estructuración patrimonial, dentro de lo que consideraba un marco legal razonable.
+- **해석:** 저는 제가 합리적인 법적 틀이라고 여긴 범위 안에서 자산 구조화 컨설팅을 제공했습니다.
+- **주요 단어:** `consultoría` (여성명사) 컨설팅 / `estructuración` (여성명사) 구조화 / `patrimonial` (형용사) 자산의 / `dentro de` ~안에서 / `marco` (남성명사) 틀 / `razonable` (형용사) 합리적인
+- **문법:** lo que = "~한 것"(중성 관계사).
+- **시제:**
+  - `Ofrecí` → ofrecer | 직설법 단순과거 1인칭 단수 | 과거에 완결된 서비스 제공 | 규칙 (현재 1인칭만 ofrezco)
+  - `consideraba` → considerar | 직설법 불완료과거 1인칭 단수 | 당시 지속된 생각·판단(배경) | 규칙. 단순과거 consideré와 달리 "그때 계속 그렇게 여기고 있었다"
+
+### 22-5. **Fiscal:** ¿Considera legal sobornar a legisladores para debilitar normativa contra el blanqueo de capitales?
+- **해석:** 자금세탁 방지 규정을 약화시키려고 입법자들에게 뇌물을 주는 것이 합법이라고 생각합니까?
+- **주요 단어:** `legal` (형용사) 합법적인 / `sobornar` (동사) 뇌물을 주다 / `debilitar` (동사) 약화시키다 / `normativa` (여성명사) 규정 / `blanqueo de capitales` 자금세탁
+- **문법:** considerar + 형용사 + 부정사(주어 불특정 일반 행위 → 부정사, que절 아님). 사람 직접목적어 앞 인칭 a(a legisladores). para + 부정사 = 목적.
+- **표현:** blanqueo de capitales = 스페인식 "자금세탁"(중남미 lavado de dinero).
+- **시제:**
+  - `Considera` → considerar | 앞에서 설명
+  - `sobornar` → 부정사 | 판단 대상
+  - `debilitar` → 부정사 | para 뒤
+
+### 22-6. **Adrián:** No he sobornado a nadie personalmente.
+- **해석:** 저는 개인적으로 누구에게도 뇌물을 준 적이 없습니다.
+- **주요 단어:** `nadie` (대명사) 아무도 / `personalmente` (부사) 개인적으로, 직접
+- **문법:** 이중부정 no ... nadie. 인칭 a + nadie. personalmente로 "직접은 아니다"는 빠져나갈 구멍을 둠.
+- **시제:**
+  - `he sobornado` → sobornar | 직설법 현재완료 1인칭 단수 | 특정 시점이 아닌 "지금까지 한 번도"라는 경험 부정 | haber(he) + sobornado
+
+### 22-7. **Adrián:** Cualquier interpretación en ese sentido es especulación.
+- **해석:** 그런 의미의 어떤 해석도 추측일 뿐입니다.
+- **주요 단어:** `sentido` (남성명사) 의미, 방향 / `especulación` (여성명사) 추측
+- **문법:** cualquier(명사 앞 형용사형).
+- **표현:** en ese sentido = "그런 의미에서, 그런 방향의".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 단정적 평가 | 앞에서 설명
+
+### 22-8. **Fiscal:** Tenemos testimonio directo, y documentación, que sugiere lo contrario.
+- **해석:** 우리는 그 반대를 시사하는 직접 증언과 문서를 갖고 있습니다.
+- **주요 단어:** `documentación` (여성명사) 문서 자료 / `sugerir` (동사) 시사하다 / `lo contrario` 그 반대
+- **문법:** 관계절 que sugiere는 실제 존재하는 증거를 가리키므로 직설법. 두 명사를 하나의 증거 묶음으로 보아 동사 단수(sugiere).
+- **시제:**
+  - `Tenemos` → tener | 앞에서 설명
+  - `sugiere` → sugerir | 직설법 현재 3인칭 단수 | 현재 증거가 갖는 의미 | 어간모음변화 e→ie
+
+### 22-9. **Adrián:** Los testimonios pueden malinterpretarse, especialmente los obtenidos mediante engaño e identidades falsas.
+- **해석:** 증언이란 잘못 해석될 수 있습니다. 특히 속임수와 가짜 신분으로 얻어진 증언은 더 그렇죠.
+- **주요 단어:** `malinterpretar` (동사) 잘못 해석하다 / `obtener` (동사) 얻다 / `mediante` (전치사) ~을 통해 / `engaño` (남성명사) 기만, 속임수
+- **문법:** malinterpretarse = 수동 se. los obtenidos = 관사 + 과거분사로 명사 생략(los testimonios obtenidos). y가 i로 시작하는 단어 앞에서 e로 변함(e identidades).
+- **표현:** 카밀라의 위장 잠입을 겨냥한 간접 공격.
+- **시제:**
+  - `pueden` → poder | 직설법 현재 3인칭 복수 | 일반적 가능성 | o→ue
+  - `malinterpretarse` → 부정사 (수동 se) | poder 뒤 | 규칙
+  - `obtenidos` → obtener | 과거분사 (남성 복수) | 수동적 상태 | 과거분사는 규칙형 obtenido (현재 obtengo, 단순과거 obtuve는 불규칙)
+
+### 22-10. **Fiscal:** ¿Está cuestionando la validez de un testimonio obtenido mediante una investigación autorizada judicialmente?
+- **해석:** 사법적으로 승인된 수사를 통해 얻은 증언의 유효성에 이의를 제기하는 겁니까?
+- **주요 단어:** `validez` (여성명사) 유효성 / `investigación` (여성명사) 수사 / `autorizar` (동사) 승인하다 / `judicialmente` (부사) 사법적으로
+- **문법:** estar + 현재분사 = 진행형. 과거분사 obtenido(testimonio 남성), autorizada(investigación 여성) 성수 일치.
+- **시제:**
+  - `Está cuestionando` → cuestionar | 직설법 현재진행 3인칭 단수 (estar 현재 + gerundio) | "바로 지금 하고 있는 말이" 그런 의미냐고 추궁 | 규칙
+  - `obtenido` → obtener | 과거분사 | 앞에서 설명
+  - `autorizada` → autorizar | 과거분사 (여성 단수) | 수동적 상태 | 규칙
+
+### 22-11. **Adrián:** Solo señalo que la fiabilidad de esa evidencia merece un escrutinio muy cuidadoso, señoría.
+- **해석:** 저는 다만 그 증거의 신뢰성이 매우 신중한 검토를 받을 만하다는 점을 지적할 뿐입니다, 재판장님.
+- **주요 단어:** `señalar` (동사) 지적하다 / `fiabilidad` (여성명사) 신뢰성 / `merecer` (동사) ~을 받을 만하다 / `escrutinio` (남성명사) 정밀 검토 / `cuidadoso` (형용사) 신중한
+- **문법:** señalar que + 직설법(사실 진술). 
+- **시제:**
+  - `señalo` → señalar | 직설법 현재 1인칭 단수 | 말하는 순간의 행위 | 규칙
+  - `merece` → merecer | 직설법 현재 3인칭 단수 | 현재 평가 | 1인칭만 불규칙 merezco
+
+### 22-12. **Juez:** Ese escrutinio se realizará conforme al procedimiento establecido, señor Roselló.
+- **해석:** 그 검토는 정해진 절차에 따라 이루어질 것입니다, 로셀요 씨.
+- **주요 단어:** `realizar` (동사) 실행하다 / `conforme a` ~에 따라 / `procedimiento` (남성명사) 절차 / `establecer` (동사) 정하다
+- **문법:** 수동 se(se realizará). conforme a + el → al.
+- **표현:** 피고의 의도를 차단하는 판사의 단호한 공식 답변.
+- **시제:**
+  - `se realizará` → realizar | 직설법 단순미래 3인칭 단수 | 공식적·확정적 절차 선언 | 규칙
+  - `establecido` → establecer | 과거분사 (남성 단수) | 형용사적 | 규칙 (현재 1인칭 establezco)
+
+### 22-13. **Adrián:** (Con una sonrisa mínima, calculada) Confío plenamente en la justicia de este tribunal.
+- **해석:** (아주 옅은, 계산된 미소를 지으며) 저는 이 법정의 정의를 전적으로 신뢰합니다.
+- **주요 단어:** `sonrisa` (여성명사) 미소 / `mínimo` (형용사) 최소한의 / `confiar en` ~을 신뢰하다 / `justicia` (여성명사) 정의, 사법
+- **문법:** confiar + en.
+- **표현:** 겉으로는 공손하지만 여유와 도발이 담긴 대사.
+- **시제:**
+  - `calculada` → calcular | 과거분사 | 앞에서 설명
+  - `Confío` → confiar | 직설법 현재 1인칭 단수 | 현재의 태도 | 강세 변화 (confío, confías, confía; nosotros confiamos)
+
+### 22-14. **Fiscal:** No tengo más preguntas, señoría.
+- **해석:** 더 이상 질문 없습니다, 재판장님.
+- **주요 단어:** 앞에서 설명(21-11)
+- **문법:** 특이사항 없음
+- **시제:**
+  - `tengo` → tener | 앞에서 설명

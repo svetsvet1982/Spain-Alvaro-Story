@@ -250,4 +250,248 @@
 - **시제:**
   - `Enviándola` → enviar | 현재분사 | 진행 중인 동작(estoy 생략) | 규칙(현재형은 envío처럼 강세 주의)
 
-<!-- PART58END -->
+## 장면 59. 사진 분석과 "로셀요"라는 이름
+> 카를로스와 마르코스가 사진을 분석해 정체를 확인합니다.
+
+### 59-1. **Marcos:** (Analizando la foto remotamente) Estamos comparando esto con bases de datos de reconocimiento facial disponibles.
+- **해석:** (원격으로 사진을 분석하며) 이걸 이용 가능한 안면 인식 데이터베이스와 대조하고 있어요.
+- **주요 단어:** `analizar` (동사) 분석하다 / `remotamente` (부사) 원격으로 / `comparar` (동사) 비교하다 / `base de datos` 데이터베이스 / `reconocimiento facial` 안면 인식 / `disponible` (형용사) 이용 가능한
+- **문법:** `comparar A con B`: A를 B와 비교하다. esto: 중성 지시대명사.
+- **시제:**
+  - `Analizando` → analizar | 현재분사 (지문) | 동시 동작 | 규칙
+  - `Estamos comparando` → estar + comparar | 직설법 현재진행 1인칭 복수 | 지금 이 순간 진행 중인 작업 | estar 불규칙
+  - `comparando` → comparar | 현재분사 | 진행형 구성 | 규칙
+
+### 59-2. **Carlos:** ¿Algún resultado?
+- **해석:** 결과 나온 거 있어?
+- **주요 단어:** `algún` (형용사) 어떤 / `resultado` (명사, 남) 결과
+- **문법:** alguno는 남성 단수 명사 앞에서 algún으로 어미 탈락.
+- **시제:** 동사 없음
+
+### 59-3. **Marcos:** (Tras unos minutos) Coincidencia parcial con una fotografía antigua, de hace más de quince años, de un ciudadano con doble nacionalidad.
+- **해석:** (몇 분 후) 15년도 더 된 옛날 사진 하나와 부분적으로 일치해요. 이중국적을 가진 시민이에요.
+- **주요 단어:** `tras` (전치사) ~후에 / `coincidencia` (명사, 여) 일치 / `parcial` (형용사) 부분적인 / `antiguo` (형용사) 오래된 / `ciudadano` (명사, 남) 시민 / `doble nacionalidad` 이중국적
+- **문법:** `de hace + 기간`: ~전의(hace는 시간 경과를 나타내는 비인칭 hacer).
+- **시제:**
+  - `hace` → hacer | 직설법 현재 3인칭 단수 (비인칭) | 현재 시점 기준으로 경과한 시간 표현 | 불규칙 동사(hago)이지만 3인칭 단수는 규칙형
+
+### 59-4. **Álvaro:** ¿Nombre?
+- **해석:** 이름은요?
+- **주요 단어:** `nombre` (명사, 남) 이름
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 59-5. **Marcos:** El registro está parcialmente corrupto, pero el apellido que aparece es "Roselló".
+- **해석:** 기록이 일부 손상돼 있긴 한데, 나오는 성은 "로셀요"예요.
+- **주요 단어:** `registro` (명사, 남) 기록 / `corrupto` (형용사) 손상된, (데이터가) 깨진 / `apellido` (명사, 남) 성 / `aparecer` (동사) 나타나다
+- **문법:** `estar corrupto`(현재 상태) vs `es "Roselló"`(정체·동일시는 ser). 관계대명사 que.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 데이터의 현재 상태 | 불규칙
+  - `aparece` → aparecer | 직설법 현재 3인칭 단수 | 기록상 현재 보이는 내용 | 1인칭만 불규칙(aparezco)
+  - `es` → ser | 직설법 현재 3인칭 단수 | 이름의 동일시 | 불규칙
+
+### 59-6. **Carlos:** (Con la voz tensa por la emoción contenida) Después de tantos años, por fin tenemos una cara.
+- **해석:** (억누른 감정으로 목소리가 떨리며) 그렇게 오랜 세월이 지나서, 드디어 얼굴을 확보했군.
+- **주요 단어:** `tenso` (형용사) 긴장된 / `emoción` (명사, 여) 감정 / `contener` (동사) 억누르다 / `por fin` 마침내 / `cara` (명사, 여) 얼굴
+- **문법:** `por + 명사`: 원인(감정 때문에). `tantos años`: 그렇게 많은 해.
+- **표현:** `tener una cara` — (수사 대상의) 얼굴을 확보하다.
+- **시제:**
+  - `contenida` → contener | 과거분사 여성 단수 (지문, 형용사적) | 억눌린 상태 | tener 계열 불규칙 동사지만 과거분사는 규칙(contenido)
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 지금 막 손에 넣은 현재 상태 | 불규칙 동사, nosotros형은 규칙
+
+### 59-7. **Álvaro:** ¿Qué hacemos ahora?
+- **해석:** 이제 어떻게 하죠?
+- **주요 단어:** `hacer` (동사) 하다
+- **문법:** 현재형으로 가까운 미래·행동 방침을 묻는 표현.
+- **시제:**
+  - `hacemos` → hacer | 직설법 현재 1인칭 복수 | "이제 뭘 하지?"처럼 당장의 행동을 상의할 때 미래 대신 현재 | nosotros형 규칙(1인칭 단수 hago만 불규칙)
+
+### 59-8. **Carlos:** Nada todavía.
+- **해석:** 아직은 아무것도 안 해.
+- **주요 단어:** `nada` 아무것도 / `todavía` 아직
+- **문법:** 동사 생략(No hacemos nada todavía).
+- **시제:** 동사 없음
+
+### 59-9. **Carlos:** Necesitamos confirmación absoluta antes de cualquier movimiento, y coordinación completa con las autoridades suizas.
+- **해석:** 어떤 움직임이든 그 전에 완벽한 확인이 필요하고, 스위스 당국과 완전한 공조도 필요해.
+- **주요 단어:** `absoluto` (형용사) 절대적인 / `movimiento` (명사, 남) 움직임, 조치 / `completo` (형용사) 완전한 / `autoridades` (명사, 여, 복) 당국
+- **문법:** `antes de + 명사`.
+- **시제:**
+  - `Necesitamos` → necesitar | 앞에서 설명 (직설법 현재)
+
+### 59-10. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Entendido` → entender | 과거분사 | 앞에서 설명
+
+### 59-11. **Álvaro:** Seguiré observando, sin acercarme más de lo necesario.
+- **해석:** 필요 이상으로 다가가지 않고 계속 지켜볼게요.
+- **주요 단어:** `seguir` (동사) 계속하다 / `acercarse` (재귀동사) 다가가다 / `necesario` (형용사) 필요한
+- **문법:** `seguir + 현재분사`: 계속 ~하다. `más de lo necesario`: 필요 이상으로(중성 lo + 형용사). 재귀대명사 me는 부정사 뒤.
+- **시제:**
+  - `Seguiré` → seguir | 직설법 단순미래 1인칭 단수 | 앞으로의 행동 다짐 | 미래형은 규칙(현재형은 e→i, sigo)
+  - `observando` → observar | 현재분사 | seguir + gerundio 구문 | 규칙
+  - `acercarme` → acercarse | 부정사(재귀) | sin 뒤 부정사 | 참고: 접속법·단순과거 1인칭에서 c→qu(acerque, acerqué)
+
+### 59-12. **Carlos:** Bien.
+- **해석:** 좋아.
+- **주요 단어:** `bien` (부사) 좋아
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 59-13. **Carlos:** Esto podría ser el momento que llevamos años esperando, Álvaro.
+- **해석:** 알바로, 이게 우리가 몇 년 동안 기다려 온 순간일지도 몰라.
+- **주요 단어:** `momento` (명사, 남) 순간 / `llevar` (동사) (시간을) 보내다 / `esperar` (동사) 기다리다
+- **문법:** `llevar + 기간 + 현재분사`: ~동안 계속 ~해 오다(현재까지 지속). que는 목적격 관계대명사(el momento를 기다려 오다).
+- **표현:** `llevamos años esperando` — "몇 년째 기다리고 있다"는 스페인어다운 표현(= hace años que esperamos).
+- **시제:**
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 확신이 아닌 가능성·추측("~일지도 모른다") | 불규칙 어간 podr-
+  - `ser` → ser | 부정사 | podría 뒤
+  - `llevamos` → llevar | 직설법 현재 1인칭 복수 | 과거부터 지금까지 이어지는 지속을 현재로 표현 | 규칙
+  - `esperando` → esperar | 현재분사 | llevar + 기간 + gerundio 구문 | 규칙
+
+### 59-14. **Carlos:** No lo estropeemos por precipitación.
+- **해석:** 서두르다가 망치지 말자.
+- **주요 단어:** `estropear` (동사) 망치다 / `precipitación` (명사, 여) 성급함
+- **문법:** nosotros에 대한 부정 명령 = `no + 접속법 현재`. 부정 명령에서 대명사는 동사 앞(no lo estropeemos).
+- **표현:** `por precipitación` — 성급함 때문에.
+- **시제:**
+  - `estropeemos` → estropear | 접속법 현재 1인칭 복수 (명령 용법, imperativo de nosotros) | "~하지 말자"는 권유형 부정 명령은 접속법 | 규칙(-ar → -emos)
+
+## 장면 60. 의심받을 뻔한 순간
+> 다음 날, 알바로가 감시하던 중 로셀요(혹은 그의 협력자)에게 정체를 의심받을 뻔한 순간이 벌어집니다.
+
+### 60-1. **Hombre:** (Se acerca a Álvaro en el vestíbulo, con calma inquietante) Disculpe, ¿nos conocemos de algún sitio?
+- **해석:** (로비에서 불안할 만큼 침착하게 알바로에게 다가온다) 실례지만, 우리 어디서 만난 적 있나요?
+- **주요 단어:** `acercarse a` ~에게 다가가다 / `inquietante` (형용사) 불안하게 하는 / `disculpar` (동사) 용서하다 / `conocerse` (재귀동사) 서로 알다 / `sitio` (명사, 남) 곳
+- **문법:** `nos conocemos`: 상호 재귀(서로 알다). `Disculpe`: usted 명령형.
+- **표현:** `¿Nos conocemos de algún sitio?` — "어디서 뵌 적 있나요?" 정형 표현. `de algún sitio` 스페인식(중남미는 de algún lado도 흔함).
+- **시제:**
+  - `Se acerca` → acercarse | 직설법 현재 3인칭 단수 (지문) | 지문 현재 서술 | 규칙(접속법에서 c→qu)
+  - `Disculpe` → disculpar | 명령법 3인칭 단수(usted) = 접속법 현재형 | 모르는 사람에게 공손하게 말 걸기 | 규칙
+  - `conocemos` → conocerse | 직설법 현재 1인칭 복수 | 현재까지 아는 사이인지 묻는 현재 | 1인칭 단수만 불규칙(conozco)
+
+### 60-2. **Álvaro:** (Alerta, manteniendo la calma) No lo creo.
+- **해석:** (경계하면서도 침착함을 유지하며) 아닐 텐데요.
+- **주요 단어:** `alerta` (형용사/명사) 경계하는 / `mantener la calma` 침착함을 유지하다 / `creer` (동사) 생각하다, 믿다
+- **문법:** `lo`: 중성 대명사(우리가 아는 사이라는 것).
+- **표현:** `No lo creo` — "그렇지 않을 걸요"라는 부드러운 부정.
+- **시제:**
+  - `manteniendo` → mantener | 현재분사 (지문) | 동시 동작 | tener 계열 불규칙 동사지만 현재분사는 규칙
+  - `creo` → creer | 직설법 현재 1인칭 단수 | 현재의 판단 | 규칙(단순과거 3인칭 creyó 주의)
+
+### 60-3. **Álvaro:** Estoy aquí por una conferencia.
+- **해석:** 학회 때문에 여기 와 있어요.
+- **주요 단어:** `por` (전치사) ~때문에 / `conferencia` 앞에서 설명
+- **문법:** 위치는 estar. `por`: 이유.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재 1인칭 단수 | 현재 위치 | 불규칙
+
+### 60-4. **Hombre:** Qué curioso.
+- **해석:** 이상하네요.
+- **주요 단어:** `curioso` (형용사) 신기한, 묘한
+- **문법:** `Qué + 형용사` 감탄문.
+- **시제:** 동사 없음
+
+### 60-5. **Hombre:** Juraría haberlo visto antes, en otro contexto.
+- **해석:** 분명 전에 다른 상황에서 당신을 본 것 같은데요.
+- **주요 단어:** `jurar` (동사) 맹세하다 / `contexto` (명사, 남) 상황, 맥락
+- **문법:** `haber + 과거분사`(완료 부정사): 주절보다 앞선 일. 주어가 같아 부정사 사용. `lo`: usted(남성)를 가리키는 직접목적어.
+- **표현:** `Juraría que...` — "맹세코 ~인 것 같은데"(단정은 피하는 강한 확신).
+- **시제:**
+  - `Juraría` → jurar | 조건법 단순 1인칭 단수 | 단언 대신 완곡하게 확신을 표현하는 조건법 | 규칙
+  - `haber` → haber | 부정사 | 완료 부정사 구성(haber visto)
+  - `visto` → ver | 과거분사 | 이전에 본 경험(완료) | 불규칙 과거분사(ver → visto)
+
+### 60-6. **Álvaro:** Tengo una cara común, me lo dicen a menudo.
+- **해석:** 흔한 얼굴이라서요, 그런 말 자주 들어요.
+- **주요 단어:** `común` (형용사) 흔한 / `a menudo` 자주
+- **문법:** `me lo dicen`: 간접목적어 me + 직접목적어 lo(그 말). 주어 없는 3인칭 복수 = 불특정 다수("사람들이").
+- **표현:** `Tengo una cara común` — 평범한 얼굴이다.
+- **시제:**
+  - `Tengo` → tener | 직설법 현재 1인칭 단수 | 변하지 않는 특징 | 불규칙
+  - `dicen` → decir | 직설법 현재 3인칭 복수 | 반복되는 일을 나타내는 습관의 현재, 비인칭적 3인칭 복수 | 불규칙(e→i, digo)
+
+### 60-7. **Hombre:** (Lo observa fijamente unos segundos más) Puede ser.
+- **해석:** (몇 초 더 그를 뚫어지게 쳐다본다) 그럴 수도 있겠네요.
+- **주요 단어:** `fijamente` (부사) 뚫어지게 / `segundo` (명사, 남) 초
+- **문법:** 특이사항 없음
+- **표현:** `Puede ser` — "그럴지도 모르죠"(= quizás).
+- **시제:**
+  - `observa` → observar | 직설법 현재 3인칭 단수 (지문) | 지문 현재 서술 | 규칙
+  - `Puede` → poder | 직설법 현재 3인칭 단수 | 가능성 표현 | 어간모음변화 o→ue
+  - `ser` → ser | 부정사 | poder 뒤
+
+### 60-8. **Hombre:** Disculpe la interrupción.
+- **해석:** 방해해서 죄송합니다.
+- **주요 단어:** `interrupción` (명사, 여) 방해, 끼어듦
+- **문법:** usted 명령형 + 직접목적어.
+- **시제:**
+  - `Disculpe` → disculpar | 앞에서 설명 (usted 명령)
+
+### 60-9. **Álvaro:** No hay problema.
+- **해석:** 괜찮습니다.
+- **주요 단어:** `problema` (명사, 남) 문제 (-ma로 끝나지만 남성)
+- **문법:** 존재의 hay.
+- **시제:**
+  - `hay` → haber | 직설법 현재 3인칭 단수 (비인칭) | 현재 존재 여부 | 불규칙(hay)
+
+### 60-10. **Álvaro:** (El hombre se aleja; Álvaro llama a Carlos de inmediato, en voz baja) Carlos, creo que alguien empezó a sospechar de mí.
+- **해석:** (남자가 멀어지고, 알바로는 즉시 낮은 목소리로 카를로스에게 전화한다) 카를로스, 누군가 저를 의심하기 시작한 것 같아요.
+- **주요 단어:** `alejarse` (재귀동사) 멀어지다 / `de inmediato` 즉시 / `empezar a` ~하기 시작하다 / `sospechar de` ~를 의심하다
+- **문법:** `creer que + 직설법`(긍정문). 전치사 뒤 1인칭은 mí(악센트).
+- **시제:**
+  - `se aleja` → alejarse | 직설법 현재 3인칭 단수 (지문) | 지문 현재 서술 | 규칙
+  - `llama` → llamar | 직설법 현재 3인칭 단수 (지문) | 지문 현재 서술 | 규칙
+  - `creo` → creer | 앞에서 설명
+  - `empezó` → empezar | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 방금 전 대화에서 의심이 "시작된" 한 시점을 끝난 사건으로 봄. 스페인에서는 오늘 일에 현재완료(ha empezado)도 흔함 | 현재형만 e→ie, 단순과거 3인칭은 규칙
+  - `sospechar` → sospechar | 부정사 | empezar a 뒤
+
+### 60-11. **Carlos:** ¿Quién?
+- **해석:** 누구?
+- **주요 단어:** `quién` 누구
+- **문법:** 의문사는 악센트.
+- **시제:** 동사 없음
+
+### 60-12. **Álvaro:** No estoy seguro, pero se acercó con una excusa muy débil, solo para observarme de cerca.
+- **해석:** 확실하진 않은데, 아주 궁색한 핑계로 다가왔어요. 그냥 저를 가까이서 보려고요.
+- **주요 단어:** `seguro` (형용사) 확신하는 / `excusa` (명사, 여) 핑계 / `débil` (형용사) 약한, 궁색한 / `de cerca` 가까이서
+- **문법:** `estar seguro`(확신하는 상태) vs `ser seguro`(안전하다). `para + 부정사` 목적, 대명사 me는 부정사 뒤.
+- **시제:**
+  - `estoy` → estar | 직설법 현재 1인칭 단수 | 현재의 심적 상태 | 불규칙
+  - `se acercó` → acercarse | 직설법 단순과거 3인칭 단수 | 조금 전 완결된 한 번의 동작 | 규칙(1인칭 me acerqué에서 c→qu)
+  - `observarme` → observar | 부정사 | para 뒤
+
+### 60-13. **Carlos:** Sal de ahí, ahora.
+- **해석:** 거기서 나와, 당장.
+- **주요 단어:** `salir de` ~에서 나가다 / `ahí` 거기
+- **문법:** tú 긍정 명령.
+- **시제:**
+  - `Sal` → salir | 긍정 명령법 2인칭 단수 | 긴급 지시 | 불규칙 명령형(salir → sal)
+
+### 60-14. **Carlos:** No podemos arriesgarnos a que comprometas toda la operación.
+- **해석:** 자네 때문에 작전 전체가 노출될 위험을 감수할 수는 없어.
+- **주요 단어:** `arriesgarse a` ~의 위험을 무릅쓰다 / `comprometer` (동사) 위태롭게 하다, (보안을) 노출시키다 / `operación` (명사, 여) 작전
+- **문법:** `arriesgarse a que + 접속법`: 주어가 달라(우리 / 네가) que절 + 접속법. 재귀대명사 nos는 부정사 뒤.
+- **시제:**
+  - `podemos` → poder | 직설법 현재 1인칭 복수 | 현재의 판단 | nosotros형 규칙
+  - `arriesgarnos` → arriesgarse | 부정사(재귀) | poder 뒤
+  - `comprometas` → comprometer | 접속법 현재 2인칭 단수 | 아직 일어나지 않은, 우려되는 일(위험의 내용)이라 접속법 | 규칙
+
+### 60-15. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Entendido` → entender | 과거분사 | 앞에서 설명
+
+### 60-16. **Álvaro:** Saliendo del hotel ahora mismo.
+- **해석:** 지금 바로 호텔에서 나가고 있어요.
+- **주요 단어:** `ahora mismo` 지금 당장
+- **문법:** (Estoy) saliendo의 생략. de + el = del.
+- **시제:**
+  - `Saliendo` → salir | 현재분사 | 지금 진행 중인 동작(estoy 생략) | 불규칙 동사지만 현재분사는 규칙
+
+<!-- PART60END -->

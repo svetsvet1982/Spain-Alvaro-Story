@@ -368,4 +368,180 @@
   - `Es` → ser | 직설법 현재, 3인칭 단수 | 현재의 판단 | 불규칙
   - `ha pasado` → pasar | 직설법 현재완료, 3인칭 단수 | 최근 일어나 현재에 영향을 주는 사건(체포 등)이라 현재완료 — 스페인 스페인어에서 최근 과거에 특히 선호 | 규칙
 
-<!-- END64 -->
+## 장면 65. 보도 준비
+> 알바로가 하비에르에게 이번 국제 사건의 전모를 상세히 설명하며 보도를 준비합니다.
+
+### 65-1. **Javier:** Álvaro, esto se ha convertido en algo mucho más grande de lo que empezó siendo un simple caso de evasión fiscal.
+- **해석:** 알바로, 이건 단순한 탈세 사건으로 시작했던 것보다 훨씬 더 큰 일이 되어 버렸어.
+- **주요 단어:** `convertirse en` ~이 되다, ~로 변하다 / `simple` (형용사) 단순한 / `evasión fiscal` 탈세
+- **문법:** 비교급 뒤 절이 올 때 `de lo que`(más grande de lo que…). `empezar + 현재분사` = "~로 시작하다(처음엔 ~인 상태였다)". `simple`이 명사 앞에서 "단순한, 그저 ~에 불과한".
+- **표현:** `convertirse en algo mucho más grande` "훨씬 큰 일로 번지다".
+- **시제:**
+  - `se ha convertido` → convertirse | 직설법 현재완료, 3인칭 단수 | 지금까지 이어진 변화의 결과를 현재 시점에서 말하므로 현재완료 | 어간변화 e→ie(현재), 과거분사는 규칙 convertido
+  - `empezó` → empezar | 직설법 단순과거, 3인칭 단수 | 과거의 시작점(완결된 사건) | 1인칭 empecé(z→c), 3인칭은 규칙
+  - `siendo` → ser | 현재분사 | empezar + 현재분사: 처음 상태 묘사 | 불규칙 동사지만 현재분사는 규칙형
+
+### 65-2. **Álvaro:** Mucho más grande.
+- **해석:** 훨씬 크지.
+- **주요 단어:** `mucho más` 훨씬 더
+- **문법:** 앞 말을 반복하는 생략문.
+- **시제:**
+  - 동사 없음
+
+### 65-3. **Álvaro:** Empezamos con un despacho de Madrid, y terminamos con una operación en tres países, y posiblemente la identificación de Roselló.
+- **해석:** 마드리드의 한 사무소로 시작해서, 세 나라에 걸친 작전으로 끝났고, 어쩌면 로셀요의 신원 확인까지 했어.
+- **주요 단어:** `despacho` (명사, 남) 사무소(특히 법률·세무 사무소) / `terminar con` ~로 끝나다 / `operación` (명사, 여) 작전, 활동 / `posiblemente` (부사) 어쩌면 / `identificación` (명사, 여) 신원 확인
+- **문법:** `empezar con / terminar con` 대칭 구조.
+- **표현:** `despacho` 스페인에서 로펌·세무사무소를 가리키는 일반적 표현.
+- **시제:**
+  - `Empezamos` → empezar | 직설법 단순과거, 1인칭 복수 | 과거의 완결된 출발점. -ar 동사 nosotros는 현재와 단순과거 형태가 같으니(empezamos) 문맥으로 판단 — 여기선 terminamos와 함께 과거 | nosotros형에선 어간변화 없음
+  - `terminamos` → terminar | 직설법 단순과거, 1인칭 복수 | 완결된 결과 | 규칙(현재형과 동형)
+
+### 65-4. **Javier:** ¿Podemos publicar ya toda la historia?
+- **해석:** 이제 이야기 전체를 보도할 수 있을까?
+- **주요 단어:** `poder` (동사) ~할 수 있다 / `publicar` (동사) 게재하다, 보도하다 / `ya` (부사) 이제, 벌써
+- **문법:** `poder + 부정사`. `ya`가 의문문에서 "이제 (드디어)".
+- **시제:**
+  - `Podemos` → poder | 직설법 현재, 1인칭 복수 | 현재 가능성·허용 여부 | nosotros형은 어간변화 없음(puedo… podemos)
+  - `publicar` → publicar | 부정사 | poder 뒤 | 규칙(단순과거 1인칭 publiqué)
+
+### 65-5. **Álvaro:** La parte de Verhoeven y Bruselas Estrategia, sí.
+- **해석:** 베르호벤과 브뤼셀 에스트라테히아 부분은 돼.
+- **주요 단어:** `parte` (명사, 여) 부분
+- **문법:** 동사 생략(La parte… sí [podemos publicarla]).
+- **시제:**
+  - 동사 없음
+
+### 65-6. **Álvaro:** La identificación de Roselló todavía queda parcialmente clasificada, hasta que se confirme del todo.
+- **해석:** 로셀요 신원 확인은 완전히 확정될 때까지 아직 일부 기밀로 남아 있어.
+- **주요 단어:** `quedar` (동사) 남다, ~인 상태로 있다 / `parcialmente` (부사) 부분적으로 / `clasificado` (형용사) 기밀의; 분류된 / `confirmar` (동사) 확인하다, 확정하다
+- **문법:** `quedar + 과거분사/형용사` = "~인 채로 남다". `hasta que + 접속법` = 미래의 아직 일어나지 않은 시점. `se confirme`는 수동의 se.
+- **표현:** `del todo` "완전히".
+- **시제:**
+  - `queda` → quedar | 직설법 현재, 3인칭 단수 | 현재 상태 | 규칙
+  - `clasificada` → clasificar | 과거분사(형용사 용법) | identificación에 여성 단수 일치 | 규칙
+  - `se confirme` → confirmar | 접속법 현재, 3인칭 단수(수동의 se) | hasta que 뒤 미래의 미실현 사건이라 접속법. 과거의 습관·사실이면 직설법(hasta que se confirmó) | 규칙
+
+### 65-7. **Javier:** Entiendo.
+- **해석:** 알겠어.
+- **주요 단어:** `entender` 이해하다(앞에서 설명)
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재, 1인칭 단수 | 지금의 이해 | e→ie
+
+### 65-8. **Javier:** ¿Y el papel de Camila en todo esto?
+- **해석:** 그럼 이 모든 일에서 카밀라의 역할은?
+- **주요 단어:** `papel` (명사, 남) 역할; 종이
+- **문법:** 동사 생략 질문.
+- **표현:** `en todo esto` "이 모든 일에서".
+- **시제:**
+  - 동사 없음
+
+### 65-9. **Álvaro:** Con su permiso, quiero que aparezca como lo que es: una analista financiera clave, sin entrar en detalles de su pasado que puedan comprometer su seguridad.
+- **해석:** 그녀가 허락한다면, 있는 그대로의 모습으로 나오게 하고 싶어. 핵심 금융 분석가로, 그녀의 안전을 위태롭게 할 수 있는 과거의 세부 사항은 다루지 않고.
+- **주요 단어:** `permiso` (명사, 남) 허락 / `aparecer` (동사) 나타나다, 등장하다 / `analista` (명사, 남녀) 분석가 / `clave` (형용사적 명사, 불변) 핵심적인 / `entrar en detalles` 세부 사항에 들어가다 / `comprometer` (동사) 위태롭게 하다
+- **문법:** `querer que + 접속법`(주어가 다를 때: 나는 원한다 / 그녀가 등장하기를). `lo que es` = "그녀의 실체". `sin + 부정사`. 관계절 `que puedan…`은 선행사가 불특정(그런 세부 사항이라면 무엇이든)이라 접속법.
+- **표현:** `con su permiso` "그녀의 허락 하에(허락한다면)". `clave`는 명사 뒤에서 형용사처럼 쓰이며 성·수 불변(una analista clave).
+- **시제:**
+  - `quiero` → querer | 직설법 현재, 1인칭 단수 | 현재 바람 | e→ie
+  - `aparezca` → aparecer | 접속법 현재, 3인칭 단수 | 의지 동사 querer + que 뒤 주어가 달라 접속법 | 불규칙 -zc-(aparezco → aparezca)
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 사실(그녀의 실제 정체) | 불규칙
+  - `entrar` → entrar | 부정사 | sin 뒤 | 규칙
+  - `puedan` → poder | 접속법 현재, 3인칭 복수 | 불특정 선행사를 가진 관계절(그럴 가능성이 있는 세부사항들)이라 접속법 | o→ue
+
+### 65-10. **Javier:** Hablaré con ella directamente sobre cómo se siente cómoda apareciendo.
+- **해석:** 그녀가 어떤 식으로 등장하는 게 편한지 내가 직접 얘기해 볼게.
+- **주요 단어:** `hablar con` ~와 이야기하다 / `sentirse` (재귀동사) 느끼다 / `cómodo` (형용사) 편안한
+- **문법:** 간접의문 `cómo + 직설법`. `sentirse + 형용사`(cómoda는 여성 일치). 현재분사 `apareciendo`가 "~하는 것에 대해/~하면서".
+- **표현:** `sentirse cómodo/a + 현재분사` "~하는 것이 편하다".
+- **시제:**
+  - `Hablaré` → hablar | 직설법 단순미래, 1인칭 단수 | 앞으로 할 일에 대한 약속·의지 | 규칙
+  - `se siente` → sentirse | 직설법 현재, 3인칭 단수 | 현재 감정 상태 | e→ie
+  - `apareciendo` → aparecer | 현재분사 | 등장하는 방식을 부연 | 규칙형 현재분사
+
+### 65-11. **Álvaro:** Te lo agradezco.
+- **해석:** 고마워.
+- **주요 단어:** `agradecer` 감사하다(앞에서 설명)
+- **문법:** 간접목적어 te + 직접목적어 lo 순서(간접 → 직접).
+- **시제:**
+  - `agradezco` → agradecer | 직설법 현재, 1인칭 단수 | 지금의 감사 | 불규칙 1인칭 -zco
+
+### 65-12. **Javier:** ¿Y Maarten?
+- **해석:** 그럼 마르턴은?
+- **주요 단어:** —
+- **문법:** 동사 생략 질문.
+- **시제:**
+  - 동사 없음
+
+### 65-13. **Álvaro:** Completamente anónimo, como “una fuente dentro de las instituciones europeas”.
+- **해석:** 완전히 익명으로, '유럽 기관 내부의 한 소식통'으로.
+- **주요 단어:** `completamente` (부사) 완전히 / `anónimo` (형용사) 익명의 / `fuente` (명사, 여) 소식통, 출처; 샘 / `institución` (명사, 여) 기관
+- **문법:** 동사 생략([Aparecerá] completamente anónimo). `como` "~로서".
+- **표현:** `una fuente` 기자들이 쓰는 "소식통".
+- **시제:**
+  - 동사 없음
+
+### 65-14. **Álvaro:** Nada más.
+- **해석:** 그 이상은 없어.
+- **주요 단어:** `nada más` 그 이상은 아무것도
+- **문법:** 부정어 단독 문장.
+- **시제:**
+  - 동사 없음
+
+### 65-15. **Javier:** Entendido.
+- **해석:** 알겠어.
+- **주요 단어:** `entendido` (entender의 과거분사) 이해됨
+- **문법:** 과거분사 단독으로 "알겠다(이해됨)".
+- **표현:** `Entendido.` "알았다, 접수했다" — 짧은 확인 응답.
+- **시제:**
+  - `Entendido` → entender | 과거분사 | 완료된 이해를 간결하게 표현 | 규칙 과거분사
+
+### 65-16. **Javier:** Empecemos a estructurar el reportaje, entonces.
+- **해석:** 그럼 기사 구성을 시작하자.
+- **주요 단어:** `estructurar` (동사) 구성하다 / `reportaje` (명사, 남) 르포, 심층 보도 기사 / `entonces` 그럼
+- **문법:** 1인칭 복수 명령(접속법 현재형). `empezar a + 부정사`.
+- **시제:**
+  - `Empecemos` → empezar | 1인칭 복수 명령(접속법 현재형) | "~하자" 제안 | z→c 철자 변화
+  - `estructurar` → estructurar | 부정사 | empezar a 뒤 | 규칙
+
+### 65-17. **Javier:** Esto merece un despliegue serio.
+- **해석:** 이건 제대로 크게 다룰 만해.
+- **주요 단어:** `merecer` (동사) ~할 가치가 있다 / `despliegue` (명사, 남) 전개, 배치; (언론) 대대적 보도 / `serio` (형용사) 진지한, 본격적인
+- **문법:** 특이사항 없음.
+- **표현:** `despliegue` 언론에서 "지면·인력을 대대적으로 투입한 보도".
+- **시제:**
+  - `merece` → merecer | 직설법 현재, 3인칭 단수 | 현재의 평가 | 1인칭 불규칙(merezco)
+
+### 65-18. **Álvaro:** Estoy de acuerdo.
+- **해석:** 동의해.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명(estar de acuerdo).
+- **시제:**
+  - `Estoy` → estar | 직설법 현재, 1인칭 단수 | 현재 의견 | 불규칙
+
+### 65-19. **Álvaro:** Empecemos con las puertas giratorias, sigamos con la estructura financiera, y cerremos con la pista de Roselló.
+- **해석:** 회전문 인사로 시작해서, 금융 구조로 이어가고, 로셀요의 단서로 마무리하자.
+- **주요 단어:** `puertas giratorias` 회전문(공직↔민간 이동 관행) / `seguir con` ~로 이어가다 / `cerrar con` ~로 마무리하다 / `pista` (명사, 여) 단서, 흔적
+- **문법:** 1인칭 복수 명령 세 개 나열.
+- **표현:** `puertas giratorias` 정치·경제 기사에서 매우 흔한 비유 표현.
+- **시제:**
+  - `Empecemos` → empezar | 1인칭 복수 명령 | 제안 | z→c
+  - `sigamos` → seguir | 1인칭 복수 명령(접속법 현재형) | 제안 | 불규칙: e→i(sigo → siga), gu→g 철자 변화
+  - `cerremos` → cerrar | 1인칭 복수 명령(접속법 현재형) | 제안 | e→ie 동사지만 nosotros형에선 변화 없음(cierre ↔ cerremos)
+
+### 65-20. **Javier:** Perfecto.
+- **해석:** 완벽해.
+- **주요 단어:** `perfecto` (형용사) 완벽한
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 65-21. **Javier:** Pongámonos con ello.
+- **해석:** 바로 착수하자.
+- **주요 단어:** `ponerse con` ~에 착수하다
+- **문법:** 1인칭 복수 긍정 명령 + 재귀대명사 nos: 어미의 -s가 탈락(pongamos + nos → pongámonos). 강세 부호 추가. `ello` = 중성 대명사(그 일).
+- **표현:** `ponerse con algo` "~을 시작하다, 달라붙다" — 스페인 구어.
+- **시제:**
+  - `Pongámonos` → ponerse | 1인칭 복수 명령(접속법 현재형 pongamos) | "~하자" 제안 | 불규칙 1인칭 pongo → 접속법 ponga-; 재귀형에서 -s 탈락
+
+<!-- END65 -->

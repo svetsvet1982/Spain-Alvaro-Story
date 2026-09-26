@@ -163,4 +163,209 @@
   - `son` → ser | 직설법 현재, 3인칭 복수 | 일반적 사실(신념) | 불규칙
   - `hago` → hacer | 직설법 현재, 1인칭 단수 | 습관·직업으로 계속하는 일 | 불규칙 1인칭(-go)
 
-<!-- END63 -->
+## 장면 64. 베르호벤의 전면 협조
+> 자스퍼 베르호벤이 변호사와 상담 후 전면 협조를 결정하며, 로셀요에 대한 새로운 정보를 제공합니다.
+
+### 64-1. **Jasper:** (En una sala de interrogatorio belga, con su abogado presente) He decidido colaborar plenamente con la investigación.
+- **해석:** (벨기에의 신문실에서, 변호사가 입회한 가운데) 수사에 전면적으로 협조하기로 결정했습니다.
+- **주요 단어:** `sala de interrogatorio` 신문실, 조사실 / `abogado` (명사, 남) 변호사 / `presente` (형용사) 출석한, 입회한 / `decidir` (동사) 결정하다 / `plenamente` (부사) 완전히, 전면적으로 / `investigación` (명사, 여) 수사, 조사
+- **문법:** `con + 명사 + 형용사` 절대 구문(con su abogado presente = 변호사가 입회한 상태로). `decidir + 부정사`(전치사 없음).
+- **표현:** `colaborar con la investigación` "수사에 협조하다" — con 사용에 주의.
+- **시제:**
+  - `He decidido` → decidir | 직설법 현재완료 pretérito perfecto compuesto, 1인칭 단수 | 방금 내린, 지금 발표하는 결정이라 현재와 연결된 현재완료 | haber 현재 he(불규칙) + 규칙 과거분사 decidido
+  - `colaborar` → colaborar | 부정사 | decidir의 목적어 | 규칙
+
+### 64-2. **Carlos:** Se lo agradecemos.
+- **해석:** 감사합니다.
+- **주요 단어:** `agradecer` (동사) 감사하다
+- **문법:** 간접목적어 `le`가 직접목적어 `lo` 앞에서 `se`로 바뀜(le lo ✗ → se lo). se = a usted(존칭), lo = 협조하기로 한 것.
+- **표현:** `Se lo agradecemos` — usted에게 하는 격식 있는 감사.
+- **시제:**
+  - `agradecemos` → agradecer | 직설법 현재, 1인칭 복수 | 지금의 감사 표현 | 1인칭 단수만 불규칙(agradezco, -zco형), 나머지 규칙
+
+### 64-3. **Carlos:** Empecemos por lo más importante: ¿conoce usted la identidad real de la persona detrás de “El Arquitecto”?
+- **해석:** 가장 중요한 것부터 시작하죠. '건축가' 뒤에 있는 인물의 진짜 정체를 알고 있습니까?
+- **주요 단어:** `empezar por` ~부터 시작하다 / `conocer` (동사) 알다(경험·인지) / `identidad` (명사, 여) 정체, 신원 / `detrás de` ~뒤에
+- **문법:** 1인칭 복수 명령 = 접속법 현재형(Empecemos "~합시다"). `lo más importante` 중성 lo + 최상급 = "가장 중요한 것". 의문문에서 주어 usted가 동사 뒤로 도치.
+- **표현:** `Empecemos por lo más importante` "가장 중요한 것부터 시작합시다" — 회의·심문의 전형적 도입.
+- **시제:**
+  - `Empecemos` → empezar | 접속법 현재 presente de subjuntivo를 이용한 1인칭 복수 명령 imperativo (nosotros) | "~합시다" 제안·지시 | e→ie는 nosotros에서 일어나지 않고, z→c 철자 변화(empecemos)
+  - `conoce` → conocer | 직설법 현재, 3인칭 단수(usted) | 현재 알고 있는지 묻는 질문 | 1인칭만 불규칙(conozco)
+
+### 64-4. **Jasper:** Nunca lo conocí en persona, pero recibí instrucciones directas en varias ocasiones, siempre a través de canales muy controlados.
+- **해석:** 직접 만난 적은 한 번도 없지만, 여러 차례 직접 지시를 받았습니다. 항상 매우 통제된 경로를 통해서요.
+- **주요 단어:** `en persona` 직접, 대면으로 / `recibir` (동사) 받다 / `instrucción` (명사, 여) 지시 / `ocasión` (명사, 여) 기회, 경우 / `a través de` ~을 통해 / `canal` (명사, 남) 채널, 경로 / `controlado` (형용사) 통제된
+- **문법:** `lo`(그를)는 직접목적어. conocer가 단순과거일 때는 "(처음) 만나다, 알게 되다"의 의미. nunca가 동사 앞이라 no 불필요.
+- **표현:** `en varias ocasiones` "여러 차례".
+- **시제:**
+  - `conocí` → conocer | 직설법 단순과거 pretérito indefinido, 1인칭 단수 | 완결된 과거 사건("만난 적 없다"). 단순과거 conocer는 "만나다/알게 되다", 불완료과거 conocía는 "알고 있었다"로 의미가 달라짐 | 규칙
+  - `recibí` → recibir | 직설법 단순과거, 1인칭 단수 | 여러 번이라도 횟수가 정해진 완결된 사건들의 묶음이므로 단순과거 | 규칙
+  - `controlados` → controlar | 과거분사(형용사 용법) | canales를 수식, 남성 복수 일치 | 규칙
+
+### 64-5. **Álvaro:** ¿Qué tipo de instrucciones?
+- **해석:** 어떤 종류의 지시였죠?
+- **주요 단어:** `tipo` (명사, 남) 종류
+- **문법:** `qué + 명사` 의문 한정사. 동사 생략.
+- **시제:**
+  - 동사 없음
+
+### 64-6. **Jasper:** Qué reguladores contactar, qué argumentos usar, y sobre todo, qué evitar mencionar en cualquier comunicación escrita.
+- **해석:** 어떤 규제 당국자와 접촉할지, 어떤 논거를 쓸지, 그리고 무엇보다 모든 서면 소통에서 무엇을 언급하지 말아야 할지요.
+- **주요 단어:** `regulador` (명사, 남) 규제 당국자 / `contactar` (동사) 연락하다 / `argumento` (명사, 남) 논거 / `usar` (동사) 사용하다 / `evitar` (동사) 피하다 / `mencionar` (동사) 언급하다 / `cualquier` (한정사) 어떤 ~라도 / `escrito` (형용사) 서면의
+- **문법:** `qué + 부정사` 간접의문 = "무엇을 ~할지"(qué hacer). `evitar + 부정사` "~하는 것을 피하다". cualquiera는 명사 앞에서 cualquier로 어미 탈락.
+- **표현:** `sobre todo` "무엇보다, 특히".
+- **시제:**
+  - `contactar` → contactar | 부정사 | qué + 부정사(무엇을 할지) | 규칙
+  - `usar` → usar | 부정사 | 위와 동일 | 규칙
+  - `evitar` → evitar | 부정사 | 위와 동일 | 규칙
+  - `mencionar` → mencionar | 부정사 | evitar의 목적어 | 규칙
+  - `escrita` → escribir | 과거분사(형용사 용법) | comunicación 수식, 여성 단수 | 불규칙 과거분사(escribido ✗ → escrito)
+
+### 64-7. **Carlos:** ¿Alguna vez mencionó un nombre, aunque fuera de pasada?
+- **해석:** 이름을 언급한 적이 한 번이라도 있습니까, 지나가는 말로라도?
+- **주요 단어:** `alguna vez` 한 번이라도, 언젠가 / `nombre` (명사, 남) 이름 / `de pasada` 지나가는 김에, 슬쩍
+- **문법:** `aunque + 접속법 불완료과거` = 과거 맥락의 가정적 양보("~였다 하더라도"). 주어는 생략된 "그(El Arquitecto) / 누군가".
+- **표현:** `aunque fuera de pasada` "지나가는 말로라도" — 최소한의 경우라도 있었는지 묻는 뉘앙스.
+- **시제:**
+  - `mencionó` → mencionar | 직설법 단순과거, 3인칭 단수 | 과거의 특정한 완결된 행위 여부를 물음 | 규칙
+  - `fuera` → ser | 접속법 불완료과거 pretérito imperfecto de subjuntivo, 3인칭 단수 | 과거 시점에 대한 가정적 양보라 과거 접속법 | 불규칙(단순과거 fueron → fue-ra); -se형 fuese도 가능
+
+### 64-8. **Jasper:** Una vez, en una llamada, alguien lo mencionó accidentalmente como “el señor R”, antes de corregirse rápidamente.
+- **해석:** 한 번은 통화 중에 누군가가 실수로 그를 'R 씨'라고 언급했다가 재빨리 정정했습니다.
+- **주요 단어:** `llamada` (명사, 여) 통화 / `alguien` (부정대명사) 누군가 / `accidentalmente` (부사) 우연히, 실수로 / `corregirse` (재귀동사) 자기 말을 정정하다 / `rápidamente` (부사) 빠르게
+- **문법:** `antes de + 부정사`(주어가 같을 때). 재귀대명사 se는 부정사 뒤에 붙음(corregirse). `como` "~로서, ~라고".
+- **표현:** `mencionar a alguien como…` "누구를 ~라고 부르다/언급하다".
+- **시제:**
+  - `mencionó` → mencionar | 직설법 단순과거, 3인칭 단수 | 한 번 일어난 완결된 사건 | 규칙
+  - `corregirse` → corregirse | 부정사 | antes de 뒤 | 불규칙 동사(e→i: corrijo, corriges; g→j 철자 변화)이지만 부정사형은 그대로
+
+### 64-9. **Álvaro:** ¿Recuerda algo más sobre esa llamada?
+- **해석:** 그 통화에 대해 다른 것도 기억하십니까?
+- **주요 단어:** `recordar` (동사) 기억하다 / `algo más` 뭔가 더
+- **문법:** usted에 대한 3인칭 단수 활용.
+- **시제:**
+  - `Recuerda` → recordar | 직설법 현재, 3인칭 단수(usted) | 지금 기억하고 있는지 | 어간모음 변화 o→ue
+
+### 64-10. **Jasper:** Hablaba con acento que sonaba centroeuropeo, aunque con inflexiones que no terminé de ubicar del todo.
+- **해석:** 중부 유럽 억양처럼 들리는 말투였는데, 끝내 완전히 짚어내지 못한 억양의 굴곡이 있었습니다.
+- **주요 단어:** `acento` (명사, 남) 억양, 말투 / `sonar` (동사) ~처럼 들리다 / `centroeuropeo` (형용사) 중부 유럽의 / `inflexión` (명사, 여) 억양의 변화, 굴곡 / `ubicar` (동사) 위치를 알아내다, 파악하다 / `del todo` 완전히
+- **문법:** 관계대명사 `que` 두 번(acento que…, inflexiones que…). `no terminar de + 부정사` = "완전히 ~하지 못하다".
+- **표현:** `no terminé de ubicar del todo` "(어느 지역인지) 딱 짚지 못했다" — 구어적 완곡 표현. `ubicar`는 중남미에서 특히 흔하지만 스페인에서도 쓰임.
+- **시제:**
+  - `Hablaba` → hablar | 직설법 불완료과거 pretérito imperfecto, 3인칭 단수 | 말하는 방식이라는 과거의 배경·묘사라 불완료과거 | 규칙
+  - `sonaba` → sonar | 직설법 불완료과거, 3인칭 단수 | 억양의 특징 묘사 | 규칙(현재에서만 o→ue)
+  - `terminé` → terminar | 직설법 단순과거, 1인칭 단수 | "결국 파악하지 못했다"는 결과가 정해진 완결된 행위 — 묘사(불완료)와 대비되는 사건 | 규칙
+  - `ubicar` → ubicar | 부정사 | terminar de 뒤 | 규칙(단순과거 1인칭 ubiqué)
+
+### 64-11. **Carlos:** ¿Y el pago?
+- **해석:** 그럼 대금은요?
+- **주요 단어:** `pago` (명사, 남) 지불, 대금
+- **문법:** 동사 생략의 화제 전환 질문.
+- **시제:**
+  - 동사 없음
+
+### 64-12. **Carlos:** ¿Cómo recibía usted su compensación exactamente?
+- **해석:** 보수는 정확히 어떻게 받으셨습니까?
+- **주요 단어:** `compensación` (명사, 여) 보상, 보수 / `exactamente` (부사) 정확히
+- **문법:** 의문사 뒤 주어 usted 도치. su = usted의(존칭 소유사).
+- **시제:**
+  - `recibía` → recibir | 직설법 불완료과거, 3인칭 단수(usted) | 과거에 반복·정기적으로 받던 방식을 물어서 불완료과거(습관). 단순과거 recibió는 한 번의 수령을 묻는 느낌 | 규칙
+
+### 64-13. **Jasper:** A través de una cuenta en Chipre, vinculada formalmente a un contrato de consultoría con Bruselas Estrategia.
+- **해석:** 키프로스의 한 계좌를 통해서요. 형식상 브뤼셀 에스트라테히아와의 컨설팅 계약에 연결된 계좌였습니다.
+- **주요 단어:** `cuenta` (명사, 여) 계좌 / `Chipre` 키프로스 / `vincular` (동사) 연결하다 / `formalmente` (부사) 형식상, 공식적으로 / `contrato` (명사, 남) 계약 / `consultoría` (명사, 여) 컨설팅
+- **문법:** 과거분사 `vinculada`가 cuenta를 수식(여성 단수 일치). `vincular a` "~에 연결하다".
+- **표현:** `formalmente` 여기선 "서류상으로는(실제와 다를 수 있음)"의 뉘앙스.
+- **시제:**
+  - `vinculada` → vincular | 과거분사(형용사 용법) | 계좌의 상태 묘사 | 규칙
+
+### 64-14. **Álvaro:** ¿Sabía usted que el origen último de ese dinero podría estar vinculado a estructuras de blanqueo de capitales?
+- **해석:** 그 돈의 최종 출처가 자금 세탁 구조와 연결돼 있을 수 있다는 걸 알고 계셨습니까?
+- **주요 단어:** `origen` (명사, 남) 출처, 기원 / `último` (형용사) 최종의, 궁극적인 / `estructura` (명사, 여) 구조 / `blanqueo de capitales` 자금 세탁
+- **문법:** `saber que + 직설법/조건법`(확신·인지 동사라 접속법 아님). 시제 일치로 과거 시점에서의 가능성을 조건법으로. `estar + 과거분사` 상태.
+- **표현:** `blanqueo de capitales` 스페인식 "자금 세탁"(중남미는 lavado de dinero). `origen último` "궁극적 출처".
+- **시제:**
+  - `Sabía` → saber | 직설법 불완료과거, 3인칭 단수(usted) | 과거에 알고 있던 상태(지식은 상태라 불완료과거). 단순과거 supo는 "알게 되었다" | 규칙형 불완료과거
+  - `podría` → poder | 조건법 단순 condicional simple, 3인칭 단수 | 과거 시점에서 본 가능성(시제 일치) + 추측을 완곡하게 | 불규칙 어간 podr-
+  - `estar` → estar | 부정사 | poder 뒤 | 불규칙 동사의 부정사
+  - `vinculado` → vincular | 과거분사 | estar와 결합해 상태, origen에 남성 단수 일치 | 규칙
+
+### 64-15. **Jasper:** (Baja la mirada) Sospechaba que algo no encajaba, sí.
+- **해석:** (시선을 떨구며) 뭔가 맞지 않는다고 의심은 했습니다, 네.
+- **주요 단어:** `bajar la mirada` 시선을 떨구다 / `sospechar` (동사) 의심하다 / `encajar` (동사) 들어맞다
+- **문법:** `sospechar que + 직설법`. 종속절도 과거 시점과 동시라 불완료과거.
+- **표현:** `algo no encaja` "뭔가 앞뒤가 안 맞는다" — 매우 흔한 구어.
+- **시제:**
+  - `Baja` → bajar | 직설법 현재, 3인칭 단수 | 지문(무대 지시)은 현재형으로 씀 | 규칙
+  - `Sospechaba` → sospechar | 직설법 불완료과거, 1인칭 단수 | 과거에 지속된 의심(심리 상태) | 규칙
+  - `encajaba` → encajar | 직설법 불완료과거, 3인칭 단수 | 과거 상황의 상태 묘사(시제 일치) | 규칙
+
+### 64-16. **Jasper:** Pero el dinero era bueno, y preferí no hacer demasiadas preguntas.
+- **해석:** 하지만 돈이 좋았고, 너무 많은 질문은 하지 않는 쪽을 택했습니다.
+- **주요 단어:** `preferir` (동사) 선호하다, ~하는 쪽을 택하다 / `demasiado` (형용사) 너무 많은 / `pregunta` (명사, 여) 질문
+- **문법:** `preferir + 부정사`. demasiadas는 preguntas와 여성 복수 일치.
+- **표현:** `no hacer demasiadas preguntas` "굳이 캐묻지 않다".
+- **시제:**
+  - `era` → ser | 직설법 불완료과거, 3인칭 단수 | 과거 상황의 배경 묘사 | 불규칙(era, eras, era…)
+  - `preferí` → preferir | 직설법 단순과거, 1인칭 단수 | 한 번 내린 선택(결정)이라 단순과거 — 배경(era)과 사건(preferí)의 대비 | e→ie 어간변화 동사지만 단순과거 1인칭은 규칙형(3인칭은 prefirió로 e→i)
+  - `hacer` → hacer | 부정사 | preferir의 목적어 | 불규칙 동사
+
+### 64-17. **Carlos:** Esa negligencia deliberada también tiene consecuencias legales, señor Verhoeven.
+- **해석:** 그런 고의적인 방관도 법적 책임이 따릅니다, 베르호벤 씨.
+- **주요 단어:** `negligencia` (명사, 여) 태만, 과실 / `deliberado` (형용사) 고의적인 / `consecuencia` (명사, 여) 결과 / `legal` (형용사) 법적인
+- **문법:** 특이사항 없음.
+- **표현:** `negligencia deliberada` "고의적 무시(의도적 외면)" — 법률 용어(willful blindness).
+- **시제:**
+  - `tiene` → tener | 직설법 현재, 3인칭 단수 | 일반적인 법적 원칙 | 불규칙(tengo, tienes, tiene…)
+
+### 64-18. **Jasper:** Lo entiendo.
+- **해석:** 알고 있습니다.
+- **주요 단어:** `entender` (동사) 이해하다
+- **문법:** 중성 `lo` = 앞 문장 내용.
+- **시제:**
+  - `entiendo` → entender | 직설법 현재, 1인칭 단수 | 현재의 이해 | 어간모음 변화 e→ie
+
+### 64-19. **Jasper:** Por eso colaboro ahora, con la esperanza de que eso cuente a mi favor.
+- **해석:** 그래서 지금 협조하는 겁니다. 그게 제게 유리하게 작용하길 바라면서요.
+- **주요 단어:** `por eso` 그래서 / `esperanza` (명사, 여) 희망 / `contar` (동사) 세다; 중요하다, 인정되다 / `a mi favor` 내게 유리하게
+- **문법:** `con la esperanza de que + 접속법` — 희망의 명사 뒤라 접속법.
+- **표현:** `contar a favor de alguien` "~에게 유리하게 참작되다".
+- **시제:**
+  - `colaboro` → colaborar | 직설법 현재, 1인칭 단수 | 지금 하는 행동 | 규칙
+  - `cuente` → contar | 접속법 현재, 3인칭 단수 | esperanza(희망) 뒤, 아직 실현되지 않은 일이라 접속법 | 어간모음 변화 o→ue
+
+### 64-20. **Álvaro:** ¿Tiene alguna otra información sobre la reunión en Ginebra?
+- **해석:** 제네바 회의에 대해 다른 정보가 있습니까?
+- **주요 단어:** `información` (명사, 여, 불가산) 정보 / `reunión` (명사, 여) 회의 / `Ginebra` 제네바
+- **문법:** `alguna otra` "다른 어떤" — 의문문의 alguno.
+- **시제:**
+  - `Tiene` → tener | 직설법 현재, 3인칭 단수(usted) | 현재 보유 여부 | 불규칙
+
+### 64-21. **Jasper:** Solo que era una reunión anual, siempre en fechas similares, para revisar la estrategia del año siguiente.
+- **해석:** 연례 회의였다는 것뿐입니다. 항상 비슷한 날짜에, 다음 해 전략을 검토하기 위한 것이었죠.
+- **주요 단어:** `anual` (형용사) 연례의 / `fecha` (명사, 여) 날짜 / `similar` (형용사) 비슷한 / `revisar` (동사) 검토하다 / `estrategia` (명사, 여) 전략 / `siguiente` (형용사) 다음의
+- **문법:** `Solo que…` = "(내가 아는 건) ~라는 것뿐". `para + 부정사` 목적.
+- **표현:** `del año siguiente` "그다음 해의"(과거 기준). 현재 기준이면 del año que viene / del próximo año.
+- **시제:**
+  - `era` → ser | 직설법 불완료과거, 3인칭 단수 | 반복되던 성격(연례)의 묘사라 불완료과거 | 불규칙
+  - `revisar` → revisar | 부정사 | para 뒤 목적 | 규칙
+
+### 64-22. **Carlos:** Eso significa que probablemente volverá a organizarse el año próximo.
+- **해석:** 그렇다면 아마 내년에도 다시 열리겠군요.
+- **주요 단어:** `significar` (동사) 의미하다 / `probablemente` (부사) 아마 / `volver a + 부정사` 다시 ~하다 / `organizarse` (대명동사) 조직되다, 열리다 / `próximo` (형용사) 다음의
+- **문법:** `volver a + 부정사` = 반복. `organizarse`의 se는 수동의 se(회의가 개최되다). probablemente 뒤에는 직설법(미래)이 보통.
+- **시제:**
+  - `significa` → significar | 직설법 현재, 3인칭 단수 | 논리적 귀결 | 규칙(단순과거 1인칭 signifiqué)
+  - `volverá` → volver | 직설법 단순미래 futuro simple, 3인칭 단수 | 미래 예측 | 미래형은 규칙(volver-á); 현재는 o→ue, 과거분사는 불규칙 vuelto
+  - `organizarse` → organizar(se) | 부정사 | volver a 뒤, se가 부정사 뒤에 붙음 | 규칙(단순과거 1인칭 organicé)
+
+### 64-23. **Jasper:** Es muy probable, sí, aunque quizás en otra ubicación, después de lo que ha pasado.
+- **해석:** 그럴 가능성이 매우 높습니다, 네. 다만 이번 일이 있었으니 다른 장소일지도 모르죠.
+- **주요 단어:** `probable` (형용사) 가능성 높은 / `quizás` (부사) 아마도 / `ubicación` (명사, 여) 위치, 장소 / `después de` ~후에 / `pasar` (동사) 일어나다
+- **문법:** `lo que` 관계사 "~한 것". aunque 뒤 동사 생략(aunque quizás [sea] en otra ubicación).
+- **표현:** `después de lo que ha pasado` "그런 일이 있었으니" — 흔한 구어 표현.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 현재의 판단 | 불규칙
+  - `ha pasado` → pasar | 직설법 현재완료, 3인칭 단수 | 최근 일어나 현재에 영향을 주는 사건(체포 등)이라 현재완료 — 스페인 스페인어에서 최근 과거에 특히 선호 | 규칙
+
+<!-- END64 -->

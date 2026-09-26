@@ -260,3 +260,288 @@
 - **표현:** `tener algo en cuenta` = ~을 참작하다.
 - **시제:**
   - `tendremos` → tener | 직설법 단순미래 1인칭 복수 | 공식적인 약속 | 불규칙 미래 어간 tendr-
+
+## 장면 75. 경매 목록 속 암호 패턴
+> 카밀라와 마르코스가 몬테 디지털 옥션스의 경매 목록을 분석하며 암호화된 메시지 패턴을 찾습니다.
+
+### 75-1. **Marcos:** (Revisando el sitio web con Camila) Aquí está.
+- **해석:** (카밀라와 웹사이트를 살펴보며) 여기 있어요.
+- **주요 단어:** `revisar` (동사) 살펴보다 / `sitio web` (남성명사) 웹사이트
+- **문법:** 현재분사로 동시 동작을 나타내는 지문. `Aquí está` = 여기 있다(위치이므로 estar).
+- **시제:**
+  - `Revisando` → revisar | 현재분사 (gerundio) | 말하는 동안 동시에 진행 중인 행동
+  - `está` → estar | 직설법 현재 3인칭 단수 | 지금 찾은 것의 위치 | 불규칙
+
+### 75-2. **Marcos:** Docenas de lotes con descripciones extrañamente detalladas para obras de valor tan bajo.
+- **해석:** 이렇게 값싼 작품치고는 이상할 정도로 자세한 설명이 붙은 경매 품목이 수십 개예요.
+- **주요 단어:** `docena` (여성명사) 12개, 다스 → `docenas de` 수십 개의 / `lote` (남성명사) (경매) 품목, 로트 / `extrañamente` (부사) 이상하게 / `detallado` (형용사) 상세한 / `valor` (남성명사) 가치
+- **문법:** 동사 없는 명사구. `para` = "~치고는"(기준 대비).
+- **표현:** `para obras de valor tan bajo` = "그렇게 싼 작품치고는".
+- **시제:**
+  - `detalladas` → detallar | 과거분사 여성 복수 | 형용사로 descripciones 수식
+
+### 75-3. **Camila:** Eso podría ser el patrón de codificación.
+- **해석:** 그게 암호화 패턴일 수도 있어요.
+- **주요 단어:** `codificación` (여성명사) 암호화, 부호화
+- **문법:** `podría ser` = 추측.
+- **시제:**
+  - `podría` → poder | 조건법 단순형 3인칭 단수 | 확신 없는 가능성·추측
+  - `ser` → ser | 부정사
+
+### 75-4. **Camila:** Frases que no encajan del todo con descripciones artísticas normales.
+- **해석:** 일반적인 미술품 설명과는 딱 맞지 않는 문장들이요.
+- **주요 단어:** `frase` (여성명사) 문장, 구절 / `encajar con` ~와 들어맞다 / `del todo` 완전히 / `artístico` (형용사) 예술의
+- **문법:** 관계절 `que no encajan`(선행사 frases). `no ... del todo` = 완전히 ~하지는 않다(부분 부정).
+- **시제:**
+  - `encajan` → encajar | 직설법 현재 3인칭 복수 | 현재 관찰되는 사실
+
+### 75-5. **Marcos:** ¿Puedes identificar algún patrón numérico en las descripciones?
+- **해석:** 설명들에서 어떤 숫자 패턴을 찾아낼 수 있겠어요?
+- **주요 단어:** `identificar` 앞에서 설명 / `algún` (부정형용사) 어떤 / `numérico` (형용사) 숫자의
+- **문법:** `alguno`는 남성 단수 명사 앞에서 `algún`으로 어미 탈락.
+- **표현:** 동료 사이라 tú로 말함.
+- **시제:**
+  - `Puedes` → poder | 직설법 현재 2인칭 단수 | 동료에게 가능 여부를 물음 | o→ue
+  - `identificar` → identificar | 부정사
+
+### 75-6. **Camila:** (Analizando) Sí, mira esto: cada descripción incluye una fecha aparentemente aleatoria de creación de la obra, que en realidad podría ser un código.
+- **해석:** (분석하며) 네, 이것 봐요. 설명마다 겉보기엔 무작위인 작품 제작 연도가 들어 있는데, 실제로는 코드일 수도 있어요.
+- **주요 단어:** `analizar` (동사) 분석하다 / `incluir` (동사) 포함하다 / `aparentemente` (부사) 겉보기에 / `aleatorio` (형용사) 무작위의 / `creación` (여성명사) 창작 / `en realidad` 실제로는
+- **문법:** `que en realidad podría ser`는 콤마가 있는 설명적 관계절(선행사 una fecha).
+- **표현:** `mira esto` = "이것 좀 봐"(주의 환기).
+- **시제:**
+  - `Analizando` → analizar | 현재분사 | 지문, 동시 진행 동작
+  - `mira` → mirar | 명령법 2인칭 단수 긍정 (imperativo) | tú에게 하는 친근한 명령
+  - `incluye` → incluir | 직설법 현재 3인칭 단수 | 현재 사실 | -uir 동사 y 삽입
+  - `podría` → poder | 조건법 | 추측
+  - `ser` → ser | 부정사
+
+### 75-7. **Marcos:** ¿Como coordenadas, o fechas de reuniones?
+- **해석:** 좌표 같은 거요, 아니면 만남 날짜요?
+- **주요 단어:** `coordenadas` (여성명사 복수) 좌표 / `reunión` (여성명사) 만남, 회의
+- **문법:** `como` = ~처럼, 예를 들면.
+- **시제:**
+  - 동사 없음
+
+### 75-8. **Camila:** Podría ser cualquiera de las dos.
+- **해석:** 둘 중 어느 쪽이든 될 수 있어요.
+- **주요 단어:** `cualquiera` (부정대명사) 어느 것이든
+- **문법:** `cualquiera de + 복수` = ~중 어느 것이든. `las dos` = 둘 다(여성: coordenadas/fechas).
+- **시제:**
+  - `Podría` → poder | 조건법 | 가능성 추측
+  - `ser` → ser | 부정사
+
+### 75-9. **Camila:** Necesitamos más contexto para descifrarlo con certeza.
+- **해석:** 확실하게 해독하려면 맥락이 더 필요해요.
+- **주요 단어:** `contexto` (남성명사) 맥락 / `descifrar` (동사) 해독하다 / `certeza` (여성명사) 확실성
+- **문법:** `para + 부정사` 목적. 대명사 `lo`가 부정사 끝에 붙음.
+- **표현:** `con certeza` = 확실히.
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요
+  - `descifrarlo` → descifrar | 부정사 + lo | para 뒤
+
+### 75-10. **Marcos:** Voy a intentar acceder al historial completo de pujas, para ver si hay patrones de usuarios recurrentes.
+- **해석:** 입찰 전체 기록에 접근해 볼게요. 반복적으로 등장하는 사용자 패턴이 있는지 보려고요.
+- **주요 단어:** `intentar` (동사) 시도하다 / `historial` (남성명사) 이력, 기록 / `puja` (여성명사) 입찰 / `usuario` (남성명사) 사용자 / `recurrente` (형용사) 반복되는
+- **문법:** `ir a + 부정사`, `intentar + 부정사`, `acceder a` 이어짐. `si` = ~인지(간접의문).
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a + 부정사로 바로 할 계획 | 불규칙
+  - `intentar` → intentar | 부정사
+  - `acceder` → acceder | 부정사
+  - `ver` → ver | 부정사 | para 뒤
+  - `hay` → haber | 직설법 현재 무인칭 | 존재 여부
+
+### 75-11. **Camila:** Buena idea.
+- **해석:** 좋은 생각이에요.
+- **주요 단어:** `idea` (여성명사) 생각
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 75-12. **Camila:** Si los mismos compradores aparecen repetidamente en lotes específicos, eso confirmaría el patrón de comunicación encubierta.
+- **해석:** 같은 구매자들이 특정 품목에 반복해서 나타난다면, 그건 은밀한 통신 패턴을 확인해 주는 셈이에요.
+- **주요 단어:** `comprador` (남성명사) 구매자 / `aparecer` (동사) 나타나다 / `repetidamente` (부사) 반복적으로 / `específico` (형용사) 특정한 / `confirmar` (동사) 확인하다
+- **문법:** 조건문 `si + 직설법 현재, 조건법` 혼합형. 조건은 실제 가능한 일(직설법)로 두고, 결과를 조건법으로 부드럽게 추론.
+- **시제:**
+  - `aparecen` → aparecer | 직설법 현재 3인칭 복수 | si 조건절에는 현재형(접속법 현재 불가)
+  - `confirmaría` → confirmar | 조건법 단순형 3인칭 단수 | 아직 확인 안 된 결과에 대한 가정적 추론(confirmará면 더 단정적)
+
+### 75-13. **Marcos:** (Tras un rato) Aquí está: tres cuentas de usuario aparecen en el noventa por ciento de los lotes con descripciones sospechosas.
+- **해석:** (잠시 후) 여기 있어요. 사용자 계정 세 개가 의심스러운 설명이 붙은 품목의 90%에 등장해요.
+- **주요 단어:** `tras un rato` 잠시 후 / `cuenta` (여성명사) 계정 / `por ciento` 퍼센트 / `sospechoso` (형용사) 의심스러운
+- **문법:** `el noventa por ciento de` = ~의 90%(정관사 el 사용).
+- **시제:**
+  - `está` → estar | 직설법 현재 | 앞에서 설명
+  - `aparecen` → aparecer | 직설법 현재 3인칭 복수 | 데이터가 보여 주는 현재 사실
+
+### 75-14. **Camila:** Eso es prácticamente una prueba del canal de comunicación.
+- **해석:** 그건 사실상 통신 채널의 증거예요.
+- **주요 단어:** `prácticamente` (부사) 사실상 / `prueba` (여성명사) 증거
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `es` → ser | 직설법 현재 | 현재 판단
+
+### 75-15. **Marcos:** Necesitamos identificar quién está detrás de esas cuentas.
+- **해석:** 그 계정들 뒤에 누가 있는지 알아내야 해요.
+- **주요 단어:** `detrás de` ~의 뒤에
+- **문법:** `quién` 간접의문문(억양 부호 유지). `estar detrás de` = ~의 배후에 있다(위치 → estar).
+- **표현:** `estar detrás de algo` = ~의 배후이다.
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재 | 현재의 필요
+  - `identificar` → identificar | 부정사
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재 상태
+
+### 75-16. **Camila:** Se lo comunico a Carlos de inmediato.
+- **해석:** 카를로스에게 바로 알릴게요.
+- **주요 단어:** `comunicar` (동사) 알리다, 전달하다 / `de inmediato` 즉시
+- **문법:** 이중 목적 대명사: 간접목적 `le` + 직접목적 `lo` → `le lo`가 `se lo`로 바뀜. `a Carlos`는 se를 명확히 하는 중복.
+- **표현:** 현재형으로 곧 할 일을 말하는 구어체.
+- **시제:**
+  - `comunico` → comunicar | 직설법 현재 1인칭 단수 | 곧바로 할 행동을 현재형으로 표현(즉각적 결심). 미래형보다 생생하고 확정적
+
+## 장면 76. 니스를 가리키는 IP
+> 카를로스가 세 개의 의심스러운 경매 계정을 추적한 결과를 전합니다.
+
+### 76-1. **Carlos:** (Llama) Camila, Álvaro, tenemos algo sobre las tres cuentas de Monte Digital Auctions.
+- **해석:** (전화를 건다) 카밀라, 알바로, 몬테 디지털 옥션스 계정 세 개에 대해 뭔가 나왔어요.
+- **주요 단어:** `llamar` (동사) 전화하다 / `algo` 무언가
+- **문법:** 특이사항 없음.
+- **표현:** `tenemos algo` = "뭔가 건졌다"(수사 성과).
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 3인칭 단수 | 지문의 현재형 서술
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 지금 확보한 정보
+
+### 76-2. **Álvaro:** Cuéntanos.
+- **해석:** 말해 줘요.
+- **주요 단어:** `contar` (동사) 이야기하다
+- **문법:** 긍정 명령에 대명사 `nos` 부착, 강세 유지를 위해 부호 표시(cuenta → cuéntanos).
+- **시제:**
+  - `Cuéntanos` → contar | 명령법 2인칭 단수 긍정 + nos | 친근한 요청 | o→ue 어간 변화(cuenta)
+
+### 76-3. **Carlos:** Dos de ellas usan direcciones IP que rebotan a través de múltiples países, imposibles de rastrear con precisión.
+- **해석:** 그중 두 개는 여러 나라를 거쳐 우회하는 IP 주소를 써서, 정확히 추적하는 게 불가능해요.
+- **주요 단어:** `dirección IP` IP 주소 / `rebotar` (동사) 튕기다, 우회하다 / `múltiple` (형용사) 다수의 / `rastrear` (동사) 추적하다 / `precisión` (여성명사) 정확성
+- **문법:** `imposible de + 부정사` = ~하기 불가능한(수동적 의미). `imposibles`는 direcciones에 일치.
+- **시제:**
+  - `usan` → usar | 직설법 현재 3인칭 복수 | 현재 사용 방식
+  - `rebotan` → rebotar | 직설법 현재 3인칭 복수 | 관계절, 일반적 작동 방식
+  - `rastrear` → rastrear | 부정사 | de 뒤
+
+### 76-4. **Carlos:** Pero la tercera tuvo un error de configuración.
+- **해석:** 하지만 세 번째 계정은 설정 실수를 한 번 했어요.
+- **주요 단어:** `tercero` (서수) 세 번째 / `configuración` (여성명사) 설정
+- **문법:** `la tercera` = la tercera cuenta (명사 생략).
+- **시제:**
+  - `tuvo` → tener | 직설법 단순과거 3인칭 단수 | 특정 시점에 일어난 한 번의 실수라 단순과거 | 불규칙(tuv- 어간)
+
+### 76-5. **Camila:** ¿Qué tipo de error?
+- **해석:** 어떤 실수요?
+- **주요 단어:** `error` (남성명사) 실수
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 76-6. **Carlos:** Se conectó brevemente, hace dos semanas, sin la protección habitual.
+- **해석:** 2주 전에 평소의 보호 장치 없이 잠깐 접속했어요.
+- **주요 단어:** `conectarse` (재귀동사) 접속하다 / `brevemente` (부사) 잠깐 / `hace + 기간` ~ 전에 / `habitual` (형용사) 평소의
+- **문법:** `hace dos semanas` = 2주 전. `sin + 명사`.
+- **시제:**
+  - `Se conectó` → conectarse | 직설법 단순과거 3인칭 단수 | `hace dos semanas`라는 끝난 과거 시점의 일회적 사건이라 단순과거
+  - `hace` → hacer | 직설법 현재 무인칭 | `hace + 시간` 구문으로 "~전"
+
+### 76-7. **Carlos:** La IP real apunta a una ubicación en el sur de Francia.
+- **해석:** 실제 IP는 프랑스 남부의 한 위치를 가리켜요.
+- **주요 단어:** `real` (형용사) 실제의 / `apuntar a` ~을 가리키다 / `ubicación` (여성명사) 위치
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `apunta` → apuntar | 직설법 현재 3인칭 단수 | 현재 분석 결과
+
+### 76-8. **Álvaro:** ¿Tenemos una dirección exacta?
+- **해석:** 정확한 주소가 있나요?
+- **주요 단어:** `dirección` (여성명사) 주소 / `exacto` (형용사) 정확한
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Tenemos` → tener | 직설법 현재 | 현재 확보 여부
+
+### 76-9. **Carlos:** Una zona residencial cerca de Niza.
+- **해석:** 니스 근처의 주택가예요.
+- **주요 단어:** `zona residencial` 주거 지역 / `cerca de` ~근처에
+- **문법:** 특이사항 없음. `Niza` = 니스의 스페인어 표기.
+- **시제:**
+  - 동사 없음
+
+### 76-10. **Carlos:** Estamos coordinando con las autoridades francesas para investigar con discreción.
+- **해석:** 조용히 수사하기 위해 프랑스 당국과 조율 중이에요.
+- **주요 단어:** `coordinar` (동사) 조율하다 / `autoridades` (여성명사 복수) 당국 / `investigar` (동사) 수사하다 / `discreción` (여성명사) 신중함, 은밀함
+- **문법:** `estar + 현재분사` 진행형.
+- **표현:** `con discreción` = 조용히, 눈에 띄지 않게.
+- **시제:**
+  - `Estamos` → estar | 직설법 현재 1인칭 복수 | 진행형 조동사
+  - `coordinando` → coordinar | 현재분사 | 지금 진행 중인 작업
+  - `investigar` → investigar | 부정사 | para 뒤
+
+### 76-11. **Camila:** Después de Ginebra, dudo que siga ahí si de verdad es él.
+- **해석:** 제네바 일 이후라면, 정말 그 사람이라 해도 아직 거기 있을지 의문이에요.
+- **주요 단어:** `dudar` (동사) 의심하다 / `seguir` (동사) 계속 ~에 있다 / `de verdad` 정말로
+- **문법:** `dudar que + 접속법`(의심). `si + 직설법` 조건.
+- **시제:**
+  - `dudo` → dudar | 직설법 현재 1인칭 단수 | 현재의 의심
+  - `siga` → seguir | 접속법 현재 3인칭 단수 | 의심·불확실 표현 뒤라 접속법 | e→i 어간 변화 + gu→g (siga)
+  - `es` → ser | 직설법 현재 | si 조건절은 직설법
+
+### 76-12. **Carlos:** Es posible que no, pero cualquier persona conectada a esa dirección podría darnos información valiosa, aunque no sea él directamente.
+- **해석:** 아닐 수도 있죠. 하지만 그 주소와 연결된 사람이라면 누구든, 그 사람 본인이 아니더라도 귀중한 정보를 줄 수 있어요.
+- **주요 단어:** `posible` (형용사) 가능한 / `cualquier` 어떤 ~이든 / `conectado` (과거분사) 연결된 / `valioso` (형용사) 귀중한 / `directamente` (부사) 직접
+- **문법:** `es posible que + 접속법`(여기선 동사 생략: que no [siga]). `aunque + 접속법` = 가정적 양보(~일지라도, 사실 여부 불확실).
+- **표현:** `Es posible que no` = "아닐 수도 있죠".
+- **시제:**
+  - `Es` → ser | 직설법 현재 | 무인칭 판단
+  - `conectada` → conectar | 과거분사 여성 단수 | persona 수식
+  - `podría` → poder | 조건법 | 가능성
+  - `darnos` → dar | 부정사 + nos
+  - `sea` → ser | 접속법 현재 3인칭 단수 | aunque 뒤, 불확실한 가정이라 접속법(직설법 es면 "그가 아니긴 하지만"이라는 사실 인정)
+
+### 76-13. **Álvaro:** ¿Cuándo se ejecutaría alguna acción?
+- **해석:** 조치는 언제 실행될까요?
+- **주요 단어:** `ejecutar` (동사) 실행하다 / `acción` (여성명사) 조치, 작전
+- **문법:** `se` 수동 (pasiva refleja): 주어 alguna acción.
+- **시제:**
+  - `se ejecutaría` → ejecutar | 조건법 단순형 3인칭 단수 (수동 se) | 아직 결정되지 않은 가정적 일에 대한 조심스러운 질문
+
+### 76-14. **Carlos:** Vigilancia discreta primero, esta semana.
+- **해석:** 먼저 이번 주에 조용히 감시부터 해요.
+- **주요 단어:** `vigilancia` (여성명사) 감시 / `discreto` (형용사) 눈에 띄지 않는 / `primero` 먼저
+- **문법:** 동사 생략 문장.
+- **시제:**
+  - 동사 없음
+
+### 76-15. **Carlos:** Nada de intervención directa todavía, hasta confirmar quién vive realmente ahí.
+- **해석:** 거기 실제로 누가 사는지 확인할 때까지는 아직 직접 개입은 없어요.
+- **주요 단어:** `nada de` ~은 전혀 없다 / `intervención` (여성명사) 개입 / `todavía` 아직 / `confirmar` 확인하다 / `vivir` 살다
+- **문법:** `hasta + 부정사` = ~할 때까지(주어가 같을 때). `quién` 간접의문.
+- **표현:** `Nada de + 명사` = "~은 금지/없음"(구어적 단호함).
+- **시제:**
+  - `confirmar` → confirmar | 부정사 | hasta 뒤
+  - `vive` → vivir | 직설법 현재 3인칭 단수 | 현재 거주 사실
+
+### 76-16. **Camila:** Con cuidado, entonces.
+- **해석:** 그럼 조심해서요.
+- **주요 단어:** `cuidado` (남성명사) 조심 / `entonces` 그럼
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 76-17. **Camila:** Como siempre.
+- **해석:** 늘 그랬듯이요.
+- **주요 단어:** `siempre` 항상
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 76-18. **Carlos:** Como siempre.
+- **해석:** 늘 그렇듯이.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음.
+- **표현:** 상대 말을 그대로 되받아 공감·다짐을 표현.
+- **시제:**
+  - 동사 없음

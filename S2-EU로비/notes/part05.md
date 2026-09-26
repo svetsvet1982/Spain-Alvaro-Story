@@ -283,3 +283,133 @@
 - **표현:** 회의·재판 정회 정형 문구.
 - **시제:**
   - `Se suspende` → suspender | 직설법 현재 3인칭 단수 | 말하는 순간 이루어지는 선언 | 규칙
+
+## 장면 20. 증언 준비
+> 몇 주 후, 카밀라가 벨기에 재판을 위한 증언 준비 과정에서 변호사와 상세히 논의합니다.
+
+### 20-1. **Abogada:** (Abogada de la fiscalía belga) Camila, necesitamos repasar su testimonio con mucho cuidado antes de la vista.
+- **해석:** (벨기에 검찰 측 변호사) 카밀라, 공판 전에 당신의 증언을 아주 꼼꼼하게 검토해야 합니다.
+- **주요 단어:** `abogada` (여성명사) 변호사 / `fiscalía` (여성명사) 검찰 / `repasar` (동사) 복습·검토하다 / `testimonio` (남성명사) 증언 / `cuidado` (남성명사) 주의 / `vista` (여성명사) 공판, 심리
+- **문법:** necesitar + 부정사(주어 동일). su = usted의 소유형용사(존칭 사용).
+- **표현:** la vista = 법률 용어로 "공판·심리"(일상적 의미 '시야'와 구별).
+- **시제:**
+  - `necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요 | 규칙
+  - `repasar` → 부정사 | necesitar 뒤
+
+### 20-2. **Camila:** Estoy preparada.
+- **해석:** 준비됐어요.
+- **주요 단어:** `preparado/a` (형용사) 준비된
+- **문법:** estar + 과거분사 = 결과 상태. 화자가 여성이라 preparada.
+- **시제:**
+  - `Estoy` → estar | 직설법 현재 1인칭 단수 | 현재 상태 | 앞에서 설명
+  - `preparada` → preparar | 과거분사 (여성 단수) | 형용사적 상태 | 규칙
+
+### 20-3. **Camila:** He pasado por esto antes, con el caso de Rigoberto.
+- **해석:** 전에 리고베르토 사건 때 이런 일을 겪어 봤어요.
+- **주요 단어:** `pasar por` ~을 겪다 / `antes` (부사) 이전에 / `caso` 앞에서 설명
+- **문법:** pasar por + 경험·과정 = "~을 거치다, 겪다".
+- **시제:**
+  - `He pasado` → pasar | 직설법 현재완료 1인칭 단수 | 시점이 아닌 "경험"(지금까지 해 본 적 있음)을 말하므로 현재완료 | haber(he) + pasado. 스페인 스페인어에서 경험 표현은 현재완료가 일반적
+
+### 20-4. **Abogada:** Lo sé, y eso ayuda.
+- **해석:** 알아요, 그리고 그게 도움이 되죠.
+- **주요 단어:** `ayudar` (동사) 돕다
+- **문법:** lo = 앞 문장 내용 전체를 받는 중성 대명사. eso = 중성 지시대명사.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `ayuda` → ayudar | 직설법 현재 3인칭 단수 | 현재에도 유효한 사실 | 규칙
+
+### 20-5. **Abogada:** Aunque esta vez el contexto es distinto: corrupción institucional, no solo criminalidad organizada tradicional.
+- **해석:** 다만 이번에는 맥락이 달라요. 전통적인 조직범죄만이 아니라 제도적 부패니까요.
+- **주요 단어:** `aunque` (접속사) ~이지만, 다만 / `contexto` (남성명사) 맥락 / `criminalidad organizada` 조직범죄 / `tradicional` (형용사) 전통적인
+- **문법:** aunque + 직설법 = 실제 사실을 양보로 제시("~이긴 하지만"). 여기서는 문장 앞에서 "다만"처럼 앞말을 보완. 접속법이면 가정·불확실.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 본질적 차이 평가 | 앞에서 설명
+
+### 20-6. **Camila:** ¿Qué diferencia hay en cómo debo declarar?
+- **해석:** 제가 증언하는 방식에서 어떤 차이가 있나요?
+- **주요 단어:** `diferencia` (여성명사) 차이 / `deber` (동사) ~해야 하다 / `declarar` (동사) 진술·증언하다
+- **문법:** hay (haber 비인칭 존재). 전치사 en + 간접의문 cómo...(강세 유지).
+- **시제:**
+  - `hay` → haber | 직설법 현재 3인칭 단수(비인칭) | 존재 표현 | 불규칙 특수형 hay
+  - `debo` → deber | 직설법 현재 1인칭 단수 | 의무 | 규칙
+  - `declarar` → 부정사 | deber 뒤
+
+### 20-7. **Abogada:** Necesitamos que sea muy precisa sobre las palabras exactas de Roselló, especialmente cuando mencionó “incentivos discretos” para eurodiputados.
+- **해석:** 로셀요가 한 정확한 말에 대해, 특히 유럽의회 의원들을 위한 "은밀한 인센티브"를 언급했을 때에 대해 아주 정확하게 말해 주셔야 해요.
+- **주요 단어:** `preciso` (형용사) 정확한 / `exacto` (형용사) 정확한 / `especialmente` (부사) 특히 / `mencionar` (동사) 언급하다 / `incentivo` (남성명사) 인센티브 / `discreto` (형용사) 은밀한, 신중한
+- **문법:** necesitar que + **접속법**: 주절과 종속절 주어가 다르고(우리 → 당신) 필요·요구를 나타내므로 접속법(sea). cuando + 과거 사실은 직설법.
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 앞에서 설명
+  - `sea` → ser | 접속법 현재 3인칭 단수 (usted) | 요구·필요 표현 뒤 | 불규칙 (se-)
+  - `mencionó` → mencionar | 직설법 단순과거 3인칭 단수 | 과거 특정 대화 시점의 완결된 발언 | 규칙
+
+### 20-8. **Camila:** Recuerdo la conversación con mucha claridad, se lo aseguro.
+- **해석:** 그 대화를 아주 선명하게 기억해요, 장담해요.
+- **주요 단어:** `recordar` (동사) 기억하다 / `claridad` (여성명사) 명료함 / `asegurar` (동사) 보장하다, 장담하다
+- **문법:** se lo aseguro: 간접목적 le(usted에게)가 직접목적 lo 앞에서 se로 바뀜(le lo → se lo). lo = 앞 내용.
+- **표현:** Se lo aseguro = "정말이에요, 장담합니다"(존칭).
+- **시제:**
+  - `Recuerdo` → recordar | 직설법 현재 1인칭 단수 | 현재의 기억 상태 | 어간모음변화 o→ue
+  - `aseguro` → asegurar | 직설법 현재 1인칭 단수 | 말하는 순간의 확언 | 규칙
+
+### 20-9. **Abogada:** Perfecto.
+- **해석:** 좋아요.
+- **주요 단어:** `perfecto` (형용사) 완벽한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 20-10. **Abogada:** También esperamos que la defensa intente cuestionar su credibilidad, dado que actuó bajo identidad falsa.
+- **해석:** 또한 당신이 가짜 신분으로 활동했기 때문에 변호인 측이 당신의 신뢰성을 문제 삼으려 할 것으로 예상합니다.
+- **주요 단어:** `esperar` (동사) 예상하다, 기대하다 / `defensa` (여성명사) 변호인 측 / `intentar` (동사) 시도하다 / `cuestionar` (동사) 의문을 제기하다 / `credibilidad` (여성명사) 신뢰성 / `dado que` ~이므로 / `actuar` (동사) 행동하다 / `bajo` (전치사) ~하에
+- **문법:** esperar que + **접속법**(intente): 기대·예상 동사 뒤. dado que + 직설법 = 이미 알려진 이유.
+- **시제:**
+  - `esperamos` → esperar | 직설법 현재 1인칭 복수 | 현재의 예상 | 규칙
+  - `intente` → intentar | 접속법 현재 3인칭 단수 | esperar que 뒤 접속법, 미래의 일 | 규칙 (-ar → -e)
+  - `cuestionar` → 부정사 | intentar 뒤
+  - `dado` → dar | 과거분사 (접속사구 dado que의 일부) | 고정 표현 | 규칙형 dado
+  - `actuó` → actuar | 직설법 단순과거 3인칭 단수 (usted) | 과거의 완결된 잠입 활동 | 강세 표기(actuó, 현재형 actúa)
+
+### 20-11. **Camila:** Estoy preparada para eso también.
+- **해석:** 그것에도 준비돼 있어요.
+- **주요 단어:** `preparado para` ~에 대비된
+- **문법:** estar preparado/a para + 명사/부정사.
+- **시제:**
+  - `Estoy` → estar | 앞에서 설명
+  - `preparada` → preparar | 과거분사 | 앞에서 설명
+
+### 20-12. **Abogada:** ¿Cómo maneja la presión de un interrogatorio hostil, después de todo lo que ha vivido?
+- **해석:** 그동안 겪은 모든 일 이후에, 적대적인 신문의 압박은 어떻게 감당하세요?
+- **주요 단어:** `manejar` (동사) 다루다, 감당하다 / `presión` (여성명사) 압박 / `interrogatorio` (남성명사) 신문 / `hostil` (형용사) 적대적인 / `vivir` (동사) 겪다, 살다
+- **문법:** todo lo que = "~한 모든 것"(중성 관계구문). después de + 명사구.
+- **시제:**
+  - `maneja` → manejar | 직설법 현재 3인칭 단수 (usted) | 평소의 대처 방식(습관적 현재) | 규칙
+  - `ha vivido` → vivir | 직설법 현재완료 3인칭 단수 (usted) | 지금까지 겪어 온 경험 전체, 현재에 영향 | haber(ha) + vivido
+
+### 20-13. **Camila:** Con la misma calma que aprendí a mantener durante tres años trabajando para gente peligrosa, sin que se dieran cuenta de mi miedo.
+- **해석:** 위험한 사람들 밑에서 3년 동안 일하면서, 그들이 제 두려움을 눈치채지 못하게 유지하는 법을 배웠던 바로 그 침착함으로요.
+- **주요 단어:** `mismo` (형용사) 같은 / `calma` (여성명사) 침착함 / `aprender a` ~하는 법을 배우다 / `mantener` (동사) 유지하다 / `peligroso` (형용사) 위험한 / `darse cuenta de` 깨닫다, 눈치채다
+- **문법:** la misma + 명사 + que = "~한 것과 같은". sin que + **항상 접속법**. 주절 과거(aprendí)에 맞춰 접속법 불완료과거(dieran). gente는 단수 집합명사지만 뒤 동사는 의미상 복수(se dieran)로 받음.
+- **시제:**
+  - `aprendí` → aprender | 직설법 단순과거 1인칭 단수 | 3년이라는 한정된 기간의 결과로 익힌 것 — 기간이 명시되어도 전체를 묶어 완결로 봄 | 규칙
+  - `mantener` → 부정사 | aprender a 뒤 | (tener형 불규칙: mantengo, mantuve)
+  - `trabajando` → trabajar | 현재분사 | 그 기간 동안 동시에 진행되던 상황 | 규칙
+  - `se dieran` → darse | 접속법 불완료과거 3인칭 복수 | sin que 뒤 접속법, 과거 문맥 | 단순과거 3복 dieron → dieran (dar 불규칙 단순과거 di, diste, dio...). diesen도 가능
+
+### 20-14. **Abogada:** Esa experiencia, aunque dolorosa, la ha preparado mejor que a la mayoría de testigos que veo.
+- **해석:** 그 경험은 고통스럽긴 했지만, 제가 보는 대부분의 증인들보다 당신을 더 잘 준비시켰어요.
+- **주요 단어:** `experiencia` (여성명사) 경험 / `doloroso` (형용사) 고통스러운 / `preparar` (동사) 준비시키다 / `mayoría` (여성명사) 대부분 / `testigo` (명사) 증인
+- **문법:** aunque dolorosa = 동사 생략(aunque fue/es dolorosa). la = usted(여성) 직접목적 대명사. 비교 대상도 사람 직접목적어라 인칭 a 반복(que a la mayoría).
+- **시제:**
+  - `ha preparado` → preparar | 직설법 현재완료 3인칭 단수 | 과거 경험이 현재의 준비 상태로 이어짐 | haber(ha) + preparado
+  - `veo` → ver | 직설법 현재 1인칭 단수 | 직업상 습관적으로 보는 것 | 불규칙 1인칭 veo
+
+### 20-15. **Camila:** Prefiero pensar que ese dolor por fin sirve para algo bueno.
+- **해석:** 그 고통이 마침내 뭔가 좋은 일에 쓰인다고 생각하고 싶어요.
+- **주요 단어:** `preferir` (동사) 선호하다 / `pensar` (동사) 생각하다 / `dolor` (남성명사) 고통 / `por fin` 마침내 / `servir para` ~에 쓸모가 있다
+- **문법:** preferir + 부정사(주어 동일). pensar que + 직설법(긍정 사고동사).
+- **표현:** Prefiero pensar que... = "~라고 여기고 싶다"(긍정적으로 해석하려는 태도).
+- **시제:**
+  - `Prefiero` → preferir | 직설법 현재 1인칭 단수 | 현재의 선택 | 어간모음변화 e→ie
+  - `pensar` → 부정사 | preferir 뒤
+  - `sirve` → servir | 직설법 현재 3인칭 단수 | 현재의 의미 부여 | 어간모음변화 e→i

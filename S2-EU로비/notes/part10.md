@@ -321,3 +321,133 @@
 - **시제:**
   - `tendré` → tener | 직설법 단순미래, 1인칭 단수 | 앞으로 지키겠다는 약속 | 불규칙: 어간 tendr-
 
+## 장면 43. 익명의 협박 메시지
+> 며칠 후, 카밀라가 익명의 메시지를 받으며 위협이 재개됩니다.
+
+### 43-1. **Camila:** (Llama a Álvaro, con la voz alterada) Álvaro, acabo de recibir un mensaje anónimo.
+- **해석:** (떨리는 목소리로 알바로에게 전화한다) 알바로, 방금 익명의 메시지를 받았어.
+- **주요 단어:** `llamar` (동사) 전화하다 / `voz` (명사, 여) 목소리 / `alterado` (형용사) 동요한, 흥분한 / `recibir` (동사) 받다 / `anónimo` (형용사) 익명의
+- **문법:** `acabar de` + 부정사: "방금 ~했다". `llamar a` + 사람(인칭 a).
+- **표현:** `con la voz alterada`: "동요한 목소리로".
+- **시제:**
+  - `Llama` → llamar | 직설법 현재, 3인칭 단수 | 지문은 현재형으로 동작을 묘사(무대 지시문 관습) | 규칙
+  - `alterada` → alterar | 과거분사, 여성 단수 | `voz`를 수식하는 형용사 역할 | 규칙
+  - `acabo` → acabar | 직설법 현재, 1인칭 단수 | `acabar de + 부정사` 구문은 현재형으로 "막 ~했다"(아주 가까운 과거)를 표현 | 규칙
+  - `recibir` → recibir | 부정사 | `acabar de` 뒤 | 규칙
+  - 비교: `he recibido`(현재완료)보다 `acabo de recibir`가 "바로 방금"이라는 즉시성이 강함.
+
+### 43-2. **Álvaro:** ¿Qué decía?
+- **해석:** 뭐라고 써 있었어?
+- **주요 단어:** `decir` (동사) 말하다 → (글이) ~라고 쓰여 있다
+- **문법:** 무생물 주어(메시지) + `decir`: "~라고 적혀 있다".
+- **시제:**
+  - `decía` → decir | 직설법 불완료과거 pretérito imperfecto, 3인칭 단수 | 메시지의 '내용'(과거의 상태·묘사)을 묻기 때문에 불완료과거 | 불완료과거는 규칙형(decía), 다른 시제는 불규칙
+  - 비교: `¿Qué dijo?`(단순과거)는 사람이 한 번 한 발언에 적합하고, 글의 내용 묘사에는 `decía`가 자연스러움.
+
+### 43-3. **Camila:** "Las contables que hablan demasiado, terminan mal.
+- **해석:** "말이 너무 많은 회계사들은 끝이 좋지 않지.
+- **주요 단어:** `contable` (명사, 남녀공용) 회계사 (여기선 여성형 관사 las) / `hablar` (동사) 말하다 / `terminar` (동사) 끝나다 / `mal` (부사) 나쁘게
+- **문법:** 제한적 관계절 `que hablan demasiado`. 일반적 진술(격언 형태)이므로 현재형.
+- **표현:** `terminar mal`: "험한 꼴을 당하다, 끝이 안 좋다" — 협박 문구의 완곡 표현. `las contables`로 카밀라(여성)를 겨냥.
+- **시제:**
+  - `hablan` → hablar | 직설법 현재, 3인칭 복수 | 일반적·습관적 진술 | 규칙
+  - `terminan` → terminar | 직설법 현재, 3인칭 복수 | 격언처럼 '늘 그렇다'는 일반 진리 현재로 위협 | 규칙
+
+### 43-4. **Camila:** Piense en su hermano."
+- **해석:** 동생을 생각하시오."
+- **주요 단어:** `pensar en` ~을 생각하다 / `hermano` (명사, 남) 형제
+- **문법:** usted에 대한 명령형 = 접속법 현재형. `pensar en`: 전치사 en과 함께.
+- **표현:** 존댓말(usted)로 쓴 차갑고 격식적인 협박 — 거리감이 오히려 위협을 강화.
+- **시제:**
+  - `Piense` → pensar | 명령법(usted 긍정, 형태는 접속법 현재 3인칭 단수) | 상대에게 요구·경고 | 불규칙: 어간 e→ie (pienso → piense)
+
+### 43-5. **Álvaro:** (Se le hiela la sangre) Voy para allá ahora mismo.
+- **해석:** (피가 얼어붙는다) 지금 바로 그리로 갈게.
+- **주요 단어:** `helarse` (동사) 얼어붙다 / `sangre` (명사, 여) 피 / `para allá` 그쪽으로
+- **문법:** `se le hiela la sangre`: 비의도적 사건을 나타내는 `se` + 간접목적어 `le`(영향 받는 사람) 구문. 주어는 `la sangre`.
+- **표현:** `helarse la sangre`: "(공포로) 피가 얼어붙다, 소름 끼치다". `Voy para allá`: "그쪽으로 간다" — 스페인 구어.
+- **시제:**
+  - `hiela` → helar(se) | 직설법 현재, 3인칭 단수 | 지문의 현재형 묘사 | 불규칙: 어간 e→ie
+  - `Voy` → ir | 직설법 현재, 1인칭 단수 | 곧 할 행동을 현재형으로(즉시 출발의 결의) | 불규칙
+
+### 43-6. **Camila:** (Con la voz temblorosa) ¿Es Roselló?
+- **해석:** (떨리는 목소리로) 로셀로야?
+- **주요 단어:** `tembloroso` (형용사) 떨리는 (← temblar)
+- **문법:** 신원 확인은 ser.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 정체를 묻는 현재 | 불규칙
+
+### 43-7. **Camila:** ¿Sabe que estoy ayudando con esto?
+- **해석:** 내가 이 일을 돕고 있다는 걸 그가 알아?
+- **주요 단어:** `saber` (동사) 알다 / `ayudar con` ~을 돕다
+- **문법:** `saber que` + 직설법(사실의 인지). `estar` + 현재분사 = 진행형.
+- **시제:**
+  - `Sabe` → saber | 직설법 현재, 3인칭 단수 | 현재 알고 있는지 여부 | 불규칙(1인칭 sé)
+  - `estoy ayudando` → ayudar | 현재진행형(estar 직설법 현재 1인칭 단수 + 현재분사) | 지금 계속 진행 중인 활동 강조 | 규칙
+  - 참고: `saber que` 뒤는 사실이므로 접속법이 아닌 직설법.
+
+### 43-8. **Álvaro:** Es muy probable.
+- **해석:** 그럴 가능성이 아주 높아.
+- **주요 단어:** `probable` (형용사) 개연성 있는
+- **문법:** 주어 생략(그것은). `Es probable que` + 접속법 구문의 축약형.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 현재의 판단 | 불규칙
+
+### 43-9. **Álvaro:** Voy a llamar a Carlos para reforzar tu protección de inmediato.
+- **해석:** 당장 네 보호를 강화하도록 카를로스에게 전화할게.
+- **주요 단어:** `reforzar` (동사) 강화하다 / `protección` (명사, 여) 보호 / `de inmediato` 즉시
+- **문법:** `ir a` + 부정사(가까운 미래). `para` + 부정사: 목적. `llamar a Carlos`: 인칭 a.
+- **시제:**
+  - `Voy` → ir | 직설법 현재, 1인칭 단수 | `ir a` 우언적 미래로 곧 할 행동 | 불규칙
+  - `llamar` → llamar | 부정사 | `ir a` 뒤 | 규칙
+  - `reforzar` → reforzar | 부정사 | `para` 뒤 목적 | 불규칙: o→ue (refuerzo), 철자 z→c (refuercé)
+
+### 43-10. **Camila:** Pensé que esto había terminado, con Rigoberto en prisión.
+- **해석:** 리고베르토가 감옥에 갔으니 이건 끝난 줄 알았어.
+- **주요 단어:** `pensar` (동사) 생각하다 / `terminar` (동사) 끝나다 / `prisión` (명사, 여) 감옥
+- **문법:** 시제 일치: 과거 주절(pensé) + 그보다 앞선 일은 과거완료(había terminado). `con` + 명사 + 상황: "~인 상태로(이유)".
+- **표현:** `Pensé que...`: "~인 줄 알았는데(아니었다)" — 기대가 깨졌음을 표현.
+- **시제:**
+  - `Pensé` → pensar | 직설법 단순과거, 1인칭 단수 | 과거 한 시점의 판단(이제 그렇지 않음) | 1인칭 단수 과거는 규칙형
+  - `había terminado` → terminar | 직설법 과거완료 pretérito pluscuamperfecto, 3인칭 단수 | '생각했던 시점'보다 더 이전에 이미 끝났다고 여긴 일 → 과거의 과거 | 규칙
+  - 비교: `pensaba`(불완료과거)는 "계속 그렇게 믿고 있었다"는 지속, `pensé`는 그 믿음을 하나의 완결된 사실로 제시.
+
+### 43-11. **Álvaro:** Esta es una red distinta, aunque conectada.
+- **해석:** 이건 다른 조직이야, 연결돼 있긴 하지만.
+- **주요 단어:** `red` (명사, 여) 네트워크, 조직망 / `distinto` (형용사) 다른 / `conectado` (형용사, ← conectar) 연결된
+- **문법:** `aunque` + 형용사(동사 생략): "~이긴 하지만". 지시대명사 `esta`는 `red`에 성 일치.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 정체·성격 규정 | 불규칙
+  - `conectada` → conectar | 과거분사, 여성 단수 | 형용사로 `red` 수식 | 규칙
+
+### 43-12. **Álvaro:** Y esta vez, no voy a dejar que te pase nada.
+- **해석:** 그리고 이번엔 너한테 아무 일도 일어나지 않게 할 거야.
+- **주요 단어:** `vez` (명사, 여) 번 / `dejar` (동사) 허락하다, 내버려두다 / `pasar` (동사) (일이) 일어나다 / `nada` (대명사) 아무것도
+- **문법:** `dejar que` + 접속법(허용·방지 동사). `no ... nada` 이중부정(스페인어에선 정상). `te` = 간접목적어("너에게").
+- **표현:** `no voy a dejar que te pase nada`: 보호 의지를 표현하는 정형화된 문장. `esta vez`: 지난번(납치 사건)과 대비.
+- **시제:**
+  - `voy` → ir | 직설법 현재, 1인칭 단수 | `ir a` 우언적 미래로 결의 표현 | 불규칙
+  - `dejar` → dejar | 부정사 | `ir a` 뒤 | 규칙
+  - `pase` → pasar | 접속법 현재, 3인칭 단수 | `dejar que`(허용) 뒤 종속절 + 아직 일어나지 않은 일이라 접속법 | 규칙
+  - 비교: `dejar que te pase`(접속법) 대신 `dejarte pasar`는 "너를 지나가게 하다"로 전혀 다른 뜻.
+
+### 43-13. **Camila:** (Respira hondo, intentando calmarse) Confío en ti, Álvaro.
+- **해석:** (마음을 가라앉히려 애쓰며 숨을 깊이 들이쉰다) 널 믿어, 알바로.
+- **주요 단어:** `respirar` (동사) 숨 쉬다 / `hondo` (부사) 깊이 / `intentar` (동사) 시도하다 / `calmarse` (재귀동사) 진정하다 / `confiar en` ~을 믿다
+- **문법:** 재귀대명사가 부정사 뒤에 붙음(calmarse). `confiar en` + 전치격 대명사 `ti`.
+- **표현:** `respirar hondo`: "심호흡하다". `hondo`는 형용사 형태지만 부사로 쓰임.
+- **시제:**
+  - `Respira` → respirar | 직설법 현재, 3인칭 단수 | 지문의 현재형 묘사 | 규칙
+  - `intentando` → intentar | 현재분사 | 동시 진행 동작(~하려 애쓰며) | 규칙
+  - `calmarse` → calmarse | 부정사(재귀) | `intentar` 뒤 목적어 | 규칙
+  - `Confío` → confiar | 직설법 현재, 1인칭 단수 | 현재의 신뢰 | 강세 주의: confío, confías, confía (í에 강세 부호)
+
+### 43-14. **Álvaro:** Aguanta, ya casi llego.
+- **해석:** 조금만 버텨, 거의 다 왔어.
+- **주요 단어:** `aguantar` (동사) 견디다, 버티다 / `casi` (부사) 거의 / `llegar` (동사) 도착하다
+- **문법:** tú 긍정 명령형 `aguanta`. `ya casi` + 현재형: "이제 거의 ~한다".
+- **표현:** `Aguanta`: "버텨, 조금만 참아". `Ya casi llego`: "거의 다 왔어" — 이동 중 흔히 쓰는 구어.
+- **시제:**
+  - `Aguanta` → aguantar | 명령법, 2인칭 단수(tú) 긍정 | 격려·지시 | 규칙(tú 긍정 명령 = 직설법 현재 3인칭 단수형)
+  - `llego` → llegar | 직설법 현재, 1인칭 단수 | 임박한 미래를 현재형으로 표현(확실하고 곧 일어날 일) | 규칙(철자 변화: 단순과거 1인칭 llegué)
+

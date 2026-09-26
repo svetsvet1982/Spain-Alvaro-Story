@@ -395,3 +395,150 @@
   - `podría` → poder | 조건법 단순 3인칭 단수 | 조심스러운 기대·추측 | 불규칙 어간 podr-
   - `ser` → ser | 부정사 | poder 뒤
 
+## 장면 11. 벨기에·스페인 공조 회의
+> 며칠 후, 카를로스가 벨기에·스페인 당국과의 공조 회의를 주선합니다. 알바로와 하비에르가 배석합니다.
+
+### 11-1. **Carlos:** Gracias a todos por la rapidez en organizar esto.
+- **해석:** 이 자리를 빠르게 마련해 주셔서 모두 감사합니다.
+- **주요 단어:** `rapidez` (여성명사) 신속함 / `organizar` (동사) 조직하다, 마련하다
+- **문법:** `gracias por + 명사` ~에 대해 감사. `en + 부정사` ~하는 데 있어서.
+- **시제:**
+  - `organizar` → organizar | 부정사 | 전치사 en 뒤 명사적 용법 | 규칙
+
+### 11-2. **Carlos:** Tenemos una oportunidad única de conectar años de investigación fragmentada.
+- **해석:** 수년간 조각나 있던 수사를 하나로 연결할 유일한 기회가 왔습니다.
+- **주요 단어:** `único` (형용사) 유일한, 특별한 / `conectar` (동사) 연결하다 / `investigación` (여성명사) 수사, 조사 / `fragmentado` (과거분사→형용사) 조각난
+- **문법:** `oportunidad de + 부정사` ~할 기회. fragmentada는 investigación(여성)에 일치.
+- **시제:**
+  - `Tenemos` → tener | 직설법 현재 1인칭 복수 | 현재 주어진 상황 | 불규칙
+  - `conectar` → conectar | 부정사 | 전치사 de 뒤
+  - `fragmentada` → fragmentar | 과거분사 (형용사 용법) | 이미 쪼개진 상태 | 규칙
+
+### 11-3. **Inspectora:** (Representante belga) Nuestra fiscalía especializada en corrupción ya tenía sospechas sobre Meridian, aunque sin pruebas suficientes para actuar.
+- **해석:** (벨기에 대표) 저희 반부패 전담 검찰은 이미 메리디안을 의심하고 있었지만, 조치를 취할 만한 충분한 증거는 없었습니다.
+- **주요 단어:** `representante` (명사) 대표 / `especializado` (과거분사→형용사) 전문화된 / `corrupción` (여성명사) 부패 / `sospecha` (여성명사) 의심 / `suficiente` (형용사) 충분한 / `actuar` 앞에서 설명
+- **문법:** `especializada en` ~전문의. `aunque + sin + 명사`로 동사를 생략한 양보 표현. `para + 부정사` 목적.
+- **표현:** `fiscalía especializada en corrupción` 반부패 전담 검찰.
+- **시제:**
+  - `especializada` → especializar | 과거분사 (형용사 용법) | 상태 | 규칙
+  - `tenía` → tener | 직설법 불완료과거 3인칭 단수 (pretérito imperfecto) | 과거에 지속되던 상태(의심을 품고 있었음) | 불완료과거는 규칙형(tenía)
+  - `actuar` → actuar | 부정사 | para 뒤
+  - 비교: tuvo sospechas(단순과거)라면 "의심을 품게 됐다"는 한 시점의 사건. 여기선 지속 상태라 불완료과거
+
+### 11-4. **Carlos:** Con la identificación de Roselló, y la conexión con el caso de Ferrán en España, creemos que ahora hay base suficiente.
+- **해석:** 로셀요의 신원 확인, 그리고 스페인의 페란 사건과의 연결고리가 있으니, 이제 충분한 근거가 있다고 봅니다.
+- **주요 단어:** `identificación` (여성명사) 신원 확인 / `conexión` (여성명사) 연결 / `creer` 앞에서 설명 / `base` (여성명사) 근거, 기반
+- **문법:** `creer que + 직설법` (긍정 믿음은 직설법; no creer que면 접속법). `hay` 존재 표현.
+- **시제:**
+  - `creemos` → creer | 직설법 현재 1인칭 복수 | 현재의 판단 | 규칙
+  - `hay` → haber | 직설법 현재 3인칭 단수 (비인칭) | 존재 표현 | 불규칙 특수형(hay)
+
+### 11-5. **Inspectora:** ¿Qué tipo de evidencia tienen exactamente?
+- **해석:** 정확히 어떤 종류의 증거를 갖고 계신가요?
+- **주요 단어:** `tipo` (남성명사) 종류 / `evidencia` (여성명사) 증거
+- **문법:** `qué tipo de + 명사`. ustedes 형태(tienen)로 격식 있게 질문.
+- **시제:**
+  - `tienen` → tener | 직설법 현재 3인칭 복수 (ustedes) | 현재 보유 | 불규칙 (e→ie)
+
+### 11-6. **Álvaro:** Documentación de la red de sociedades pantalla en España, fotografía confirmada de Roselló, y testimonio directo de una infiltrada dentro de Meridian.
+- **해석:** 스페인 내 페이퍼컴퍼니 네트워크에 관한 문서, 확인된 로셀요의 사진, 그리고 메리디안 내부에 잠입한 사람의 직접 증언입니다.
+- **주요 단어:** `documentación` (여성명사) 문서 자료 / `red` (여성명사) 네트워크 / `sociedad pantalla` 페이퍼컴퍼니 / `testimonio` (남성명사) 증언 / `infiltrado/a` (명사) 잠입자 / `dentro de` ~안에
+- **문법:** 동사 없이 명사구 나열. `sociedades pantalla` — 복합명사에서 두 번째 명사(pantalla)는 복수형이 되지 않음.
+- **표현:** `sociedad pantalla` 유령회사(직역: 스크린 회사).
+- **시제:**
+  - `confirmada` → confirmar | 과거분사 (형용사 용법) | 앞에서 설명
+  - (infiltrada는 과거분사에서 온 명사 — infiltrar의 과거분사형이 명사화)
+
+### 11-7. **Inspectora:** Eso es considerablemente más de lo que teníamos hasta ahora.
+- **해석:** 그건 저희가 지금까지 갖고 있던 것보다 훨씬 많군요.
+- **주요 단어:** `considerablemente` (부사) 상당히 / `hasta ahora` 지금까지
+- **문법:** `más de lo que` — 비교 대상이 절일 때 más que가 아니라 `más de lo que`.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 불규칙
+  - `teníamos` → tener | 직설법 불완료과거 1인칭 복수 | 과거부터 지금까지 지속된 보유 상태 | 규칙형(tenía-)
+
+### 11-8. **Javier:** También tenemos registros de reuniones entre Meridian y al menos tres eurodiputados, coincidiendo con enmiendas específicas a la directiva.
+- **해석:** 메리디안과 최소 세 명의 유럽의회 의원 사이의 회의 기록도 있는데, 지침에 대한 특정 수정안들과 시기가 겹칩니다.
+- **주요 단어:** `registro` (남성명사) 기록 / `reunión` (여성명사) 회의 / `al menos` 적어도 / `coincidir` (동사) 일치하다, 겹치다 / `enmienda` (여성명사) 수정안 / `específico` (형용사) 특정한 / `directiva` (여성명사) (EU) 지침
+- **문법:** 현재분사 coincidiendo가 부대 상황(~와 겹치면서)을 나타냄. `coincidir con` ~와 일치하다.
+- **표현:** `directiva` EU 지침(directive).
+- **시제:**
+  - `tenemos` → tener | 앞에서 설명
+  - `coincidiendo` → coincidir | 현재분사 | 동시성·부대상황 설명 | 규칙 (-ir → -iendo)
+
+### 11-9. **Inspectora:** Necesitaríamos formalizar todo esto para poder actuar judicialmente, sin comprometer a su infiltrada.
+- **해석:** 사법 조치를 취하려면 이 모든 걸 공식화해야 할 겁니다. 물론 잠입자를 위험에 빠뜨리지 않으면서요.
+- **주요 단어:** `formalizar` (동사) 공식화하다 / `judicialmente` (부사) 사법적으로 / `comprometer` (동사) 위태롭게 하다, 노출시키다
+- **문법:** `para + 부정사`, `sin + 부정사`. 사람 목적어 앞 전치사 a(a su infiltrada). su = ustedes의.
+- **표현:** `comprometer a alguien` ~를 곤란/위험하게 만들다.
+- **시제:**
+  - `Necesitaríamos` → necesitar | 조건법 단순 1인칭 복수 | 요구 사항을 부드럽게·가정적으로 표현(공손) | 규칙
+  - `formalizar` → formalizar | 부정사 | necesitar 뒤
+  - `poder` → poder | 부정사 | para 뒤
+  - `actuar` → actuar | 부정사 | poder 뒤
+  - `comprometer` → comprometer | 부정사 | sin 뒤
+  - 비교: Necesitamos(직설법)는 직접적, Necesitaríamos는 완곡
+
+### 11-10. **Carlos:** Estamos preparando el informe conjunto ahora mismo, con las protecciones necesarias para su identidad.
+- **해석:** 지금 바로 그녀의 신원 보호 조치를 포함한 공동 보고서를 준비하고 있습니다.
+- **주요 단어:** `preparar` (동사) 준비하다 / `informe` (남성명사) 보고서 / `conjunto` (형용사) 공동의 / `ahora mismo` 바로 지금
+- **문법:** `estar + 현재분사` 현재진행.
+- **시제:**
+  - `Estamos` → estar | 직설법 현재 1인칭 복수 | 진행형 조동사 | 불규칙
+  - `preparando` → preparar | 현재분사 | 지금 진행 중인 행위 강조 | 규칙
+
+### 11-11. **Inspectora:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** `perfecto` (형용사) 완벽한
+- **문법:** 특이사항 없음
+- **표현:** 동의·만족의 맞장구.
+- **시제:** 동사 없음
+
+### 11-12. **Inspectora:** Con esto, podríamos solicitar la intervención judicial de Meridian en cuestión de días, no semanas.
+- **해석:** 이걸로 몇 주가 아니라 며칠 안에 메리디안에 대한 사법 개입(압수수색)을 신청할 수 있을 겁니다.
+- **주요 단어:** `solicitar` (동사) 신청하다 / `intervención` (여성명사) 개입, (법적) 압수·관리 조치 / `judicial` (형용사) 사법의 / `en cuestión de` ~ 만에
+- **문법:** 조건법 podríamos.
+- **표현:** `en cuestión de días, no semanas` "몇 주가 아니라 며칠 만에".
+- **시제:**
+  - `podríamos` → poder | 조건법 단순 1인칭 복수 | 조건(con esto)이 충족되면 가능한 결과 | 불규칙 어간 podr-
+  - `solicitar` → solicitar | 부정사 | poder 뒤
+
+### 11-13. **Álvaro:** ¿Y Roselló?
+- **해석:** 그럼 로셀요는요?
+- **주요 단어:** 고유명사
+- **문법:** 특이사항 없음
+- **표현:** `¿Y + 명사?` "~는 어떻게 되고요?"
+- **시제:** 동사 없음
+
+### 11-14. **Álvaro:** ¿Alguna posibilidad de que huya antes de eso?
+- **해석:** 그 전에 그가 도망칠 가능성은요?
+- **주요 단어:** `posibilidad` (여성명사) 가능성 / `huir` (동사) 도망치다
+- **문법:** `posibilidad de que + 접속법` — 가능성 명사 뒤 de que절은 접속법. 동사(hay) 생략.
+- **시제:**
+  - `huya` → huir | 접속법 현재 3인칭 단수 | 불확실한 가능성을 나타내므로 접속법 | 불규칙 (-uir 동사, y 삽입: huyo → huya)
+
+### 11-15. **Inspectora:** Vamos a solicitar vigilancia inmediata sobre sus movimientos conocidos, mientras se prepara la orden.
+- **해석:** 영장이 준비되는 동안, 파악된 그의 동선에 대해 즉각적인 감시를 요청하겠습니다.
+- **주요 단어:** `vigilancia` (여성명사) 감시 / `movimiento` (남성명사) 움직임, 동선 / `conocido` (과거분사→형용사) 알려진 / `orden` (여성명사) 명령, 영장
+- **문법:** `se prepara la orden` 수동의 se (pasiva refleja): "영장이 준비되다". orden은 '명령/영장'일 때 여성(la orden), '순서'일 때 남성(el orden).
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수 | ir a + 부정사 근접미래 계획 | 불규칙
+  - `solicitar` → solicitar | 부정사 | ir a 뒤
+  - `conocidos` → conocer | 과거분사 (형용사 용법) | 규칙
+  - `se prepara` → preparar | 직설법 현재 3인칭 단수 (수동의 se) | mientras + 직설법: 동시 진행 사실 | 규칙
+
+### 11-16. **Carlos:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-17. **Carlos:** Cuanto antes actuemos, menos riesgo de que se nos escape, otra vez.
+- **해석:** 빨리 움직일수록, 그가 또다시 우리 손에서 빠져나갈 위험은 줄어듭니다.
+- **주요 단어:** `cuanto antes` 빨리 ~할수록 / `menos` 덜 / `riesgo` 앞에서 설명 / `escaparse` (재귀동사) 달아나다 / `otra vez` 다시
+- **문법:** `cuanto + 비교급 ..., (tanto) + 비교급` ~할수록 ~하다. 미래의 일이라 cuanto 절에 접속법. `riesgo de que + 접속법`. `se nos escape` — 비의도의 se + 간접목적 nos: "우리에게서 (의도치 않게) 빠져나가다".
+- **표현:** `se nos escape` 놓치다(우리 잘못이 아닌 듯한 뉘앙스).
+- **시제:**
+  - `actuemos` → actuar | 접속법 현재 1인칭 복수 | 아직 일어나지 않은 미래 행위를 조건으로 삼아 접속법 | 규칙 (actú- 강세 변화는 단수형에만: actúe; 복수는 actuemos)
+  - `escape` → escaparse | 접속법 현재 3인칭 단수 | riesgo de que 뒤 불확실성이라 접속법 | 규칙
+

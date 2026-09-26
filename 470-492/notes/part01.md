@@ -637,3 +637,214 @@
 - **시제:**
   - `vemos` → ver(verse) | 직설법 현재, 1인칭 복수 | 확정된 가까운 미래(오늘 밤)를 현재형으로 | 불규칙: 1인칭 단수 veo
 
+## 장면 4. 택시 기사와 나눈 물가 이야기
+> 산탄데르 공항에 도착한 알바로가 택시를 타고 마을로 이동하며, 기사와 물가·경제 이야기를 나눕니다.
+
+### 4-1. **Taxista:** (Arrancando) ¿Va usted al pueblo, entonces?
+- **해석:** (차를 출발시키며) 그럼 마을로 가시는 거죠?
+- **주요 단어:** `arrancar` (동사) 시동을 걸다, 출발하다 / `ir` 가다 / `entonces` 그럼
+- **문법:** `al` = a + el. 의문문에서 주어 usted를 동사 뒤에 도치.
+- **표현:** 문장 끝 `entonces` = 확인하는 뉘앙스("그러니까 ~죠?").
+- **시제:**
+  - `Arrancando` → arrancar | 현재분사 gerundio | 지문에서 대사와 동시에 진행되는 동작 | 규칙(-ando)
+  - `Va` → ir | 직설법 현재, 3인칭 단수(usted) | 지금 진행 중인 이동/가까운 행선지 | 불규칙
+
+### 4-2. **Taxista:** No es muy turístico esta época del año.
+- **해석:** 이맘때는 별로 관광객이 많은 곳이 아니에요.
+- **주요 단어:** `turístico` (형용사) 관광의, 관광지다운 / `época` (명사) 시기
+- **문법:** `ser + 형용사`: 장소의 성격 규정. `esta época del año` = 부사적 시간 표현(전치사 없이).
+- **표현:** `esta época del año` = 1년 중 이맘때.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 일반적 특성 | 불규칙
+
+### 4-3. **Álvaro:** Trabajo, más que turismo.
+- **해석:** 관광보다는 일 때문이에요.
+- **주요 단어:** `trabajo` (명사) 일 / `más que` ~보다는
+- **문법:** 동사 생략. 여기서 trabajo는 명사(1인칭 동사 trabajo와 형태 같음에 주의).
+- **시제:**
+  - 동사 없음
+
+### 4-4. **Álvaro:** Aunque me vendría bien un poco de aire de montaña, la verdad.
+- **해석:** 사실 산 공기를 좀 쐬는 것도 좋겠지만요.
+- **주요 단어:** `un poco de` 약간의 / `aire` (명사) 공기 / `la verdad` 사실은
+- **문법:** `venir bien a alguien` gustar형: 주어는 un poco de aire. 문두의 `aunque`는 앞 말을 부분적으로 뒤집는 덧붙임("그래도 ~").
+- **표현:** `la verdad` = 문장 끝 "솔직히, 사실".
+- **시제:**
+  - `vendría` → venir | 조건법 단순, 3인칭 단수 | 가정적·완곡한 바람("~면 좋겠다") | 불규칙 vendr-
+
+### 4-5. **Taxista:** Se nota que es de ciudad.
+- **해석:** 도시 분이신 게 티가 나네요.
+- **주요 단어:** `notarse` (동사) 눈에 띄다, 드러나다 / `ciudad` (명사) 도시
+- **문법:** `Se nota que + 직설법`: 비인칭 se("~라는 게 느껴진다"), 사실 확인이라 직설법. `ser de + 장소` = 출신.
+- **표현:** `Se nota que...` = "~인 게 보이네요/티 나네요".
+- **시제:**
+  - `nota` → notar(se) | 직설법 현재, 3인칭 단수 | 지금의 관찰 | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수(usted) | 출신(영속적 특성)이라 ser | 불규칙
+
+### 4-6. **Taxista:** Aquí el aire sobra, lo que falta es trabajo bien pagado.
+- **해석:** 여기 공기는 남아돌아요, 부족한 건 보수 좋은 일자리죠.
+- **주요 단어:** `sobrar` (동사) 남다, 넘치다 / `faltar` (동사) 부족하다 / `pagado` (pagar의 과거분사) 보수가 지급된
+- **문법:** sobrar/faltar는 gustar형 동사(주어가 뒤에 오는 것이 보통). `lo que` = ~한 것(중성 관계사). `bien pagado` = 부사+과거분사.
+- **표현:** `sobrar ↔ faltar` 대조 수사. `trabajo bien pagado` = 벌이 좋은 일.
+- **시제:**
+  - `sobra` → sobrar | 직설법 현재, 3인칭 단수 | 일반적 현실 | 규칙
+  - `falta` → faltar | 직설법 현재, 3인칭 단수 | 일반적 현실 | 규칙
+  - `es` → ser | 직설법 현재 | 동일시(A는 B다) | 불규칙
+  - `pagado` → pagar | 과거분사, 남성 단수 | trabajo 수식 형용사
+
+### 4-7. **Álvaro:** ¿La zona ha cambiado mucho, en los últimos años?
+- **해석:** 최근 몇 년 사이에 이 지역이 많이 변했나요?
+- **주요 단어:** `cambiar` (동사) 변하다 / `último` (형용사) 최근의, 마지막의
+- **문법:** 특이사항 없음
+- **표현:** `en los últimos años` = 최근 몇 년간.
+- **시제:**
+  - `ha cambiado` → cambiar | 직설법 현재완료, 3인칭 단수 | '최근 몇 년'은 현재까지 이어지는 기간이라 현재완료. 끝난 특정 과거(en 2010)라면 단순과거 cambió | 규칙
+
+### 4-8. **Taxista:** Mucho, y no para bien, si le soy sincero.
+- **해석:** 많이요, 그런데 솔직히 말하면 좋은 쪽으로는 아니에요.
+- **주요 단어:** `para bien` 좋은 방향으로 / `sincero` (형용사) 솔직한
+- **문법:** `si le soy sincero` = 솔직히 말씀드리면(si + 직설법). le는 간접목적(당신에게).
+- **표현:** `si le soy sincero / si te soy sincero` = "솔직히 말하면" 고정 표현.
+- **시제:**
+  - `soy` → ser | 직설법 현재, 1인칭 단수 | 관용구 속 조건절 현재 | 불규칙
+
+### 4-9. **Taxista:** La subida del combustible nos está ahogando a todos los autónomos.
+- **해석:** 연료비 인상 때문에 우리 자영업자들은 다 숨이 막힐 지경이에요.
+- **주요 단어:** `subida` (명사) 상승 / `ahogar` (동사) 질식시키다, 숨 막히게 하다 / `autónomo` (명사) 자영업자(스페인식)
+- **문법:** `estar + 현재분사` = 진행형(지금 계속되는 상황). `nos ... a todos los autónomos`: 목적대명사 nos를 뒤에서 구체화하는 중복. 대명사는 estar 앞(또는 ahogándonos)에 위치.
+- **표현:** `autónomo` = 스페인에서 개인사업자·프리랜서를 가리키는 말. `ahogar` 비유적으로 경제적 압박.
+- **시제:**
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 진행형 보조동사 | 불규칙
+  - `ahogando` → ahogar | 현재분사 | 현재 계속되는 압박을 생생하게 강조(단순 현재 ahoga보다 '지금 한창' 뉘앙스) | 규칙
+
+### 4-10. **Álvaro:** ¿Cómo le afecta a usted, exactamente?
+- **해석:** 기사님께는 정확히 어떻게 영향을 주나요?
+- **주요 단어:** `afectar` (동사) 영향을 주다
+- **문법:** `le ... a usted`: 간접목적 중복으로 '당신에게'를 강조. 주어는 la subida(생략).
+- **시제:**
+  - `afecta` → afectar | 직설법 현재, 3인칭 단수 | 현재 상황 | 규칙
+
+### 4-11. **Taxista:** Cada vez cuesta más llegar a fin de mes.
+- **해석:** 갈수록 한 달 벌어 한 달 버티기가 더 힘들어져요.
+- **주요 단어:** `cada vez más` 점점 더 / `costar` (동사) 비용이 들다, 힘들다 / `llegar a fin de mes` 월말까지 버티다, 생활비를 대다
+- **문법:** `costar + 부정사` = ~하기가 어렵다(부정사가 주어).
+- **표현:** `llegar a fin de mes` = 월급으로 한 달을 버티다, 매우 흔한 관용구.
+- **시제:**
+  - `cuesta` → costar | 직설법 현재, 3인칭 단수 | 현재의 점증적 상황 | 불규칙: o→ue
+  - `llegar` → llegar | 부정사 | costar의 주어 역할
+
+### 4-12. **Taxista:** El gasoil ha subido una barbaridad, y las tarifas del taxi no suben al mismo ritmo.
+- **해석:** 경유 값은 엄청나게 올랐는데, 택시 요금은 같은 속도로 오르지 않아요.
+- **주요 단어:** `gasoil` (명사) 경유 / `subir` (동사) 오르다 / `una barbaridad` 엄청나게 / `tarifa` (명사) 요금 / `ritmo` (명사) 속도, 리듬
+- **문법:** `una barbaridad`가 부사적으로 쓰여 '엄청 많이'.
+- **표현:** `una barbaridad` = 스페인 구어 강조 표현("어마어마하게").
+- **시제:**
+  - `ha subido` → subir | 직설법 현재완료, 3인칭 단수 | 최근까지의 상승 결과가 현재에 영향 | 규칙
+  - `suben` → subir | 직설법 현재, 3인칭 복수 | 현재의 일반적 상황 | 규칙. 현재완료(결과)와 현재(지속 상태) 대비
+
+### 4-13. **Álvaro:** Imagino que es un problema generalizado, no solo suyo.
+- **해석:** 기사님만이 아니라 다들 겪는 문제일 것 같네요.
+- **주요 단어:** `imaginar` (동사) 상상하다, 짐작하다 / `generalizado` (형용사) 전반적인, 만연한 / `suyo` (소유대명사) 당신의 것
+- **문법:** `imaginar que + 직설법`: 긍정의 추측 동사라 직설법.
+- **표현:** `Imagino que...` = "~일 것 같네요" 공감 표현.
+- **시제:**
+  - `imagino` → imaginar | 직설법 현재, 1인칭 단수 | 현재 추측 | 규칙
+  - `es` → ser | 직설법 현재 | 문제의 성격 규정 | 불규칙
+  - `generalizado` → generalizar | 과거분사 → 형용사 | 상태
+
+### 4-14. **Taxista:** Todos los autónomos de por aquí dicen lo mismo.
+- **해석:** 이 근처 자영업자들은 다 똑같은 말을 해요.
+- **주요 단어:** `de por aquí` 이 근방의 / `lo mismo` 같은 것
+- **문법:** `lo mismo` 중성 lo + 형용사 = 같은 것.
+- **표현:** `de por aquí` = "이 동네 쪽의".
+- **시제:**
+  - `dicen` → decir | 직설법 현재, 3인칭 복수 | 반복·일반적 현상 | 불규칙: e→i
+
+### 4-15. **Taxista:** Los agricultores, los pequeños comercios, todos igual, por culpa de los costes que no paran de subir.
+- **해석:** 농부들도, 작은 가게들도 다 마찬가지예요, 계속 오르기만 하는 비용 탓에요.
+- **주요 단어:** `agricultor` (명사) 농부 / `comercio` (명사) 상점, 가게 / `igual` 같은 / `por culpa de` ~ 탓에 / `coste` (명사) 비용(스페인식; 중남미 costo) / `parar de` ~을 멈추다
+- **문법:** `no parar de + 부정사` = 계속 ~하다. `que no paran` 관계절: 실제 비용을 가리키므로 직설법.
+- **표현:** `por culpa de` = 부정적 원인("~ 때문에/탓에"). `no paran de subir` = 끝없이 오르다.
+- **시제:**
+  - `paran` → parar | 직설법 현재, 3인칭 복수 | 지금도 계속되는 현상 | 규칙
+  - `subir` → subir | 부정사 | parar de 뒤
+
+### 4-16. **Álvaro:** ¿Y el turismo ayuda algo, al menos en temporada alta?
+- **해석:** 그럼 관광은 좀 도움이 되나요, 적어도 성수기엔요?
+- **주요 단어:** `ayudar` 돕다 (앞에서 설명) / `algo` (부사) 조금 / `al menos` 적어도 / `temporada alta` 성수기
+- **문법:** `algo`가 부사로 쓰여 '어느 정도'.
+- **표현:** `temporada alta ↔ temporada baja` 성수기↔비수기.
+- **시제:**
+  - `ayuda` → ayudar | 직설법 현재, 3인칭 단수 | 일반적 사실 질문 | 규칙
+
+### 4-17. **Taxista:** Ayuda, sí, pero apenas dura unos meses.
+- **해석:** 도움이 되긴 하죠, 근데 겨우 몇 달밖에 안 가요.
+- **주요 단어:** `apenas` (부사) 겨우, 고작 / `durar` (동사) 지속되다
+- **문법:** `apenas` = 거의 ~않다/겨우(부정 뉘앙스의 부사).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `Ayuda` → ayudar | 직설법 현재 (앞에서 설명)
+  - `dura` → durar | 직설법 현재, 3인칭 단수 | 해마다 반복되는 일반적 사실 | 규칙
+
+### 4-18. **Taxista:** El resto del año, cada uno se las apaña como puede.
+- **해석:** 나머지 기간엔 다들 어떻게든 알아서 버텨요.
+- **주요 단어:** `resto` (명사) 나머지 / `cada uno` 각자 / `apañárselas` (관용 동사) 그럭저럭 해내다, 버티다
+- **문법:** `apañárselas`: 재귀 se + 고정된 las(특정 대상 없는 관용적 las). `como puede` = 할 수 있는 만큼(직설법: 실제 가능한 방식).
+- **표현:** `apañárselas (como uno puede)` = 스페인 구어 "어떻게든 해 나가다".
+- **시제:**
+  - `se las apaña` → apañárselas | 직설법 현재, 3인칭 단수(cada uno) | 일반적·반복적 현실 | 규칙
+  - `puede` → poder | 직설법 현재, 3인칭 단수 | 현실적 가능 범위 | 불규칙 o→ue
+
+### 4-19. **Álvaro:** Debe de ser duro, esa incertidumbre constante.
+- **해석:** 그런 끊임없는 불확실성은 힘드시겠어요.
+- **주요 단어:** `duro` (형용사) 힘든 / `incertidumbre` (명사) 불확실성 / `constante` (형용사) 끊임없는
+- **문법:** `deber de + 부정사` = 추측("~임에 틀림없다/~겠다"). `deber + 부정사`(의무)와 구별(구어에선 혼용되기도). 주어 esa incertidumbre를 뒤에 덧붙임.
+- **표현:** 공감 표현 "힘드시겠어요".
+- **시제:**
+  - `debe` → deber | 직설법 현재, 3인칭 단수 | 현재 상황에 대한 추측 | 규칙
+  - `ser` → ser | 부정사 | deber de 뒤
+
+### 4-20. **Taxista:** Se acostumbra uno, aunque no debería tener que hacerlo, la verdad.
+- **해석:** 익숙해지긴 해요, 사실 그럴 필요가 없어야 하는 거지만요.
+- **주요 단어:** `acostumbrarse` (재귀동사) 익숙해지다 / `deber` ~해야 한다 / `tener que` ~해야 한다 / `hacer` 하다
+- **문법:** `uno` + 3인칭 단수 = 일반 주어('사람은'), 재귀동사로 비인칭을 만들 때 se 중복을 피하려고 uno 사용. `aunque + 직설법(조건법)`: 사실 인정. `hacerlo`: lo = 익숙해지는 것.
+- **표현:** `la verdad` (앞에서 설명).
+- **시제:**
+  - `se acostumbra` → acostumbrarse | 직설법 현재, 3인칭 단수 | 일반적 경험 | 규칙
+  - `debería` → deber | 조건법 단순, 3인칭 단수 | 당위·바람직함을 완곡하게("~하지 말아야 할 텐데"). debe보다 부드러운 도덕적 판단 | 규칙
+  - `tener` → tener | 부정사 | deber 뒤(tener que 구문)
+  - `hacerlo` → hacer | 부정사 | tener que 뒤
+
+### 4-21. **Taxista:** Bueno, ya casi llegamos al pueblo.
+- **해석:** 자, 이제 마을에 거의 다 왔어요.
+- **주요 단어:** `bueno` 자, 그럼(담화 표지) / `ya` 이제 / `casi` 거의 / `llegar` 도착하다
+- **문법:** `al` = a + el.
+- **표현:** `Bueno,` 화제 전환. `ya casi llegamos` = 거의 다 왔다.
+- **시제:**
+  - `llegamos` → llegar | 직설법 현재, 1인칭 복수 | 임박한 미래를 현재형으로. (형태상 단순과거와 같으니 문맥 casi로 현재임을 판단) | 규칙
+
+### 4-22. **Álvaro:** Gracias por la charla, ha sido interesante.
+- **해석:** 이야기 감사해요, 흥미로웠어요.
+- **주요 단어:** `charla` (명사) 대화, 수다 / `interesante` (형용사) 흥미로운
+- **문법:** `gracias por + 명사` = ~에 대해 감사. 주어(la charla) 생략.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `ha sido` → ser | 직설법 현재완료, 3인칭 단수 | 방금 끝난 대화(현재와 이어진 시간)라 스페인식 현재완료. 중남미라면 fue도 흔함 | 불규칙 과거분사 아님(sido 규칙), ser 자체는 불규칙
+
+### 4-23. **Taxista:** Un placer.
+- **해석:** 저도 즐거웠어요.
+- **주요 단어:** `placer` (명사) 즐거움
+- **표현:** `Un placer` = 천만에요/저도 즐거웠습니다.
+- **시제:**
+  - 동사 없음
+
+### 4-24. **Taxista:** Espero que le vaya bien con el trabajo, sea lo que sea.
+- **해석:** 무슨 일이든 간에, 일 잘 되시길 바라요.
+- **주요 단어:** `esperar` (동사) 바라다 / `irle bien a alguien` ~에게 일이 잘 풀리다
+- **문법:** `esperar que + 접속법`: 희망 동사라 접속법. `irle bien a uno` gustar형 구조(le). `sea lo que sea` = 접속법 반복 양보 구문("그게 무엇이든").
+- **표현:** `sea lo que sea` = 무엇이든 간에 (택시기사가 알바로의 일이 뭔지 모른다는 뉘앙스).
+- **시제:**
+  - `espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 희망 | 규칙
+  - `vaya` → ir | 접속법 현재, 3인칭 단수 | esperar que 뒤라 접속법 | 불규칙: vaya
+  - `sea` → ser | 접속법 현재, 3인칭 단수 | 반복 양보 구문(동사+lo que+동사)은 접속법 | 불규칙
+  - `sea` → ser | 접속법 현재, 3인칭 단수 | 위와 같음(구문의 두 번째 동사)

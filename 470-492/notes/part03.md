@@ -387,4 +387,369 @@
   - `ver` → ver | 부정사
   - `sigue` → seguir | 직설법 현재 3인칭 단수 | 간접의문의 현재 상태 | e→i 불규칙
 
-<!-- CONTINUE -->
+## 장면 11. 통신 보안 요청
+> 만약을 대비해, 알바로가 원격으로 IT 보안 전문가 친구에게 통신 보안을 요청합니다.
+
+### 11-1. **Álvaro:** (Por videollamada) Marcos, necesito tu ayuda con algo urgente.
+- **해석:** (화상 통화로) 마르코스, 급한 일로 네 도움이 필요해.
+- **주요 단어:** `videollamada` (명사, 여) 영상 통화 / `ayuda` (명사, 여) 도움 / `urgente` 앞에서 설명
+- **문법:** 친구 사이라 tú(`tu ayuda`). `por + 수단` ~으로(통신 수단).
+- **시제:**
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재 필요 | 규칙
+
+### 11-2. **Marcos:** Dime.
+- **해석:** 말해 봐.
+- **주요 단어:** `decir` (동사) 말하다
+- **문법:** tú 긍정 명령 + 간접목적어 `me`가 뒤에 붙음.
+- **표현:** `Dime` 스페인에서 전화나 부탁을 받을 때 "응, 말해" 하는 대답.
+- **시제:**
+  - `Di(me)` → decir | 명령법 tú (imperativo) | 친구에게 하는 짧은 재촉 | 불규칙 (decir → di)
+
+### 11-3. **Álvaro:** Estoy investigando algo delicado, solo, sin respaldo del CNI esta vez.
+- **해석:** 민감한 일을 조사하고 있는데, 이번엔 CNI 지원 없이 혼자야.
+- **주요 단어:** `delicado` (형용사) 민감한, 까다로운 / `solo` (형용사) 혼자 / `respaldo` (명사, 남) 지원, 뒷받침 / `CNI` 스페인 국가정보센터(Centro Nacional de Inteligencia)
+- **문법:** `solo`는 형용사(혼자)로 주어와 일치. `de + el = del`.
+- **시제:**
+  - `Estoy investigando` → estar + investigar | 직설법 현재진행 1인칭 단수 | 지금 진행 중인 일 | estar 불규칙
+
+### 11-4. **Álvaro:** Necesito asegurarme de que mis comunicaciones no puedan ser interceptadas.
+- **해석:** 내 통신이 도청되지 않도록 확실히 해 둬야 해.
+- **주요 단어:** `asegurarse de` (재귀동사) ~을 확실히 하다 / `comunicación` (명사, 여) 통신 / `interceptar` (동사) 가로채다, 도청하다
+- **문법:** `asegurarse de que + 접속법` — 아직 실현되지 않은 원하는 결과라 접속법. `ser + 과거분사` 수동태(과거분사는 주어와 성·수 일치: interceptadas).
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `asegurar(me)` → asegurarse | 부정사 | 재귀대명사 뒤에 부착
+  - `puedan` → poder | 접속법 현재 3인칭 복수 | 확보하려는 목표 상태(비현실)라 접속법 | o→ue
+  - `ser` → ser | 부정사 | 수동태 조동사
+  - `interceptadas` → interceptar | 과거분사 여성 복수 | 수동태 | 규칙
+
+### 11-5. **Marcos:** Entendido.
+- **해석:** 알았어.
+- **주요 단어:** `entender` (동사) 이해하다
+- **문법:** 과거분사 단독 사용으로 "이해했다".
+- **표현:** `Entendido` "알겠어, 접수했어".
+- **시제:**
+  - `Entendido` → entender | 과거분사 (participio) | 완료된 이해를 간결하게 | 규칙형 과거분사
+
+### 11-6. **Marcos:** ¿Qué dispositivos estás usando?
+- **해석:** 어떤 기기를 쓰고 있어?
+- **주요 단어:** `dispositivo` (명사, 남) 기기, 장치 / `usar` (동사) 사용하다
+- **문법:** `qué + 명사` 의문 한정사.
+- **시제:**
+  - `estás usando` → estar + usar | 직설법 현재진행 2인칭 단수 | 요즘 사용 중인 기기 | estar 불규칙
+
+### 11-7. **Álvaro:** Mi teléfono personal, y el portátil que llevo conmigo.
+- **해석:** 개인 휴대폰, 그리고 가지고 다니는 노트북.
+- **주요 단어:** `portátil` (명사, 남) 노트북 / `llevar` (동사) 가지고 다니다 / `conmigo` 나와 함께
+- **문법:** 관계대명사 `que`(선행사 el portátil). `con + mí = conmigo`.
+- **표현:** 스페인에서 노트북은 `portátil`(중남미 laptop/computadora portátil).
+- **시제:**
+  - `llevo` → llevar | 직설법 현재 1인칭 단수 | 습관적·현재 상태 | 규칙
+
+### 11-8. **Marcos:** Vamos a instalar una aplicación de mensajería con cifrado end-to-end, y voy a configurar una VPN con servidor seguro para todo tu tráfico de internet.
+- **해석:** 종단 간 암호화 메신저 앱을 설치하고, 네 인터넷 트래픽 전체에 보안 서버를 쓰는 VPN을 설정해 줄게.
+- **주요 단어:** `instalar` (동사) 설치하다 / `mensajería` (명사, 여) 메시징 / `cifrado` (명사, 남) 암호화 / `configurar` (동사) 설정하다 / `servidor` (명사, 남) 서버 / `tráfico` (명사, 남) 트래픽
+- **문법:** `ir a + 부정사` 두 번(vamos a / voy a). `para` 대상·목적.
+- **표현:** `end-to-end`는 영어 차용(스페인어로 de extremo a extremo).
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수 | '함께 하자'는 뉘앙스의 가까운 계획 | 불규칙
+  - `instalar` → instalar | 부정사
+  - `voy` → ir | 직설법 현재 1인칭 단수 | 본인이 맡을 가까운 계획 | 불규칙
+  - `configurar` → configurar | 부정사
+
+### 11-9. **Álvaro:** ¿Eso sería suficiente?
+- **해석:** 그거면 충분할까?
+- **주요 단어:** `suficiente` (형용사) 충분한
+- **문법:** 조건법으로 가정·추측을 조심스럽게 묻는 의문.
+- **시제:**
+  - `sería` → ser | 조건법 단순형 3인칭 단수 | '그렇게 하면 ~일까'라는 가정적 판단 | 조건법은 부정사 + ía (규칙)
+
+### 11-10. **Marcos:** Como mínimo.
+- **해석:** 최소한은 되지.
+- **주요 단어:** `como mínimo` (관용) 최소한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-11. **Marcos:** También te recomiendo hacer una copia de seguridad de todo lo que llevas investigado, en un almacenamiento externo, por si el dispositivo se pierde o se compromete.
+- **해석:** 그리고 기기를 잃어버리거나 해킹당할 경우에 대비해, 지금까지 조사한 걸 전부 외부 저장장치에 백업해 두길 권해.
+- **주요 단어:** `recomendar` (동사) 권하다 / `copia de seguridad` 백업 / `almacenamiento` (명사, 남) 저장장치 / `perderse` (재귀동사) 분실되다 / `comprometerse` (재귀동사) (보안이) 뚫리다, 손상되다
+- **문법:** `recomendar + 부정사`(주어가 분명할 때). `llevar + 과거분사` = 지금까지 누적된 결과(~해 왔다), 과거분사가 목적어와 일치. `por si + 직설법` 만일 ~할 경우에 대비해. `se pierde`/`se compromete`는 수동적 재귀(se 수동).
+- **표현:** `lo que llevas investigado` "지금까지 조사해 온 것". `comprometer`는 IT에서 '보안이 침해되다'.
+- **시제:**
+  - `recomiendo` → recomendar | 직설법 현재 1인칭 단수 | 현재 조언 | e→ie
+  - `hacer` → hacer | 부정사
+  - `llevas` → llevar | 직설법 현재 2인칭 단수 | llevar + 과거분사로 현재까지의 누적 결과 | 규칙
+  - `investigado` → investigar | 과거분사 | llevar 구문의 결과 상태
+  - `pierde` → perder(se) | 직설법 현재 3인칭 단수 | por si 뒤에는 접속법이 아닌 직설법(현재) | e→ie
+  - `compromete` → comprometer(se) | 직설법 현재 3인칭 단수 | 위와 같음 | 규칙
+  - 비교: `llevas investigado` ≈ `has investigado`(현재완료)지만 '누적량'을 강조.
+
+### 11-12. **Álvaro:** Buena idea.
+- **해석:** 좋은 생각이야.
+- **주요 단어:** `idea` (명사, 여) 생각
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-13. **Álvaro:** ¿Puedes ayudarme con eso también?
+- **해석:** 그것도 도와줄 수 있어?
+- **주요 단어:** `ayudar` (동사) 돕다
+- **문법:** `poder + 부정사`, 목적어 대명사 `me` 부정사 뒤 부착. `ayudar con + 명사` ~을 돕다.
+- **시제:**
+  - `Puedes` → poder | 직설법 현재 2인칭 단수 | 부탁 | o→ue
+  - `ayudar(me)` → ayudar | 부정사
+
+### 11-14. **Marcos:** Claro.
+- **해석:** 물론이지.
+- **주요 단어:** `claro` (부사) 물론
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-15. **Marcos:** Necesito encubrir la dirección IP de tu conexión también, para que no puedan rastrear tu ubicación fácilmente.
+- **해석:** 네 연결의 IP 주소도 숨겨야 해, 그래야 위치를 쉽게 추적하지 못하니까.
+- **주요 단어:** `encubrir` (동사) 숨기다, 은폐하다 / `dirección` (명사, 여) 주소 / `conexión` (명사, 여) 연결 / `rastrear` (동사) 추적하다 / `ubicación` (명사, 여) 위치
+- **문법:** `para que + 접속법` 목적절(주어가 다를 때 항상 접속법). `puedan` 주어는 불특정 3인칭 복수(누군가).
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `encubrir` → encubrir | 부정사 | (과거분사 encubierto 불규칙)
+  - `puedan` → poder | 접속법 현재 3인칭 복수 | para que 뒤 접속법 | o→ue
+  - `rastrear` → rastrear | 부정사
+
+### 11-16. **Álvaro:** Perfecto.
+- **해석:** 완벽해.
+- **주요 단어:** `perfecto` (형용사) 완벽한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-17. **Álvaro:** ¿Cuánto tardarías en configurar todo esto?
+- **해석:** 이거 다 설정하는 데 얼마나 걸릴까?
+- **주요 단어:** `tardar en + 부정사` ~하는 데 시간이 걸리다 / `configurar` 앞에서 설명
+- **문법:** `tardar en + 부정사`. 조건법으로 가정적·공손한 질문.
+- **시제:**
+  - `tardarías` → tardar | 조건법 단순형 2인칭 단수 | '네가 해 준다면 얼마나 걸릴지' 가정적·부드러운 질문 | 규칙
+  - `configurar` → configurar | 부정사
+  - 비교: `¿Cuánto vas a tardar?`는 이미 하기로 정해진 일에 대한 직접적 질문.
+
+### 11-18. **Marcos:** Dame una hora, y te lo dejo todo listo remotamente.
+- **해석:** 한 시간만 줘, 원격으로 전부 준비해 놓을게.
+- **주요 단어:** `dar` (동사) 주다 / `dejar` (동사) (어떤 상태로) 해 두다 / `listo` (형용사) 준비된 / `remotamente` (부사) 원격으로
+- **문법:** tú 긍정 명령 + me 부착(Dame). `dejar + 목적어 + 형용사` ~을 …한 상태로 해 두다. `te lo` 간접(te) + 직접(lo) 순서. `todo`가 lo를 재확인.
+- **표현:** 현재형으로 약속하는 구어(`te lo dejo`) = "해 놓을게".
+- **시제:**
+  - `Da(me)` → dar | 명령법 tú | 친구에게 가벼운 요구 | 규칙적 형태(da)
+  - `dejo` → dejar | 직설법 현재 1인칭 단수 | 가까운 미래를 현재로 표현해 확실한 약속 느낌 | 규칙
+
+### 11-19. **Álvaro:** Te lo agradezco muchísimo, Marcos.
+- **해석:** 정말 고마워, 마르코스.
+- **주요 단어:** `agradecer` 앞에서 설명 / `muchísimo` (부사) 매우 많이(절대최상급)
+- **문법:** `te lo` 간접 + 직접 목적어.
+- **시제:**
+  - `agradezco` → agradecer | 직설법 현재 1인칭 단수 | 앞에서 설명(-zco)
+
+### 11-20. **Marcos:** Para eso estamos.
+- **해석:** 친구 좋다는 게 뭐야. (그러라고 있는 거지.)
+- **주요 단어:** `para eso` 그러기 위해
+- **문법:** 특이사항 없음
+- **표현:** `Para eso estamos` 고맙다는 말에 "그러라고 있는 거지"라고 답하는 관용 표현.
+- **시제:**
+  - `estamos` → estar | 직설법 현재 1인칭 복수 | 관용구의 고정 형태 | 불규칙
+
+### 11-21. **Marcos:** Asegúrate de que no quede rastro innecesario en ningún dispositivo, mientras tanto.
+- **해석:** 그동안 어떤 기기에도 불필요한 흔적이 남지 않게 확실히 해 둬.
+- **주요 단어:** `asegurarse de` 앞에서 설명 / `quedar` (동사) 남다 / `rastro` (명사, 남) 흔적 / `innecesario` (형용사) 불필요한 / `mientras tanto` 그동안
+- **문법:** tú 긍정 명령 + 재귀대명사 부착(asegúrate, 강세 표기). `asegurarse de que + 접속법`. 이중부정 `no ... ningún`.
+- **시제:**
+  - `Asegúra(te)` → asegurarse | 명령법 tú | 친구에게 지시 | 규칙
+  - `quede` → quedar | 접속법 현재 3인칭 단수 | 바라는 결과(아직 미실현)라 접속법 | 규칙
+
+### 11-22. **Álvaro:** Entendido.
+- **해석:** 알았어.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Entendido` → entender | 과거분사 | 앞에서 설명
+
+### 11-23. **Álvaro:** Voy a borrar los archivos temporales ahora mismo.
+- **해석:** 지금 바로 임시 파일들을 지울게.
+- **주요 단어:** `borrar` (동사) 지우다 / `archivo` (명사, 남) 파일 / `temporal` (형용사) 임시의
+- **문법:** `ir a + 부정사` 가까운 미래.
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | 즉시 할 행동 | 불규칙
+  - `borrar` → borrar | 부정사
+
+## 장면 12. 중고차 거래
+> 알바로가 렌터카를 반납하고, 눈에 띄지 않게 마을에 더 머물기 위해 개인 간 중고차 거래를 진행합니다.
+
+### 12-1. **Vendedor:** (En su garaje) Aquí lo tiene.
+- **해석:** (자기 차고에서) 여기 있습니다.
+- **주요 단어:** `vendedor` (명사, 남) 판매자 / `garaje` (명사, 남) 차고
+- **문법:** `lo` = el coche. usted 3인칭.
+- **표현:** `Aquí lo tiene` 물건을 보여 주거나 건넬 때 "여기 있습니다".
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수(usted) | 현재 상황 제시 | 불규칙
+
+### 12-2. **Vendedor:** Un Renault Mégane, del dos mil dieciocho, buen estado general.
+- **해석:** 르노 메간, 2018년식이고, 전반적으로 상태 좋습니다.
+- **주요 단어:** `estado` (명사, 남) 상태 / `general` (형용사) 전반적인
+- **문법:** `del (año) dos mil dieciocho` 연식 표현. `bueno` → 남성 단수 명사 앞 `buen`.
+- **시제:** 동사 없음
+
+### 12-3. **Álvaro:** ¿Cuántos kilómetros tiene?
+- **해석:** 몇 킬로미터 탔나요?
+- **주요 단어:** `kilómetro` (명사, 남) 킬로미터
+- **문법:** `cuántos` 명사와 성·수 일치.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 차의 현재 주행거리 | 불규칙
+
+### 12-4. **Vendedor:** Ciento veinte mil, aproximadamente.
+- **해석:** 대략 12만 킬로요.
+- **주요 단어:** `aproximadamente` (부사) 대략
+- **문법:** `cien` → 뒤에 숫자가 오면 `ciento`.
+- **시제:** 동사 없음
+
+### 12-5. **Vendedor:** El coche tiene la ITV al día, pasada hace dos meses.
+- **해석:** 차는 정기검사(ITV)도 최신이에요, 두 달 전에 통과했어요.
+- **주요 단어:** `ITV` 스페인 차량 정기 검사(Inspección Técnica de Vehículos) / `al día` 최신 상태인 / `pasar` (동사) (검사를) 통과하다
+- **문법:** `pasada`는 과거분사로 ITV(여성)를 수식하는 분사구. `hace + 시간` ~ 전.
+- **표현:** `tener ~ al día` "~을 기한 내로 갖추다".
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재 상태 | 불규칙
+  - `pasada` → pasar | 과거분사 여성 단수 | 완료된 결과를 형용사처럼 | 규칙
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | hace + 시간 고정 구문
+
+### 12-6. **Álvaro:** ¿Algún problema mecánico que deba saber?
+- **해석:** 제가 알아야 할 기계적 문제는 있나요?
+- **주요 단어:** `mecánico` (형용사) 기계의 / `deber` 앞에서 설명
+- **문법:** 불확정 선행사(`algún problema`) + 관계절 접속법(9-10과 같은 구조).
+- **시제:**
+  - `deba` → deber | 접속법 현재 1인칭 단수 | 존재 여부 불확실한 선행사 | 규칙
+  - `saber` → saber | 부정사
+
+### 12-7. **Vendedor:** Nada grave.
+- **해석:** 심각한 건 없어요.
+- **주요 단어:** `grave` (형용사) 심각한
+- **문법:** `nada + 형용사` 아무 ~한 것도.
+- **시제:** 동사 없음
+
+### 12-8. **Vendedor:** Cambié las pastillas de freno el mes pasado, y el aceite está recién hecho.
+- **해석:** 지난달에 브레이크 패드를 교체했고, 오일도 막 갈았어요.
+- **주요 단어:** `cambiar` (동사) 바꾸다 / `pastilla de freno` 브레이크 패드 / `aceite` (명사, 남) 오일 / `recién` (부사) 막, 갓
+- **문법:** `recién + 과거분사` 막 ~된. `estar + 과거분사` 결과 상태.
+- **표현:** `el aceite está recién hecho` 스페인 구어로 "오일 교환을 막 했다".
+- **시제:**
+  - `Cambié` → cambiar | 직설법 단순과거 1인칭 단수 | 지난달(끝난 시간)의 행위라 단순과거 | 규칙
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재 상태 | 불규칙
+  - `hecho` → hacer | 과거분사 | 결과 상태 | 불규칙 과거분사 (hacer → hecho)
+  - 비교: `el mes pasado`처럼 끝난 시간 표현이 있으면 스페인에서도 현재완료 대신 단순과거.
+
+### 12-9. **Álvaro:** ¿Cuánto pide por él?
+- **해석:** 얼마 받으실 건가요?
+- **주요 단어:** `pedir` (동사) 요구하다, (가격을) 부르다
+- **문법:** `pedir por + 물건` ~에 대해 (값을) 요구하다. `él` = el coche(전치사 뒤 인칭대명사).
+- **시제:**
+  - `pide` → pedir | 직설법 현재 3인칭 단수(usted) | 현재 제시 가격 | e→i 불규칙
+
+### 12-10. **Vendedor:** Cuatro mil quinientos euros, aunque puedo bajar un poco si paga en efectivo.
+- **해석:** 4,500유로인데, 현금으로 내시면 조금 깎아 드릴 수 있어요.
+- **주요 단어:** `bajar` (동사) 내리다, 깎다 / `pagar` (동사) 지불하다 / `en efectivo` 현금으로
+- **문법:** 현실 조건 `si + 직설법 현재`. `quinientos` 불규칙 숫자(500).
+- **시제:**
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 가능성 제시 | o→ue
+  - `bajar` → bajar | 부정사
+  - `paga` → pagar | 직설법 현재 3인칭 단수(usted) | si 현실 조건 | 규칙
+
+### 12-11. **Álvaro:** Acepto la oferta siempre y cuando incluya la documentación completa, y me confirme que no tiene cargas pendientes.
+- **해석:** 서류 일체를 포함하고, 미정산 부담(압류·채무 등)이 없다고 확인해 주신다면 제안을 받아들이겠습니다.
+- **주요 단어:** `aceptar` (동사) 받아들이다 / `oferta` (명사, 여) 제안 / `siempre y cuando` (접속사구) ~하는 한, ~라는 조건으로 / `incluir` (동사) 포함하다 / `confirmar` (동사) 확인하다 / `carga` (명사, 여) (법적) 부담, 압류 / `pendiente` (형용사) 미결의
+- **문법:** `siempre y cuando + 접속법` 조건 접속사는 항상 접속법. `confirmar que + 직설법`(사실 확인 내용).
+- **표현:** `cargas pendientes` 차량에 걸린 압류·미납 벌금 등 법적 부담.
+- **시제:**
+  - `Acepto` → aceptar | 직설법 현재 1인칭 단수 | 현재의 결정 | 규칙
+  - `incluya` → incluir | 접속법 현재 3인칭 단수 | siempre y cuando 뒤 접속법 | -uir 동사 y 삽입 불규칙 (incluir → incluya)
+  - `confirme` → confirmar | 접속법 현재 3인칭 단수 | 같은 조건절 | 규칙
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | confirmar que 뒤 사실 진술이라 직설법 | 불규칙
+
+### 12-12. **Vendedor:** Sin cargas, se lo garantizo.
+- **해석:** 부담 같은 건 없어요, 보장합니다.
+- **주요 단어:** `garantizar` (동사) 보장하다
+- **문법:** `se lo` = le + lo.
+- **시제:**
+  - `garantizo` → garantizar | 직설법 현재 1인칭 단수 | 말하는 순간의 약속 | 규칙 (1인칭 단순과거에서만 garanticé 철자 변화)
+
+### 12-13. **Vendedor:** Aquí tiene el permiso de circulación y el último recibo del impuesto de circulación.
+- **해석:** 여기 차량 등록증과 최근 자동차세 영수증이 있습니다.
+- **주요 단어:** `permiso de circulación` 차량 등록증 / `recibo` (명사, 남) 영수증 / `impuesto de circulación` 자동차세 / `último` (형용사) 최근의, 마지막의
+- **문법:** 특이사항 없음
+- **표현:** `Aquí tiene ~` 건네며 "여기 ~ 있습니다".
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 12-14. **Álvaro:** ¿Y el cambio de titularidad?
+- **해석:** 그럼 명의 이전은요?
+- **주요 단어:** `cambio de titularidad` 명의 이전
+- **문법:** 문두 `Y` 화제 전환 질문.
+- **시제:** 동사 없음
+
+### 12-15. **Vendedor:** El cambio de titularidad corre por su cuenta, es lo habitual en estas ventas entre particulares.
+- **해석:** 명의 이전은 구매자 부담이에요, 개인 간 거래에선 그게 보통이죠.
+- **주요 단어:** `correr por cuenta de ~` ~의 부담이다 / `habitual` (형용사) 통상적인 / `venta` (명사, 여) 판매 / `particular` (명사) 개인
+- **문법:** `lo + 형용사`(lo habitual) 추상 명사화.
+- **표현:** `correr por su cuenta` "당신이 (비용·처리를) 부담하다".
+- **시제:**
+  - `corre` → correr | 직설법 현재 3인칭 단수 | 일반적 규칙 | 규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 사실 | 불규칙
+
+### 12-16. **Álvaro:** Entendido, puedo gestionarlo yo mismo en la jefatura de tráfico.
+- **해석:** 알겠어요, 교통국에서 제가 직접 처리할 수 있어요.
+- **주요 단어:** `gestionar` (동사) (행정 절차를) 처리하다 / `yo mismo` 나 스스로 / `jefatura de tráfico` 교통국(DGT 지방청)
+- **문법:** 목적어 `lo` 부정사 뒤 부착. `yo mismo` 주어 강조.
+- **시제:**
+  - `Entendido` → entender | 과거분사 | 앞에서 설명
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 능력 | o→ue
+  - `gestionar(lo)` → gestionar | 부정사
+
+### 12-17. **Vendedor:** Exacto.
+- **해석:** 맞아요.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 12-18. **Vendedor:** Con el contrato de compraventa que firmemos hoy, tiene diez días para hacer el cambio.
+- **해석:** 오늘 우리가 서명할 매매 계약서로, 열흘 안에 명의 이전을 하시면 됩니다.
+- **주요 단어:** `contrato de compraventa` 매매 계약서 / `firmar` (동사) 서명하다 / `día` (명사, 남) 날
+- **문법:** 관계절 `que firmemos hoy` — 아직 서명 전(미래)의 계약을 가리키므로 접속법. `para + 부정사` 목적.
+- **시제:**
+  - `firmemos` → firmar | 접속법 현재 1인칭 복수 | 아직 실현되지 않은 미래 행위를 가리키는 관계절 | 규칙
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 규정상 사실 | 불규칙
+  - `hacer` → hacer | 부정사
+  - 비교: `que firmamos hoy`(직설법)는 이미 서명했거나 확정된 사실로 말하는 느낌.
+
+### 12-19. **Álvaro:** Perfecto, entonces cerramos el trato.
+- **해석:** 좋아요, 그럼 거래 성사네요.
+- **주요 단어:** `cerrar` (동사) 닫다; 마무리하다 / `trato` (명사, 남) 거래
+- **문법:** 특이사항 없음
+- **표현:** `cerrar el trato` "거래를 성사시키다".
+- **시제:**
+  - `cerramos` → cerrar | 직설법 현재 1인칭 복수 | 지금 이 자리에서 결정하는 행위를 현재로 | e→ie 불규칙이지만 nosotros형은 규칙(cerramos)
+
+### 12-20. **Vendedor:** (Firman el contrato) Aquí tiene las llaves.
+- **해석:** (계약서에 서명한다) 여기 열쇠 받으세요.
+- **주요 단어:** `firmar` 앞에서 설명 / `llave` (명사, 여) 열쇠
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Firman` → firmar | 직설법 현재 3인칭 복수 | 지문 묘사 | 규칙
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 12-21. **Vendedor:** Espero que le dé buen uso.
+- **해석:** 잘 쓰시길 바랍니다.
+- **주요 단어:** `esperar` (동사) 바라다 / `dar buen uso a ~` ~을 잘 쓰다
+- **문법:** 희망 동사 `esperar que + 접속법`. `le` = 차(al coche)에.
+- **시제:**
+  - `Espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙
+  - `dé` → dar | 접속법 현재 3인칭 단수 | 희망 뒤라 접속법 | 불규칙(전치사 de와 구별하려 강세 표기 dé)
+
+### 12-22. **Álvaro:** Seguro que sí, gracias.
+- **해석:** 물론이죠, 감사합니다.
+- **주요 단어:** `seguro` 앞에서 설명
+- **문법:** `Seguro que sí` = (Es) seguro que sí, 동사 생략.
+- **표현:** `Seguro que sí` "틀림없이 그럴 거예요".
+- **시제:** 동사 없음

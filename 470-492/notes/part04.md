@@ -354,3 +354,182 @@
   - `ser` → ser | 부정사 | deber 뒤
   - `presentar` → presentar | 부정사 | para 뒤 | 규칙
   - 비교: debe ser는 더 단정적, debería ser는 조심스러운 기대
+
+## 장면 15. 하비에르에게 보고하기
+> 공항에서 돌아온 알바로가 하비에르에게 이번 발견을 자세히 전달하며, 다음 단계를 논의합니다.
+
+### 15-1. **Álvaro:** (Llama a Javier, con la nueva app cifrada) Javier, tengo avances importantes.
+- **해석:** (새 암호화 앱으로 하비에르에게 전화한다) 하비에르, 중요한 진전이 있어.
+- **주요 단어:** `llamar` (동사) 전화하다 / `cifrado` (형용사) 암호화된 / `avance` (명사·남) 진전
+- **문법:** 사람 목적어 앞 인칭 a (`a Javier`).
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 3인칭 단수 | 지문의 현재 서술 | 규칙
+  - `cifrada` → cifrar | 과거분사 여성 단수 | app(여성)을 수식하는 형용사 | 규칙
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 현재 가진 것 | 불규칙 (tengo)
+
+### 15-2. **Javier:** Cuéntame todo.
+- **해석:** 전부 말해 봐.
+- **주요 단어:** `contar` (동사) 이야기하다
+- **문법:** tú 긍정명령에 대명사 me를 붙임, 강세 표기(cuénta+me → cuéntame).
+- **시제:**
+  - `Cuéntame` → contar | 명령법 긍정 2인칭 단수 (imperativo, tú) | 친한 사이의 직접 요청 | 불규칙 (o→ue: cuenta)
+
+### 15-3. **Álvaro:** La finca es real, y activa.
+- **해석:** 그 저택은 실재하고, 활발히 쓰이고 있어.
+- **주요 단어:** `real` (형용사) 실재하는 / `activo` (형용사) 활동 중인
+- **문법:** 본질적 성격 판단이라 ser.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 사실 | 불규칙
+
+### 15-4. **Álvaro:** Vi un coche saliendo, seguí al conductor hasta un aeródromo privado cerca de Santander.
+- **해석:** 차 한 대가 나오는 걸 봤고, 운전자를 산탄데르 근처 사설 비행장까지 따라갔어.
+- **주요 단어:** `ver` 앞에서 설명 / `seguir` 앞에서 설명 / `cerca de` ~ 근처에
+- **문법:** 지각동사 `ver + 목적어 + 현재분사` = ~가 ~하고 있는 것을 보다(진행 중 장면 강조). 인칭 a(`al conductor`).
+- **시제:**
+  - `Vi` → ver | 직설법 단순과거 1인칭 단수 | 끝난 사건을 순서대로 나열 | 불규칙 (vi, viste, vio — 강세 부호 없음)
+  - `saliendo` → salir | 현재분사 | 본 순간 진행 중이던 동작 | 규칙형 현재분사
+  - `seguí` → seguir | 직설법 단순과거 1인칭 단수 | 완결된 과거 행위 | 3인칭에서 e→i (siguió)
+  - 비교: 사건의 연쇄는 단순과거, 배경 묘사라면 불완료과거(veía)
+
+### 15-5. **Javier:** ¿Y consiguió fotos?
+- **해석:** 그래서 사진은 찍었어?
+- **주요 단어:** `conseguir` (동사) 얻다, 해내다 / `foto` (명사·여) 사진
+- **문법:** 형태는 3인칭 단수(usted)이지만, 앞뒤에서 하비에르는 tú(Cuéntame, Crees)를 쓰므로 문맥상 `conseguiste`가 자연스러움(원문 불일치로 보임).
+- **표현:** `conseguir fotos` = 사진을 확보하다.
+- **시제:**
+  - `consiguió` → conseguir | 직설법 단순과거 3인칭 단수 | 완결된 과거 결과를 묻는 질문 | 불규칙 (3인칭 e→i; tú형은 conseguiste)
+
+### 15-6. **Álvaro:** Sí, del conductor, de la matrícula del avión, y de todo el trayecto.
+- **해석:** 응, 운전자, 비행기 등록번호, 그리고 이동 경로 전부.
+- **주요 단어:** `trayecto` (명사·남) 경로, 구간
+- **문법:** 앞 문장 fotos에 이어지는 `de + 명사`(~의 사진) 생략 구조.
+- **시제:** 동사 없음
+
+### 15-7. **Javier:** ¿Crees que el conductor era Roselló mismo?
+- **해석:** 그 운전자가 로셀로 본인이었다고 생각해?
+- **주요 단어:** `creer` (동사) 생각하다, 믿다 / `mismo` (형용사) 본인, 바로 그
+- **문법:** `creer que`가 긍정(의문)이면 종속절은 직설법. `Roselló mismo` = 로셀로 본인.
+- **시제:**
+  - `Crees` → creer | 직설법 현재 2인칭 단수 | 현재의 의견을 물음 | 규칙
+  - `era` → ser | 직설법 불완료과거 3인칭 단수 | 과거 시점의 신원·상태 묘사 | 불규칙 (era, eras, era)
+  - 비교: fue는 사건 완결 느낌, 신원 묘사엔 era
+
+### 15-8. **Álvaro:** No, la descripción no coincide.
+- **해석:** 아니, 인상착의가 안 맞아.
+- **주요 단어:** `coincidir` 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 현재의 판단 | 규칙
+
+### 15-9. **Álvaro:** Pero Anselmo, el pastor vecino, describió a alguien que sí coincide exactamente con Roselló, visitando la finca varias veces en los últimos meses.
+- **해석:** 그런데 이웃 목동 안셀모가, 최근 몇 달 동안 그 저택을 여러 번 찾아온, 로셀로와 정확히 일치하는 사람을 묘사했어.
+- **주요 단어:** `pastor` (명사·남) 목동 / `describir` (동사) 묘사하다 / `exactamente` (부사) 정확히 / `visitar` (동사) 방문하다 / `varias veces` 여러 번
+- **문법:** `sí coincide`: sí로 긍정을 강조(앞의 no와 대비). 관계절이 실제로 본 특정 인물이라 직설법. 현재분사 visitando가 alguien의 행동을 부연.
+- **시제:**
+  - `describió` → describir | 직설법 단순과거 3인칭 단수 | 인터뷰 때 한 번 한 완결 행위 | 규칙 (과거분사만 descrito 불규칙)
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 현재 시점의 일치 판단, 실존 인물이라 직설법 | 규칙
+  - `visitando` → visitar | 현재분사 | 반복된 방문 행위를 부가 설명 | 규칙
+
+### 15-10. **Javier:** Eso es prácticamente una confirmación directa de su presencia en España.
+- **해석:** 그건 사실상 그가 스페인에 있다는 직접적인 확인이네.
+- **주요 단어:** `prácticamente` (부사) 사실상 / `confirmación` (명사·여) 확인 / `presencia` (명사·여) 존재, 체류
+- **문법:** 특이사항 없음
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재의 평가 | 불규칙
+
+### 15-11. **Álvaro:** Eso creo yo también.
+- **해석:** 나도 그렇게 생각해.
+- **주요 단어:** `también` (부사) ~도
+- **문법:** 목적어 eso를 앞으로 내고 주어 yo를 동사 뒤에 둔 강조 어순.
+- **시제:**
+  - `creo` → creer | 직설법 현재 1인칭 단수 | 현재 의견 | 규칙
+
+### 15-12. **Álvaro:** Con esto, la estructura societaria que documentó Domingo, y el patrón de vehículos, tenemos una historia sólida.
+- **해석:** 이것에다, 도밍고가 문서로 정리한 법인 구조, 그리고 차량 패턴까지 있으니, 탄탄한 기사거리가 돼.
+- **주요 단어:** `documentar` (동사) 문서화하다 / `patrón` (명사·남) 패턴 / `vehículo` (명사·남) 차량 / `historia` (명사·여) 이야기, (기자 용어) 기사거리
+- **문법:** 관계절 속 주어 도치 `que documentó Domingo`(스페인어에서 흔함).
+- **시제:**
+  - `documentó` → documentar | 직설법 단순과거 3인칭 단수 | 과거에 완결된 작업 | 규칙
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 현재 확보한 상태 | 불규칙 동사(1복은 규칙형)
+
+### 15-13. **Javier:** ¿Vas a contactar ya con Carlos?
+- **해석:** 이제 카를로스한테 연락할 거야?
+- **주요 단어:** `contactar con` ~에게 연락하다 / `ya` (부사) 이제, 벌써
+- **표현:** `contactar con alguien` = 스페인식 구문(중남미는 contactar a alguien도 흔함).
+- **문법:** ir a + 부정사 근접미래.
+- **시제:**
+  - `Vas` → ir | 직설법 현재 2인칭 단수 | 곧 할 계획을 물음 | 불규칙
+  - `contactar` → contactar | 부정사 | ir a 뒤 | 규칙
+
+### 15-14. **Álvaro:** Todavía no.
+- **해석:** 아직.
+- **주요 단어:** `todavía no` 아직 아니다
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 15-15. **Álvaro:** Quiero un último elemento: confirmar el vuelo, y si es posible, entrar brevemente en la finca para verificar directamente.
+- **해석:** 마지막 요소 하나가 필요해: 비행편 확인, 그리고 가능하면 저택에 잠깐 들어가서 직접 확인하는 것.
+- **주요 단어:** `último` (형용사) 마지막 / `elemento` (명사·남) 요소 / `posible` (형용사) 가능한 / `entrar en` ~에 들어가다 / `verificar` (동사) 검증하다
+- **문법:** 콜론 뒤 부정사들이 명사처럼 elemento를 설명. `si + 직설법 현재` 현실 조건. `entrar en`(스페인식; 중남미 entrar a).
+- **시제:**
+  - `Quiero` → querer | 직설법 현재 1인칭 단수 | 현재 바람 | 불규칙 (e→ie)
+  - `confirmar` → confirmar | 부정사 | 명사적 용법 | 규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | si 조건절(현실 가능성) — si 뒤엔 접속법 현재를 쓰지 않음 | 불규칙
+  - `entrar` → entrar | 부정사 | 명사적 용법 | 규칙
+  - `verificar` → verificar | 부정사 | para 뒤 목적 | 규칙
+
+### 15-16. **Javier:** Eso último suena arriesgado, Álvaro.
+- **해석:** 그 마지막 건 위험하게 들리는데, 알바로.
+- **주요 단어:** `sonar` (동사) ~하게 들리다 / `arriesgado` (형용사) 위험한
+- **문법:** `eso último` = 그 마지막 것(중성). `sonar + 형용사`.
+- **시제:**
+  - `suena` → sonar | 직설법 현재 3인칭 단수 | 지금 받은 인상 | 불규칙 (o→ue)
+  - `arriesgado` → arriesgar | 과거분사(형용사화) 남성 단수 | 중성 eso를 받아 남성형 | 규칙
+
+### 15-17. **Álvaro:** Lo sé.
+- **해석:** 알아.
+- **주요 단어:** `saber` (동사) 알다
+- **문법:** 중성 lo가 앞 내용을 받음.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재 인식 | 불규칙 (sé, sabes, sabe)
+
+### 15-18. **Álvaro:** Pero prefiero tener algo completamente sólido antes de escalarlo.
+- **해석:** 하지만 윗선에 올리기 전에 완전히 확실한 걸 갖고 싶어.
+- **주요 단어:** `preferir` (동사) 선호하다 / `completamente` (부사) 완전히 / `escalar` (동사) (상부로) 올리다, 확대하다
+- **문법:** `preferir + 부정사`(주어 동일). `antes de + 부정사`, 대명사 lo 부착.
+- **표현:** `escalar` = 영어 escalate 영향의 업무 용어, "상부에 보고하다".
+- **시제:**
+  - `prefiero` → preferir | 직설법 현재 1인칭 단수 | 현재 선호 | 불규칙 (e→ie)
+  - `tener` → tener | 부정사 | preferir 뒤
+  - `escalarlo` → escalar | 부정사 | antes de 뒤 | 규칙
+
+### 15-19. **Javier:** De acuerdo, aunque ten mucho cuidado.
+- **해석:** 알았어, 그래도 정말 조심해.
+- **주요 단어:** `tener cuidado` 조심하다
+- **문법:** 여기서 aunque는 "그렇지만"(= pero)의 등위 용법이라 명령문이 바로 이어짐.
+- **시제:**
+  - `ten` → tener | 명령법 긍정 2인칭 단수 | 친근한 당부 | 불규칙 (tener → ten)
+
+### 15-20. **Javier:** Sin Carlos, sin Camila, estás completamente solo si algo sale mal.
+- **해석:** 카를로스도 카밀라도 없으니, 일이 잘못되면 넌 완전히 혼자야.
+- **주요 단어:** `solo` (형용사) 혼자인 / `salir mal` 잘못되다
+- **문법:** estar + 상태 형용사. `si + 직설법 현재` 현실 조건(주절도 현재).
+- **표현:** `algo sale mal` = "뭔가 잘못되다".
+- **시제:**
+  - `estás` → estar | 직설법 현재 2인칭 단수 | 조건 성립 시의 상태(현재로 미래 표현) | 불규칙
+  - `sale` → salir | 직설법 현재 3인칭 단수 | si 조건절 | 불규칙 (salgo)
+
+### 15-21. **Álvaro:** Lo sé perfectamente.
+- **해석:** 잘 알고 있어.
+- **주요 단어:** `perfectamente` (부사) 완벽히
+- **문법:** 앞에서 설명
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 15-22. **Álvaro:** Seré cauteloso, te lo prometo.
+- **해석:** 조심할게, 약속해.
+- **주요 단어:** `cauteloso` (형용사) 신중한 / `prometer` (동사) 약속하다
+- **문법:** 대명사 순서: 간접(te) + 직접(lo) + 동사.
+- **시제:**
+  - `Seré` → ser | 직설법 미래 1인칭 단수 | 앞으로의 태도에 대한 약속·의지 | 불규칙 동사(미래 어미는 규칙)
+  - `prometo` → prometer | 직설법 현재 1인칭 단수 | 말하는 순간 약속이 성립하는 수행적 현재 | 규칙

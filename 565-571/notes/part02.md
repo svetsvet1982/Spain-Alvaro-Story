@@ -294,3 +294,148 @@
 - **시제:**
   - `es` → ser | 직설법 현재 3인칭 단수 | 지속적 특성 평가 | 불규칙
 
+### 3-37. **Roselló:** Trabajando juntos, los tres, podríamos construir algo que ninguna organización estatal, ni la mía ni ninguna otra, podría controlar del todo.
+- **해석:** 우리 셋이 함께 일한다면, 어떤 국가 기관도, 제 조직도 다른 어떤 조직도 완전히 통제할 수 없는 무언가를 만들 수 있을 겁니다.
+- **주요 단어:** `organización` (명사, 여) 조직 / `estatal` (형용사) 국가의 / `controlar` (동사) 통제하다 / `del todo` 완전히
+- **문법:** 문두 현재분사 `Trabajando juntos` = 조건("함께 일한다면"). `ni ... ni ...` 이중 부정 나열. `la mía` = mi organización(소유대명사). 관계사 que의 주어는 ninguna organización.
+- **시제:**
+  - `Trabajando` → trabajar | 현재분사(gerundio) | 조건 의미의 분사구문 | 규칙
+  - `podríamos` → poder | 조건법 단순형 1인칭 복수 | 가정적 가능성 | 불규칙 어간 podr-
+  - `construir` → 부정사 | poder 뒤 | (construyo: y 삽입 불규칙)
+  - `podría` → poder | 조건법 단순형 3인칭 단수 | 주절의 가정 세계와 맞춰 관계절도 조건법 | 불규칙
+  - `controlar` → 부정사 | poder 뒤
+
+### 3-38. **Álvaro:** ¿Y las víctimas?
+- **해석:** 그럼 피해자들은요?
+- **주요 단어:** `víctima` (명사, 여) 피해자 (남성도 la víctima)
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-39. **Álvaro:** ¿Los trabajadores explotados, los funcionarios chantajeados, la gente que ha sufrido por sus estructuras?
+- **해석:** 착취당한 노동자들, 협박당한 공무원들, 당신 조직 때문에 고통받아 온 사람들은요?
+- **주요 단어:** `explotar` (동사) 착취하다 / `chantajear` (동사) 협박하다, 공갈하다 / `sufrir` (동사) 고통받다
+- **문법:** 과거분사가 형용사로 명사에 일치(explotados, chantajeados). `por` = 원인.
+- **시제:**
+  - `explotados` → explotar | 과거분사 남성 복수 | "착취당한" 수동·결과 | 규칙
+  - `chantajeados` → chantajear | 과거분사 남성 복수 | "협박당한" | 규칙
+  - `ha sufrido` → sufrir | 직설법 현재완료 3인칭 단수 | 고통이 지금까지 이어져 영향을 남김 → 현재완료 | 규칙
+
+### 3-40. **Álvaro:** ¿Eso simplemente se olvida, si acepto?
+- **해석:** 제가 받아들이면 그건 그냥 잊혀지는 겁니까?
+- **주요 단어:** `simplemente` (부사) 그냥, 단순히 / `olvidar` (동사) 잊다 / `aceptar` (동사) 받아들이다
+- **문법:** `se olvida`: 수동의 se(pasiva refleja). 현실적 조건문 `si` + 직설법 현재.
+- **시제:**
+  - `se olvida` → olvidar(se) | 직설법 현재 3인칭 단수, 수동 se | 조건 충족 시의 결과를 현재로 표현 | 규칙
+  - `acepto` → aceptar | 직설법 현재 1인칭 단수 | si 조건절에는 미래형 대신 현재 사용(스페인어 규칙) | 규칙
+
+### 3-41. **Roselló:** No se olvida.
+- **해석:** 잊혀지지 않습니다.
+- **주요 단어:** `olvidar` 앞에서 설명
+- **문법:** 수동의 se(앞과 동일).
+- **시제:**
+  - `se olvida` → olvidar | 직설법 현재 3인칭 단수 | 앞 문장에 대응하는 현재 | 규칙
+
+### 3-42. **Roselló:** Se convierte, a partir de ahora, en algo que ya no vuelve a ocurrir, bajo una dirección distinta.
+- **해석:** 이제부터는, 다른 지휘 아래에서, 다시는 일어나지 않는 일이 되는 겁니다.
+- **주요 단어:** `a partir de ahora` 지금부터 / `volver a` + 부정사 다시 ~하다 / `ocurrir` (동사) 일어나다 / `bajo` (전치사) ~아래 / `dirección` (명사, 여) 지휘, 경영
+- **문법:** `convertirse en` ~로 바뀌다. `ya no` 더 이상 ~않다. `volver a` + 부정사 반복.
+- **시제:**
+  - `Se convierte` → convertirse | 직설법 현재 3인칭 단수 | 미래 일을 확신하듯 현재로 말함(a partir de ahora와 함께) | 불규칙(e→ie)
+  - `vuelve` → volver | 직설법 현재 3인칭 단수 | 앞으로의 일을 현재로 단언 | 불규칙(o→ue)
+  - `ocurrir` → 부정사 | volver a 뒤
+
+### 3-43. **Camila:** Eso no repara el daño ya hecho.
+- **해석:** 그런다고 이미 저질러진 피해가 회복되진 않아요.
+- **주요 단어:** `reparar` (동사) 바로잡다, 배상하다 / `daño` 앞에서 설명 / `hecho` 행해진
+- **문법:** `ya hecho` 과거분사 형용사 용법("이미 행해진").
+- **시제:**
+  - `repara` → reparar | 직설법 현재 3인칭 단수 | 일반적 사실 판단 | 규칙
+  - `hecho` → hacer | 과거분사 남성 단수 | 완료된 결과 | 불규칙 과거분사(hacer → hecho)
+
+### 3-44. **Roselló:** No, no lo repara.
+- **해석:** 네, 회복되지 않죠.
+- **주요 단어:** `reparar` 앞에서 설명
+- **문법:** `lo` = el daño(직접목적대명사, 동사 앞). 첫 No는 "맞아요(부정 동의)".
+- **시제:**
+  - `repara` → reparar | 직설법 현재 3인칭 단수 | 일반적 사실 | 규칙
+
+### 3-45. **Roselló:** Nada lo repara del todo.
+- **해석:** 그 무엇도 완전히 회복시키지는 못합니다.
+- **주요 단어:** `nada` (대명사) 아무것도 ~않다
+- **문법:** `nada`가 동사 앞 → no 불필요.
+- **시제:**
+  - `repara` → reparar | 직설법 현재 3인칭 단수 | 보편적 진리 | 규칙
+
+### 3-46. **Roselló:** Pero el futuro sí puede ser distinto al pasado, si alguien con la voluntad correcta toma las decisiones correctas.
+- **해석:** 하지만 올바른 의지를 가진 누군가가 올바른 결정을 내린다면, 미래는 분명 과거와 다를 수 있습니다.
+- **주요 단어:** `voluntad` (명사, 여) 의지 / `correcto` (형용사) 올바른 / `tomar decisiones` 결정을 내리다
+- **문법:** 강조의 `sí`(동사 앞, "분명히 ~는 한다"). `distinto a` ~와 다른. 현실 조건문 si + 직설법 현재.
+- **시제:**
+  - `puede` → poder | 직설법 현재 3인칭 단수 | 일반적 가능성 | 불규칙(o→ue)
+  - `ser` → 부정사 | poder 뒤
+  - `toma` → tomar | 직설법 현재 3인칭 단수 | si 조건절(현실 가능 조건)은 현재 | 규칙
+
+### 3-47. **Álvaro:** ¿Y usted confiaría en mí, con ese poder?
+- **해석:** 그럼 당신은 그런 권력을 쥔 저를 믿으시겠습니까?
+- **주요 단어:** `confiar en` ~를 신뢰하다 / `poder` (명사) 권력
+- **문법:** `confiar en` + 사람. en 뒤 강세형 mí.
+- **시제:**
+  - `confiaría` → confiar | 조건법 단순형 3인칭 단수 | 가정적 상황("그렇게 된다면 믿겠느냐") | 규칙(강세: confío)
+
+### 3-48. **Álvaro:** ¿Después de perseguirlo durante tanto tiempo?
+- **해석:** 그렇게 오랫동안 당신을 쫓았는데도요?
+- **주요 단어:** `después de` + 부정사 ~한 후에 / `durante` (전치사) ~동안
+- **문법:** 전치사 뒤 부정사 + 목적대명사 lo(=usted, 남성) 부착.
+- **시제:**
+  - `perseguir` → 부정사 | después de 뒤 (주어는 문맥상 알바로) | 불규칙 동사(persigo)
+
+### 3-49. **Roselló:** Confiaría en usted más de lo que he confiado en nadie en treinta años, precisamente porque nunca ha buscado el poder por el poder mismo.
+- **해석:** 지난 30년간 그 누구를 믿었던 것보다 더 당신을 믿을 겁니다. 바로 당신이 권력 그 자체를 위해 권력을 추구한 적이 한 번도 없기 때문이죠.
+- **주요 단어:** `más de lo que` ~한 것보다 더 / `buscar` (동사) 추구하다, 찾다 / `por el poder mismo` 권력 그 자체를 위해
+- **문법:** 절과 비교할 때 `más de lo que` 사용(más que 아님). 비교 뒤 `nadie`는 긍정 의미("누구보다").
+- **표현:** `el poder por el poder` = "권력을 위한 권력".
+- **시제:**
+  - `Confiaría` → confiar | 조건법 단순형 1인칭 단수 | 가정 상황의 답 | 규칙
+  - `he confiado` → confiar | 직설법 현재완료 1인칭 단수 | "30년 동안 지금까지" 경험 → 현재완료 | 규칙
+  - `ha buscado` → buscar | 직설법 현재완료 3인칭 단수 | 지금까지의 삶 전체에 대한 경험(nunca와 함께) | 규칙
+
+### 3-50. **Roselló:** Eso es exactamente lo que necesito, lo que mi antigua organización nunca entendió que necesitaba.
+- **해석:** 그게 바로 제게 필요한 것이고, 제 예전 조직은 자신에게 그게 필요하다는 걸 끝내 이해하지 못했죠.
+- **주요 단어:** `necesitar` (동사) 필요로 하다 / `antiguo` (형용사, 명사 앞) 예전의 / `entender` (동사) 이해하다
+- **문법:** `lo que` 중성 관계사 반복(동격). `entendió que necesitaba`: 과거 시점에서의 필요 → 시제 일치로 불완료과거.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 판단 | 불규칙
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재의 필요 | 규칙
+  - `entendió` → entender | 직설법 단순과거 3인칭 단수 | 과거 조직의 (끝내) 이해하지 못한 완결된 사실 | 단순과거는 규칙(현재형 e→ie)
+  - `necesitaba` → necesitar | 직설법 불완료과거 3인칭 단수 (pretérito imperfecto) | 과거에 지속되던 상태(필요)·시제 일치. 단순과거(entendió)는 사건, 불완료(necesitaba)는 배경 상태 | 규칙
+
+### 3-51. **Camila:** (Mira a Álvaro) Esto es surrealista.
+- **해석:** (알바로를 보며) 이거 초현실적이네요.
+- **주요 단어:** `mirar` (동사) 보다 / `surrealista` (형용사) 초현실적인, 황당한
+- **문법:** 사람 목적어 앞 인칭 a.
+- **표현:** `Es surrealista` = 구어에서 "말도 안 돼, 황당해".
+- **시제:**
+  - `Mira` → mirar | 직설법 현재 3인칭 단수 | 지문 현재 묘사 | 규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 상황 평가 | 불규칙
+
+### 3-52. **Álvaro:** Completamente.
+- **해석:** 완전히요.
+- **주요 단어:** `completamente` (부사) 완전히
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 3-53. **Roselló:** Entiendo que necesiten tiempo para considerarlo.
+- **해석:** 생각해 볼 시간이 필요하시다는 건 이해합니다.
+- **주요 단어:** `entender` (동사) 이해하다 / `considerar` (동사) 숙고하다
+- **문법:** `Entiendo que` + 접속법: "~라는 사실을 (당연하다고) 받아들이다"라는 평가·수용 의미라 접속법. 정보로서 "~라는 걸 알겠다"면 직설법(Entiendo que necesitan…). `considerarlo`: lo 부착.
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 현재의 이해 | 불규칙(e→ie)
+  - `necesiten` → necesitar | 접속법 현재 3인칭 복수 (ustedes) | 수용·평가의 entender que → 접속법 | 규칙
+  - `considerar` → 부정사 | para 뒤 목적
+
+### 3-54. **Roselló:** No espero una respuesta inmediata.
+- **해석:** 즉답을 기대하진 않습니다.
+- **주요 단어:** `esperar` (동사) 기대하다, 기다리다 / `inmediato` (형용사) 즉각적인
+- **문법:** 특이사항 없음
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 태도 | 규칙

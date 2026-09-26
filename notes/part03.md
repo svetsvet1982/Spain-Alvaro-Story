@@ -397,3 +397,396 @@
 - **표현:** 특이사항 없음
 - **시제:** `espero` → esperar, 직설법 현재 1인칭 단수 / `trabajemos` → trabajar, 접속법 현재 1인칭 복수
 
+## 장면 4. 경매장 대표 세르히오의 시험
+> 파블로의 소개로 다니엘(알바로)이 경매장 대표 세르히오 오르티스를 만납니다. 우아한 사무실에서 이루어지는 이 만남에서, 세르히오는 예술계 특유의 세련된 화법으로 다니엘을 시험합니다.
+
+### 4-1. **Sergio:** (Recibiéndolo en su despacho) Daniel, un placer.
+- **해석:** (자기 사무실에서 그를 맞으며) 다니엘 씨, 반갑습니다.
+- **주요 단어:** `recibir` (동사) 맞이하다 / `despacho` 사무실 / `placer` 기쁨 (앞에서 설명)
+- **문법:** `recibiéndolo` = 현재분사 + lo(그를), 강세 표기. "un placer"는 Es un placer의 생략.
+- **표현:** "Un placer" = 만나서 반갑습니다(격식).
+- **시제:** `recibiéndolo` → recibir, 현재분사(+ lo)
+
+### 4-2. **Sergio:** Pablo me ha hablado muy bien de usted.
+- **해석:** 파블로가 당신 칭찬을 많이 하더군요.
+- **주요 단어:** `hablar bien de` ~에 대해 좋게 말하다
+- **문법:** 현재완료(ha hablado) — 스페인에서는 최근·현재와 연결된 과거에 현재완료를 선호(장면 3의 "me habló"와 대비).
+- **표현:** "hablar bien/mal de alguien" = 누구를 좋게/나쁘게 말하다.
+- **시제:** `ha hablado` → hablar, 직설법 현재완료 3인칭 단수
+
+### 4-3. **Álvaro:** El placer es mío, Sergio.
+- **해석:** 제가 더 반갑습니다, 세르히오 씨.
+- **주요 단어:** `mío` (소유형용사 강세형) 나의 것
+- **문법:** 강세형 소유사 `mío`가 ser 뒤 보어로 사용.
+- **표현:** "El placer es mío" = "천만에요, 제가 더 반갑습니다"(격식 있는 응답).
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수
+
+### 4-4. **Álvaro:** Tiene una casa de subastas preciosa.
+- **해석:** 정말 멋진 경매장을 갖고 계시네요.
+- **주요 단어:** `casa de subastas` 경매 회사, 경매장 / `subasta` (여성명사) 경매 / `precioso` (형용사) 아름다운, 멋진
+- **문법:** 형용사 `preciosa`가 casa(여성 단수)에 일치하며 명사구 뒤에 위치.
+- **표현:** "precioso/a"는 스페인에서 "아주 예쁜, 멋진"의 뜻으로 매우 자주 씀("비싼"이 아님).
+- **시제:** `tiene` → tener, 직설법 현재 3인칭 단수(usted)
+
+### 4-5. **Sergio:** Gracias.
+- **해석:** 감사합니다.
+- **주요 단어:** `gracias` 감사합니다
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 4-6. **Sergio:** Veinte años construyendo esto, pieza a pieza, casi literalmente.
+- **해석:** 20년 동안 이걸 쌓아 왔죠. 한 점 한 점, 거의 말 그대로요.
+- **주요 단어:** `construir` (동사) 짓다, 쌓아 올리다 / `pieza a pieza` 하나씩, 한 조각씩 / `casi` (부사) 거의 / `literalmente` (부사) 말 그대로
+- **문법:** `(Llevo) veinte años construyendo`: llevar + 기간 + 현재분사 구문에서 동사 생략. construir의 현재분사는 y가 들어감(construyendo).
+- **표현:** "pieza a pieza"(하나하나) — 골동품 '한 점(pieza)'과 겹치는 말장난이라 "casi literalmente"라고 덧붙임.
+- **시제:** `construyendo` → construir, 현재분사
+
+### 4-7. **Sergio:** Siéntese, por favor.
+- **해석:** 앉으세요.
+- **주요 단어:** `sentarse` (재귀동사, e→ie) 앉다
+- **문법:** usted 긍정명령 `siente` + 재귀대명사 `se` → siéntese(강세 표기).
+- **표현:** 특이사항 없음
+- **시제:** `siéntese` → sentarse, 명령법(usted)
+
+### 4-8. **Álvaro:** Con gusto.
+- **해석:** 기꺼이요.
+- **주요 단어:** `gusto` (남성명사) 기쁨, 즐거움
+- **문법:** 특이사항 없음
+- **표현:** "Con gusto" = 기꺼이, 좋습니다.
+- **시제:** 동사 없음
+
+### 4-9. **Sergio:** Pablo me comenta que busca ampliar su cartera de clientes hacia piezas andinas de calidad.
+- **해석:** 파블로 말로는 고객층을 질 좋은 안데스 유물 쪽으로 넓히려 하신다고요.
+- **주요 단어:** `comentar` (동사) 언급하다, 말하다 / `hacia` (전치사) ~쪽으로 / `de calidad` 질 좋은
+- **문법:** `comentar que + 직설법` 전달. 과거 일이지만 현재형 `comenta`로 전달하는 구어적 용법(생생한 현재). `buscar + 부정사` ~하려고 하다.
+- **표현:** "Pablo me comenta que..." = "파블로가 그러는데…"
+- **시제:** `comenta` → comentar, 직설법 현재 3인칭 단수 / `busca` → buscar, 직설법 현재 3인칭 단수(usted) / `ampliar` → 부정사
+
+### 4-10. **Álvaro:** Así es.
+- **해석:** 그렇습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수
+
+### 4-11. **Álvaro:** Tengo un par de coleccionistas privados con mucho interés y presupuesto para piezas moche y paracas, sobre todo.
+- **해석:** 특히 모체와 파라카스 유물에 관심도 많고 예산도 있는 개인 수집가가 두어 명 있습니다.
+- **주요 단어:** `presupuesto` (남성명사) 예산 / `interés` 관심 / 나머지 앞에서 설명
+- **문법:** `con mucho interés y presupuesto`: mucho가 두 명사 모두를 수식(남성 단수).
+- **표현:** "presupuesto"를 언급해 구매력을 은근히 과시.
+- **시제:** `tengo` → tener, 직설법 현재 1인칭 단수
+
+### 4-12. **Sergio:** Interesante.
+- **해석:** 흥미롭군요.
+- **주요 단어:** `interesante` (형용사) 흥미로운
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 4-13. **Sergio:** ¿Y cómo empezó usted en este mundo, si no le importa que pregunte?
+- **해석:** 여쭤봐도 괜찮으시다면, 이 세계에는 어떻게 들어오셨나요?
+- **주요 단어:** `empezar` (동사, e→ie) 시작하다 / `importar` (동사) 중요하다, 신경 쓰이다
+- **문법:** `importar`는 gustar형 동사. `no le importa que + 접속법`(감정·판단 동사 뒤 que절은 접속법). 단순과거 `empezó`는 과거의 시작 시점.
+- **표현:** "si no le importa que pregunte" = "여쭤봐도 실례가 안 된다면" 정중한 쿠션어.
+- **시제:** `empezó` → empezar, 직설법 단순과거 3인칭 단수(usted) / `importa` → importar, 직설법 현재 3인칭 단수 / `pregunte` → preguntar, 접속법 현재 1인칭 단수
+
+### 4-14. **Álvaro:** Empecé como coleccionista particular, casi por casualidad.
+- **해석:** 거의 우연히 개인 수집가로 시작했습니다.
+- **주요 단어:** `como` (전치사적) ~로서 / `particular` (형용사) 개인의 / `por casualidad` 우연히
+- **문법:** empezar 단순과거 1인칭 단수는 철자 변화 z→c(empecé).
+- **표현:** 특이사항 없음
+- **시제:** `empecé` → empezar, 직설법 단순과거 1인칭 단수
+
+### 4-15. **Álvaro:** Con el tiempo, algunos amigos me pidieron ayuda para adquirir piezas, y de ahí pasé a hacerlo de forma más profesional.
+- **해석:** 시간이 지나면서 친구 몇 명이 물건 구입을 도와 달라고 했고, 그러다 보니 좀 더 전문적으로 하게 됐죠.
+- **주요 단어:** `con el tiempo` 시간이 지나면서 / `pedir` (동사, e→i) 요청하다 / `ayuda` (여성명사) 도움 / `adquirir` (동사) 취득하다, 구입하다 / `de ahí` 거기서부터 / `pasar a` + 부정사 ~하는 단계로 넘어가다 / `de forma + 형용사` ~한 방식으로
+- **문법:** pedir 단순과거 3인칭 복수 어간변화 e→i(pidieron). `para + 부정사` 목적. `hacerlo`의 lo는 앞의 일(물건 구입 대행). 단순과거 연쇄로 이야기 전개.
+- **표현:** "de ahí pasé a..." = "거기서부터 ~로 넘어갔다".
+- **시제:** `pidieron` → pedir, 직설법 단순과거 3인칭 복수 / `adquirir` → 부정사 / `pasé` → pasar, 직설법 단순과거 1인칭 단수 / `hacerlo` → hacer, 부정사(+ lo)
+
+### 4-16. **Sergio:** Un camino bastante común, la verdad.
+- **해석:** 사실 꽤 흔한 경로네요.
+- **주요 단어:** `camino` (남성명사) 길, 경로 / `bastante` (부사) 꽤 / `común` (형용사) 흔한
+- **문법:** 동사 생략(Es un camino...).
+- **표현:** "la verdad" = 사실은, 솔직히(문장 끝에 붙이는 구어 담화표지).
+- **시제:** 동사 없음
+
+### 4-17. **Sergio:** ¿Y trabaja usted solo, o tiene algún tipo de estructura detrás?
+- **해석:** 혼자 일하시나요, 아니면 뒤에 어떤 조직이 있나요?
+- **주요 단어:** `solo` (형용사) 혼자인 / `algún` (형용사, alguno의 탈락형) 어떤 / `estructura` (여성명사) 구조, 조직 / `detrás` (부사) 뒤에
+- **문법:** `algún`은 남성 단수 명사(tipo) 앞에서 alguno가 줄어든 형태. `solo`는 형용사라 주어에 일치(여성이면 sola).
+- **표현:** "estructura detrás" = 배후 조직·회사 — 신원을 떠보는 질문.
+- **시제:** `trabaja` → trabajar, 직설법 현재 3인칭 단수(usted) / `tiene` → tener, 직설법 현재 3인칭 단수(usted)
+
+### 4-18. **Álvaro:** Trabajo de forma independiente, con una pequeña sociedad para los temas fiscales.
+- **해석:** 독립적으로 일하고, 세금 문제 때문에 작은 법인 하나를 두고 있습니다.
+- **주요 단어:** `independiente` (형용사) 독립적인 / `sociedad` (여성명사) 회사, 법인; 사회 / `tema` (남성명사) 주제, 문제 / `fiscal` (형용사) 세무의, 재정의
+- **문법:** `tema`는 -a로 끝나지만 남성명사(los temas).
+- **표현:** "sociedad" = 여기선 법인(sociedad limitada, S.L. 등). "temas fiscales" = 세금 관련 업무.
+- **시제:** `trabajo` → trabajar, 직설법 현재 1인칭 단수
+
+### 4-19. **Álvaro:** Prefiero mantenerlo simple.
+- **해석:** 단순하게 유지하는 걸 선호해요.
+- **주요 단어:** `preferir` (동사, e→ie) 선호하다 / `mantener` (동사) 유지하다 / `simple` (형용사) 단순한
+- **문법:** `preferir + 부정사`. `mantenerlo simple`: 목적어 lo + 목적격 보어 형용사.
+- **표현:** 특이사항 없음
+- **시제:** `prefiero` → preferir, 직설법 현재 1인칭 단수 / `mantenerlo` → mantener, 부정사(+ lo)
+
+### 4-20. **Sergio:** Sensato.
+- **해석:** 현명하시네요.
+- **주요 단어:** `sensato` (형용사) 분별 있는, 현명한
+- **문법:** (Es) sensato의 생략.
+- **표현:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 4-21. **Sergio:** Cuantas menos capas, menos complicaciones.
+- **해석:** 층이 적을수록 복잡한 일도 적죠.
+- **주요 단어:** `capa` (여성명사) 층, 겹 / `complicación` (여성명사) 복잡한 일, 문제
+- **문법:** 비례 비교 `cuanto(s)/cuanta(s) + más/menos..., más/menos...` = ~할수록 ~하다. `cuantas`는 capas(여성 복수)에 일치.
+- **표현:** 동사 없이 간결한 격언처럼 말함.
+- **시제:** 동사 없음
+
+### 4-22. **Sergio:** Dígame, Daniel, ¿qué opina de la situación actual del mercado de arte precolombino?
+- **해석:** 말씀해 보세요, 다니엘 씨. 현재 콜럼버스 이전 예술품 시장 상황에 대해 어떻게 생각하세요?
+- **주요 단어:** `opinar` (동사) 의견을 갖다, 생각하다 / `situación` (여성명사) 상황 / `actual` (형용사) 현재의 / `mercado` (남성명사) 시장 / `precolombino` (형용사) 콜럼버스 이전의
+- **문법:** `dígame` 앞에서 설명. `opinar de/sobre` ~에 대해 의견을 갖다. `del` = de + el 축약.
+- **표현:** "actual"은 영어 actual(실제의)이 아니라 "현재의"라는 뜻(허위 짝단어).
+- **시제:** `dígame` → decir, 명령법(usted) / `opina` → opinar, 직설법 현재 3인칭 단수(usted)
+
+### 4-23. **Álvaro:** (Recordando las lecciones de Ignacio) Cada vez más regulado, al menos en el papel.
+- **해석:** (이그나시오의 가르침을 떠올리며) 점점 더 규제가 심해지고 있죠, 적어도 서류상으로는요.
+- **주요 단어:** `cada vez más` 점점 더 / `regulado` (regular의 과거분사) 규제된 / `al menos` 적어도 / `en el papel` 서류상으로, 명목상
+- **문법:** 동사 생략((Está) cada vez más regulado). 과거분사가 형용사로 쓰임.
+- **표현:** "en el papel" = 이론상/서류상으로는(실제와 다를 수 있다는 암시).
+- **시제:** `recordando` → recordar, 현재분사 / `regulado` → regular, 과거분사(형용사적 용법)
+
+### 4-24. **Álvaro:** Aunque imagino que en la práctica, siempre hay matices.
+- **해석:** 하지만 실제로는 늘 미묘한 차이가 있겠죠.
+- **주요 단어:** `imaginar` (동사) 상상하다, 짐작하다 / `en la práctica` 실제로는 / `matiz` (남성명사, 복수 matices) 뉘앙스, 미묘한 차이
+- **문법:** `imaginar que + 직설법`. matiz → matices (z→c 복수 변화).
+- **표현:** "hay matices" = 단순하지 않다, 회색 부분이 있다는 완곡 표현.
+- **시제:** `imagino` → imaginar, 직설법 현재 1인칭 단수 / `hay` → haber, 직설법 현재 3인칭 단수(비인칭)
+
+### 4-25. **Sergio:** (Sonríe levemente) Matices, buena palabra para describirlo.
+- **해석:** (살짝 미소 지으며) '미묘한 차이'라, 그걸 표현하기에 좋은 단어네요.
+- **주요 단어:** `describir` (동사) 묘사하다, 설명하다 / 나머지 앞에서 설명
+- **문법:** `para + 부정사` 목적. `describirlo`: 부정사 + lo. 동사 생략 구조.
+- **표현:** 상대의 단어 선택을 칭찬하며 공감을 표시.
+- **시제:** `sonríe` → sonreír, 직설법 현재 3인칭 단수 / `describirlo` → describir, 부정사(+ lo)
+
+### 4-26. **Sergio:** Este es un mercado donde la línea entre lo legal y lo cuestionable no siempre está clara.
+- **해석:** 이곳은 합법과 의심스러운 것 사이의 경계가 늘 분명하지는 않은 시장이죠.
+- **주요 단어:** `línea` (여성명사) 선, 경계 / `entre` (전치사) ~사이에 / `legal` (형용사) 합법적인 / `cuestionable` (형용사) 의심스러운 / `claro` (형용사) 분명한
+- **문법:** `donde`는 장소 관계부사(= en el que). `lo + 형용사` 중성 추상명사화. `estar + claro` 상태(분명하다). `no siempre` 부분부정.
+- **표현:** 특이사항 없음
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `está` → estar, 직설법 현재 3인칭 단수
+
+### 4-27. **Álvaro:** Me lo imagino.
+- **해석:** 그렇겠죠.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명(재귀대명사 me + lo).
+- **시제:** `imagino` → imaginarse, 직설법 현재 1인칭 단수
+
+### 4-28. **Álvaro:** Supongo que ustedes tienen mucho cuidado con la procedencia de lo que manejan.
+- **해석:** 취급하시는 물건의 출처에 대해서는 무척 신경을 쓰시겠죠.
+- **주요 단어:** `suponer` (동사) 추측하다, 가정하다 / `tener cuidado con` ~에 주의하다
+- **문법:** `suponer que + 직설법`. `lo que manejan` 관계절.
+- **표현:** 떠보기 위한 질문을 평서문으로 돌려 말함.
+- **시제:** `supongo` → suponer, 직설법 현재 1인칭 단수 / `tienen` → tener, 직설법 현재 3인칭 복수(ustedes) / `manejan` → manejar, 직설법 현재 3인칭 복수
+
+### 4-29. **Sergio:** Todo el cuidado que la documentación nos permite, sí.
+- **해석:** 서류가 허락하는 한 최대한 주의를 기울이죠, 네.
+- **주요 단어:** `todo` (형용사) 모든 / `permitir` 앞에서 설명
+- **문법:** `todo el + 명사 + que` = ~하는 한 모든 ~. `nos`는 간접목적격(우리에게). 동사 tener 생략(Tenemos todo el cuidado...).
+- **표현:** 책임을 서류에 돌리는 교묘한 대답.
+- **시제:** `permite` → permitir, 직설법 현재 3인칭 단수
+
+### 4-30. **Sergio:** Aunque, entre nosotros, la documentación perfecta es rara en este sector.
+- **해석:** 다만 우리끼리 얘기지만, 이 분야에서 완벽한 서류는 드뭅니다.
+- **주요 단어:** `perfecto` (형용사) 완벽한 / `raro` (형용사) 드문; 이상한
+- **문법:** `ser raro` = 드물다(속성). estar raro는 "평소와 달리 이상하다".
+- **표현:** "entre nosotros" 앞에서 설명.
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수
+
+### 4-31. **Álvaro:** Entiendo.
+- **해석:** 알겠습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** `entiendo` → entender, 직설법 현재 1인칭 단수
+
+### 4-32. **Álvaro:** ¿Y cómo maneja usted ese riesgo?
+- **해석:** 그럼 그 위험은 어떻게 관리하시나요?
+- **주요 단어:** `manejar` 앞에서 설명(관리하다) / `riesgo` (남성명사) 위험
+- **문법:** 여기서는 타동사 manejar(재귀형 아님) + 직접목적어 ese riesgo.
+- **표현:** 특이사항 없음
+- **시제:** `maneja` → manejar, 직설법 현재 3인칭 단수(usted)
+
+### 4-33. **Sergio:** Con criterio, y con contactos de confianza.
+- **해석:** 판단력으로, 그리고 믿을 만한 인맥으로요.
+- **주요 단어:** `criterio` (남성명사) 판단 기준, 안목 / `contacto` (남성명사) 연줄, 인맥 / `de confianza` 믿을 만한
+- **문법:** 동사 생략된 전치사구 응답.
+- **표현:** "de confianza" = 신뢰할 수 있는(persona de confianza: 믿을 만한 사람).
+- **시제:** 동사 없음
+
+### 4-34. **Sergio:** Es un negocio que se basa en relaciones, más que en papeles.
+- **해석:** 서류보다는 관계를 바탕으로 하는 사업이에요.
+- **주요 단어:** `basarse en` (재귀동사) ~에 기반하다 / `relación` (여성명사) 관계
+- **문법:** 관계대명사 `que`. `más que en...` 비교(전치사 en 반복).
+- **표현:** 특이사항 없음
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `se basa` → basarse, 직설법 현재 3인칭 단수
+
+### 4-35. **Álvaro:** Eso tiene sentido.
+- **해석:** 일리가 있네요.
+- **주요 단어:** `sentido` (남성명사) 의미, 감각
+- **문법:** 특이사항 없음
+- **표현:** "tener sentido" = 말이 되다, 일리 있다.
+- **시제:** `tiene` → tener, 직설법 현재 3인칭 단수
+
+### 4-36. **Álvaro:** Espero poder ser uno de esos contactos de confianza, con el tiempo.
+- **해석:** 시간이 지나면 저도 그런 믿을 만한 인맥 중 하나가 될 수 있으면 좋겠습니다.
+- **주요 단어:** `esperar` 앞에서 설명 / `uno de` ~중 하나
+- **문법:** 주어가 같으므로 `esperar + 부정사`(접속법 불필요; 3-57 "Espero que trabajemos"와 비교).
+- **표현:** 특이사항 없음
+- **시제:** `espero` → esperar, 직설법 현재 1인칭 단수 / `poder` → 부정사 / `ser` → 부정사
+
+### 4-37. **Sergio:** Eso se gana, no se pide, Daniel.
+- **해석:** 그건 요구하는 게 아니라 얻어 내는 겁니다, 다니엘 씨.
+- **주요 단어:** `ganar` (동사) 얻다, 벌다, 이기다 / `pedir` 앞에서 설명
+- **문법:** 수동/비인칭의 se(se gana = 얻어지는 것이다, se pide = 요구되는 것이다).
+- **표현:** "La confianza se gana" = 신뢰는 쌓는 것이라는 흔한 격언식 표현.
+- **시제:** `se gana` → ganar, 직설법 현재 3인칭 단수(수동 se) / `se pide` → pedir, 직설법 현재 3인칭 단수(수동 se)
+
+### 4-38. **Sergio:** Pero me gusta su actitud.
+- **해석:** 하지만 당신의 태도는 마음에 드네요.
+- **주요 단어:** `gustar` (동사) 마음에 들다 / `actitud` (여성명사) 태도
+- **문법:** gustar 구문: 주어 su actitud, me는 간접목적격.
+- **표현:** 특이사항 없음
+- **시제:** `gusta` → gustar, 직설법 현재 3인칭 단수
+
+### 4-39. **Álvaro:** Se lo agradezco.
+- **해석:** 감사합니다.
+- **주요 단어:** `agradecer` 앞에서 설명
+- **문법:** se(= le, 당신에게) + lo. agradecer 1인칭 단수는 -zco(agradezco).
+- **표현:** 3-33의 조건법 "agradecería"와 달리 현재형 — 이미 받은 호의에 대한 감사.
+- **시제:** `agradezco` → agradecer, 직설법 현재 1인칭 단수
+
+### 4-40. **Sergio:** Tenemos una subasta importante dentro de dos meses.
+- **해석:** 두 달 뒤에 중요한 경매가 있습니다.
+- **주요 단어:** `subasta` 앞에서 설명 / `importante` (형용사) 중요한 / `dentro de` + 기간 (지금부터) ~후에
+- **문법:** 현재형으로 확정된 미래 일정을 표현.
+- **표현:** "dentro de dos meses" = 두 달 후에("두 달 안에"가 아님에 주의).
+- **시제:** `tenemos` → tener, 직설법 현재 1인칭 복수
+
+### 4-41. **Sergio:** Va a salir una pieza excepcional, un cuchillo ceremonial de oro, atribuido a la cultura chimú.
+- **해석:** 특별한 물건 하나가 나올 겁니다. 치무 문화의 것으로 추정되는 금제 의식용 칼이죠.
+- **주요 단어:** `salir` (동사) 나오다; (경매에) 출품되다 / `excepcional` (형용사) 예외적인, 특출한 / `cuchillo` (남성명사) 칼 / `ceremonial` (형용사) 의식용의 / `oro` (남성명사) 금
+- **문법:** `ir a + 부정사` 가까운 미래. 동사-주어 도치(va a salir una pieza). `de oro` 재료 표시. `atribuido`는 cuchillo에 일치.
+- **표현:** "salir a subasta" = 경매에 나오다. 치무는 페루 북부 해안 문화로 금세공(투미 칼)이 유명.
+- **시제:** `va` → ir, 직설법 현재 3인칭 단수 / `salir` → 부정사 / `atribuido` → atribuir, 과거분사
+
+### 4-42. **Álvaro:** Suena extraordinario.
+- **해석:** 대단하게 들리네요.
+- **주요 단어:** `sonar` (동사, o→ue) 소리 나다, ~하게 들리다 / `extraordinario` (형용사) 비범한, 대단한
+- **문법:** `sonar + 형용사` ~하게 들리다. 주어(eso) 생략.
+- **표현:** 특이사항 없음
+- **시제:** `suena` → sonar, 직설법 현재 3인칭 단수
+
+### 4-43. **Álvaro:** ¿Puedo preguntar el origen de esa pieza?
+- **해석:** 그 물건의 출처를 여쭤봐도 될까요?
+- **주요 단어:** `origen` (남성명사) 기원, 출처
+- **문법:** `poder + 부정사` 허락 요청.
+- **표현:** 특이사항 없음
+- **시제:** `puedo` → poder, 직설법 현재 1인칭 단수 / `preguntar` → 부정사
+
+### 4-44. **Sergio:** (Lo mira con cierta cautela) Eso es información reservada, de momento, hasta que se confirme el lote definitivo.
+- **해석:** (다소 경계하며 그를 바라보고) 그건 최종 로트가 확정될 때까지는 당분간 비공개 정보입니다.
+- **주요 단어:** `cierto` (형용사, 명사 앞) 어느 정도의 / `cautela` (여성명사) 신중, 경계 / `reservado` (형용사) 비공개의, 기밀의 / `de momento` 당분간, 지금으로서는 / `confirmar` (동사) 확정하다 / `definitivo` (형용사) 최종적인
+- **문법:** `hasta que + 접속법` — 아직 일어나지 않은 미래 시점이므로 접속법. `se confirme` 수동의 se. `cierta`가 명사 앞에 오면 "어느 정도의"(뒤에 오면 "확실한").
+- **표현:** "información reservada" = 기밀 정보.
+- **시제:** `mira` → mirar, 직설법 현재 3인칭 단수 / `es` → ser, 직설법 현재 3인칭 단수 / `se confirme` → confirmar, 접속법 현재 3인칭 단수(수동 se)
+
+### 4-45. **Álvaro:** Por supuesto, disculpe la curiosidad.
+- **해석:** 물론이죠, 궁금해해서 죄송합니다.
+- **주요 단어:** `disculpar` (동사) 용서하다, 양해하다 / `curiosidad` (여성명사) 호기심
+- **문법:** `disculpe` usted 명령(= 접속법 현재 형태).
+- **표현:** "Disculpe (la molestia/la curiosidad)" = "~해서 죄송합니다" 정중한 사과.
+- **시제:** `disculpe` → disculpar, 명령법(usted)
+
+### 4-46. **Sergio:** No se disculpe, es normal preguntar.
+- **해석:** 사과하실 필요 없어요. 묻는 건 당연하죠.
+- **주요 단어:** `disculparse` (재귀동사) 사과하다 / `normal` (형용사) 당연한, 정상적인
+- **문법:** usted 부정명령 `no + 접속법`, 재귀대명사는 동사 앞(no se disculpe). `es normal + 부정사` 비인칭 구문.
+- **표현:** 특이사항 없음
+- **시제:** `se disculpe` → disculparse, 명령법(usted, 부정; 접속법 현재 3인칭 단수 형태) / `es` → ser, 직설법 현재 3인칭 단수 / `preguntar` → 부정사
+
+### 4-47. **Sergio:** Simplemente, hay información que solo comparto con quien ya conozco bien.
+- **해석:** 그냥, 이미 잘 아는 사람하고만 나누는 정보가 있을 뿐이에요.
+- **주요 단어:** `simplemente` (부사) 단지, 그저 / `compartir` (동사) 공유하다 / `ya` (부사) 이미 / `conocer` 앞에서 설명
+- **문법:** 관계대명사 `que`(información 수식), `quien`(~하는 사람). `con quien ya conozco bien` 에서 quien은 conozco의 목적어.
+- **표현:** 특이사항 없음
+- **시제:** `hay` → haber, 직설법 현재 3인칭 단수(비인칭) / `comparto` → compartir, 직설법 현재 1인칭 단수 / `conozco` → conocer, 직설법 현재 1인칭 단수
+
+### 4-48. **Álvaro:** Lo entiendo perfectamente.
+- **해석:** 충분히 이해합니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명(중성 lo).
+- **시제:** `entiendo` → entender, 직설법 현재 1인칭 단수
+
+### 4-49. **Álvaro:** Espero ganarme esa confianza pronto.
+- **해석:** 곧 그 신뢰를 얻었으면 합니다.
+- **주요 단어:** `ganarse` (재귀동사) (노력해서) 얻다, 획득하다 / `confianza` (여성명사) 신뢰 / `pronto` (부사) 곧
+- **문법:** `esperar + 부정사`(주어 동일). `ganarse algo`: 재귀형이 "스스로 노력해 얻다"라는 뉘앙스를 더함, 대명사 me가 부정사 뒤에 붙음.
+- **표현:** "ganarse la confianza de alguien" = 누군가의 신뢰를 얻다. 4-37의 "se gana"를 받아 말함.
+- **시제:** `espero` → esperar, 직설법 현재 1인칭 단수 / `ganarme` → ganarse, 부정사(+ me)
+
+### 4-50. **Sergio:** Venga a la próxima recepción que organizamos, dentro de dos semanas.
+- **해석:** 2주 뒤에 저희가 여는 다음 리셉션에 오세요.
+- **주요 단어:** `venir` (동사) 오다 / `recepción` (여성명사) 리셉션, 환영회 / `organizar` (동사) 조직하다, 개최하다
+- **문법:** `venga` usted 명령(불규칙). 관계대명사 que. 현재형으로 예정된 미래 표현.
+- **표현:** 특이사항 없음
+- **시제:** `venga` → venir, 명령법(usted) / `organizamos` → organizar, 직설법 현재 1인칭 복수
+
+### 4-51. **Sergio:** Ahí podrá conocer a otros coleccionistas y ver cómo trabajamos de cerca.
+- **해석:** 거기서 다른 수집가들도 만나고, 저희가 일하는 방식을 가까이서 보실 수 있을 거예요.
+- **주요 단어:** `ahí` (부사) 거기(서) / `otro` (형용사) 다른 / `de cerca` 가까이서
+- **문법:** `poder`의 미래 불규칙 `podrá`. 사람 목적어 앞 a(a otros coleccionistas). `cómo trabajamos` 간접의문문. `otros` 앞에 부정관사 쓰지 않음(×unos otros).
+- **표현:** "ver de cerca" = 가까이서 보다.
+- **시제:** `podrá` → poder, 직설법 미래 3인칭 단수(usted) / `conocer` → 부정사 / `ver` → 부정사 / `trabajamos` → trabajar, 직설법 현재 1인칭 복수
+
+### 4-52. **Álvaro:** Ahí estaré, sin falta.
+- **해석:** 꼭 가겠습니다.
+- **주요 단어:** `sin falta` 반드시, 틀림없이
+- **문법:** estar 미래형으로 약속·의지 표현. 장소 표현이므로 estar.
+- **표현:** "Ahí estaré" = "거기 가 있겠습니다" 초대 수락 표현. "sin falta" = 빠짐없이, 꼭.
+- **시제:** `estaré` → estar, 직설법 미래 1인칭 단수
+
+### 4-53. **Sergio:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 4-54. **Sergio:** Pablo le pasará los detalles.
+- **해석:** 자세한 내용은 파블로가 전해 드릴 겁니다.
+- **주요 단어:** `pasar` 앞에서 설명(여기선 "넘겨주다, 전달하다") / `detalle` (남성명사) 세부 사항
+- **문법:** `le`는 간접목적어(당신에게). 단순미래.
+- **표현:** "pasar algo a alguien" = ~에게 ~을 전해 주다(구어).
+- **시제:** `pasará` → pasar, 직설법 미래 3인칭 단수
+
+### 4-55. **Sergio:** Ha sido un placer, Daniel.
+- **해석:** 즐거웠습니다, 다니엘 씨.
+- **주요 단어:** 앞에서 설명
+- **문법:** 현재완료 — 막 끝난 만남에 대한 평가(스페인식 용법).
+- **표현:** "Ha sido un placer" = 만나서 즐거웠습니다(작별 인사).
+- **시제:** `ha sido` → ser, 직설법 현재완료 3인칭 단수
+
+### 4-56. **Álvaro:** El placer ha sido mío, Sergio.
+- **해석:** 제가 더 즐거웠습니다, 세르히오 씨.
+- **주요 단어:** 앞에서 설명
+- **문법:** 4-3 "El placer es mío"의 현재완료 버전.
+- **표현:** 특이사항 없음
+- **시제:** `ha sido` → ser, 직설법 현재완료 3인칭 단수
+
+### 4-57. **Álvaro:** Gracias por su tiempo.
+- **해석:** 시간 내 주셔서 감사합니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** `gracias por + 명사`.
+- **시제:** 동사 없음

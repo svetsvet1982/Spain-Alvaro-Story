@@ -365,3 +365,299 @@
 - **문법:** `Sigamos`: 1인칭 복수 명령(접속법 현재), e→i 어간변화.
 - **시제:** `Sigamos` → seguir, 접속법 현재 1인칭 복수(nosotros 명령)
 
+## 장면 8. 경매장 급습과 정체 공개
+> 경매 당일. 알바로가 카를로스에게 넘긴 정보를 바탕으로 경찰이 은밀히 대기하는 가운데, 치무 황금 칼 경매가 시작됩니다. 낙찰이 임박한 순간, 급습이 개시되고 알바로의 정체와 작전 전모가 모두 드러납니다.
+
+### 8-1. **Subastador:** Y ahora, damas y caballeros, el lote estrella de la noche: el cuchillo ceremonial chimú.
+- **해석:** 자, 이제 신사 숙녀 여러분, 오늘 밤의 대표 출품작입니다. 치무 의식용 칼입니다.
+- **주요 단어:** `subastador` (명사) 경매인 / `damas y caballeros` 신사 숙녀 여러분 / `lote` (명사) (경매) 출품 번호, 로트 / `estrella` (명사) 별, 주역 / `noche` (명사) 밤
+- **문법:** `lote estrella`: 명사가 다른 명사를 수식하는 동격 구조("스타 로트").
+- **표현:** `el plato/lote estrella` = 대표 상품, 간판.
+- **시제:** 동사 없음
+
+### 8-2. **Subastador:** Empezamos la puja en cincuenta mil euros.
+- **해석:** 입찰은 5만 유로에서 시작하겠습니다.
+- **주요 단어:** `empezar` (동사) 시작하다 / `puja` (명사) 입찰 / `cincuenta mil` 5만
+- **문법:** 현재 시제로 바로 다음 행동을 표현. `en` = (가격) ~에서.
+- **시제:** `Empezamos` → empezar, 직설법 현재 1인칭 복수
+
+### 8-3. **Don Eduardo:** (Levanta la paleta) Cincuenta y cinco mil.
+- **해석:** (패들을 든다) 5만 5천.
+- **주요 단어:** `levantar` (동사) 들어 올리다 / `paleta` (명사) (경매용) 번호판, 패들
+- **문법:** 특이사항 없음
+- **시제:** `Levanta` → levantar, 직설법 현재 3인칭 단수
+
+### 8-4. **Otro postor:** Sesenta mil.
+- **해석:** 6만.
+- **주요 단어:** `postor` (명사) 입찰자 / `sesenta` 60
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 8-5. **Don Eduardo:** Setenta mil.
+- **해석:** 7만.
+- **주요 단어:** `setenta` 70
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 8-6. **Álvaro:** (Observando desde su asiento, tenso, para sí mismo) Vamos, Carlos, ¿dónde estás?
+- **해석:** (자리에서 긴장한 채 지켜보며 혼잣말로) 어서, 카를로스, 어디 있는 거야?
+- **주요 단어:** `observar` (동사) 관찰하다 / `asiento` (명사) 좌석 / `tenso` (형용사) 긴장한 / `para sí mismo` 혼잣말로
+- **문법:** 위치이므로 `estar`. 혼잣말이라 카를로스에게 tú 형태.
+- **표현:** `Vamos` = "자, 어서"(재촉하는 감탄사).
+- **시제:** `Observando` → observar, 현재분사 / `Vamos` → ir, 직설법 현재 1인칭 복수(감탄사적 용법) / `estás` → estar, 직설법 현재 2인칭 단수
+
+### 8-7. **Subastador:** Setenta mil a la una... setenta mil a las dos...
+- **해석:** 7만, 하나… 7만, 둘…
+- **주요 단어:** `a la una, a las dos` 하나, 둘(경매 카운트)
+- **문법:** 특이사항 없음
+- **표현:** 경매에서 낙찰 직전 카운트하는 관용 표현(마지막은 `¡y a las tres!`, "adjudicado").
+- **시제:** 동사 없음
+
+### 8-8. **Don Eduardo:** Ochenta mil.
+- **해석:** 8만.
+- **주요 단어:** `ochenta` 80
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 8-9. **Carlos:** (Las puertas se abren, entra con agentes, en voz alta) ¡Policía!
+- **해석:** (문이 열리고, 요원들과 함께 들어오며 큰 소리로) 경찰이다!
+- **주요 단어:** `puerta` (명사) 문 / `abrirse` (대명동사) 열리다 / `entrar` (동사) 들어가다 / `agente` (명사) 요원, 경관 / `en voz alta` 큰 소리로
+- **문법:** `se abren`: 주어가 스스로 열리는 대명동사(무행위자).
+- **시제:** `se abren` → abrirse, 직설법 현재 3인칭 복수 / `entra` → entrar, 직설법 현재 3인칭 단수
+
+### 8-10. **Carlos:** Nadie se mueva.
+- **해석:** 아무도 움직이지 마.
+- **주요 단어:** `nadie` (대명사) 아무도 / `moverse` (재귀동사) 움직이다
+- **문법:** 3인칭 명령은 접속법 현재로 표현. `nadie`가 동사 앞에 있으면 no 불필요. mover는 o→ue.
+- **시제:** `se mueva` → moverse, 접속법 현재 3인칭 단수(명령)
+
+### 8-11. **Carlos:** Esta subasta queda suspendida.
+- **해석:** 이 경매는 중지됩니다.
+- **주요 단어:** `quedar` (동사) ~한 상태가 되다 / `suspender` (동사) 중지하다
+- **문법:** `quedar + 과거분사` = ~된 상태가 되다(결과). 분사는 subasta(여성)에 일치.
+- **표현:** 공식 선언에 쓰이는 표현("queda prohibido", "queda suspendido" 등).
+- **시제:** `queda` → quedar, 직설법 현재 3인칭 단수 / `suspendida` → suspender, 과거분사(여성 단수)
+
+### 8-12. **Sergio:** (Palidece, se levanta) ¿Qué significa esto?
+- **해석:** (창백해지며 일어선다) 이게 무슨 짓입니까?
+- **주요 단어:** `palidecer` (동사) 창백해지다 / `levantarse` (재귀동사) 일어서다 / `significar` (동사) 의미하다
+- **문법:** 특이사항 없음
+- **표현:** `¿Qué significa esto?` = "이게 무슨 일이죠?"(항의조).
+- **시제:** `Palidece` → palidecer, 직설법 현재 3인칭 단수 / `se levanta` → levantarse, 직설법 현재 3인칭 단수 / `significa` → significar, 직설법 현재 3인칭 단수
+
+### 8-13. **Carlos:** Significa que el lote número catorce va a ser incautado como prueba en una investigación de tráfico de bienes culturales.
+- **해석:** 14번 출품작이 문화재 밀매 수사의 증거물로 압수된다는 뜻입니다.
+- **주요 단어:** `incautar` (동사) 압수하다 / `prueba` (명사) 증거 / `investigación` (명사) 수사 / `tráfico` (명사) 밀매 / `bienes culturales` 문화재
+- **문법:** `ir a ser + 과거분사` = 수동태 근접미래(~될 것이다). 분사는 lote(남성)에 일치.
+- **시제:** `Significa` → significar, 직설법 현재 3인칭 단수 / `va` → ir, 직설법 현재 3인칭 단수 / `ser` → ser, 동사원형 / `incautado` → incautar, 과거분사
+
+### 8-14. **Don Eduardo:** (Confundido, molesto) Esto es un escándalo.
+- **해석:** (당황하고 불쾌해하며) 이건 말도 안 되는 일이오.
+- **주요 단어:** `confundido` (confundir의 과거분사) 혼란스러운 / `molesto` (형용사) 짜증 난 / `escándalo` (명사) 스캔들, 추문
+- **문법:** 특이사항 없음
+- **표현:** `¡Esto es un escándalo!` = "이건 도가 지나쳐요!"(분개).
+- **시제:** `Confundido` → confundir, 과거분사 / `es` → ser, 직설법 현재 3인칭 단수
+
+### 8-15. **Don Eduardo:** Exijo una explicación.
+- **해석:** 설명을 요구합니다.
+- **주요 단어:** `exigir` (동사) 요구하다 / `explicación` (명사) 설명
+- **문법:** 1인칭 단수에서 g→j 철자 변화(exijo).
+- **시제:** `Exijo` → exigir, 직설법 현재 1인칭 단수
+
+### 8-16. **Carlos:** La tendrá, señor, a su debido tiempo, probablemente delante de un juez.
+- **해석:** 때가 되면 들으실 겁니다, 선생님. 아마 판사 앞에서요.
+- **주요 단어:** `a su debido tiempo` 적절한 때에 / `probablemente` (부사) 아마 / `delante de` ~앞에서 / `juez` (명사) 판사
+- **문법:** `La` = una explicación(직접목적대명사, 여성).
+- **시제:** `tendrá` → tener, 직설법 미래 3인칭 단수(usted)
+
+### 8-17. **Sergio:** (Buscando a Álvaro con la mirada, entendiendo de repente) Daniel...
+- **해석:** (눈으로 알바로를 찾다가 갑자기 깨닫고) 다니엘…
+- **주요 단어:** `buscar` (동사) 찾다 / `mirada` (명사) 시선 / `entender` (동사) 이해하다 / `de repente` 갑자기
+- **문법:** 인칭 a (`a Álvaro`).
+- **시제:** `Buscando` → buscar, 현재분사 / `entendiendo` → entender, 현재분사
+
+### 8-18. **Álvaro:** (Se levanta, sin evitar la mirada) Lo siento, Sergio.
+- **해석:** (시선을 피하지 않고 일어서며) 미안합니다, 세르히오.
+- **주요 단어:** `evitar` (동사) 피하다 / `sentir` (동사) 유감스럽게 여기다
+- **문법:** `sin + 동사원형` = ~하지 않고.
+- **표현:** `Lo siento` = 죄송합니다.
+- **시제:** `Se levanta` → levantarse, 직설법 현재 3인칭 단수 / `evitar` → evitar, 동사원형 / `siento` → sentir, 직설법 현재 1인칭 단수
+
+### 8-19. **Álvaro:** Aunque en realidad, no me llamo Daniel.
+- **해석:** 사실 제 이름은 다니엘이 아닙니다.
+- **주요 단어:** `en realidad` 사실은 / `llamarse` (재귀동사) 이름이 ~이다
+- **문법:** 재귀동사 llamarse.
+- **시제:** `me llamo` → llamarse, 직설법 현재 1인칭 단수
+
+### 8-20. **Sergio:** (Con voz quebrada) Todo este tiempo...
+- **해석:** (목멘 소리로) 이제까지 내내…
+- **주요 단어:** `voz` (명사) 목소리 / `quebrado` (quebrar의 과거분사) 갈라진, 떨리는 / `todo este tiempo` 이 모든 시간 동안
+- **문법:** 특이사항 없음
+- **시제:** `quebrada` → quebrar, 과거분사(여성 단수)
+
+### 8-21. **Álvaro:** Todo este tiempo, documentando cada pieza, cada nombre, cada eslabón de la cadena.
+- **해석:** 이제까지 내내, 모든 유물과 모든 이름, 사슬의 고리 하나하나를 기록하고 있었죠.
+- **주요 단어:** `documentar` (동사) 기록하다, 문서화하다 / `cada` (형용사) 각각의 / `eslabón` (명사) 사슬의 고리 / `cadena` (명사) 사슬
+- **문법:** 현재분사만으로 동작의 지속을 나타냄(생략된 "estuve").
+- **표현:** `eslabón de la cadena` = 조직망의 연결 고리(비유).
+- **시제:** `documentando` → documentar, 현재분사
+
+### 8-22. **Álvaro:** Incluido Rafael Montoya.
+- **해석:** 라파엘 몬토야까지 포함해서요.
+- **주요 단어:** `incluido` (incluir의 과거분사) 포함된
+- **문법:** 과거분사 `incluido`가 전치사처럼 쓰임(~을 포함하여). 뒤 명사와 성·수 일치.
+- **시제:** `Incluido` → incluir, 과거분사(남성 단수)
+
+### 8-23. **Pablo:** (Desde el fondo, resignado) Lo sabía.
+- **해석:** (뒤쪽에서 체념한 듯) 그럴 줄 알았어요.
+- **주요 단어:** `fondo` (명사) 안쪽, 뒤쪽 / `resignado` (형용사) 체념한 / `saber` (동사) 알다
+- **문법:** 과거의 지속적 인식이므로 불완료과거.
+- **표현:** `Lo sabía` = "그럴 줄 알았다".
+- **시제:** `resignado` → resignarse, 과거분사 / `sabía` → saber, 직설법 불완료과거 1인칭 단수
+
+### 8-24. **Pablo:** Sabía que algo no encajaba con usted desde el principio.
+- **해석:** 처음부터 당신한테 뭔가 맞지 않는 게 있다는 걸 알고 있었어요.
+- **주요 단어:** `encajar` (동사) 들어맞다 / `principio` (명사) 처음
+- **문법:** 주절·종속절 모두 과거의 상태를 나타내는 불완료과거.
+- **표현:** `algo no encaja` = 뭔가 앞뒤가 안 맞다, 수상하다.
+- **시제:** `Sabía` → saber, 직설법 불완료과거 1인칭 단수 / `encajaba` → encajar, 직설법 불완료과거 3인칭 단수
+
+### 8-25. **Álvaro:** Y aun así, siguió certificando piezas que sabía que eran robadas.
+- **해석:** 그런데도 도난품인 줄 알면서 계속 감정서를 써 줬죠.
+- **주요 단어:** `aun así` 그런데도 / `certificar` (동사) 인증하다, 감정서를 발급하다 / `robar` (동사) 훔치다
+- **문법:** `seguir + 현재분사` = 계속 ~하다. `piezas que sabía que eran robadas`: 관계절 안에 다시 que절이 들어간 구조. `ser + 과거분사`(robadas, 여성 복수 일치).
+- **시제:** `siguió` → seguir, 직설법 부정과거 3인칭 단수(usted) / `certificando` → certificar, 현재분사 / `sabía` → saber, 직설법 불완료과거 3인칭 단수 / `eran` → ser, 직설법 불완료과거 3인칭 복수 / `robadas` → robar, 과거분사(여성 복수)
+
+### 8-26. **Pablo:** (Baja la cabeza) Uno se acostumbra a mirar hacia otro lado, hasta que ya no puede parar.
+- **해석:** (고개를 숙인다) 못 본 척하는 데 익숙해지다 보면, 결국 멈출 수 없게 되죠.
+- **주요 단어:** `bajar` (동사) 내리다 / `cabeza` (명사) 머리 / `acostumbrarse a` ~에 익숙해지다 / `parar` (동사) 멈추다
+- **문법:** `Uno` = 일반 주어("사람은"). `hasta que + 직설법`: 일반적 사실을 말하므로 직설법.
+- **표현:** `mirar hacia otro lado` = 모른 척하다, 눈감아 주다.
+- **시제:** `Baja` → bajar, 직설법 현재 3인칭 단수 / `se acostumbra` → acostumbrarse, 직설법 현재 3인칭 단수 / `mirar` → mirar, 동사원형 / `puede` → poder, 직설법 현재 3인칭 단수 / `parar` → parar, 동사원형
+
+### 8-27. **Carlos:** (A los agentes) Llévense también al tasador.
+- **해석:** (요원들에게) 감정사도 데려가세요.
+- **주요 단어:** `llevarse` (대명동사) 데려가다 / `tasador` (명사) 감정사
+- **문법:** ustedes 긍정 명령(접속법 현재 3인칭 복수 형태) + 대명사 `se` 부착, 강세 표시 추가. `al` = a + el(인칭 a).
+- **시제:** `Llévense` → llevarse, 명령법(ustedes)
+
+### 8-28. **Carlos:** Y aseguren la pieza, con mucho cuidado.
+- **해석:** 그리고 유물은 아주 조심해서 확보하세요.
+- **주요 단어:** `asegurar` (동사) 확보하다, 안전하게 하다 / `cuidado` (명사) 주의
+- **문법:** ustedes 긍정 명령.
+- **표현:** `con mucho cuidado` = 아주 조심스럽게.
+- **시제:** `aseguren` → asegurar, 명령법(ustedes)
+
+### 8-29. **Sergio:** (Con las manos ya esposadas) ¿Quién es usted realmente?
+- **해석:** (이미 손에 수갑이 채워진 채) 당신 정체가 대체 뭡니까?
+- **주요 단어:** `mano` (명사, 여성) 손 / `esposar` (동사) 수갑을 채우다 / `realmente` (부사) 실제로
+- **문법:** `esposadas`는 manos(여성 복수)에 일치. 정체를 물으므로 ser.
+- **시제:** `esposadas` → esposar, 과거분사(여성 복수) / `es` → ser, 직설법 현재 3인칭 단수(usted)
+
+### 8-30. **Álvaro:** Álvaro Fuentes.
+- **해석:** 알바로 푸엔테스입니다.
+- **주요 단어:** 고유명사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 8-31. **Álvaro:** Periodista.
+- **해석:** 기자요.
+- **주요 단어:** `periodista` (명사, 남녀 동형) 기자
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 8-32. **Sergio:** (Amargamente) Debí haberlo sabido.
+- **해석:** (씁쓸하게) 진작 알았어야 했는데.
+- **주요 단어:** `amargamente` (부사) 씁쓸하게 / `deber` (동사) ~해야 한다
+- **문법:** `deber + haber + 과거분사` = ~했어야 했다(과거에 대한 후회). `haberlo`: 완료 부정사 + lo.
+- **시제:** `Debí` → deber, 직설법 부정과거 1인칭 단수 / `haberlo sabido` → saber, 완료 부정사(haber + 과거분사)
+
+### 8-33. **Sergio:** Demasiado bueno preguntando, demasiado bueno observando.
+- **해석:** 질문하는 것도 너무 능숙했고, 관찰하는 것도 너무 능숙했어.
+- **주요 단어:** `demasiado` (부사) 너무 / `bueno` (형용사) 잘하는
+- **문법:** `ser bueno + 현재분사` = ~하는 데 능하다(주어·동사 생략).
+- **시제:** `preguntando` → preguntar, 현재분사 / `observando` → observar, 현재분사
+
+### 8-34. **Álvaro:** Es mi trabajo, Sergio.
+- **해석:** 그게 제 일입니다, 세르히오.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** `Es` → ser, 직설법 현재 3인칭 단수
+
+### 8-35. **Álvaro:** Y esta vez, también fue mi trabajo devolver esa pieza a donde pertenece.
+- **해석:** 그리고 이번에는 그 유물을 원래 있어야 할 곳으로 돌려보내는 것도 제 일이었고요.
+- **주요 단어:** `devolver` (동사) 돌려주다 / `pertenecer` (동사) 속하다
+- **문법:** 동사원형구 `devolver esa pieza...`가 주어. `a donde` = ~(하는) 곳으로.
+- **표현:** `devolver algo a donde pertenece` = 제자리로 돌려놓다.
+- **시제:** `fue` → ser, 직설법 부정과거 3인칭 단수 / `devolver` → devolver, 동사원형 / `pertenece` → pertenecer, 직설법 현재 3인칭 단수
+
+### 8-36. **Carlos:** (Se acerca a Álvaro) Buen trabajo, otra vez.
+- **해석:** (알바로에게 다가간다) 이번에도 잘했어.
+- **주요 단어:** `acercarse a` ~에게 다가가다 / `otra vez` 또다시
+- **문법:** 특이사항 없음
+- **시제:** `Se acerca` → acercarse, 직설법 현재 3인칭 단수
+
+### 8-37. **Álvaro:** (Suelta un suspiro) Esta vez, al menos, nadie intentó drogarme la copa.
+- **해석:** (한숨을 내쉰다) 이번엔 적어도 아무도 내 잔에 약을 타려고 하진 않았네.
+- **주요 단어:** `soltar` (동사) 풀다, 내뱉다 / `suspiro` (명사) 한숨 / `drogar` (동사) 약을 먹이다 / `copa` (명사) (와인)잔
+- **문법:** `drogarme la copa`: 간접목적 `me`는 소유/피해의 여격("내 잔에"). soltar는 o→ue.
+- **표현:** `soltar un suspiro` = 한숨을 쉬다.
+- **시제:** `Suelta` → soltar, 직설법 현재 3인칭 단수 / `intentó` → intentar, 직설법 부정과거 3인칭 단수 / `drogarme` → drogar, 동사원형
+
+### 8-38. **Carlos:** (Ríe) Dales tiempo.
+- **해석:** (웃는다) 시간을 줘 봐.
+- **주요 단어:** `reír` (동사) 웃다 / `dar` (동사) 주다 / `tiempo` (명사) 시간
+- **문법:** tú 긍정 명령 `da` + 간접목적 `les` 부착(1음절이라 강세 표시 불필요).
+- **표현:** 농담으로 "아직 모른다, 기회는 있다"는 뜻.
+- **시제:** `Ríe` → reír, 직설법 현재 3인칭 단수 / `Dales` → dar, 명령법(tú)
+
+### 8-39. **Carlos:** La noche todavía no ha terminado.
+- **해석:** 밤은 아직 끝나지 않았으니까.
+- **주요 단어:** `todavía` (부사) 아직 / `terminar` (동사) 끝나다
+- **문법:** `todavía no + 현재완료` = 아직 ~하지 않았다.
+- **시제:** `ha terminado` → terminar, 직설법 현재완료 3인칭 단수
+
+### 8-40. **Álvaro:** (Mira el cuchillo, ya en manos de los agentes) Espero que esta vez sí vuelva a casa.
+- **해석:** (이미 요원들 손에 넘어간 칼을 바라본다) 이번에는 꼭 고향으로 돌아가면 좋겠네요.
+- **주요 단어:** `mirar` (동사) 보다 / `en manos de` ~의 손에 / `esperar` (동사) 바라다 / `volver` (동사) 돌아가다
+- **문법:** `esperar que + 접속법`(바람). `sí`는 강조("이번엔 정말로").
+- **표현:** `volver a casa` = 집(고향)으로 돌아가다.
+- **시제:** `Mira` → mirar, 직설법 현재 3인칭 단수 / `Espero` → esperar, 직설법 현재 1인칭 단수 / `vuelva` → volver, 접속법 현재 3인칭 단수
+
+### 8-41. **Carlos:** Volverá.
+- **해석:** 돌아갈 거야.
+- **주요 단어:** 앞에서 설명
+- **문법:** 단순미래로 확신 표현.
+- **시제:** `Volverá` → volver, 직설법 미래 3인칭 단수
+
+### 8-42. **Carlos:** Perú ya está informado, y hay un proceso de repatriación en marcha.
+- **해석:** 페루에도 이미 통보됐고, 반환 절차가 진행 중이야.
+- **주요 단어:** `informar` (동사) 알리다 / `proceso` (명사) 절차 / `repatriación` (명사) 본국 송환, 반환 / `en marcha` 진행 중인
+- **문법:** `estar + 과거분사` = 결과 상태(통보받은 상태).
+- **시제:** `está` → estar, 직설법 현재 3인칭 단수 / `informado` → informar, 과거분사 / `hay` → haber, 직설법 현재(무인칭)
+
+### 8-43. **Álvaro:** Eso es lo único que de verdad importa.
+- **해석:** 그게 정말 중요한 유일한 거죠.
+- **주요 단어:** `lo único` 유일한 것 / `de verdad` 정말로 / `importar` (동사) 중요하다
+- **문법:** `lo único que...` = ~하는 유일한 것(중성 lo + 형용사 + 관계사).
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `importa` → importar, 직설법 현재 3인칭 단수
+
+### 8-44. **Carlos:** Vámonos, Álvaro.
+- **해석:** 가자, 알바로.
+- **주요 단어:** `irse` (대명동사) 떠나다
+- **문법:** nosotros 긍정 명령 `vamos` + `nos` → 끝의 -s 탈락 → `vámonos`.
+- **표현:** `¡Vámonos!` = 가자!(매우 흔한 구어).
+- **시제:** `Vámonos` → irse, 명령법 1인칭 복수(nosotros)
+
+### 8-45. **Carlos:** Aquí ya hemos terminado.
+- **해석:** 여기선 이제 다 끝났어.
+- **주요 단어:** 앞에서 설명
+- **문법:** 현재완료(방금 끝난 일).
+- **시제:** `hemos terminado` → terminar, 직설법 현재완료 1인칭 복수
+
+### 8-46. **Álvaro:** (Se levanta, mira una última vez la sala vacía) Daniel Romero, descansa en paz.
+- **해석:** (일어나 텅 빈 홀을 마지막으로 한 번 바라본다) 다니엘 로메로, 편히 잠들길.
+- **주요 단어:** `sala` (명사) 홀, 방 / `vacío` (형용사) 텅 빈 / `descansar` (동사) 쉬다 / `paz` (명사) 평화
+- **문법:** `descansa`: tú 긍정 명령(3인칭 단수 현재형과 동일 형태). 위장 신분에게 말을 거는 형식.
+- **표현:** `descansa en paz` = 고이 잠들라(R.I.P.). 가짜 신분과의 작별을 유머러스하게 표현.
+- **시제:** `Se levanta` → levantarse, 직설법 현재 3인칭 단수 / `mira` → mirar, 직설법 현재 3인칭 단수 / `descansa` → descansar, 명령법(tú)

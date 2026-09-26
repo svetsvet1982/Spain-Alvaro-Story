@@ -544,4 +544,136 @@
 - **시제:**
   - `Pongámonos` → ponerse | 1인칭 복수 명령(접속법 현재형 pongamos) | "~하자" 제안 | 불규칙 1인칭 pongo → 접속법 ponga-; 재귀형에서 -s 탈락
 
-<!-- END65 -->
+## 장면 66. 유럽 전역의 반향
+> 보도가 나간 뒤, 유럽 전역에서 큰 반향이 일어납니다.
+
+### 66-1. **Javier:** (Llama, emocionado) Álvaro, el reportaje está siendo citado por medios de toda Europa.
+- **해석:** (흥분해서 전화하며) 알바로, 우리 기사가 유럽 전역 언론에 인용되고 있어.
+- **주요 단어:** `llamar` (동사) 전화하다 / `emocionado` (형용사) 흥분한, 감격한 / `citar` (동사) 인용하다 / `medio` (명사, 남) 매체, 언론(주로 복수 medios)
+- **문법:** 진행 수동태 `estar + siendo + 과거분사`(인용되는 중이다). 행위자는 `por`.
+- **표현:** `medios de toda Europa` "유럽 전역의 언론".
+- **시제:**
+  - `Llama` → llamar | 직설법 현재, 3인칭 단수 | 지문은 현재형 | 규칙
+  - `emocionado` → emocionar | 과거분사(형용사 용법) | 감정 상태 묘사 | 규칙
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 진행형 보조동사 | 불규칙
+  - `siendo` → ser | 현재분사 | 수동 진행(estar siendo + 과거분사): 지금 계속 인용되는 중 | 규칙형 현재분사
+  - `citado` → citar | 과거분사 | 수동태, reportaje에 남성 단수 일치 | 규칙
+
+### 66-2. **Álvaro:** ¿Alguna reacción institucional?
+- **해석:** 기관 쪽 반응은 있어?
+- **주요 단어:** `reacción` (명사, 여) 반응 / `institucional` (형용사) 기관의, 제도적
+- **문법:** 동사 생략(¿Hay alguna…?).
+- **시제:**
+  - 동사 없음
+
+### 66-3. **Javier:** El Parlamento Europeo ha anunciado una comisión de investigación sobre el fenómeno de las puertas giratorias en regulación financiera.
+- **해석:** 유럽의회가 금융 규제 분야의 회전문 인사 현상에 대한 조사위원회를 발표했어.
+- **주요 단어:** `anunciar` (동사) 발표하다 / `comisión de investigación` 조사위원회 / `fenómeno` (명사, 남) 현상 / `regulación` (명사, 여) 규제
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `ha anunciado` → anunciar | 직설법 현재완료, 3인칭 단수 | 방금 나온 뉴스, 현재와 연결된 최근 사건이라 현재완료 | 규칙
+
+### 66-4. **Álvaro:** Eso es mucho más de lo que esperaba.
+- **해석:** 그건 내가 기대했던 것보다 훨씬 더 큰데.
+- **주요 단어:** `esperar` 기대하다(앞에서 설명)
+- **문법:** 비교 대상이 절이라 `más de lo que`(más que ✗).
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재 평가 | 불규칙
+  - `esperaba` → esperar | 직설법 불완료과거, 1인칭 단수 | 과거에 품고 있던 기대(심리 상태)라 불완료과거 | 규칙
+
+### 66-5. **Javier:** Y hay más: al menos cuatro eurodiputados han pedido explicaciones públicas sobre reuniones con Bruselas Estrategia en los últimos años.
+- **해석:** 그리고 더 있어. 적어도 유럽의회 의원 네 명이 지난 몇 년간 브뤼셀 에스트라테히아와 가진 회의에 대해 공개 해명을 요구했어.
+- **주요 단어:** `al menos` 적어도 / `eurodiputado` (명사, 남) 유럽의회 의원 / `pedir` (동사) 요구하다 / `explicación` (명사, 여) 설명, 해명 / `público` (형용사) 공개적인
+- **문법:** `hay más` 무인칭 존재. 콜론 뒤 부연.
+- **표현:** `Y hay más` "그게 다가 아니야" — 추가 소식을 알릴 때. `pedir explicaciones` "해명을 요구하다".
+- **시제:**
+  - `hay` → haber | 직설법 현재, 무인칭 | 현재 존재 | 불규칙
+  - `han pedido` → pedir | 직설법 현재완료, 3인칭 복수 | 최근의 사건으로 현재까지 이어짐 | e→i 동사지만 과거분사는 규칙 pedido
+
+### 66-6. **Álvaro:** Esto podría cambiar de verdad cómo funcionan estas cosas, a largo plazo.
+- **해석:** 이거면 장기적으로 이런 일들이 돌아가는 방식이 정말로 바뀔 수도 있겠어.
+- **주요 단어:** `cambiar` (동사) 바꾸다 / `de verdad` 정말로 / `funcionar` (동사) 작동하다, 돌아가다 / `a largo plazo` 장기적으로
+- **문법:** 간접의문 `cómo + 직설법`이 cambiar의 목적어.
+- **시제:**
+  - `podría` → poder | 조건법 단순, 3인칭 단수 | 가능성을 조심스럽게 표현(추측의 완화) | 불규칙 어간 podr-
+  - `cambiar` → cambiar | 부정사 | poder 뒤 | 규칙
+  - `funcionan` → funcionar | 직설법 현재, 3인칭 복수 | 일반적 작동 방식 | 규칙
+
+### 66-7. **Javier:** Eso espero.
+- **해석:** 그러길 바라.
+- **주요 단어:** `esperar` 바라다(앞에서 설명)
+- **문법:** 목적어 `eso`가 강조를 위해 동사 앞에 옴.
+- **표현:** `Eso espero.` "그러길 바란다" — 관용 응답.
+- **시제:**
+  - `espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 바람 | 규칙
+
+### 66-8. **Javier:** Camila también me escribió, por cierto.
+- **해석:** 그런데 카밀라도 나한테 연락했어.
+- **주요 단어:** `escribir` (동사) 쓰다; 메시지를 보내다 / `por cierto` 그런데, 참고로
+- **문법:** 간접목적어 me.
+- **표현:** `por cierto` 화제를 살짝 돌릴 때 "그건 그렇고".
+- **시제:**
+  - `escribió` → escribir | 직설법 단순과거, 3인칭 단수 | 과거의 완결된 행위(메시지 한 번 보냄). 스페인에서는 오늘 일이면 현재완료(me ha escrito)가 흔하지만, 단순과거는 시점을 특정 과거로 떼어 말하는 느낌 | 규칙(과거분사만 불규칙 escrito)
+
+### 66-9. **Javier:** Dice que, por primera vez, siente que su experiencia sirvió para algo mucho más grande que su propio caso.
+- **해석:** 처음으로 자기 경험이 자기 사건보다 훨씬 더 큰 무언가에 도움이 됐다고 느낀대.
+- **주요 단어:** `decir` (동사) 말하다 / `por primera vez` 처음으로 / `sentir` (동사) 느끼다 / `experiencia` (명사, 여) 경험 / `servir para` ~에 쓸모 있다 / `propio` (형용사) 자신의
+- **문법:** 간접화법 `decir que + 직설법`, `sentir que + 직설법`(인식·느낌의 긍정 진술은 직설법). 비교 `más grande que`(명사 비교이므로 que).
+- **표현:** `servir para algo` "무언가에 도움이 되다/쓸모 있다".
+- **시제:**
+  - `Dice` → decir | 직설법 현재, 3인칭 단수 | 전달하는 말(간접화법 도입) | e→i 불규칙(digo, dices, dice)
+  - `siente` → sentir | 직설법 현재, 3인칭 단수 | 현재의 감정 | e→ie
+  - `sirvió` → servir | 직설법 단순과거, 3인칭 단수 | 완결된 과거 사건(그녀의 경험이 이번 일에서 쓰임) | 불규칙: 3인칭 단순과거에서 e→i(servió ✗ → sirvió)
+
+### 66-10. **Álvaro:** Me alegra mucho oír eso.
+- **해석:** 그 말을 들으니 정말 기쁘다.
+- **주요 단어:** 앞에서 설명(63-3)
+- **문법:** 앞에서 설명(gustar형 구조).
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재, 3인칭 단수 | 현재 감정 | 규칙
+  - `oír` → oír | 부정사 | 주어 역할 | 불규칙 동사
+
+### 66-11. **Javier:** ¿Y Maarten?
+- **해석:** 마르턴은?
+- **주요 단어:** —
+- **문법:** 동사 생략 질문.
+- **시제:**
+  - 동사 없음
+
+### 66-12. **Álvaro:** Sigue sin poder volver a su vida anterior del todo, pero dice que valió la pena, viendo la repercusión.
+- **해석:** 여전히 예전 삶으로 완전히 돌아가지는 못하지만, 파장을 보니 그럴 만한 가치가 있었다고 하더라.
+- **주요 단어:** `seguir sin + 부정사` 여전히 ~하지 못하다 / `volver a` ~로 돌아가다 / `anterior` (형용사) 이전의 / `valer la pena` 가치가 있다 / `repercusión` (명사, 여) 반향, 파장
+- **문법:** `seguir sin + 부정사`(seguir + 현재분사의 부정형). 여기의 `volver a`는 장소/상태 "~로 돌아가다"(volver a + 부정사 "다시 ~하다"와 구별). 현재분사 `viendo`는 이유("~를 보니").
+- **표현:** `valer la pena` "~할 만한 가치가 있다" — 필수 관용구.
+- **시제:**
+  - `Sigue` → seguir | 직설법 현재, 3인칭 단수 | 현재까지 계속되는 상태 | e→i + gu 철자(sigo, sigues, sigue)
+  - `poder` → poder | 부정사 | sin 뒤 | 불규칙 동사
+  - `volver` → volver | 부정사 | poder 뒤 | 불규칙 동사(o→ue, 과거분사 vuelto)
+  - `dice` → decir | 직설법 현재, 3인칭 단수 | 그가 말하는 바를 전달 | 불규칙
+  - `valió` → valer | 직설법 단순과거, 3인칭 단수 | 완결된 일 전체를 되돌아보며 평가하므로 단순과거 | 현재 1인칭 불규칙(valgo), 단순과거는 규칙
+  - `viendo` → ver | 현재분사 | 원인·근거("보니까") | 규칙형 현재분사(단, ver 자체는 불규칙: veo, visto)
+
+### 66-13. **Javier:** Un final agridulce, como casi siempre en estos casos.
+- **해석:** 씁쓸하면서도 달콤한 결말이네, 이런 경우엔 거의 늘 그렇듯.
+- **주요 단어:** `final` (명사, 남) 결말 / `agridulce` (형용사) 새콤달콤한; 희비가 엇갈리는 / `casi siempre` 거의 항상
+- **문법:** 동사 없는 명사구 문장.
+- **표현:** `un final agridulce` "씁쓸한 결말(bittersweet ending)".
+- **시제:**
+  - 동사 없음
+
+### 66-14. **Álvaro:** Como casi siempre, sí.
+- **해석:** 거의 늘 그렇지, 응.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞 말 반복의 생략문.
+- **시제:**
+  - 동사 없음
+
+### 66-15. **Álvaro:** Pero esta vez, con un impacto real más allá de las detenciones.
+- **해석:** 하지만 이번에는 체포를 넘어 실제적인 영향이 있었어.
+- **주요 단어:** `impacto` (명사, 남) 영향, 충격 / `real` (형용사) 실제의 / `más allá de` ~을 넘어서 / `detención` (명사, 여) 체포, 구금
+- **문법:** 동사 생략(Pero esta vez [ha sido] con un impacto real…).
+- **표현:** `más allá de` "~ 이상으로, ~을 넘어".
+- **시제:**
+  - 동사 없음
+
+<!-- END66 -->

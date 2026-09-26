@@ -537,4 +537,178 @@
 - **시제:**
   - `acompañarme` → acompañar | 부정사 + me | por 뒤 감사 이유 | 규칙
 
-<!-- NEXT -->
+## 장면 36. 카밀라의 새 프로젝트
+> 몇 주 후, 카밀라가 비슷한 상황에 처한 다른 사람들을 돕기 위한 새로운 프로젝트를 알바로에게 제안합니다.
+
+### 36-1. **Camila:** (Con entusiasmo) Álvaro, he estado pensando en algo, y quería contártelo.
+- **해석:** (열정적으로) 알바로, 계속 뭔가 생각하고 있었는데, 너한테 말하고 싶었어.
+- **주요 단어:** `entusiasmo` (남성 명사) 열정 / `contar` (동사) 이야기하다
+- **문법:** 현재완료 진행 `haber + estado + 현재분사`. 이중 대명사 te + lo를 부정사 뒤에 붙이면 강세 표시 (contártelo).
+- **표현:** Quería contártelo = "말해 주고 싶었어" (불완료과거로 부드럽게 꺼내는 말).
+- **시제:**
+  - `he estado pensando` → pensar | 현재완료 진행 (pretérito perfecto continuo): haber 현재 1인칭 + estado + pensando | 최근부터 지금까지 계속된 생각 | pensando는 규칙 현재분사
+  - `quería` → querer | 직설법 불완료과거 1인칭 단수 | 공손하게 의도를 전함 (quiero보다 부드러움) + 전부터 말하고 싶었음 | 불완료과거는 규칙형
+  - `contártelo` → contar | 부정사 + te + lo | querer 뒤
+
+### 36-2. **Álvaro:** Te escucho.
+- **해석:** 말해 봐. (듣고 있어.)
+- **주요 단어:** `escuchar` (동사) 듣다
+- **표현:** Te escucho = "말해, 듣고 있어" (대화를 청하는 표현).
+- **시제:**
+  - `escucho` → escuchar | 직설법 현재 1인칭 단수 | 지금 하는 행위 | 규칙
+
+### 36-3. **Camila:** Rubén mencionó que Fundación Amparo necesita a alguien que entienda de finanzas, para ayudar a otras víctimas de coacción económica a reconstruir su vida.
+- **해석:** 루벤이 그러는데 암파로 재단이 다른 경제적 강압 피해자들이 삶을 다시 일으키도록 도울, 금융을 아는 사람이 필요하대.
+- **주요 단어:** `mencionar` (동사) 언급하다 / `fundación` (여성 명사) 재단 / `entender de` ~에 대해 잘 알다 / `finanzas` (여성 복수 명사) 금융 / `víctima` (여성 명사) 피해자 / `coacción` (여성 명사) 강압 / `reconstruir` (동사) 재건하다
+- **문법:** `alguien que + 접속법`: 아직 정해지지 않은 불특정 사람 → 관계절 접속법. `ayudar a + 사람 + a + 부정사`.
+- **표현:** entender de algo = "~에 밝다, ~을 잘 알다".
+- **시제:**
+  - `mencionó` → mencionar | 직설법 단순과거 3인칭 단수 | 과거 완결 발화 | 규칙
+  - `necesita` → necesitar | 직설법 현재 3인칭 단수 | 현재에도 유효한 사실이라 시제 일치 없이 현재 | 규칙
+  - `entienda` → entender | 접속법 현재 3인칭 단수 | 불특정 선행사 관계절 → 접속법 | 불규칙: e→ie
+  - `ayudar` → ayudar | 부정사 | para 뒤
+  - `reconstruir` → reconstruir | 부정사 | ayudar a 뒤 (활용 시 i→y: reconstruyo)
+
+### 36-4. **Álvaro:** ¿Estás pensando en trabajar con ellos, además de tu empleo actual?
+- **해석:** 지금 직장에 더해서 거기서도 일할 생각이야?
+- **주요 단어:** `además de` ~ 외에도 / `empleo` (남성 명사) 일자리 / `actual` (형용사) 현재의 (false friend: "실제의" 아님)
+- **문법:** `pensar en + 부정사` = ~할 생각이다. 진행형.
+- **시제:**
+  - `Estás pensando` → pensar | estar 현재 2인칭 단수 + 현재분사 (presente progresivo) | 지금 고려 중인 과정 | 규칙
+  - `trabajar` → trabajar | 부정사 | 전치사 en 뒤
+
+### 36-5. **Camila:** Como voluntaria, al principio.
+- **해석:** 처음엔 자원봉사자로.
+- **주요 단어:** `voluntario/a` (명사) 자원봉사자 / `al principio` 처음에는
+- **문법:** `como` = ~로서 (자격).
+- **시제:** 동사 없음
+
+### 36-6. **Camila:** Sé exactamente lo que se siente estar atrapada así, y creo que podría ayudar de verdad.
+- **해석:** 그렇게 갇혀 있는 게 어떤 기분인지 정확히 알아. 그리고 정말로 도움이 될 수 있을 것 같아.
+- **주요 단어:** `atrapado` (형용사·과거분사) 갇힌 / `creer` (동사) 생각하다, 믿다 / `de verdad` 정말로
+- **문법:** `lo que se siente + 부정사` = "~하는 게 어떤 느낌인지" (무인칭 se). `creer que + 직설법` (긍정문; 부정 no creo que면 접속법).
+- **표현:** Sé lo que se siente = "그 기분 알아" (공감 표현).
+- **시제:**
+  - `Sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `se siente` → sentir | 직설법 현재 3인칭 단수 (무인칭 se) | 일반적 느낌 | 불규칙: e→ie
+  - `estar` → estar | 부정사 | 주어 역할
+  - `atrapada` → atrapar | 과거분사 여성 단수 | estar + 과거분사 = 결과 상태 | 규칙
+  - `creo` → creer | 직설법 현재 1인칭 단수 | 현재 의견 | 규칙
+  - `podría` → poder | 조건법 1인칭 단수 | 가능성을 겸손하게 | 어간 podr-
+  - `ayudar` → ayudar | 부정사 | poder 뒤
+
+### 36-7. **Álvaro:** (Con orgullo genuino) Me parece una idea maravillosa, Camila.
+- **해석:** (진심으로 자랑스러워하며) 정말 멋진 생각 같아, 카밀라.
+- **주요 단어:** `orgullo` (남성 명사) 자부심 / `genuino` (형용사) 진정한 / `maravilloso` (형용사) 훌륭한
+- **문법:** `Me parece + 명사/형용사` = 나에게 ~로 보인다 (gustar형 구조).
+- **시제:**
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 36-8. **Camila:** ¿No te preocupa que me exponga otra vez a este tipo de historias?
+- **해석:** 내가 또 이런 종류의 이야기에 노출되는 게 걱정되지 않아?
+- **주요 단어:** `preocupar` (동사) 걱정시키다 / `exponerse a` (재귀동사) ~에 노출되다 / `tipo` (남성 명사) 종류
+- **문법:** `preocupar que + 접속법`: 감정 동사 뒤 que절은 접속법. gustar형 동사: 주어는 que절, te는 간접목적어.
+- **시제:**
+  - `preocupa` → preocupar | 직설법 현재 3인칭 단수 | 현재 감정 | 규칙
+  - `exponga` (me exponga) → exponerse | 접속법 현재 1인칭 단수 | 감정 유발 동사 뒤 → 접속법 | 불규칙: poner 계열 (expongo → exponga)
+
+### 36-9. **Álvaro:** Me preocupa, siempre.
+- **해석:** 걱정되지, 항상.
+- **시제:**
+  - `preocupa` → preocupar | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 36-10. **Álvaro:** Pero también confío en que sabes cuidarte, y en que esto podría darte un propósito que va más allá de solo sobrevivir.
+- **해석:** 하지만 네가 스스로를 잘 돌볼 줄 안다는 것, 그리고 이게 그저 살아남는 것 이상의 목적을 줄 수 있다는 것도 믿어.
+- **주요 단어:** `confiar en` ~을 믿다, 신뢰하다 / `cuidarse` (재귀동사) 자신을 돌보다 / `propósito` (남성 명사) 목적 / `ir más allá de` ~을 넘어서다 / `solo` (부사) 단지
+- **문법:** `confiar en que + 직설법`: 확신을 나타내므로 직설법. 전치사 en을 두 번째 절에도 반복 (y en que). `saber + 부정사` = ~할 줄 알다.
+- **표현:** ir más allá de = "~을 넘어서다".
+- **시제:**
+  - `confío` → confiar | 직설법 현재 1인칭 단수 | 현재 믿음 | 강세 변화: confío (í에 강세)
+  - `sabes` → saber | 직설법 현재 2인칭 단수 | 앞에서 설명
+  - `cuidarte` → cuidarse | 부정사 + te | saber 뒤 (능력)
+  - `podría` → poder | 조건법 3인칭 단수 | 가능성 완곡 | 어간 podr-
+  - `darte` → dar | 부정사 + te | poder 뒤
+  - `va` → ir | 직설법 현재 3인칭 단수 | 목적의 성격 설명 (일반적 사실) | 불규칙
+  - `sobrevivir` → sobrevivir | 부정사 | 전치사 de 뒤 명사 역할
+
+### 36-11. **Camila:** Exactamente eso es lo que siento.
+- **해석:** 바로 그게 내가 느끼는 거야.
+- **문법:** 강조 구문 `eso es lo que...` (바로 그것이 ~하는 것).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `siento` → sentir | 직설법 현재 1인칭 단수 | 현재 감정 | 불규칙: e→ie
+
+### 36-12. **Camila:** Quiero convertir todo lo que pasé en algo que ayude a otros a salir más rápido de lo que yo tardé.
+- **해석:** 내가 겪은 모든 걸, 다른 사람들이 내가 걸린 것보다 더 빨리 빠져나오도록 돕는 무언가로 바꾸고 싶어.
+- **주요 단어:** `convertir A en B` A를 B로 바꾸다 / `pasar` (동사) 겪다 / `salir` (동사) 빠져나오다 / `tardar` (동사) 시간이 걸리다
+- **문법:** `algo que + 접속법`: 아직 존재하지 않는, 목표로 하는 것 → 관계절 접속법. 비교 `más rápido de lo que + 절` (절과 비교할 때 de lo que).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `Quiero` → querer | 직설법 현재 1인칭 단수 | 현재 소망 | 불규칙: e→ie
+  - `convertir` → convertir | 부정사 | querer 뒤
+  - `pasé` → pasar | 직설법 단순과거 1인칭 단수 | 과거에 완결된 경험 | 규칙
+  - `ayude` → ayudar | 접속법 현재 3인칭 단수 | 목표로 하는 미확정 선행사 → 접속법 | 규칙
+  - `salir` → salir | 부정사 | ayudar a 뒤
+  - `tardé` → tardar | 직설법 단순과거 1인칭 단수 | 과거의 완결된 소요 시간 | 규칙
+
+### 36-13. **Álvaro:** Entonces cuenta conmigo, para lo que necesites.
+- **해석:** 그럼 뭐가 필요하든 날 믿고 의지해.
+- **주요 단어:** `contar con` ~에 의지하다, ~을 믿다 / `conmigo` 나와 함께
+- **문법:** `para lo que + 접속법`: 무엇이 될지 정해지지 않은 대상 → 접속법. con + mí = conmigo.
+- **표현:** Cuenta conmigo = "나만 믿어, 내가 있잖아".
+- **시제:**
+  - `cuenta` → contar | 긍정 명령 2인칭 단수 | 권유 | 불규칙: o→ue (cuenta)
+  - `necesites` → necesitar | 접속법 현재 2인칭 단수 | 불특정 필요 → 접속법 | 규칙
+
+### 36-14. **Camila:** Rubén también mencionó que podrían necesitar testimonios, con identidad protegida, para sensibilizar sobre este tipo de coacción.
+- **해석:** 루벤이 그러는데, 이런 강압에 대한 인식을 높이기 위해 신원을 보호한 증언이 필요할 수도 있대.
+- **주요 단어:** `testimonio` (남성 명사) 증언 / `identidad` (여성 명사) 신원 / `proteger` (동사) 보호하다 / `sensibilizar sobre` ~에 대한 인식을 높이다
+- **문법:** 과거 전달(mencionó) 뒤 조건법 = 과거에서 본 가능성. `con + 명사 + 과거분사` 절대구문.
+- **시제:**
+  - `mencionó` → mencionar | 직설법 단순과거 3인칭 단수 | 앞에서 설명
+  - `podrían` → poder | 조건법 3인칭 복수 | 가능성의 완곡 표현 + 간접화법 | 어간 podr-
+  - `necesitar` → necesitar | 부정사 | poder 뒤
+  - `protegida` → proteger | 과거분사 여성 단수 | 수동 상태 | 규칙 (활용 시 g→j: protejo)
+  - `sensibilizar` → sensibilizar | 부정사 | para 뒤 목적
+
+### 36-15. **Álvaro:** ¿Estarías dispuesta a eso?
+- **해석:** 그것도 할 의향이 있어?
+- **주요 단어:** `dispuesto a` ~할 의향이 있는
+- **문법:** `estar dispuesto/a a` = ~할 준비·의향이 있다. 화자가 여성에게 묻으므로 dispuesta.
+- **시제:**
+  - `Estarías` → estar | 조건법 2인칭 단수 | 가정적·공손한 질문 | 규칙 조건법 어미
+  - `dispuesta` → disponer | 과거분사 여성 단수 (형용사적) | 상태 | 불규칙 과거분사 dispuesto
+
+### 36-16. **Camila:** Ya lo hice una vez, en un tribunal.
+- **해석:** 한 번 이미 해 봤어, 법정에서.
+- **주요 단어:** `tribunal` (남성 명사) 법정
+- **문법:** 특이사항 없음
+- **시제:**
+  - `hice` → hacer | 직설법 단순과거 1인칭 단수 | 과거 특정 시점의 1회 완결 행위 (una vez) | 불규칙: 어간 hic-, 강세 없는 -e
+
+### 36-17. **Camila:** Creo que puedo hacerlo otra vez, si sirve para ayudar a alguien más.
+- **해석:** 다른 누군가를 돕는 데 도움이 된다면, 다시 할 수 있을 것 같아.
+- **주요 단어:** `servir para` ~에 쓸모가 있다 / `alguien más` 다른 누군가
+- **문법:** `creer que + 직설법`. `si + 직설법 현재`: 현실적 조건.
+- **시제:**
+  - `Creo` → creer | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 현재 능력 | 불규칙: o→ue
+  - `hacerlo` → hacer | 부정사 + lo | poder 뒤
+  - `sirve` → servir | 직설법 현재 3인칭 단수 | si 조건절 현재 | 불규칙: e→i
+  - `ayudar` → ayudar | 부정사 | para 뒤
+
+### 36-18. **Álvaro:** Eres una de las personas más valientes que conozco, Camila.
+- **해석:** 넌 내가 아는 사람 중에 가장 용감한 사람 중 하나야, 카밀라.
+- **주요 단어:** `valiente` (형용사) 용감한 / `conocer` (동사) (사람을) 알다
+- **문법:** `uno/a de los/las + 명사 + más + 형용사 + que` 최상급. 실제로 아는 사람들이라 관계절 직설법.
+- **시제:**
+  - `Eres` → ser | 직설법 현재 2인칭 단수 | 본질적 성격 | 불규칙
+  - `conozco` → conocer | 직설법 현재 1인칭 단수 | 현재 아는 사람들 | 불규칙: -zco (conozco)
+
+### 36-19. **Camila:** Aprendí de los mejores, supongo.
+- **해석:** 최고한테 배웠나 보지.
+- **주요 단어:** `aprender de` ~에게서 배우다 / `los mejores` 최고인 사람들
+- **표현:** Aprendí de los mejores = "최고에게 배웠지" (칭찬을 되돌려주는 재치 있는 표현).
+- **시제:**
+  - `Aprendí` → aprender | 직설법 단순과거 1인칭 단수 | 과거의 완결된 배움 | 규칙
+  - `supongo` → suponer | 직설법 현재 1인칭 단수 | 앞에서 설명

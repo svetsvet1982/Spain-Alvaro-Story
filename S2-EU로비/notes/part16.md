@@ -545,3 +545,245 @@
 - **표현:** 상대 말을 그대로 되받아 공감·다짐을 표현.
 - **시제:**
   - 동사 없음
+
+## 장면 77. 니스 감시 보고
+> 프랑스 당국의 감시 결과, 니스 주소에 대한 새로운 정보가 전해집니다.
+
+### 77-1. **Carlos:** (Llama) Álvaro, Camila, tenemos el primer informe de vigilancia en Niza.
+- **해석:** (전화를 건다) 알바로, 카밀라, 니스 감시 첫 보고서가 나왔어요.
+- **주요 단어:** `informe` (남성명사) 보고서 / `vigilancia` 앞에서 설명
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 | 지문 서술
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 현재 확보
+
+### 77-2. **Álvaro:** ¿Y bien?
+- **해석:** 그래서요?
+- **주요 단어:** `y bien` 그래서, 어떻게 됐어?
+- **문법:** 특이사항 없음.
+- **표현:** 결과를 재촉하는 관용 표현.
+- **시제:**
+  - 동사 없음
+
+### 77-3. **Carlos:** La vivienda pertenece a una empresa de gestión de propiedades, alquilada a corto plazo de forma recurrente, siempre a través de intermediarios distintos.
+- **해석:** 그 주택은 부동산 관리 회사 소유인데, 늘 다른 중개인을 통해 반복적으로 단기 임대되고 있어요.
+- **주요 단어:** `vivienda` (여성명사) 주택 / `pertenecer a` ~에 속하다 / `gestión de propiedades` 부동산 관리 / `alquilar` (동사) 임대하다 / `a corto plazo` 단기로 / `de forma recurrente` 반복적으로 / `intermediario` (남성명사) 중개인 / `distinto` (형용사) 다른
+- **문법:** `alquilada`는 과거분사 분사구문으로 la vivienda를 보충 설명(여성 단수 일치).
+- **시제:**
+  - `pertenece` → pertenecer | 직설법 현재 3인칭 단수 | 현재 소유 상태 | -cer 동사 1인칭 pertenezco(zc 변화)
+  - `alquilada` → alquilar | 과거분사 여성 단수 | 수동적 상태 "임대되는"
+
+### 77-4. **Camila:** Otra capa de anonimato, entonces.
+- **해석:** 그럼 익명성 층이 하나 더 있는 거네요.
+- **주요 단어:** `capa` (여성명사) 층 / `anonimato` (남성명사) 익명성
+- **문법:** `otro/otra` 앞에 부정관사 쓰지 않음(×una otra).
+- **시제:**
+  - 동사 없음
+
+### 77-5. **Carlos:** Exactamente el mismo patrón que hemos visto en toda esta investigación.
+- **해석:** 이번 수사 내내 봐 온 것과 정확히 같은 패턴이에요.
+- **주요 단어:** `mismo` 같은 / `ver` 보다 / `investigación` (여성명사) 수사
+- **문법:** `el mismo ... que` = ~와 같은. 관계절 `que hemos visto`.
+- **시제:**
+  - `hemos visto` → ver | 직설법 현재완료 1인칭 복수 | 수사 시작부터 지금까지 이어지는 기간의 경험이라 현재완료 | 과거분사 불규칙 visto
+
+### 77-6. **Carlos:** Pero las autoridades francesas identificaron a alguien entrando y saliendo con regularidad, que coincide parcialmente con la descripción de Roselló.
+- **해석:** 하지만 프랑스 당국이 정기적으로 드나드는 누군가를 확인했는데, 로셀요의 인상착의와 부분적으로 일치해요.
+- **주요 단어:** `entrar` 들어가다 / `salir` 나가다 / `con regularidad` 규칙적으로 / `coincidir con` ~와 일치하다 / `descripción` 인상착의, 묘사
+- **문법:** 지각·확인 동사 + 목적어 + 현재분사(alguien entrando y saliendo = 드나드는 누군가). 사람 목적어 앞 `a`. `que coincide`는 설명적 관계절(선행사 alguien).
+- **시제:**
+  - `identificaron` → identificar | 직설법 단순과거 3인칭 복수 | 감시 기간 중 완료된 확인 행위라 단순과거
+  - `entrando` → entrar | 현재분사 | 목적어의 진행 중·반복 동작 묘사
+  - `saliendo` → salir | 현재분사 | 같은 용법
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 현재 판단되는 일치 여부
+
+### 77-7. **Álvaro:** ¿Parcialmente?
+- **해석:** 부분적으로요?
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음.
+- **시제:**
+  - 동사 없음
+
+### 77-8. **Carlos:** Complexión similar, aunque con barba y cabello más largo que en la fotografía de Ginebra.
+- **해석:** 체격은 비슷한데, 제네바 사진보다 수염이 있고 머리가 더 길어요.
+- **주요 단어:** `complexión` (여성명사) 체격 / `similar` (형용사) 비슷한 / `barba` (여성명사) 수염 / `cabello` (남성명사) 머리카락 / `fotografía` (여성명사) 사진
+- **문법:** `más ... que` 비교급. `aunque + 명사구`로 동사 생략.
+- **시제:**
+  - 동사 없음
+
+### 77-9. **Carlos:** Podría ser un disfraz deliberado.
+- **해석:** 의도적인 변장일 수도 있어요.
+- **주요 단어:** `disfraz` (남성명사) 변장 / `deliberado` (형용사) 의도적인
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Podría` → poder | 조건법 | 추측
+  - `ser` → ser | 부정사
+
+### 77-10. **Camila:** ¿Se puede confirmar con más certeza?
+- **해석:** 더 확실하게 확인할 수 있나요?
+- **주요 단어:** `confirmar`, `certeza` 앞에서 설명
+- **문법:** 무인칭 `se` (se puede = 할 수 있다, 일반 주어).
+- **시제:**
+  - `Se puede` → poder | 직설법 현재 3인칭 단수 무인칭 se | 일반적 가능성
+  - `confirmar` → confirmar | 부정사
+
+### 77-11. **Carlos:** Las autoridades francesas están evaluando si solicitar una orden de vigilancia más intensiva, incluida posible intervención de comunicaciones.
+- **해석:** 프랑스 당국이 통신 감청 가능성까지 포함해 더 강도 높은 감시 영장을 신청할지 검토하고 있어요.
+- **주요 단어:** `evaluar` (동사) 평가·검토하다 / `solicitar` (동사) 신청하다 / `orden` (여성명사) 영장, 명령 / `intensivo` (형용사) 집중적인 / `incluido` 포함된 / `intervención de comunicaciones` 통신 감청
+- **문법:** `si + 부정사` = ~할지 말지(간접의문, 주어 동일). `incluida`는 뒤 명사 intervención에 일치하는 과거분사(여성 단수).
+- **표현:** `orden` 여성형 = 영장/명령(남성 el orden = 질서).
+- **시제:**
+  - `están` → estar | 직설법 현재 3인칭 복수 | 진행형 조동사
+  - `evaluando` → evaluar | 현재분사 | 지금 진행 중인 검토
+  - `solicitar` → solicitar | 부정사 | si 간접의문
+  - `incluida` → incluir | 과거분사 여성 단수 | "~을 포함하여"
+
+### 77-12. **Álvaro:** Esto podría ser la oportunidad definitiva.
+- **해석:** 이게 결정적인 기회가 될 수도 있겠네요.
+- **주요 단어:** `oportunidad` (여성명사) 기회 / `definitivo` (형용사) 결정적인, 최종의
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `podría` → poder | 조건법 | 가능성
+  - `ser` → ser | 부정사
+
+### 77-13. **Carlos:** Podría serlo, sí.
+- **해석:** 그럴 수 있죠, 네.
+- **주요 단어:** 앞에서 설명
+- **문법:** `lo`는 중성 대명사로 앞의 보어(la oportunidad definitiva)를 받음. ser/estar의 보어를 lo로 대신하는 용법.
+- **시제:**
+  - `Podría` → poder | 조건법 | 동의하되 신중한 추측
+  - `serlo` → ser | 부정사 + lo
+
+### 77-14. **Carlos:** Pero vamos a proceder con toda la cautela posible.
+- **해석:** 하지만 최대한 신중하게 진행할 겁니다.
+- **주요 단어:** `proceder` (동사) 진행하다 / `cautela` (여성명사) 신중함
+- **문법:** `todo/a + 명사 + posible` = 가능한 한 최대의 ~.
+- **시제:**
+  - `vamos` → ir | 직설법 현재 | ir a + 부정사로 계획·의지
+  - `proceder` → proceder | 부정사
+
+### 77-15. **Carlos:** No podemos permitirnos otro error como el de Ginebra.
+- **해석:** 제네바 때 같은 실수를 또 할 여유는 없어요.
+- **주요 단어:** `permitirse` (재귀동사) ~할 여유가 있다, 감당하다
+- **문법:** `permitirse algo` = ~을 감당하다. 대명사 nos가 부정사 뒤에 붙음. `el de Ginebra` = el error de Ginebra(명사 생략).
+- **표현:** `no poder permitirse` = ~할 여유가 없다(영어 can't afford).
+- **시제:**
+  - `podemos` → poder | 직설법 현재 1인칭 복수 | 현재의 불가능
+  - `permitirnos` → permitirse | 부정사 + nos
+
+### 77-16. **Camila:** Esperemos, entonces, con la esperanza de que esta vez sea la definitiva.
+- **해석:** 그럼 기다려 봐요. 이번이 마지막이길 바라면서요.
+- **주요 단어:** `esperar` 기다리다/바라다 / `esperanza` (여성명사) 희망 / `vez` (여성명사) 번
+- **문법:** `Esperemos` = 1인칭 복수 명령(~합시다). `la esperanza de que + 접속법`. `la definitiva` = la vez definitiva.
+- **표현:** `esperar`의 "기다리다"와 `esperanza`의 "희망"을 겹쳐 쓴 말놀이 느낌.
+- **시제:**
+  - `Esperemos` → esperar | 접속법 현재 1인칭 복수 = 1인칭 복수 명령 (imperativo de nosotros) | 함께하자는 제안
+  - `sea` → ser | 접속법 현재 3인칭 단수 | 희망 명사 esperanza de que 뒤라 접속법
+
+## 장면 78. 작전 전야
+> 며칠 후, 프랑스 당국이 니스 주소에 대한 개입을 승인합니다.
+
+### 78-1. **Carlos:** (Llama) Álvaro, Camila, tenemos autorización judicial francesa.
+- **해석:** (전화를 건다) 알바로, 카밀라, 프랑스 법원 승인이 떨어졌어요.
+- **주요 단어:** `autorización` (여성명사) 승인 / `judicial` (형용사) 사법의
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 | 지문
+  - `tenemos` → tener | 직설법 현재 | 현재 확보
+
+### 78-2. **Carlos:** Se ejecuta mañana por la mañana.
+- **해석:** 내일 아침에 실행합니다.
+- **주요 단어:** `ejecutar` 앞에서 설명 / `mañana por la mañana` 내일 아침
+- **문법:** `se` 수동/무인칭(작전이 실행된다).
+- **표현:** `mañana`(내일)와 `la mañana`(아침)의 구분.
+- **시제:**
+  - `Se ejecuta` → ejecutar | 직설법 현재 3인칭 단수 | 확정된 가까운 미래 일정을 현재형으로 표현
+
+### 78-3. **Álvaro:** ¿Puedo estar presente esta vez?
+- **해석:** 이번엔 제가 현장에 있어도 될까요?
+- **주요 단어:** `presente` (형용사) 참석한, 있는
+- **문법:** `estar presente` = 참석하다.
+- **시제:**
+  - `Puedo` → poder | 직설법 현재 1인칭 단수 | 허락 요청 | o→ue
+  - `estar` → estar | 부정사
+
+### 78-4. **Carlos:** A distancia, sí, como observador autorizado.
+- **해석:** 떨어진 곳에서라면요. 공식 참관인으로요.
+- **주요 단어:** `a distancia` 떨어져서, 원격으로 / `observador` (남성명사) 참관인 / `autorizado` (형용사) 허가된
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `autorizado` → autorizar | 과거분사 남성 단수 | 형용사로 observador 수식
+
+### 78-5. **Carlos:** Esta operación la lideran completamente las autoridades francesas.
+- **해석:** 이 작전은 전적으로 프랑스 당국이 지휘해요.
+- **주요 단어:** `operación` (여성명사) 작전 / `liderar` (동사) 이끌다
+- **문법:** 목적어 전치 + 중복 대명사: `Esta operación`을 앞으로 빼고 `la`로 다시 받음. 주어 `las autoridades francesas`는 동사 뒤로 도치.
+- **표현:** 주제를 강조하는 스페인어 특유의 어순.
+- **시제:**
+  - `lideran` → liderar | 직설법 현재 3인칭 복수 | 현재 확정된 역할 분담
+
+### 78-6. **Camila:** ¿Y si resulta ser él, de verdad?
+- **해석:** 그런데 정말 그 사람이면요?
+- **주요 단어:** `resultar` (동사) ~로 판명되다
+- **문법:** `resultar + 부정사/보어` = 결과적으로 ~이다. `¿Y si...?` = 만약 ~라면?
+- **시제:**
+  - `resulta` → resultar | 직설법 현재 3인칭 단수 | si 조건절이라 현재형(미래 가능성)
+  - `ser` → ser | 부정사
+
+### 78-7. **Carlos:** Entonces esto se convierte en el mayor golpe contra esta red desde que empezamos a investigarla.
+- **해석:** 그러면 이건 우리가 이 조직을 수사하기 시작한 이래 가장 큰 타격이 되는 거죠.
+- **주요 단어:** `convertirse en` ~이 되다 / `mayor` 가장 큰 / `golpe` (남성명사) 타격 / `red` (여성명사) 조직망 / `desde que` ~한 이래
+- **문법:** `convertirse en` 재귀동사. `el mayor` 최상급. 대명사 `la`(= la red)가 부정사에 부착.
+- **시제:**
+  - `se convierte` → convertirse | 직설법 현재 3인칭 단수 | 조건이 충족되면 확실한 결과임을 생생하게 현재형으로 | e→ie
+  - `empezamos` → empezar | 직설법 단순과거 1인칭 복수 | 수사 시작이라는 과거의 한 시점(형태는 현재와 같으나 desde que 문맥상 과거)
+  - `investigarla` → investigar | 부정사 + la
+
+### 78-8. **Álvaro:** Después de tanto tiempo, casi no me atrevo a tener esperanzas.
+- **해석:** 이렇게 오랜 시간이 지나고 나니, 희망을 갖는 것조차 겁이 나요.
+- **주요 단어:** `atreverse a` (재귀동사) 감히 ~하다 / `casi` 거의 / `tener esperanzas` 희망을 품다
+- **문법:** `atreverse a + 부정사`. `casi no` = 거의 ~못하다.
+- **시제:**
+  - `me atrevo` → atreverse | 직설법 현재 1인칭 단수 | 지금의 심정
+  - `tener` → tener | 부정사
+
+### 78-9. **Carlos:** Es comprensible.
+- **해석:** 이해가 돼요.
+- **주요 단어:** `comprensible` (형용사) 이해할 만한
+- **문법:** 특이사항 없음.
+- **시제:**
+  - `Es` → ser | 직설법 현재 | 평가
+
+### 78-10. **Carlos:** Pero preparémonos para cualquier resultado.
+- **해석:** 하지만 어떤 결과든 대비합시다.
+- **주요 단어:** `prepararse para` ~에 대비하다 / `resultado` (남성명사) 결과
+- **문법:** 재귀동사 1인칭 복수 명령: preparemos + nos → `preparémonos`(s 탈락, 강세 부호 추가).
+- **시제:**
+  - `preparémonos` → prepararse | 명령법 1인칭 복수 긍정 (접속법 현재형 기반) | 함께하자는 권유
+
+### 78-11. **Camila:** Voy a estar despierta toda la noche, esperando noticias, sin duda.
+- **해석:** 틀림없이 밤새 깨어서 소식을 기다리고 있을 거예요.
+- **주요 단어:** `despierto` (형용사) 깨어 있는 / `noticia` (여성명사) 소식 / `sin duda` 틀림없이
+- **문법:** `estar despierta` = 상태이므로 estar, 화자가 여성이라 여성형.
+- **시제:**
+  - `Voy` → ir | 직설법 현재 | ir a + 부정사로 예상되는 가까운 미래
+  - `estar` → estar | 부정사
+  - `esperando` → esperar | 현재분사 | 깨어 있는 동안 동시에 하는 행동
+
+### 78-12. **Álvaro:** Yo también, imagino.
+- **해석:** 저도 그럴 것 같아요.
+- **주요 단어:** `imaginar` (동사) 상상하다, 짐작하다
+- **문법:** 특이사항 없음.
+- **표현:** `imagino` = "아마 그렇겠죠"(추측을 덧붙임).
+- **시제:**
+  - `imagino` → imaginar | 직설법 현재 1인칭 단수 | 현재의 짐작
+
+### 78-13. **Carlos:** Os mantendré informados en tiempo real, en cuanto empiece la operación.
+- **해석:** 작전이 시작되면 바로 실시간으로 알려 줄게요.
+- **주요 단어:** `en tiempo real` 실시간으로 / `en cuanto` ~하자마자
+- **문법:** `Os` = vosotros의 목적 대명사(스페인식). `en cuanto + 접속법` = 미래 시점을 가리키는 시간절이므로 접속법.
+- **표현:** vosotros 사용 — 스페인 스페인어의 친근한 복수 호칭.
+- **시제:**
+  - `mantendré` → mantener | 직설법 단순미래 1인칭 단수 | 약속 | 불규칙 어간 mantendr-
+  - `informados` → informar | 과거분사 남성 복수 | os에 일치
+  - `empiece` → empezar | 접속법 현재 3인칭 단수 | 아직 일어나지 않은 미래의 시간절이라 접속법(직설법이면 습관적 사실) | e→ie + z→c (empiece)

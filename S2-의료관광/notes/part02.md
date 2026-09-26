@@ -510,3 +510,197 @@
   - `debería` → deber | 조건법 단순형 3인칭 단수 | 당위를 완곡히 말하며 "실제로는 그렇지 않다"는 반어적 함의
   - `serlo` → ser | 부정사 + 대명사 | deber + 부정사
 
+## 장면 6. 실소유주 리카르도 솔라나
+> 카를로스가 클리닉의 실소유주를 확인했다는 소식을 갖고 알바로를 찾아옵니다.
+
+### 6-1. **Carlos:** Álvaro, tenemos un nombre.
+- **해석:** 알바로, 이름이 나왔어.
+- **주요 단어:** `tener` 가지다 / `el nombre` 이름
+- **표현:** tenemos un nombre = "(용의자의) 이름을 알아냈다", 수사물의 전형적 표현.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | 지금 확보한 상태 | 1인칭 복수는 규칙형
+
+### 6-2. **Carlos:** El dueño real de la Clínica Aurora, y de al menos otras cuatro clínicas similares, es un tal Ricardo Solana.
+- **해석:** 클리니카 아우로라, 그리고 적어도 비슷한 클리닉 네 곳의 실소유주는 리카르도 솔라나라는 사람이야.
+- **주요 단어:** `el dueño` 주인, 소유주 / `real` 실제의 / `al menos` 적어도 / `similar` 비슷한 / `un tal` ~라는 사람
+- **문법:** otras cuatro: 스페인어에서는 otro가 숫자 앞에 옴(otras cuatro clínicas = 다른 네 곳). 부정관사 없이 otro 사용.
+- **표현:** un tal + 이름 = "~라는 (잘 모르는) 사람".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 신원 확인은 ser
+
+### 6-3. **Álvaro:** ¿Quién es?
+- **해석:** 누군데?
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 신원을 묻는 ser
+
+### 6-4. **Carlos:** Un antiguo directivo farmacéutico.
+- **해석:** 전직 제약회사 임원이야.
+- **주요 단어:** `antiguo` (명사 앞) 전직의, 예전의 / `el directivo` 임원, 간부 / `farmacéutico` 제약의
+- **문법:** antiguo는 명사 앞에서 "전(前)~", 뒤에서 "오래된"으로 의미가 달라짐. 동사 생략.
+- **시제:**
+  - 동사 없음
+
+### 6-5. **Carlos:** Le retiraron la licencia hace ocho años, tras un escándalo de ensayos clínicos irregulares.
+- **해석:** 8년 전에 불법적인 임상시험 스캔들 이후 면허를 박탈당했어.
+- **주요 단어:** `retirar` 회수하다, 박탈하다 / `la licencia` 면허 / `hace + 기간` ~전에 / `tras` ~후에 / `el escándalo` 스캔들 / `el ensayo clínico` 임상시험 / `irregular` 비정상적인, 불법의
+- **문법:** 주어를 밝히지 않는 3인칭 복수 무인칭(당국이). le = 그에게서(간접목적어, 박탈 대상). hace + 기간 = "~ 전에".
+- **시제:**
+  - `retiraron` → retirar | 직설법 단순과거 3인칭 복수 | 과거 특정 시점(8년 전)에 완결된 사건 → 단순과거; 무인칭 복수
+  - 비교: hace ocho años처럼 명확한 과거 시점이 있으면 현재완료가 아닌 단순과거.
+
+### 6-6. **Álvaro:** (Sorprendido) ¿Y sigue operando en el sector, después de eso?
+- **해석:** (놀라며) 그런 일이 있고도 아직 업계에서 활동하고 있어?
+- **주요 단어:** `sorprendido` 놀란 / `seguir + 현재분사` 계속 ~하다 / `operar` 영업하다, 활동하다 / `el sector` 업계
+- **문법:** seguir + 현재분사 = 계속 ~하고 있다.
+- **시제:**
+  - `Sorprendido` → sorprender | 과거분사 남성 단수 | 형용사로서 알바로의 상태
+  - `sigue` → seguir | 직설법 현재 3인칭 단수 | 현재까지 지속 | 불규칙(e→i)
+  - `operando` → operar | 현재분사 | seguir와 함께 지속 동작
+
+### 6-7. **Carlos:** A través de sociedades interpuestas, sí.
+- **해석:** 응, 페이퍼 컴퍼니를 통해서.
+- **주요 단어:** `a través de` ~을 통해 / `sociedad interpuesta` 명의만 빌려주는 회사(차명 법인)
+- **문법:** 동사 생략.
+- **표현:** sociedad interpuesta = 법률 용어, 실소유주를 숨기는 중간 법인.
+- **시제:**
+  - `interpuestas` → interponer | 과거분사 여성 복수 (형용사화) | 사이에 놓인 | 불규칙 과거분사(interpuesto)
+
+### 6-8. **Carlos:** Nunca aparece su nombre directamente en ningún registro sanitario.
+- **해석:** 그의 이름은 어떤 보건 등록부에도 직접 나오지 않아.
+- **주요 단어:** `nunca` 결코 ~않다 / `aparecer` 나타나다 / `ningún` 어떤 ~도
+- **문법:** 부정어 nunca가 동사 앞에 오면 no 불필요. 이중부정 nunca ... ningún. 주어(su nombre) 도치.
+- **시제:**
+  - `aparece` → aparecer | 직설법 현재 3인칭 단수 | 일반적·지속적 사실 | 1인칭만 불규칙(aparezco)
+
+### 6-9. **Álvaro:** ¿Y las vacunas falsas?
+- **해석:** 그럼 가짜 백신은?
+- **주요 단어:** `falso` 가짜의
+- **시제:**
+  - 동사 없음
+
+### 6-10. **Álvaro:** ¿Sabemos de dónde vienen?
+- **해석:** 어디서 오는지 알아?
+- **주요 단어:** `saber` 알다 / `de dónde` 어디로부터 / `venir` 오다
+- **문법:** 간접의문 de dónde vienen(직설법, 악센트 유지).
+- **시제:**
+  - `Sabemos` → saber | 직설법 현재 1인칭 복수 | 현재 알고 있는지 | 1인칭 복수 규칙
+  - `vienen` → venir | 직설법 현재 3인칭 복수 | 현재의 출처 | 불규칙(e→ie)
+
+### 6-11. **Carlos:** Sospechamos que las produce él mismo, en un laboratorio pequeño, no autorizado, en las afueras de Alicante.
+- **해석:** 알리칸테 외곽의 무허가 소형 실험실에서 그가 직접 만든다고 의심하고 있어.
+- **주요 단어:** `sospechar` 의심하다 / `producir` 생산하다 / `él mismo` 그 자신이 / `el laboratorio` 실험실 / `autorizado` 허가된 / `las afueras` 교외, 외곽
+- **문법:** sospechar que + 직설법(긍정 추정). las = las vacunas(직접목적). él mismo = 강조 주어.
+- **시제:**
+  - `Sospechamos` → sospechar | 직설법 현재 1인칭 복수 | 현재의 추정
+  - `produce` → producir | 직설법 현재 3인칭 단수 | 현재 반복되는 활동 | 1인칭만 불규칙(produzco)
+  - `autorizado` → autorizar | 과거분사 남성 단수 | 형용사로 laboratorio 수식(no autorizado = 무허가)
+
+### 6-12. **Álvaro:** Eso encaja con el vial que vi, sin ningún etiquetado oficial.
+- **해석:** 공식 라벨이 전혀 없던, 내가 본 바이알이랑 맞아떨어지네.
+- **주요 단어:** `encajar con` ~와 들어맞다 / `ver` 보다 / `oficial` 공식의
+- **문법:** 관계대명사 que(el vial 받음, vi의 목적어).
+- **표현:** encajar con = 퍼즐처럼 들어맞다.
+- **시제:**
+  - `encaja` → encajar | 직설법 현재 3인칭 단수 | 현재 판단
+  - `vi` → ver | 직설법 단순과거 1인칭 단수 | 두 번째 방문 때 한 번 본 완결된 행위 | 불규칙(vi, 악센트 없음)
+
+### 6-13. **Carlos:** Exactamente.
+- **해석:** 바로 그거야.
+- **시제:**
+  - 동사 없음
+
+### 6-14. **Carlos:** Con la muestra que conseguiste, podemos analizarla y confirmar qué contiene realmente.
+- **해석:** 네가 확보한 샘플로 분석해서 실제로 뭐가 들어 있는지 확인할 수 있어.
+- **주요 단어:** `la muestra` 샘플 / `conseguir` 확보하다 / `analizar` 분석하다 / `confirmar` 확인하다 / `contener` 포함하다
+- **문법:** la = la muestra, 부정사에 붙음(analizarla). qué contiene 간접의문(직설법).
+- **시제:**
+  - `conseguiste` → conseguir | 직설법 단순과거 2인칭 단수 | 과거에 완결된 행위 | 단순과거 2인칭은 어간 변화 없음(3인칭은 consiguió)
+  - `podemos` → poder | 직설법 현재 1인칭 복수 | 현재의 가능성
+  - `analizarla` → analizar | 부정사 + 대명사 | poder + 부정사
+  - `confirmar` → confirmar | 부정사 | poder + 부정사
+  - `contiene` → contener | 직설법 현재 3인칭 단수 | 현재 사실 | 불규칙(tener형, e→ie)
+  - 비교: 스페인에서는 가까운 과거에 has conseguido(현재완료)도 가능하지만, 샘플을 얻은 방문을 끝난 사건으로 보아 단순과거.
+
+### 6-15. **Álvaro:** ¿Cuánto tardará el análisis?
+- **해석:** 분석은 얼마나 걸릴까?
+- **주요 단어:** `cuánto` 얼마나 / `tardar` (시간이) 걸리다 / `el análisis` 분석
+- **시제:**
+  - `tardará` → tardar | 직설법 단순미래 3인칭 단수 (futuro simple) | 앞으로의 일에 대한 예측 질문 | 규칙
+
+### 6-16. **Carlos:** Unos días.
+- **해석:** 며칠.
+- **주요 단어:** `unos` 몇몇의
+- **시제:**
+  - 동사 없음
+
+### 6-17. **Carlos:** Mientras tanto, quiero que sigas con normalidad en la clínica, sin levantar sospechas.
+- **해석:** 그동안 넌 의심 사지 않게 클리닉에 평소처럼 계속 다녀 줘.
+- **주요 단어:** `querer que` ~하기를 원하다 / `seguir` 계속하다 / `con normalidad` 평소대로 / `levantar sospechas` 의심을 사다
+- **문법:** querer que + 접속법(주어가 다를 때). sin + 부정사.
+- **표현:** levantar sospechas = 의심을 불러일으키다.
+- **시제:**
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재의 바람 | 불규칙(e→ie)
+  - `sigas` → seguir | 접속법 현재 2인칭 단수 | 바람·의지 동사 querer que 뒤 → 접속법 | 불규칙(e→i, gu→g: siga)
+  - `levantar` → levantar | 부정사 | sin 뒤
+
+### 6-18. **Álvaro:** Entendido.
+- **해석:** 알겠어.
+- **표현:** 과거분사 단독으로 "알겠다/접수했다"는 뜻의 구어 답변.
+- **시제:**
+  - `Entendido` → entender | 과거분사 남성 단수 | 생략된 문장(Está entendido)의 결과 상태 | 규칙 과거분사
+
+### 6-19. **Álvaro:** ¿Algún riesgo especial con Solana, si se descubre todo esto?
+- **해석:** 이게 다 드러나면, 솔라나 쪽에서 특별한 위험은 없을까?
+- **주요 단어:** `el riesgo` 위험 / `descubrir` 발각하다, 밝혀내다
+- **문법:** 동사 생략(¿Hay algún riesgo...?). 수동 se(se descubre, 주어 todo esto). si + 직설법 현재(실현 가능 조건).
+- **시제:**
+  - `descubre` → descubrir | 직설법 현재 3인칭 단수 | si 조건절에서 미래 의미라도 현재형; 수동 se
+
+### 6-20. **Carlos:** Tiene contactos, aunque no del nivel de Rueda o Fabián.
+- **해석:** 인맥은 있지만, 루에다나 파비안 수준은 아니야.
+- **주요 단어:** `el contacto` 연줄, 인맥 / `aunque` ~이지만 / `el nivel` 수준
+- **문법:** aunque + 사실 → 직설법(여기선 동사 생략). del = de + el.
+- **시제:**
+  - `Tiene` → tener | 직설법 현재 3인칭 단수 | 현재 사실 | 불규칙
+
+### 6-21. **Carlos:** Es más un oportunista que un criminal organizado a gran escala.
+- **해석:** 대규모 조직범죄자라기보다는 기회주의자에 가까워.
+- **주요 단어:** `el oportunista` 기회주의자 / `el criminal` 범죄자 / `organizado` 조직된 / `a gran escala` 대규모로
+- **문법:** más + A + que + B = "B라기보다 A".
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 인물의 본질
+  - `organizado` → organizar | 과거분사 남성 단수 | 형용사로 criminal 수식
+
+### 6-22. **Álvaro:** Eso es un alivio, la verdad, después de todo lo demás.
+- **해석:** 솔직히 다른 일들을 다 겪은 뒤라 그건 좀 안심이 되네.
+- **주요 단어:** `el alivio` 안도 / `la verdad` 솔직히 / `lo demás` 나머지
+- **표현:** la verdad = 삽입어 "사실/솔직히". todo lo demás = 이전의 모든 사건(앞 시즌들).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 평가
+
+### 6-23. **Carlos:** Lo es.
+- **해석:** 그렇지.
+- **문법:** 중성 lo가 앞의 술어(un alivio)를 받음(ser/estar 술어 대체).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞 문장 동의
+
+### 6-24. **Carlos:** Aunque el daño humano que ha causado no es menor por eso.
+- **해석:** 그렇다고 그가 끼친 인명 피해가 작아지는 건 아니지만.
+- **주요 단어:** `el daño` 피해 / `humano` 인간의 / `causar` 초래하다 / `menor` 더 작은 / `por eso` 그 때문에
+- **문법:** 문두 aunque로 앞 말에 단서를 다는 구어 용법(직설법 = 사실). que는 el daño를 받는 관계대명사.
+- **시제:**
+  - `ha causado` → causar | 직설법 현재완료 3인칭 단수 | 지금까지 초래해 온 피해가 현재에도 영향을 미치므로 현재완료
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 평가
+  - 비교: causó(단순과거)면 특정 과거 사건으로 한정되는 느낌.
+
+### 6-25. **Álvaro:** Cierto.
+- **해석:** 맞아.
+- **시제:**
+  - 동사 없음
+
+### 6-26. **Álvaro:** Sigamos, entonces.
+- **해석:** 그럼 계속 가자.
+- **주요 단어:** `seguir` 계속하다 / `entonces` 그럼
+- **문법:** 1인칭 복수 명령(청유) = 접속법 현재 nosotros형.
+- **시제:**
+  - `Sigamos` → seguir | 명령법 1인칭 복수 (= 접속법 현재) | "~하자" 청유 | 불규칙(e→i, gu→g)

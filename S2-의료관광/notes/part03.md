@@ -469,4 +469,135 @@
 - **시제:**
   - `Descansa` → descansar | 긍정 명령법 2인칭 단수 tú | 따뜻한 권유 | 규칙 (tú 명령 = 직설법 3인칭 단수형)
 
-<!-- END SCENE 8 -->
+## 장면 9. 사건을 마무리하는 건배
+> 며칠 후, 알바로와 카를로스가 함께 저녁을 먹으며 이번 사건을 마무리 짓습니다.
+
+### 9-1. **Carlos:** (Levantando la copa) Por otro capítulo cerrado, esta vez sin sustos de última hora.
+- **해석:** (잔을 들며) 또 하나 끝난 사건을 위하여, 이번엔 막판에 놀랄 일도 없이.
+- **주요 단어:** `levantar` (동사) 들다 / `copa` (여성명사) (와인)잔 / `capítulo` (남성명사) 장(章) / `cerrar` (동사) 닫다 / `susto` (남성명사) 놀람, 겁 / `de última hora` 막판의
+- **문법:** 건배사의 `Por + 명사` = "~을 위하여". otro 앞에 부정관사 없음(un otro ×).
+- **표현:** `sin sustos de última hora` = 마지막 순간의 돌발 상황 없이.
+- **시제:**
+  - `Levantando` → levantar | 현재분사 (gerundio) | 지문에서 동시 진행 중인 동작 | 규칙
+  - `cerrado` → cerrar | 과거분사 남성 단수 | capítulo를 수식 "종결된" | 과거분사 규칙 (현재형은 e→ie)
+
+### 9-2. **Álvaro:** Brindo por eso, sin duda.
+- **해석:** 당연히 그걸 위해 건배지.
+- **주요 단어:** `brindar` (동사) 건배하다 / `sin duda` 틀림없이
+- **문법:** `brindar por` ~을 위해 건배하다.
+- **시제:**
+  - `Brindo` → brindar | 직설법 현재 1인칭 단수 | 말하는 순간의 행위(수행적 현재) | 규칙
+
+### 9-3. **Carlos:** ¿Cómo está Javier?
+- **해석:** 하비에르는 어때?
+- **주요 단어:** —
+- **문법:** 건강·상태를 물을 때 estar.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재의 일시적 상태 | 불규칙(강세)
+
+### 9-4. **Álvaro:** Mejorando, poco a poco.
+- **해석:** 조금씩 나아지고 있어.
+- **주요 단어:** `mejorar` (동사) 나아지다 / `poco a poco` 조금씩
+- **문법:** Está 생략된 진행형(Está mejorando).
+- **시제:**
+  - `Mejorando` → mejorar | 현재분사 (gerundio) | 진행 중인 회복 과정 | 규칙
+
+### 9-5. **Álvaro:** Se recupera bien.
+- **해석:** 회복이 잘 되고 있어.
+- **주요 단어:** `recuperarse` (재귀동사) 회복하다
+- **문법:** 재귀동사 recuperarse.
+- **시제:**
+  - `Se recupera` → recuperarse | 직설법 현재 3인칭 단수 | 현재 진행 중인 상황을 단순현재로 | 규칙
+
+### 9-6. **Carlos:** Me alegra oírlo.
+- **해석:** 다행이다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명 (gustar형 + 부정사 + lo)
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `oír` → oír | 부정사 | 앞에서 설명
+
+### 9-7. **Carlos:** Y Solana, entre rejas, esperando juicio.
+- **해석:** 그리고 솔라나는 철창 안에서 재판을 기다리는 중이고.
+- **주요 단어:** `reja` (여성명사) 창살 / `juicio` (남성명사) 재판; 판단 / `esperar` 앞에서 설명
+- **문법:** 동사 생략(Solana está entre rejas, esperando juicio).
+- **표현:** `entre rejas` = 감옥에 갇혀.
+- **시제:**
+  - `esperando` → esperar | 현재분사 | 현재 계속되는 상태 | 앞에서 설명
+
+### 9-8. **Álvaro:** ¿Y los pacientes afectados?
+- **해석:** 피해 환자들은?
+- **주요 단어:** 앞에서 설명
+- **문법:** 동사 없는 화제 전환 질문.
+- **시제:**
+  - `afectados` → afectar | 과거분사 남성 복수 | 앞에서 설명 (형용사적 수식)
+
+### 9-9. **Carlos:** La mayoría ya ha sido contactada.
+- **해석:** 대부분은 이미 연락이 됐어.
+- **주요 단어:** `mayoría` (여성명사) 대부분, 다수
+- **문법:** ser + 과거분사 = 수동태. 과거분사가 주어 la mayoría(여성 단수)와 일치 → contactada.
+- **시제:**
+  - `ha sido` → ser | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | ya와 함께 지금까지 완료된 결과 | ser 과거분사 sido 규칙
+  - `contactada` → contactar | 과거분사 여성 단수 | 수동태 본동사 | 규칙
+
+### 9-10. **Carlos:** Algunos necesitarán seguimiento médico, pero no hay casos graves confirmados por ahora.
+- **해석:** 일부는 의료 추적 관찰이 필요하겠지만, 지금까지 확인된 중증 사례는 없어.
+- **주요 단어:** `seguimiento` (남성명사) 추적 관찰, 후속 조치 / `grave` (형용사) 심각한 / `confirmar` 앞에서 설명 / `por ahora` 현재로서는
+- **문법:** `hay` 는 haber의 비인칭 형태 "~이 있다"(항상 단수).
+- **시제:**
+  - `necesitarán` → necesitar | 직설법 단순미래 3인칭 복수 (futuro simple) | 앞으로 필요할 것이라는 예측 | 규칙
+  - `hay` → haber | 직설법 현재 비인칭 (3인칭 단수) | 현재의 존재 | 불규칙 (ha가 아닌 hay)
+  - `confirmados` → confirmar | 과거분사 남성 복수 | casos를 수식 | 규칙
+
+### 9-11. **Álvaro:** Es un alivio, después de todo.
+- **해석:** 그래도 다행이야.
+- **주요 단어:** `alivio` (남성명사) 안도 / `después de todo` 결국, 어쨌든
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 9-12. **Carlos:** Lo es.
+- **해석:** 그렇지.
+- **주요 단어:** —
+- **문법:** lo가 앞의 un alivio를 받음 (앞에서 설명).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 9-13. **Carlos:** Bueno, ¿qué tal si por una vez cerramos un caso sin planear ya el siguiente?
+- **해석:** 자, 이번 한 번만큼은 다음 사건을 벌써 계획하지 말고 사건을 마무리하는 게 어때?
+- **주요 단어:** `por una vez` 이번 한 번만은 / `cerrar` 앞에서 설명 / `planear` (동사) 계획하다 / `siguiente` (형용사/명사) 다음 (것)
+- **문법:** `¿Qué tal si + 직설법 현재?` = 제안 "~하는 게 어때?". `sin + 부정사`.
+- **표현:** 제안할 때 흔히 쓰는 구어 표현.
+- **시제:**
+  - `cerramos` → cerrar | 직설법 현재 1인칭 복수 | qué tal si 뒤 제안은 직설법 현재 | nosotros형은 어간변화 없음 (cierro지만 cerramos)
+  - `planear` → planear | 부정사 | sin 뒤 부정사 | 규칙
+
+### 9-14. **Álvaro:** (Ríe) Me parece un plan excelente.
+- **해석:** (웃는다) 아주 좋은 계획 같아.
+- **주요 단어:** `reír` (동사) 웃다 / `parecer` (동사) ~처럼 보이다, ~라고 생각되다 / `excelente` (형용사) 훌륭한
+- **문법:** `me parece + 명사` = 내가 보기에 ~이다 (gustar형).
+- **시제:**
+  - `Ríe` → reír | 직설법 현재 3인칭 단수 | 지문 동작 묘사 | 불규칙: río, ríes, ríe (강세 í)
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재 의견 | yo형만 불규칙(parezco)
+
+### 9-15. **Carlos:** Entonces, brindemos por eso.
+- **해석:** 그럼 그걸 위해 건배하자.
+- **주요 단어:** `brindar` 앞에서 설명
+- **문법:** 접속법 현재 1인칭 복수 = nosotros 명령형 "~하자".
+- **시제:**
+  - `brindemos` → brindar | 접속법 현재 1인칭 복수 (presente de subjuntivo, 명령 용법 imperativo de nosotros) | 함께 하자는 권유 | 규칙 (-ar → -emos)
+  - 비교: vamos a brindar도 "건배하자"지만 brindemos가 더 격식 있고 의례적.
+
+### 9-16. **Carlos:** Por un descanso merecido.
+- **해석:** 마땅히 누려야 할 휴식을 위하여.
+- **주요 단어:** `descanso` 앞에서 설명 / `merecido` (형용사/과거분사) 받을 만한
+- **문법:** 건배사 Por + 명사.
+- **시제:**
+  - `merecido` → merecer | 과거분사 남성 단수 | 형용사로 descanso 수식 "마땅한" | 과거분사 규칙
+
+### 9-17. **Álvaro:** Por un descanso merecido.
+- **해석:** 마땅히 누려야 할 휴식을 위하여.
+- **주요 단어:** 앞에서 설명
+- **문법:** 건배사를 그대로 따라 하는 응답.
+- **시제:**
+  - `merecido` → merecer | 과거분사 | 앞에서 설명

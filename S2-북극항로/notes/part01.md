@@ -425,3 +425,180 @@
 - **시제:**
   - `vemos` (nos vemos) → verse | 직설법 현재, 1인칭 복수 | 확정된 가까운 미래를 현재로 표현 | 불규칙(1인칭 단수 veo)
 
+## 장면 3. 은밀한 화물의 암시
+> 두 번째 회의에서 이바르구엔이 좀 더 은밀한 화물 취급을 암시합니다.
+
+### 3-1. **Ibargüen:** Señor Zabala, bienvenido de nuevo.
+- **해석:** 사발라 씨, 다시 오신 걸 환영합니다.
+- **주요 단어:** `bienvenido` (형용사) 환영받는 / `de nuevo` 다시
+- **문법:** bienvenido는 상대(남성 단수)에 성·수 일치(여성이면 bienvenida).
+- **시제:** 동사 없음 (bienvenido는 형용사)
+
+### 3-2. **Ibargüen:** Hoy quiero hablarle de algo más concreto.
+- **해석:** 오늘은 좀 더 구체적인 이야기를 드리고 싶습니다.
+- **주요 단어:** `querer` (동사) 원하다 / `hablar de` ~에 대해 말하다 / `concreto` (형용사) 구체적인
+- **문법:** 간접목적 대명사 le(= a usted)가 부정사 뒤에 붙음(le quiero hablar도 가능). algo + más + 형용사(남성형).
+- **시제:**
+  - `quiero` → querer | 직설법 현재, 1인칭 단수 | 현재의 의도 | 어간모음 e→ie
+  - `hablar` → hablar | 부정사 | querer + 부정사
+
+### 3-3. **Álvaro:** Adelante, le escucho.
+- **해석:** 말씀하세요, 듣고 있습니다.
+- **주요 단어:** `escuchar` (동사) 듣다, 귀 기울이다
+- **문법:** escuchar는 타동사라 원래 직접목적 lo가 맞지만, 스페인에서는 usted(남성)에 대해 le를 쓰는 존칭 leísmo(leísmo de cortesía)가 허용됨.
+- **표현:** `Adelante` 여기선 "계속 말씀하세요".
+- **시제:**
+  - `escucho` → escuchar | 직설법 현재, 1인칭 단수 | 지금 이 순간 듣고 있음(진행형 대신 단순현재) | 규칙
+
+### 3-4. **Ibargüen:** Tenemos capacidad para mover cargas que otros operadores rechazarían, digamos, por exceso de papeleo regulatorio.
+- **해석:** 저희는 다른 운송사라면, 뭐랄까, 규제 서류가 너무 많다는 이유로 거절할 화물도 옮길 능력이 있습니다.
+- **주요 단어:** `capacidad` (명사, 여성) 능력 / `operador` (명사) 운영사, 운송업자 / `rechazar` (동사) 거절하다 / `exceso` (명사, 남성) 과다 / `papeleo` (명사, 남성) 서류 작업, 행정 절차
+- **문법:** 관계절 속 조건법: 다른 업체가 "(맡게 된다면) 거절할 것"이라는 가정. `para + 부정사` = 목적.
+- **표현:** 삽입어 `digamos` = "말하자면", 민감한 부분을 돌려 말할 때. `papeleo` = 번거로운 서류 절차(구어, 약간 부정적).
+- **시제:**
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 앞에서 설명
+  - `mover` → mover | 부정사 | para 목적
+  - `rechazarían` → rechazar | 조건법 단순형 condicional simple, 3인칭 복수 | 실제가 아닌 가정적 상황("그런 화물이 오면 거절하겠지") | 규칙(부정사 + -ían)
+  - `digamos` → decir | 명령법 1인칭 복수(접속법 현재형) | 앞에서 설명(완곡 삽입어)
+
+### 3-5. **Álvaro:** ¿Qué tipo de papeleo, exactamente?
+- **해석:** 정확히 어떤 종류의 서류죠?
+- **주요 단어:** `exactamente` (부사) 정확히
+- **문법:** 동사 생략 의문문.
+- **시제:** 동사 없음
+
+### 3-6. **Ibargüen:** Certificados de destino final, licencias de exportación para tecnología sensible.
+- **해석:** 최종 목적지 증명서, 민감 기술 수출 허가 같은 것들이요.
+- **주요 단어:** `certificado` (명사, 남성) 증명서 / `destino final` 최종 목적지 / `licencia` (명사, 여성) 허가 / `exportación` (명사, 여성) 수출
+- **문법:** 명사 나열.
+- **표현:** `certificado de destino final` = 최종사용자증명(end-user certificate), 이중용도 수출통제의 핵심 서류.
+- **시제:** 동사 없음
+
+### 3-7. **Ibargüen:** Cosas que, con la ruta correcta, se pueden simplificar bastante.
+- **해석:** 올바른 경로만 타면 꽤 간소화할 수 있는 것들이죠.
+- **주요 단어:** `correcto` (형용사) 올바른, 적절한 / `simplificar` (동사) 간소화하다
+- **문법:** 관계대명사 que(선행사 cosas) + 수동 재귀 `se pueden simplificar`(주어 cosas 복수 → pueden). 실재 대상이라 직설법.
+- **표현:** "간소화" = 사실상 서류 위조·회피의 완곡어.
+- **시제:**
+  - `pueden` → poder | 직설법 현재, 3인칭 복수 | 일반적 가능성 | 어간모음 o→ue
+  - `simplificar` → simplificar | 부정사 | poder + 부정사
+
+### 3-8. **Álvaro:** (Con cuidado) ¿Y eso no genera riesgos legales, para la empresa?
+- **해석:** (조심스럽게) 그런데 그게 회사에 법적 위험을 만들지는 않나요?
+- **주요 단어:** `cuidado` (명사, 남성) 주의 / `riesgo` (명사, 남성) 위험 / `legal` (형용사) 법적인
+- **문법:** 부정 의문문(¿...no...?)으로 확인을 구하는 뉘앙스.
+- **표현:** `con cuidado` = 조심스럽게.
+- **시제:**
+  - `genera` → generar | 직설법 현재, 3인칭 단수 | 일반적 인과 | 앞에서 설명
+
+### 3-9. **Ibargüen:** Los riesgos existen en cualquier negocio ambicioso, señor Zabala.
+- **해석:** 야심 찬 사업이라면 어디든 위험은 있기 마련이죠, 사발라 씨.
+- **주요 단어:** `existir` (동사) 존재하다 / `cualquier` (형용사) 어떤 ~이든 / `ambicioso` (형용사) 야심 찬
+- **문법:** cualquiera는 명사 앞에서 cualquier로 어미 탈락.
+- **시제:**
+  - `existen` → existir | 직설법 현재, 3인칭 복수 | 일반적 진리 | 규칙
+
+### 3-10. **Ibargüen:** La cuestión es gestionarlos bien.
+- **해석:** 문제는 그걸 잘 관리하는 겁니다.
+- **주요 단어:** `cuestión` (명사, 여성) 문제, 관건 / `gestionar` (동사) 관리하다
+- **문법:** ser + 부정사(명사적 보어). 직접목적 los(= los riesgos)가 부정사 뒤에 붙음.
+- **표현:** `La cuestión es...` = "관건은 ~이다".
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 일반적 진술 | 앞에서 설명
+  - `gestionar` → gestionar | 부정사 | ser의 보어
+
+### 3-11. **Álvaro:** Entiendo.
+- **해석:** 그렇군요.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `entiendo` → entender | 직설법 현재, 1인칭 단수 | 앞에서 설명
+
+### 3-12. **Álvaro:** ¿Y cómo se gestionan, en la práctica?
+- **해석:** 그럼 실제로는 어떻게 관리하나요?
+- **주요 단어:** `práctica` (명사, 여성) 실제, 실무
+- **문법:** 수동 재귀 `se gestionan`(주어 los riesgos 복수, 생략). 주체를 흐리는 비인칭적 질문.
+- **표현:** `en la práctica` = 실제로는.
+- **시제:**
+  - `gestionan` (se gestionan) → gestionar | 직설법 현재, 3인칭 복수 | 일반적 방법을 묻는 현재 | 규칙
+
+### 3-13. **Ibargüen:** Reetiquetado de manifiestos, transbordos en puertos con controles menos estrictos, y algún que otro contacto que facilita las cosas en el destino final.
+- **해석:** 적하목록 라벨 바꾸기, 통제가 덜 엄격한 항구에서의 환적, 그리고 최종 목적지에서 일을 수월하게 해 주는 연락책 몇 명 정도죠.
+- **주요 단어:** `reetiquetado` (명사, 남성) 재라벨링 / `manifiesto` (명사, 남성) 적하목록(선적 화물 명세) / `transbordo` (명사, 남성) 환적 / `control` (명사, 남성) 검사, 통제 / `estricto` (형용사) 엄격한 / `facilitar` (동사) 용이하게 하다
+- **문법:** 명사 나열 + 관계절(que facilita, 선행사 contacto 단수). 열등 비교 `menos + 형용사`.
+- **표현:** `algún que otro` = "몇몇의, 이따금 하나쯤"(수를 흐리는 관용구, 단수 명사와 함께).
+- **시제:**
+  - `facilita` → facilitar | 직설법 현재, 3인칭 단수 | 실제로 존재하는 연락책의 반복적 역할 | 규칙
+
+### 3-14. **Álvaro:** (Memorizando cada detalle, disimulando) Suena a un sistema bien pensado.
+- **해석:** (세부 사항 하나하나 기억하면서, 내색하지 않고) 잘 짜인 시스템 같군요.
+- **주요 단어:** `memorizar` (동사) 암기하다 / `detalle` (명사, 남성) 세부 사항 / `disimular` (동사) 내색하지 않다, 감추다 / `pensado` (형용사) 고안된
+- **문법:** 지문의 현재분사 두 개가 동시 동작 표현. `sonar a + 명사`.
+- **표현:** `bien pensado` = 잘 고안된, 치밀한.
+- **시제:**
+  - `memorizando` → memorizar | 현재분사 | 말하면서 동시에 진행되는 동작 | 규칙
+  - `disimulando` → disimular | 현재분사 | 동시 동작(태도) | 규칙
+  - `suena` → sonar | 직설법 현재, 3인칭 단수 | 앞에서 설명(o→ue)
+  - `pensado` → pensar | 과거분사(형용사) | sistema를 수식 | 규칙 과거분사(pensar 자체는 현재형에서 e→ie)
+
+### 3-15. **Ibargüen:** Años de experiencia, señor Zabala.
+- **해석:** 수년간의 경험 덕분이죠, 사발라 씨.
+- **주요 단어:** `experiencia` (명사, 여성) 경험
+- **문법:** 동사 생략 명사구.
+- **시제:** 동사 없음
+
+### 3-16. **Ibargüen:** Si su cliente quiere entrar, esta es exactamente la clase de eficiencia que obtendrá.
+- **해석:** 고객분이 참여하길 원하신다면, 바로 이런 종류의 효율을 얻게 되실 겁니다.
+- **주요 단어:** `entrar` (동사) 들어오다, 참여하다 / `clase` (명사, 여성) 종류 / `eficiencia` (명사, 여성) 효율 / `obtener` (동사) 얻다
+- **문법:** 실현 가능 조건 `si + 직설법 현재, ... 미래`. 관계절 que obtendrá(선행사 확정적이라 직설법).
+- **시제:**
+  - `quiere` → querer | 직설법 현재, 3인칭 단수 | si 조건절 | 어간모음 e→ie
+  - `entrar` → entrar | 부정사 | querer + 부정사
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 동일성 규정 | 앞에서 설명
+  - `obtendrá` → obtener | 직설법 단순미래, 3인칭 단수 | 조건이 충족되면 얻게 될 결과 | 불규칙 미래 어간 obtendr- (tener → tendr-와 동일)
+
+### 3-17. **Álvaro:** Me interesa mucho.
+- **해석:** 매우 관심이 갑니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** gustar형(주어는 앞에서 말한 내용, 생략).
+- **시제:**
+  - `interesa` → interesar | 직설법 현재, 3인칭 단수 | 앞에서 설명
+
+### 3-18. **Álvaro:** ¿Podría ver algún ejemplo de cómo se documenta un envío así?
+- **해석:** 이런 선적이 어떻게 서류화되는지 예시를 좀 볼 수 있을까요?
+- **주요 단어:** `ejemplo` (명사, 남성) 예시 / `documentar` (동사) 서류로 작성하다 / `así` (부사) 이런, 그렇게
+- **문법:** 공손한 요청의 조건법 `¿Podría...?`. 간접의문 de cómo + 직설법. `se documenta` = 수동 재귀.
+- **표현:** `un envío así` = 이런 식의 선적(así가 명사 뒤에서 형용사처럼).
+- **시제:**
+  - `podría` → poder | 조건법 단순형, 1인칭 단수 | 요청을 부드럽게 하는 공손의 조건법 | 불규칙 어간 podr-
+  - `ver` → ver | 부정사 | poder + 부정사
+  - `documenta` (se documenta) → documentar | 직설법 현재, 3인칭 단수 | 일반적 절차를 묻는 현재 | 규칙
+  - 비교: `¿Puedo ver...?`(직설법)는 더 직접적, `podría`는 정중하고 조심스러움
+
+### 3-19. **Ibargüen:** Con más confianza, sin duda.
+- **해석:** 서로 좀 더 신뢰가 쌓이면, 물론이죠.
+- **주요 단어:** `confianza` (명사, 여성) 신뢰
+- **문법:** 동사 생략. con + 명사 = 조건적 의미("~가 있으면").
+- **시제:** 동사 없음
+
+### 3-20. **Ibargüen:** Démonos un par de reuniones más.
+- **해석:** 회의를 두어 번 더 가져 봅시다.
+- **주요 단어:** `dar(se)` (동사) 주다; 서로에게 주다 / `un par de` 두어 개의
+- **문법:** 1인칭 복수 명령 + 재귀/상호 대명사 nos 결합 시 어미 -s 탈락: demos + nos → **démonos**(강세 표기 추가). "우리에게 (시간/기회를) 주자".
+- **표현:** `darse + 시간/기회` = 스스로에게 여유를 주다.
+- **시제:**
+  - `démonos` → darse | 명령법 1인칭 복수(접속법 현재 demos 사용) | 함께 하자는 제안 | 불규칙(dar의 접속법 dé, demos), 대명사 결합 시 -s 탈락
+
+### 3-21. **Álvaro:** Por supuesto.
+- **해석:** 물론입니다.
+- **주요 단어:** `por supuesto` 물론
+- **문법:** 고정 표현. supuesto는 suponer의 불규칙 과거분사에서 온 명사형.
+- **시제:** 동사 없음
+
+### 3-22. **Álvaro:** Aprecio la cautela.
+- **해석:** 신중하신 점, 좋게 생각합니다.
+- **주요 단어:** `apreciar` (동사) 높이 평가하다, 고맙게 여기다 / `cautela` (명사, 여성) 신중, 조심
+- **문법:** 특이사항 없음
+- **시제:**
+  - `aprecio` → apreciar | 직설법 현재, 1인칭 단수 | 현재의 태도 | 규칙
+

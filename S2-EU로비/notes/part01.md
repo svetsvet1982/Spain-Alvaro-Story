@@ -274,3 +274,247 @@
 - **시제:**
   - `hecho` → hacer | 과거분사 남성 단수 | 완료된 상태("성사된") | 불규칙 과거분사
 
+## 장면 2. 잠입 전략 세우기
+> 알바로, 카밀라, 하비에르가 브뤼셀 취재 여행을 준비하며 상세한 전략을 세웁니다.
+
+### 2-1. **Javier:** Necesitamos decidir cómo abordamos Meridian Public Affairs.
+- **해석:** 메리디안 퍼블릭 어페어스에 어떻게 접근할지 정해야 해요.
+- **주요 단어:** `necesitar` (동사) 필요하다 / `decidir` (동사) 결정하다 / `abordar` (동사) 접근하다, 다루다
+- **문법:** `necesitar + 부정사`. 간접의문문 cómo + 직설법(abordamos). 구어에서 "어떻게 ~할지"를 현재형으로 표현(cómo abordar로도 가능).
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요
+  - `decidir` → decidir | 부정사 | necesitar + 부정사
+  - `abordamos` → abordar | 직설법 현재 1인칭 복수 | 간접의문 속에서 가까운 미래의 행동을 현재형으로 표현
+
+### 2-2. **Javier:** No podemos simplemente presentarnos y preguntar.
+- **해석:** 그냥 찾아가서 물어볼 수는 없잖아요.
+- **주요 단어:** `simplemente` (부사) 그냥, 단순히 / `presentarse` (재귀동사) 나타나다, 찾아가다 / `preguntar` (동사) 묻다
+- **문법:** 재귀대명사 nos가 부정사 뒤에 붙음(presentar**nos**).
+- **시제:**
+  - `podemos` → poder | 직설법 현재 1인칭 복수 | 현재의 가능성 판단 | nosotros형은 어간변화 없음(pod-)
+  - `presentarnos` → presentarse | 부정사 + nos | poder + 부정사
+  - `preguntar` → preguntar | 부정사 | poder + 부정사(병렬)
+
+### 2-3. **Álvaro:** ¿Alguna idea de cómo funcionan las consultoras de este tipo en Bruselas?
+- **해석:** 브뤼셀에서 이런 종류의 컨설팅 회사들이 어떻게 돌아가는지 아는 거 있어?
+- **주요 단어:** `idea` (명사, 여) 생각, 짐작 / `funcionar` (동사) 작동하다, 운영되다 / `de este tipo` 이런 종류의
+- **문법:** 동사 생략(¿[Tienes] alguna idea…?). `idea de + 간접의문`.
+- **표현:** `¿Alguna idea?` = "뭐 짐작 가는 거 있어?"
+- **시제:**
+  - `funcionan` → funcionar | 직설법 현재 3인칭 복수 | 일반적인 운영 방식
+
+### 2-4. **Camila:** Suelen organizar eventos, cenas con eurodiputados, sesiones informativas para "aclarar" el impacto de nuevas leyes en sus clientes.
+- **해석:** 보통 행사나 유럽의회 의원들과의 만찬, 새 법이 고객들에게 미칠 영향을 '설명한다'는 설명회 같은 걸 열어요.
+- **주요 단어:** `soler + 부정사` 보통 ~하다 / `organizar` (동사) 개최하다 / `cena` (명사, 여) 저녁 식사 / `eurodiputado` (명사, 남) 유럽의회 의원 / `sesión informativa` 설명회 / `aclarar` (동사) 명확히 하다 / `impacto` (명사, 남) 영향
+- **문법:** `soler + 부정사` = 습관·일반적 경향. `para + 부정사`(목적).
+- **표현:** "aclarar"에 따옴표를 붙여 '말이 설명이지 실제로는 로비'라는 반어적 뉘앙스.
+- **시제:**
+  - `Suelen` → soler | 직설법 현재 3인칭 복수 | 일반적 관행 | 불규칙(o→ue: suel-)
+  - `organizar` → organizar | 부정사 | soler + 부정사
+  - `aclarar` → aclarar | 부정사 | para 뒤
+
+### 2-5. **Javier:** ¿Podríamos infiltrarnos en uno de esos eventos?
+- **해석:** 그런 행사 중 하나에 잠입할 수 있을까요?
+- **주요 단어:** `infiltrarse en` (재귀동사) ~에 잠입하다
+- **문법:** 재귀대명사 nos가 부정사 뒤에 붙음.
+- **시제:**
+  - `Podríamos` → poder | 조건법 1인칭 복수 | 아직 가정 단계의 가능성을 조심스럽게 타진 | 불규칙 어간 podr-
+  - `infiltrarnos` → infiltrarse | 부정사 + nos | poder + 부정사
+
+### 2-6. **Camila:** Posiblemente, si conseguimos una invitación creíble.
+- **해석:** 아마도요, 그럴듯한 초대장을 구한다면요.
+- **주요 단어:** `posiblemente` (부사) 아마 / `conseguir` (동사) 얻다, 구하다 / `invitación` (명사, 여) 초대(장) / `creíble` (형용사) 믿을 만한
+- **문법:** 현실 조건문 1유형: `si + 직설법 현재`. si 뒤에는 미래형·접속법 현재를 쓰지 않음.
+- **시제:**
+  - `conseguimos` → conseguir | 직설법 현재 1인칭 복수 | 실현 가능한 조건 | nosotros형은 어간변화 없음(1단 consigo는 e→i, gu→g)
+
+### 2-7. **Camila:** Necesitaríamos una identidad relacionada con el sector financiero.
+- **해석:** 금융 분야와 관련된 신분이 필요할 거예요.
+- **주요 단어:** `identidad` (명사, 여) 신분 / `relacionado con` ~와 관련된 / `sector financiero` 금융 부문
+- **문법:** 과거분사 relacionada가 identidad(여성 단수)에 일치.
+- **시제:**
+  - `Necesitaríamos` → necesitar | 조건법 1인칭 복수 | "잠입한다면"이라는 가정 하의 필요라 조건법
+  - `relacionada` → relacionar | 과거분사 여성 단수 | 형용사적 수식
+
+### 2-8. **Álvaro:** ¿Y tú, Camila?
+- **해석:** 그럼 당신은, 카밀라?
+- **주요 단어:** 특이 단어 없음
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 2-9. **Álvaro:** ¿Estarías dispuesta a presentarte como analista financiera, buscando entender mejor la nueva directiva?
+- **해석:** 새 지침을 더 잘 이해하려는 금융 분석가로 나설 의향이 있어?
+- **주요 단어:** `dispuesto/a a` ~할 용의가 있는 / `presentarse como` ~로서 자신을 소개하다 / `buscar + 부정사` ~하려고 하다 / `entender` (동사) 이해하다
+- **문법:** `estar dispuesto a + 부정사`. dispuesta는 카밀라(여성)에 일치. 재귀대명사 te가 부정사 뒤에. buscando는 설정(위장 캐릭터)의 목적을 덧붙이는 현재분사.
+- **시제:**
+  - `Estarías` → estar | 조건법 2인칭 단수 | 가정적 제안을 공손하게 물음
+  - `dispuesta` → disponer | 과거분사 여성 단수 | 형용사적 상태 | 불규칙 과거분사(dispuesto)
+  - `presentarte` → presentarse | 부정사 + te | dispuesta a 뒤
+  - `buscando` → buscar | 현재분사 | 부대 상황(~하려 하면서)
+  - `entender` → entender | 부정사 | buscar + 부정사
+
+### 2-10. **Camila:** (Duda un instante) Podría hacerlo, sí.
+- **해석:** (잠시 망설인다) 할 수 있을 거예요, 네.
+- **주요 단어:** `dudar` (동사) 망설이다 / `instante` (명사, 남) 순간
+- **문법:** 목적 대명사 lo가 부정사 뒤에(hacer**lo**).
+- **시제:**
+  - `Duda` → dudar | 직설법 현재 3인칭 단수 | 지문 묘사
+  - `Podría` → poder | 조건법 1인칭 단수 | 가정적 가능성, 조심스러운 수락
+  - `hacerlo` → hacer | 부정사 + lo | poder + 부정사
+
+### 2-11. **Camila:** Conozco el lenguaje mejor que cualquiera que me pudieran preparar en un día.
+- **해석:** 하루 만에 저를 준비시켜 줄 수 있는 누구보다 제가 그 업계 언어를 더 잘 알아요.
+- **주요 단어:** `lenguaje` (명사, 남) 언어, 전문 용어 / `cualquiera` (대명사) 누구든 / `preparar` (동사) 준비시키다, 교육하다
+- **문법:** 불특정 선행사(cualquiera) + 관계절 → 접속법. 불완료과거 접속법 pudieran으로 순전히 가정적인 상황임을 강조. me는 preparar의 목적어지만 활용 동사 앞으로 이동(me pudieran preparar = pudieran prepararme).
+- **표현:** 여기서 cualquiera는 '누구든 준비해 줄 사람'이라고 볼 수도, '그들이 준비시켜 줄 어떤 가짜 분석가'로 볼 수도 있음 — 요지는 "벼락치기 준비로는 나를 못 따라온다".
+- **시제:**
+  - `Conozco` → conocer | 직설법 현재 1인칭 단수 | 앞에서 설명(불규칙 -zco)
+  - `pudieran` → poder | 접속법 불완료과거 3인칭 복수 | 불특정 선행사의 관계절 + 가정적(비현실적) 뉘앙스라 불완료과거 접속법 | 불규칙(단순과거 pudieron → pudie- + ran)
+  - `preparar` → preparar | 부정사 | poder + 부정사
+  - 비교: que me puedan preparar(접속법 현재)는 현실적 가능성, pudieran은 좀 더 가정적
+
+### 2-12. **Javier:** Sería mucho más creíble que cualquiera de nosotros dos intentándolo desde cero.
+- **해석:** 우리 둘 중 누가 처음부터 시도하는 것보다 훨씬 더 그럴듯할 거예요.
+- **주요 단어:** `creíble` (앞에서 설명) / `intentar` (동사) 시도하다 / `desde cero` 맨 처음부터
+- **문법:** 비교급 `más … que`. 현재분사 intentándolo가 cualquiera를 수식하는 구어적 용법(= que lo intentara). 대명사 lo를 붙이면서 강세 표시(intentándolo).
+- **표현:** `desde cero` = 제로에서부터, 아무 기반 없이.
+- **시제:**
+  - `Sería` → ser | 조건법 3인칭 단수 | "카밀라가 한다면"이라는 가정의 결과
+  - `intentándolo` → intentar | 현재분사 + lo | 가정 속의 행위를 묘사
+
+### 2-13. **Álvaro:** Me preocupa exponerte otra vez a este tipo de ambiente.
+- **해석:** 당신을 또 이런 환경에 노출시키는 게 걱정돼.
+- **주요 단어:** `preocupar` (동사) 걱정시키다 / `exponer a` ~에 노출시키다 / `ambiente` (명사, 남) 환경, 분위기
+- **문법:** gustar형 동사: 주어는 부정사구 exponerte…, 간접목적어 me. 목적 대명사 te가 부정사 뒤.
+- **시제:**
+  - `preocupa` → preocupar | 직설법 현재 3인칭 단수 | 현재의 감정 (주어가 부정사라 3인칭 단수)
+  - `exponerte` → exponer | 부정사 + te | 주어 역할 | exponer는 poner형 불규칙(1단 expongo)
+
+### 2-14. **Camila:** Lo sé.
+- **해석:** 알아요.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명(불규칙)
+
+### 2-15. **Camila:** Pero esta vez entro con los ojos abiertos, sabiendo exactamente en qué me meto, y con gente de confianza cerca.
+- **해석:** 하지만 이번엔 눈을 똑바로 뜨고 들어가요. 제가 무엇에 뛰어드는지 정확히 알고, 믿을 수 있는 사람들이 곁에 있는 채로요.
+- **주요 단어:** `entrar` (동사) 들어가다 / `abierto` (형용사·과거분사) 열린 / `meterse en` (재귀동사) ~에 끼어들다, 발을 들이다 / `gente de confianza` 믿을 만한 사람들 / `cerca` (부사) 가까이
+- **문법:** 간접의문 en qué me meto(전치사 en이 의문사 앞으로). 과거분사 abiertos가 ojos에 일치. 현재분사 sabiendo = 부대 상황.
+- **표현:** `con los ojos abiertos` = 상황을 다 알고서, 속지 않고. `meterse en algo` = (위험한 일에) 발을 들이다.
+- **시제:**
+  - `entro` → entrar | 직설법 현재 1인칭 단수 | 확정된 가까운 미래를 현재형으로 표현
+  - `abiertos` → abrir | 과거분사 남성 복수 | 상태 | 불규칙 과거분사(abierto)
+  - `sabiendo` → saber | 현재분사 | 동시 상황 | 현재분사는 규칙
+  - `me meto` → meterse | 직설법 현재 1인칭 단수 | 지금 뛰어드는 일에 대한 간접의문
+
+### 2-16. **Javier:** Eso es una diferencia enorme respecto a la última vez.
+- **해석:** 그건 지난번과 비교하면 엄청난 차이죠.
+- **주요 단어:** `diferencia` (명사, 여) 차이 / `respecto a` ~에 비해, ~에 관해 / `la última vez` 지난번
+- **문법:** 특이사항 없음
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 평가 | 불규칙
+
+### 2-17. **Álvaro:** (Asiente, aunque todavía preocupado) De acuerdo.
+- **해석:** (아직 걱정스럽지만 고개를 끄덕인다) 좋아.
+- **주요 단어:** `asentir` (동사) 끄덕이다, 동의하다 / `aunque` 비록 ~지만 / `todavía` 아직
+- **문법:** aunque 뒤 동사 생략(aunque [está] todavía preocupado).
+- **시제:**
+  - `Asiente` → asentir | 직설법 현재 3인칭 단수 | 지문 묘사 | 불규칙(e→ie)
+  - `preocupado` → preocupar | 과거분사 남성 단수 | 형용사적 상태("걱정하는")
+
+### 2-18. **Álvaro:** ¿Qué necesitamos preparar exactamente?
+- **해석:** 정확히 뭘 준비해야 하지?
+- **주요 단어:** `preparar` (동사) 준비하다
+- **문법:** necesitar + 부정사.
+- **시제:**
+  - `necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요
+  - `preparar` → preparar | 부정사 | necesitar + 부정사
+
+### 2-19. **Camila:** Una identidad falsa sólida: nombre, empresa ficticia, historial profesional creíble en gestión de fondos.
+- **해석:** 탄탄한 가짜 신분이요. 이름, 가상의 회사, 펀드 운용 분야에서 믿을 만한 경력까지요.
+- **주요 단어:** `falso` (형용사) 가짜의 / `sólido` (형용사) 탄탄한 / `ficticio` (형용사) 가공의 / `historial` (명사, 남) 이력 / `gestión de fondos` 펀드(자산) 운용
+- **문법:** 명사구 나열. 콜론으로 세부 항목 제시.
+- **시제:** 동사 없음
+
+### 2-20. **Javier:** Puedo trabajar en eso con contactos del periódico que conocen bien el sector.
+- **해석:** 그 업계를 잘 아는 신문사 쪽 인맥들과 제가 그걸 작업할 수 있어요.
+- **주요 단어:** `trabajar en` ~에 착수하다, 작업하다 / `periódico` (명사, 남) 신문(사) / `sector` (명사, 남) 업계
+- **문법:** 관계절 que conocen…: 실제 존재하는 특정 인맥이라 직설법.
+- **시제:**
+  - `Puedo` → poder | 직설법 현재 1인칭 단수 | 현재 능력·제안 | 불규칙(o→ue)
+  - `trabajar` → trabajar | 부정사 | poder + 부정사
+  - `conocen` → conocer | 직설법 현재 3인칭 복수 | 사실 서술(3복은 규칙형)
+
+### 2-21. **Álvaro:** ¿Y yo?
+- **해석:** 그럼 나는?
+- **주요 단어:** 특이 단어 없음
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 2-22. **Álvaro:** ¿Cuál sería mi papel esta vez?
+- **해석:** 이번엔 내 역할이 뭐가 될까?
+- **주요 단어:** `papel` (명사, 남) 역할
+- **문법:** 선택·정체를 묻는 cuál + ser.
+- **표현:** `papel` = 역할(종이라는 뜻 외에).
+- **시제:**
+  - `sería` → ser | 조건법 3인칭 단수 | 아직 확정되지 않은 계획 속 역할을 가정적으로 물음
+
+### 2-23. **Javier:** Cobertura periodística tradicional, en paralelo.
+- **해석:** 전통적인 언론 취재를 병행하는 거죠.
+- **주요 단어:** `cobertura` (명사, 여) 보도, 취재 / `periodístico` (형용사) 언론의 / `en paralelo` 동시에, 병행하여
+- **문법:** 명사구.
+- **시제:** 동사 없음
+
+### 2-24. **Javier:** Entrevistas con eurodiputados, análisis de los registros de transparencia del Parlamento.
+- **해석:** 유럽의회 의원 인터뷰, 의회 투명성 등록부 분석 같은 것들이요.
+- **주요 단어:** `entrevista` (명사, 여) 인터뷰 / `análisis` (명사, 남) 분석 / `registro` (명사, 남) 등록부, 기록 / `transparencia` (명사, 여) 투명성
+- **문법:** 명사구 나열.
+- **시제:** 동사 없음
+
+### 2-25. **Álvaro:** Me parece bien.
+- **해석:** 좋은 생각이야.
+- **주요 단어:** `parecer` (동사) ~처럼 보이다, ~라고 생각되다
+- **문법:** gustar형 구문: me parece + 형용사/부사.
+- **표현:** `Me parece bien` = 괜찮네, 찬성이야.
+- **시제:**
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재 의견 | 1단 parezco(-zco 불규칙)
+
+### 2-26. **Álvaro:** Dos frentes distintos, convergiendo hacia el mismo objetivo.
+- **해석:** 서로 다른 두 전선이 같은 목표를 향해 모이는 거지.
+- **주요 단어:** `frente` (명사, 남) 전선, 방면 / `converger` (동사) 수렴하다, 모이다 / `objetivo` (명사, 남) 목표
+- **문법:** 주동사 없이 현재분사로 묘사.
+- **시제:**
+  - `convergiendo` → converger | 현재분사 | 동시 진행 상황 묘사
+
+### 2-27. **Camila:** Exactamente lo que necesitamos, para no depender de un solo ángulo.
+- **해석:** 딱 우리에게 필요한 거예요. 한 가지 각도에만 의존하지 않으려면요.
+- **주요 단어:** `depender de` ~에 의존하다 / `ángulo` (명사, 남) 각도, 관점
+- **문법:** `lo que`. `para no + 부정사`(부정 목적).
+- **시제:**
+  - `necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 앞에서 설명
+  - `depender` → depender | 부정사 | para no 뒤
+
+### 2-28. **Javier:** Entonces, ¿cuándo viajamos?
+- **해석:** 그럼 언제 떠나죠?
+- **주요 단어:** `viajar` (동사) 여행하다, 출장 가다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `viajamos` → viajar | 직설법 현재 1인칭 복수 | 가까운 미래의 계획을 현재형으로 물음(구어에서 흔함)
+
+### 2-29. **Álvaro:** En cuanto tengamos la identidad de Camila lista.
+- **해석:** 카밀라의 신분이 준비되는 대로.
+- **주요 단어:** `en cuanto` ~하자마자 / `listo/a` (형용사) 준비된
+- **문법:** 시간 접속사 `en cuanto` + 미래의 일 → **접속법**. `tener + 목적어 + 형용사` = ~을 …한 상태로 갖추다(lista는 identidad에 일치).
+- **시제:**
+  - `tengamos` → tener | 접속법 현재 1인칭 복수 | 아직 일어나지 않은 미래 시점을 가리키는 시간절이라 접속법 | 불규칙(1단 tengo → teng- + amos)
+  - 비교: en cuanto tenemos(직설법)는 습관적 사실("~하면 항상")일 때만
+
+### 2-30. **Álvaro:** Cuanto antes, mejor, antes de que la directiva se vote definitivamente.
+- **해석:** 빠를수록 좋아. 지침이 최종 표결되기 전에.
+- **주요 단어:** `cuanto antes` 가능한 한 빨리 / `antes de que` ~하기 전에 / `votar` (동사) 표결하다 / `definitivamente` (부사) 최종적으로
+- **문법:** `Cuanto antes, mejor` = 비교 상관구문(빠를수록 좋다). `antes de que + 접속법`(항상 접속법). `se vote` = 수동의 se(지침이 표결되다).
+- **표현:** `Cuanto antes, mejor` = "빠를수록 좋다"는 관용 표현.
+- **시제:**
+  - `se vote` → votar | 접속법 현재 3인칭 단수 (수동의 se) | antes de que 뒤는 반드시 접속법
+

@@ -809,3 +809,373 @@
 - **시제:**
   - `necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요 | 규칙
   - `aumentar` → aumentar | 부정사 | `necesitar` 뒤 | 규칙
+
+### 21-96. **Fabián:** ¿Cuánto estamos hablando?
+- **해석:** 얼마나 되는 얘기입니까?
+- **주요 단어:** `hablar` (동사) 이야기하다
+- **문법:** `estar + 현재분사` = 진행형.
+- **표현:** `¿Cuánto estamos hablando?` = 구체적 수치를 묻는 구어(영어 "How much are we talking?"). 좀 더 표준적으로는 `¿De cuánto estamos hablando?`.
+- **시제:**
+  - `estamos` → estar | 직설법 현재 1인칭 복수 | 진행형 조동사 | 불규칙
+  - `hablando` → hablar | 현재분사 | 지금 논의 중인 내용 | 규칙
+
+### 21-97. **Comandante Rueda:** El doble, al menos.
+- **해석:** 최소한 두 배.
+- **주요 단어:** `el doble` 두 배 / `al menos` (구) 적어도
+- **시제:** 동사 없음
+
+### 21-98. **Comandante Rueda:** Trescientos fusiles en vez de doscientos, y ciento cincuenta pistolas en vez de ochenta.
+- **해석:** 소총 200정 대신 300정, 권총 80정 대신 150정.
+- **주요 단어:** `el fusil` 소총 / `la pistola` 권총 / `en vez de` ~대신
+- **문법:** 숫자: `trescientos`(300, 여성명사 앞이면 trescientas), `ciento cincuenta`(150; 100 단독은 cien).
+- **시제:** 동사 없음
+
+### 21-99. **Álvaro:** (Memorizando cada cifra sin que se note) ¿Algo más aparte de fusiles y pistolas?
+- **해석:** (티 나지 않게 숫자 하나하나를 외우며) 소총과 권총 말고 다른 건요?
+- **주요 단어:** `memorizar` (동사) 외우다 / `la cifra` 숫자 / `notarse` 티가 나다 / `aparte de` ~외에
+- **문법:** `sin que + 접속법` (항상 접속법).
+- **표현:** `¿Algo más?` = 또 다른 건?
+- **시제:**
+  - `Memorizando` → memorizar | 현재분사 | 대사와 동시에 하는 행동 | 규칙(철자: 접속법 memorice)
+  - `se note` → notar | 접속법 현재 3인칭 단수 | `sin que` 뒤 필수 접속법 | 규칙
+
+### 21-100. **Comandante Rueda:** Sí.
+- **해석:** 있지.
+- **시제:** 동사 없음
+
+### 21-101. **Comandante Rueda:** Esta vez necesitamos también munición en mayor cantidad, unas cien cajas, y veinte lanzagranadas más de los que pidieron la última vez.
+- **해석:** 이번엔 탄약도 더 많이 필요해, 100상자쯤. 그리고 유탄발사기는 지난번 주문한 것보다 20정 더.
+- **주요 단어:** `la munición` 탄약 / `la cantidad` 양 / `la caja` 상자 / `el lanzagranadas` 유탄발사기(단복수 동형) / `pedir` 주문하다
+- **문법:** `más de los que` = ~한 것보다 더(비교 대상이 절이면 que 대신 de + 관사 + que). `mayor` = 더 큰(grande의 비교급).
+- **표현:** `la última vez` = 지난번.
+- **시제:**
+  - `necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 요구 | 규칙
+  - `pidieron` → pedir | 직설법 단순과거 3인칭 복수 (ustedes) | "지난번"이라는 끝난 특정 시점 | 불규칙 (3인칭에서 e→i: pidió, pidieron)
+
+### 21-102. **Fabián:** Es un pedido considerable.
+- **해석:** 상당한 주문이군요.
+- **주요 단어:** `considerable` (형용사) 상당한
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 성격 평가 | 불규칙
+
+### 21-103. **Fabián:** Vamos a necesitar más tiempo para organizarlo todo.
+- **해석:** 전부 준비하려면 시간이 더 필요할 겁니다.
+- **주요 단어:** `organizar` (동사) 준비하다, 조직하다
+- **문법:** `ir a + 부정사`. `organizarlo todo`: `todo`가 목적어일 때 `lo`를 함께 쓰는 게 관용적.
+- **시제:**
+  - `Vamos (a necesitar)` → ir | 직설법 현재 1인칭 복수 | 가까운 미래 예측 | 불규칙
+  - `necesitar` → necesitar | 부정사 | `ir a` 뒤 | 규칙
+  - `organizarlo` → organizar | 부정사 + lo | `para` 뒤 목적 | 규칙
+
+### 21-104. **Comandante Rueda:** Lo entiendo, pero necesito que esté todo listo antes de finales del mes que viene.
+- **해석:** 알지만, 다음 달 말 전까지는 전부 준비돼 있어야 해.
+- **주요 단어:** `listo` (형용사) 준비된 / `a finales de` ~말에 / `el mes que viene` 다음 달
+- **문법:** `necesitar que + 접속법`(다른 주어에 대한 요구). `estar listo` = 준비된 상태(ser listo는 "영리하다").
+- **표현:** `el mes que viene` = el próximo mes.
+- **시제:**
+  - `entiendo` → entender | 직설법 현재 1인칭 단수 | 현재 이해 | 불규칙 (e→ie)
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재 요구 | 규칙
+  - `esté` → estar | 접속법 현재 3인칭 단수 | 요구·필요 동사 뒤 → 접속법 | 불규칙
+  - `viene` → venir | 직설법 현재 3인칭 단수 | 관용구 `que viene`(다가오는) | 불규칙
+
+### 21-105. **Comandante Rueda:** No podemos esperar más.
+- **해석:** 더는 기다릴 수 없어.
+- **시제:**
+  - `podemos` → poder | 직설법 현재 1인칭 복수 | 현재 상황 | 불규칙(1복수는 어간 변화 없음)
+  - `esperar` → esperar | 부정사 | `poder` 뒤 | 규칙
+
+### 21-106. **Fabián:** Es un plazo ajustado, pero se puede hacer si empezamos ya.
+- **해석:** 빠듯한 기한이지만, 지금 바로 시작하면 가능합니다.
+- **주요 단어:** `el plazo` 기한 / `ajustado` (형용사) 빠듯한 / `empezar` (동사) 시작하다 / `ya` 지금 당장
+- **문법:** `se puede + 부정사` = 무인칭(할 수 있다). `si + 직설법 현재` = 실현 가능한 조건.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 평가 | 불규칙
+  - `ajustado` → ajustar | 과거분사(형용사) | 상태 | 규칙
+  - `se puede` → poder | 직설법 현재 3인칭 단수 (무인칭 se) | 가능성 판단 | 불규칙 (o→ue)
+  - `hacer` → hacer | 부정사 | `poder` 뒤 | 불규칙 동사의 원형
+  - `empezamos` → empezar | 직설법 현재 1인칭 복수 | 실현 가능한 조건(si 뒤에는 미래 대신 현재) | 불규칙 (e→ie, 단 1복수는 변화 없음)
+
+### 21-107. **Álvaro:** ¿Y la ruta seguirá siendo la misma que la vez anterior?
+- **해석:** 그리고 경로는 지난번과 똑같습니까?
+- **주요 단어:** `la ruta` 경로 / `seguir + 현재분사` 계속 ~하다 / `el mismo que` ~와 같은
+- **문법:** `seguir + 현재분사` = 계속 ~이다.
+- **시제:**
+  - `seguirá` → seguir | 직설법 단순미래 3인칭 단수 | 다음 거래(미래)에 관한 질문 | 불규칙 동사지만 미래형은 규칙
+  - `siendo` → ser | 현재분사 | `seguir` 구문 | 규칙 현재분사
+
+### 21-108. **Comandante Rueda:** Con algunos cambios.
+- **해석:** 약간 바뀌지.
+- **주요 단어:** `el cambio` 변화
+- **시제:** 동사 없음
+
+### 21-109. **Comandante Rueda:** Esta vez, parte del envío entrará por un punto distinto, más cerca de la frontera, para dividir el riesgo.
+- **해석:** 이번엔 위험을 분산하려고 물량 일부가 국경에 더 가까운 다른 지점으로 들어올 거야.
+- **주요 단어:** `entrar` (동사) 들어오다 / `el punto` 지점 / `la frontera` 국경 / `dividir` (동사) 나누다 / `el riesgo` 위험
+- **문법:** `para + 부정사` = 목적.
+- **시제:**
+  - `entrará` → entrar | 직설법 단순미래 3인칭 단수 | 확정된 미래 계획 | 규칙
+  - `dividir` → dividir | 부정사 | 목적 | 규칙
+
+### 21-110. **Fabián:** Diego se encargará de coordinar la parte española, como siempre.
+- **해석:** 스페인 쪽 조율은 늘 그렇듯 디에고가 맡을 겁니다.
+- **주요 단어:** `encargarse de` (재귀동사) ~을 맡다 / `coordinar` (동사) 조율하다
+- **시제:**
+  - `se encargará` → encargarse | 직설법 단순미래 3인칭 단수 | 앞으로의 역할 분담 | 규칙
+  - `coordinar` → coordinar | 부정사 | `de` 뒤 | 규칙
+
+### 21-111. **Comandante Rueda:** Bien.
+- **해석:** 좋아.
+- **시제:** 동사 없음
+
+### 21-112. **Comandante Rueda:** Diego, espero que estés a la altura de un pedido de este tamaño.
+- **해석:** 디에고, 이 정도 규모의 주문에 걸맞게 해 주길 바라네.
+- **주요 단어:** `el tamaño` 크기, 규모 / `estar a la altura de` ~에 걸맞다
+- **문법:** `esperar que + 접속법`(주어가 다름). 21-26 `Espero estar`(동일 주어 → 부정사)와 비교.
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재 바람 | 규칙
+  - `estés` → estar | 접속법 현재 2인칭 단수 | 바람 동사 뒤 → 접속법 | 불규칙
+
+### 21-113. **Álvaro:** Lo estaré, Comandante.
+- **해석:** 그렇게 하겠습니다, 코만단테님.
+- **문법:** `Lo` = 속사(a la altura)를 받는 중성 대명사. `ser/estar` 뒤 보어를 lo로 대체.
+- **시제:**
+  - `estaré` → estar | 직설법 단순미래 1인칭 단수 | 미래에 대한 약속·단언 | 규칙 미래형
+
+### 21-114. **Álvaro:** No hay motivo para dudarlo.
+- **해석:** 의심하실 이유는 없습니다.
+- **주요 단어:** `el motivo` 이유 / `dudar` (동사) 의심하다
+- **시제:**
+  - `hay` → haber | 직설법 현재 무인칭 | 존재 부정 | 불규칙
+  - `dudarlo` → dudar | 부정사 + lo | `para` 뒤 | 규칙
+
+### 21-115. **Comandante Rueda:** Eso espero.
+- **해석:** 그러길 바라네.
+- **시제:**
+  - `espero` → esperar | 앞에서 설명(직설법 현재 1인칭 단수)
+
+### 21-116. **Comandante Rueda:** Un pedido tan grande no puede permitirse errores de principiante.
+- **해석:** 이렇게 큰 주문에서는 초보 같은 실수가 용납되지 않아.
+- **주요 단어:** `permitirse` (재귀동사) (감히) ~할 여유가 있다, 허용하다 / `el error` 실수 / `el principiante` 초보자
+- **문법:** `tan + 형용사` = 그렇게 ~한.
+- **표현:** `no poder permitirse algo` = ~을 감당할 수 없다.
+- **시제:**
+  - `puede` → poder | 직설법 현재 3인칭 단수 | 일반적 원칙 | 불규칙 (o→ue)
+  - `permitirse` → permitirse | 부정사 (재귀) | `poder` 뒤 | 규칙
+
+### 21-117. **Fabián:** No los habrá.
+- **해석:** 그런 일은 없을 겁니다.
+- **문법:** 무인칭 `haber`의 목적어(errores)를 대명사 `los`로 받음.
+- **시제:**
+  - `habrá` → haber | 직설법 단순미래 무인칭 | 미래에 대한 단언 | 불규칙 (habr-)
+
+### 21-118. **Fabián:** Diego ya ha demostrado ser meticuloso con el papeleo.
+- **해석:** 디에고는 서류 작업에 꼼꼼하다는 걸 이미 증명했어요.
+- **주요 단어:** `demostrar` (동사) 증명하다 / `meticuloso` (형용사) 꼼꼼한 / `el papeleo` 서류 작업
+- **문법:** `demostrar + 부정사` = ~임을 보여주다.
+- **시제:**
+  - `ha demostrado` → demostrar | 직설법 현재완료 3인칭 단수 | 지금까지의 실적이 현재 평가로 이어짐 | 불규칙 동사(o→ue)의 규칙 과거분사
+  - `ser` → ser | 부정사 | 성격 → ser | 원형
+
+### 21-119. **Comandante Rueda:** Perfecto.
+- **해석:** 좋아.
+- **시제:** 동사 없음
+
+### 21-120. **Comandante Rueda:** Y en cuanto al pago, ¿seguimos con el mismo esquema de siempre?
+- **해석:** 그리고 대금 말인데, 늘 하던 방식대로 계속 가나?
+- **주요 단어:** `en cuanto a` (구) ~에 관해서 / `el pago` 지불 / `el esquema` 방식, 틀
+- **문법:** `en cuanto a + el` → `al`. `de siempre` = 늘 하던.
+- **시제:**
+  - `seguimos` → seguir | 직설법 현재 1인칭 복수 | 현재 합의 확인(가까운 미래 포함) | 불규칙 (e→i, 단 1복수 seguimos는 변화 없음)
+
+### 21-121. **Fabián:** Mitad al confirmar el pedido, mitad a la entrega, como siempre.
+- **해석:** 늘 그렇듯 주문 확정 때 절반, 인도 때 절반입니다.
+- **주요 단어:** `la mitad` 절반 / `confirmar` 확정하다 / `la entrega` 인도, 배달
+- **문법:** `al + 부정사` = ~할 때.
+- **시제:**
+  - `confirmar` → confirmar | 부정사 | `al + 부정사` 시간 구문 | 규칙
+
+### 21-122. **Comandante Rueda:** De acuerdo.
+- **해석:** 좋아.
+- **표현:** `De acuerdo` = 동의합니다.
+- **시제:** 동사 없음
+
+### 21-123. **Comandante Rueda:** Aunque, dado el tamaño de este envío, espero puntualidad total en la fecha de entrega.
+- **해석:** 다만 이번 물량 규모를 고려해서, 인도 날짜는 한 치의 오차도 없이 지켜 주길 기대하네.
+- **주요 단어:** `dado` (과거분사) ~을 고려하면 / `la puntualidad` 시간 엄수 / `la fecha` 날짜
+- **문법:** `dado + 명사` = 절대분사구문(~이므로). 명사에 성·수 일치(dada la situación).
+- **시제:**
+  - `dado` → dar | 과거분사 (절대구문) | 이유·전제 제시 | 규칙 과거분사
+  - `espero` → esperar | 앞에서 설명(현재 기대)
+
+### 21-124. **Fabián:** La tendrá.
+- **해석:** 그렇게 될 겁니다.
+- **문법:** `La` = la puntualidad.
+- **시제:**
+  - `tendrá` → tener | 직설법 단순미래 3인칭 단수 (usted) | 미래에 대한 약속 | 불규칙 미래 어간 (tendr-)
+
+### 21-125. **Fabián:** Nunca le hemos fallado en un plazo.
+- **해석:** 저희는 기한을 어긴 적이 한 번도 없습니다.
+- **주요 단어:** `fallar a alguien` (동사) ~을 실망시키다, 저버리다
+- **문법:** `le` = 간접목적어(당신께).
+- **시제:**
+  - `hemos fallado` → fallar | 직설법 현재완료 1인칭 복수 | nunca + 현재완료 = 지금까지의 실적 | 규칙
+
+### 21-126. **Comandante Rueda:** Cierto, y por eso seguimos trabajando juntos.
+- **해석:** 맞아, 그래서 우리가 계속 함께 일하는 거지.
+- **주요 단어:** `cierto` 맞다 / `por eso` 그래서 / `juntos` 함께
+- **문법:** `seguir + 현재분사` = 계속 ~하다.
+- **시제:**
+  - `seguimos` → seguir | 직설법 현재 1인칭 복수 | 현재까지 지속 | 불규칙
+  - `trabajando` → trabajar | 현재분사 | 지속 행위 | 규칙
+
+### 21-127. **Comandante Rueda:** Espero que siga siendo así.
+- **해석:** 앞으로도 그러길 바라네.
+- **문법:** `esperar que + 접속법`.
+- **시제:**
+  - `Espero` → esperar | 직설법 현재 1인칭 단수 | 바람 | 규칙
+  - `siga` → seguir | 접속법 현재 3인칭 단수 | 바람 동사 뒤 접속법 | 불규칙 (e→i, gu→g)
+  - `siendo` → ser | 현재분사 | `seguir` 구문 | 규칙
+
+### 21-128. **Álvaro:** ¿Hay alguna otra condición especial para este pedido, Comandante?
+- **해석:** 이번 주문에 다른 특별한 조건이 있습니까, 코만단테님?
+- **주요 단어:** `la condición` 조건 / `especial` 특별한
+- **시제:**
+  - `Hay` → haber | 직설법 현재 무인칭 | 존재 질문 | 불규칙
+
+### 21-129. **Comandante Rueda:** Sí.
+- **해석:** 있어.
+- **시제:** 동사 없음
+
+### 21-130. **Comandante Rueda:** Esta vez quiero que Diego venga personalmente a confirmar la entrega en el punto de recepción, cuando llegue el momento.
+- **해석:** 이번엔 때가 되면 디에고가 직접 인수 지점에 와서 인도를 확인해 줬으면 해.
+- **주요 단어:** `personalmente` 직접 / `el punto de recepción` 인수 지점 / `el momento` 때
+- **문법:** `querer que + 접속법`(주어가 다름). `cuando + 접속법` = 미래.
+- **표현:** `cuando llegue el momento` = 때가 되면.
+- **시제:**
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재의 요구 | 불규칙 (e→ie)
+  - `venga` → venir | 접속법 현재 3인칭 단수 | 의지 동사(querer) 뒤, 다른 주어 → 접속법 | 불규칙 (veng-)
+  - `confirmar` → confirmar | 부정사 | `venir a` 목적 | 규칙
+  - `llegue` → llegar | 접속법 현재 3인칭 단수 | 미래 시점 cuando → 접속법 | 규칙(철자 g→gu)
+
+### 21-131. **Fabián:** (Sorprendido) ¿Aquí, en Venezuela?
+- **해석:** (놀라며) 여기, 베네수엘라로요?
+- **시제:**
+  - `Sorprendido` → sorprender | 과거분사(형용사) | 놀란 상태 | 규칙
+  - 대사 자체는 동사 없음
+
+### 21-132. **Comandante Rueda:** Aquí mismo.
+- **해석:** 바로 여기.
+- **표현:** `mismo` = 부사 뒤에서 "바로".
+- **시제:** 동사 없음
+
+### 21-133. **Comandante Rueda:** Quiero conocer mejor a la gente que maneja mis pedidos, sobre todo cuando son de este tamaño.
+- **해석:** 내 주문을 다루는 사람들을 더 잘 알고 싶거든, 특히 이 정도 규모일 때는.
+- **주요 단어:** `conocer` 알다 / `manejar` 다루다 / `sobre todo` 특히
+- **문법:** `a la gente`(사람 목적어 a). `cuando + 직설법` = 일반적·반복 상황. `ser de + 크기` = ~ 규모이다.
+- **시제:**
+  - `Quiero` → querer | 앞에서 설명
+  - `conocer` → conocer | 부정사 | `querer` 뒤(동일 주어) | 불규칙 동사(-zco)의 원형
+  - `maneja` → manejar | 직설법 현재 3인칭 단수 | la gente(단수 취급), 현재 사실 | 규칙
+  - `son` → ser | 직설법 현재 3인칭 복수 | 일반 조건(cuando + 직설법) | 불규칙
+
+### 21-134. **Álvaro:** (Disimulando la inquietud) Por supuesto, Comandante.
+- **해석:** (불안을 감추며) 물론입니다, 코만단테님.
+- **주요 단어:** `disimular` 숨기다 / `la inquietud` 불안
+- **시제:**
+  - `Disimulando` → disimular | 현재분사 | 대답과 동시에 | 규칙
+
+### 21-135. **Álvaro:** Cuente conmigo para eso también.
+- **해석:** 그것도 저를 믿고 맡겨 주십시오.
+- **문법:** 21-58과 같은 표현의 usted(단수) 형태.
+- **시제:**
+  - `Cuente` → contar | 명령법 usted형 (= 접속법 현재 3인칭 단수) | 공손한 다짐 | 불규칙 (o→ue)
+
+### 21-136. **Comandante Rueda:** Me gusta esa actitud.
+- **해석:** 그 태도 마음에 드는군.
+- **주요 단어:** `la actitud` 태도
+- **시제:**
+  - `gusta` → gustar | 앞에서 설명
+
+### 21-137. **Comandante Rueda:** Fabián, has elegido bien esta vez.
+- **해석:** 파비안, 이번엔 사람 잘 골랐어.
+- **주요 단어:** `elegir` 고르다
+- **시제:**
+  - `has elegido` → elegir | 직설법 현재완료 2인칭 단수 | 선택의 결과가 현재(디에고가 여기 있음)에 이어짐, "esta vez"와 함께 | 불규칙 동사(e→i, g→j: elijo)의 규칙 과거분사
+
+### 21-138. **Fabián:** Eso intento siempre, Comandante.
+- **해석:** 늘 그러려고 노력합니다, 코만단테님.
+- **주요 단어:** `intentar` 시도하다
+- **문법:** `Eso` 목적어 도치.
+- **시제:**
+  - `intento` → intentar | 직설법 현재 1인칭 단수 | 습관 | 규칙
+
+### 21-139. **Comandante Rueda:** Bueno, sigamos comiendo, que la cachapa se enfría y sería un pecado no terminarla.
+- **해석:** 자, 계속 먹자고, 카차파 식겠네, 다 안 먹으면 죄악이지.
+- **주요 단어:** `enfriarse` 식다 / `el pecado` 죄 / `terminar` 끝내다
+- **문법:** `que` = 이유(구어). 부정사가 주어인 `sería un pecado no terminarla`.
+- **시제:**
+  - `sigamos` → seguir | 접속법 현재 1인칭 복수 | nosotros 명령("계속 ~하자") | 불규칙
+  - `comiendo` → comer | 현재분사 | `seguir` 구문 | 규칙
+  - `se enfría` → enfriarse | 직설법 현재 3인칭 단수 | 지금 진행 중인 일 | 강세 불규칙 (enfrío)
+  - `sería` → ser | 조건법 단순 3인칭 단수 (condicional simple) | "만약 다 안 먹는다면"이라는 가정의 결과 | 규칙 조건형
+  - `terminarla` → terminar | 부정사 + la | 주어 역할 부정사 | 규칙
+
+### 21-140. **Álvaro:** (Sonríe, aunque por dentro procesa todo lo que acaba de escuchar) Tiene razón, no hay que desperdiciar esto.
+- **해석:** (미소 짓지만 속으로는 방금 들은 모든 것을 정리하고 있다) 맞는 말씀입니다, 이걸 남기면 안 되죠.
+- **주요 단어:** `sonreír` 미소 짓다 / `procesar` 처리하다 / `acabar de + 부정사` 방금 ~하다 / `tener razón` 옳다 / `desperdiciar` 낭비하다
+- **문법:** `aunque + 직설법` = 실제 사실인 양보. `hay que + 부정사` = 일반적 당위.
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 | 지문 | 불규칙 (e→í)
+  - `procesa` → procesar | 직설법 현재 3인칭 단수 | 지문, 동시 진행 | 규칙
+  - `acaba (de escuchar)` → acabar | 직설법 현재 3인칭 단수 | 방금 완료된 행위(근접 과거) | 규칙
+  - `escuchar` → escuchar | 부정사 | `acabar de` 뒤 | 규칙
+  - `Tiene` → tener | 직설법 현재 3인칭 단수 (usted) | 현재 판단 | 불규칙
+  - `hay (que)` → haber | 직설법 현재 무인칭 | 일반적 당위 | 불규칙
+  - `desperdiciar` → desperdiciar | 부정사 | 규칙
+
+### 21-141. **Fabián:** Salud, entonces, por el nuevo pedido y por que todo salga como esperamos.
+- **해석:** 그럼 건배, 새 주문을 위하여, 그리고 모든 게 우리 기대대로 되길 위하여.
+- **주요 단어:** `salud` 건배 / `salir` (일이) 되다 / `esperar` 기대하다
+- **문법:** `por que + 접속법` = ~하기를 위하여(건배, 소망). 분리형 `por que`(por + que)와 이유의 `porque` 구분.
+- **표현:** `salir bien/como esperamos` = 일이 잘 풀리다.
+- **시제:**
+  - `salga` → salir | 접속법 현재 3인칭 단수 | 소망 표현 → 접속법 | 불규칙 (salg-)
+  - `esperamos` → esperar | 직설법 현재 1인칭 복수 | 실제 품고 있는 기대 | 규칙
+
+### 21-142. **Comandante Rueda:** Salud.
+- **해석:** 건배.
+- **시제:** 동사 없음
+
+### 21-143. **Álvaro:** Salud.
+- **해석:** 건배.
+- **시제:** 동사 없음
+
+### 21-144. **Álvaro:** (Piensa para sí) Trescientos fusiles, ciento cincuenta pistolas, cien cajas de munición, veinte lanzagranadas.
+- **해석:** (속으로 생각한다) 소총 300, 권총 150, 탄약 100상자, 유탄발사기 20.
+- **주요 단어:** `pensar para sí` 속으로 생각하다
+- **문법:** `cien`(100 단독, 명사 앞) vs `ciento`(뒤에 숫자가 이어질 때).
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 | 지문 | 불규칙 (e→ie)
+
+### 21-145. **Álvaro:** Nueva ruta cerca de la frontera.
+- **해석:** 국경 근처의 새 경로.
+- **시제:** 동사 없음
+
+### 21-146. **Álvaro:** Fin del mes que viene.
+- **해석:** 다음 달 말.
+- **시제:**
+  - `viene` → venir | 앞에서 설명(관용구 el mes que viene)
+
+### 21-147. **Álvaro:** Y ahora, tengo que volver aquí en persona.
+- **해석:** 그리고 이제 내가 직접 여기로 다시 와야 한다.
+- **주요 단어:** `volver` 돌아오다 / `en persona` 직접
+- **시제:**
+  - `tengo (que)` → tener | 직설법 현재 1인칭 단수 | 현재 부과된 의무 | 불규칙 (tengo)
+  - `volver` → volver | 부정사 | 불규칙 동사(o→ue)의 원형
+
+### 21-148. **Álvaro:** Carlos tiene que saber todo esto cuanto antes.
+- **해석:** 카를로스가 이 모든 걸 최대한 빨리 알아야 해.
+- **주요 단어:** `cuanto antes` (구) 가능한 한 빨리
+- **시제:**
+  - `tiene (que)` → tener | 직설법 현재 3인칭 단수 | 긴급한 필요 | 불규칙
+  - `saber` → saber | 부정사 | 원형

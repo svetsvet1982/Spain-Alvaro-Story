@@ -467,3 +467,173 @@
 - **시제:**
   - `tenga` → tener | 접속법 현재, 3인칭 단수(usted) | 소망·기원이라 접속법 | 불규칙: tengo → tenga
 
+## 장면 3. 식당 전화 예약
+> 알바로가 칸타브리아의 한 식당에 전화를 걸어 제보자와의 저녁 식사를 위한 예약을 합니다.
+
+### 3-1. **Álvaro:** (Por teléfono) Buenas tardes, quería hacer una reserva para esta noche, si es posible.
+- **해석:** (전화로) 안녕하세요, 가능하다면 오늘 저녁으로 예약을 하고 싶은데요.
+- **주요 단어:** `buenas tardes` 오후 인사 / `hacer una reserva` 예약하다 / `esta noche` 오늘 밤 / `posible` (형용사) 가능한
+- **문법:** `si es posible`: 사실 조건 si + 직설법 현재.
+- **표현:** `quería + 부정사` = "~하고 싶은데요", 스페인에서 요청을 부드럽게 하는 대표 표현.
+- **시제:**
+  - `quería` → querer | 직설법 불완료과거, 1인칭 단수 | 공손의 불완료과거(imperfecto de cortesía): 현재 바람을 과거형으로 완곡하게. quiero보다 정중, querría보다 일상적 | 규칙형 불완료
+  - `hacer` → hacer | 부정사 | querer 뒤
+  - `es` → ser | 직설법 현재, 3인칭 단수 | si 조건절(현재형) | 불규칙
+
+### 3-2. **Recepcionista:** Buenas tardes.
+- **해석:** 안녕하세요.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 3-3. **Recepcionista:** Déjeme comprobar.
+- **해석:** 확인해 보겠습니다.
+- **주요 단어:** `dejar` (동사) 허락하다, 두다 / `comprobar` (동사) 확인하다
+- **문법:** `dejar + 부정사` = ~하게 하다. `déjeme`: usted 긍정명령 + me 결합, 강세 부호.
+- **표현:** `Déjeme comprobar/ver` = "확인해 볼게요" 응대 정형 표현.
+- **시제:**
+  - `déjeme` → dejar | 명령법 긍정, 3인칭 단수(usted) | 공손한 양해 구하기 | 규칙(deje)
+  - `comprobar` → comprobar | 부정사 | dejar 뒤 | (현재 compruebo, o→ue)
+
+### 3-4. **Recepcionista:** ¿Para cuántas personas?
+- **해석:** 몇 분이세요?
+- **주요 단어:** `cuántas` (의문사) 몇 / `persona` (명사) 사람
+- **문법:** `cuántas`는 personas(여성 복수)에 일치.
+- **시제:**
+  - 동사 없음
+
+### 3-5. **Álvaro:** Para dos, a nombre de Álvaro Fuentes.
+- **해석:** 두 명이요, 알바로 푸엔테스 이름으로요.
+- **주요 단어:** `a nombre de` ~의 이름으로 (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 3-6. **Recepcionista:** ¿A qué hora les vendría bien?
+- **해석:** 몇 시가 편하시겠어요?
+- **주요 단어:** `hora` (명사) 시각 / `venir bien` (관용) 편하다, 적당하다
+- **문법:** `venir bien a alguien`: gustar형 구조. 주어는 '시간', `les`는 ustedes(두 분)에게.
+- **표현:** `¿Te/Le viene bien...?` = "~가 괜찮으세요?" 일정 조율 필수 표현.
+- **시제:**
+  - `vendría` → venir | 조건법 단순, 3인칭 단수 | 공손한 질문이라 조건법(viene보다 완곡) | 불규칙: vendr- 어간
+
+### 3-7. **Álvaro:** ¿Tendrían disponibilidad sobre las nueve de la noche?
+- **해석:** 밤 9시쯤 자리가 있을까요?
+- **주요 단어:** `disponibilidad` (명사) 이용 가능 여부, 빈자리 / `sobre` (시각 앞) ~쯤
+- **문법:** `sobre + 시각` = 대략 ~시에(a eso de와 유사).
+- **표현:** `sobre las nueve` 스페인 구어에서 흔함.
+- **시제:**
+  - `tendrían` → tener | 조건법 단순, 3인칭 복수(ustedes=식당 측) | 공손한 문의라 조건법 | 불규칙: tendr- 어간
+
+### 3-8. **Recepcionista:** Sí, tenemos hueco a esa hora.
+- **해석:** 네, 그 시간에 자리 있습니다.
+- **주요 단어:** `hueco` (명사) 빈자리, 빈틈
+- **문법:** `a + 시각` = 정확한 시점.
+- **표현:** `tener hueco` = (일정·좌석에) 자리가 있다, 스페인 구어.
+- **시제:**
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재 상황 | (앞에서 설명)
+
+### 3-9. **Recepcionista:** ¿Alguna preferencia de mesa?
+- **해석:** 원하시는 자리가 있으신가요?
+- **주요 단어:** `alguna` (형용사) 어떤 / `preferencia` (명사) 선호 / `mesa` (명사) 테이블
+- **문법:** 동사 생략(¿Tiene alguna...?).
+- **시제:**
+  - 동사 없음
+
+### 3-10. **Álvaro:** Querría, si es posible, una mesa algo apartada, para poder hablar con tranquilidad.
+- **해석:** 가능하다면 좀 떨어진 자리로 주시면 좋겠어요, 조용히 얘기할 수 있게요.
+- **주요 단어:** `algo` (부사) 조금 / `apartado` (형용사) 외진, 떨어진 / `hablar` (동사) 말하다 / `con tranquilidad` 편안하게, 차분히
+- **문법:** `algo + 형용사` = 약간 ~한(부사 용법). `para + 부정사` = 목적(주어 동일).
+- **표현:** `querría` = 공손한 요청.
+- **시제:**
+  - `querría` → querer | 조건법 단순, 1인칭 단수 | 공손한 희망 표현. 3-1의 quería(불완료과거)와 같은 기능이나 약간 더 정중 | 불규칙: querr- 어간
+  - `es` → ser | 직설법 현재 | si 조건절 (앞에서 설명)
+  - `apartada` → apartar | 과거분사 → 형용사, 여성 단수 | mesa에 일치하는 상태
+  - `poder` → poder | 부정사 | para 뒤
+  - `hablar` → hablar | 부정사 | poder 뒤
+
+### 3-11. **Álvaro:** Es una cena de trabajo.
+- **해석:** 업무상 저녁 식사라서요.
+- **주요 단어:** `cena de trabajo` 업무 만찬
+- **문법:** `ser + 명사`(성격 규정).
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 식사의 성격 규정 | 불규칙
+
+### 3-12. **Recepcionista:** Por supuesto, tenemos una zona en la terraza cubierta, bastante privada.
+- **해석:** 물론이죠, 지붕 있는 테라스에 꽤 프라이빗한 공간이 있습니다.
+- **주요 단어:** `por supuesto` 물론 / `terraza` (명사) 테라스 / `cubierto` (cubrir의 과거분사) 덮인, 지붕 있는 / `privado` (형용사) 사적인, 프라이빗한
+- **문법:** `cubierta`: cubrir의 불규칙 과거분사가 형용사로 terraza에 일치. `bastante privada`는 zona 수식.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `tenemos` → tener | 직설법 현재 (앞에서 설명)
+  - `cubierta` → cubrir | 과거분사, 여성 단수 | 상태(덮인) | 불규칙 과거분사: cubrir → cubierto
+
+### 3-13. **Álvaro:** Perfecto, esa estaría muy bien.
+- **해석:** 좋네요, 그 자리면 아주 좋겠어요.
+- **주요 단어:** `esa` (지시대명사) 그것(zona를 받음)
+- **문법:** `estar bien` 괜찮다.
+- **시제:**
+  - `estaría` → estar | 조건법 단순, 3인칭 단수 | 공손·완곡한 평가 (2-7과 같음) | 규칙
+
+### 3-14. **Recepcionista:** ¿Alguna alergia o restricción alimentaria que debamos tener en cuenta?
+- **해석:** 저희가 고려해야 할 알레르기나 식이 제한이 있으신가요?
+- **주요 단어:** `alergia` (명사) 알레르기 / `restricción` (명사) 제한 / `alimentario` (형용사) 식품의 / `deber` (동사) ~해야 한다
+- **문법:** `alguna ... que + 접속법`: 존재 여부가 불확실한 선행사를 받는 관계절이라 접속법.
+- **표현:** `tener en cuenta` (앞에서 설명).
+- **시제:**
+  - `debamos` → deber | 접속법 현재, 1인칭 복수 | 불확정 선행사(있을지 모르는 알레르기) 관계절 | 규칙: -er → -a
+  - `tener` → tener | 부정사 | deber 뒤
+
+### 3-15. **Álvaro:** No para mí, aunque no estoy seguro de mi acompañante.
+- **해석:** 저는 없는데, 동행인은 잘 모르겠어요.
+- **주요 단어:** `acompañante` (명사) 동행인
+- **문법:** `aunque + 직설법`: 사실(확실히 모름)을 인정하는 '~지만'. `estar seguro de` = ~에 대해 확신하다.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `estoy` → estar | 직설법 현재, 1인칭 단수 | 현재 심리 상태 | 불규칙
+
+### 3-16. **Álvaro:** Se lo confirmo esta noche, si le parece.
+- **해석:** 괜찮으시면 오늘 밤에 확인해 드릴게요.
+- **주요 단어:** `confirmar` 확인하다 (앞에서 설명) / `parecer` (앞에서 설명)
+- **문법:** `se lo` = le(당신께)+lo(그 사항). `si le parece (bien)` = 괜찮으시다면.
+- **표현:** `si le parece` = 공손한 동의 구하기.
+- **시제:**
+  - `confirmo` → confirmar | 직설법 현재, 1인칭 단수 | 가까운 미래 약속을 현재형으로(스페인어 구어에서 흔함) | 규칙
+  - `parece` → parecer | 직설법 현재, 3인칭 단수 | si 조건절 | 불규칙(parezco)
+
+### 3-17. **Recepcionista:** Sin problema.
+- **해석:** 문제없습니다.
+- **주요 단어:** `problema` (명사, 남성) 문제
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 3-18. **Recepcionista:** Entonces, reserva para dos, a nombre de Fuentes, a las nueve, en la terraza cubierta.
+- **해석:** 그럼, 푸엔테스 님 이름으로 두 분, 9시, 지붕 있는 테라스로 예약해 두겠습니다.
+- **주요 단어:** `reserva` (명사) 예약 (앞에서 설명)
+- **문법:** 동사 없는 확인 요약.
+- **표현:** 예약 내용 복창하는 전형적 방식.
+- **시제:**
+  - 동사 없음
+
+### 3-19. **Álvaro:** Correcto.
+- **해석:** 맞습니다.
+- **주요 단어:** `correcto` 맞는, 정확한
+- **시제:**
+  - 동사 없음
+
+### 3-20. **Álvaro:** Muchas gracias.
+- **해석:** 정말 감사합니다.
+- **주요 단어:** `gracias` 감사
+- **시제:**
+  - 동사 없음
+
+### 3-21. **Recepcionista:** Gracias a usted, nos vemos esta noche.
+- **해석:** 저희가 감사하죠, 오늘 밤에 뵙겠습니다.
+- **주요 단어:** `verse` (재귀동사) 서로 만나다
+- **문법:** `nos vemos`: 상호의 재귀(서로 보다).
+- **표현:** `Gracias a usted` = 저야말로 감사합니다. `Nos vemos` = 또 봬요.
+- **시제:**
+  - `vemos` → ver(verse) | 직설법 현재, 1인칭 복수 | 확정된 가까운 미래(오늘 밤)를 현재형으로 | 불규칙: 1인칭 단수 veo
+

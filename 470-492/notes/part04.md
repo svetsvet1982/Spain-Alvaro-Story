@@ -149,3 +149,208 @@
 - **표현:** `contrato de arrendamiento de temporada` = 스페인 법상 단기(계절) 임대차 계약.
 - **시제:**
   - `firmar` → firmar | 부정사 | 생략된 필요 동사(necesitar) 뒤 "서명하는 것"이 필요함 | 규칙
+
+### 13-20. **Álvaro:** Aquí tiene.
+- **해석:** 여기 있습니다.
+- **주요 단어:** `aquí tiene` 여기 있습니다(건넬 때)
+- **문법:** 특이사항 없음
+- **표현:** 신분증을 건네며 하는 관용 표현 (앞에서 설명).
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 (usted) | 앞에서 설명
+
+### 13-21. **Álvaro:** (Firma) ¿Alguna norma particular de la casa?
+- **해석:** (서명한다) 이 집만의 특별한 규칙이 있나요?
+- **주요 단어:** `firmar` (동사) 서명하다 / `norma` (명사·여) 규칙
+- **문법:** 동사(¿Hay...?)가 생략된 의문문.
+- **시제:**
+  - `Firma` → firmar | 직설법 현재 3인칭 단수 | 지문은 무대 위 동작을 현재형으로 서술 | 규칙
+
+### 13-22. **Casera:** Nada de fiestas ruidosas, y por favor, no deje el coche aparcado en la entrada por las noches, que molesta a los vecinos.
+- **해석:** 시끄러운 파티는 안 되고요, 그리고 밤에는 입구에 차를 세워두지 말아 주세요, 이웃들에게 방해가 되거든요.
+- **주요 단어:** `nada de` ~은 금지/전혀 없음 / `fiesta` (명사·여) 파티 / `ruidoso` (형용사) 시끄러운 / `dejar` (동사) 두다, 남기다 / `aparcar` (동사) 주차하다 / `molestar` (동사) 방해하다 / `vecino` (명사) 이웃
+- **문법:** usted 부정명령 = no + 접속법 현재. `dejar + 목적어 + 과거분사` = ~을 ~한 상태로 두다(aparcado가 coche에 일치). `que` = 이유를 나타내는 구어적 접속사(= porque).
+- **표현:** `Nada de + 명사` = "~은 안 돼요". `aparcar`는 스페인식(중남미 estacionar/parquear).
+- **시제:**
+  - `deje` → dejar | 접속법 현재 3인칭 단수 (usted 부정명령) | 부정명령은 항상 접속법 형태 | 규칙
+  - `aparcado` → aparcar | 과거분사 남성 단수 | 차가 "주차된 상태"를 나타냄 | 규칙
+  - `molesta` → molestar | 직설법 현재 3인칭 단수 | 일반적 사실(이유 설명) | 규칙
+
+### 13-23. **Álvaro:** Sin problema, aparcaré donde me indique.
+- **해석:** 문제없어요, 알려주시는 곳에 세울게요.
+- **주요 단어:** `sin problema` 문제없어요 / `indicar` (동사) 지시하다, 알려주다
+- **문법:** `donde + 접속법`: 아직 정해지지 않은(지정될) 장소라 접속법.
+- **시제:**
+  - `aparcaré` → aparcar | 직설법 미래 1인칭 단수 (futuro simple) | 상대에게 하는 약속·의지 표현 | 규칙
+  - `indique` → indicar | 접속법 현재 3인칭 단수 | 미래의 불특정 장소를 가리키는 관계절이라 접속법 | 철자 변화 c→qu (indique)
+  - 비교: donde me indica(직설법)라면 이미 알려준 특정 장소
+
+### 13-24. **Casera:** Hay un hueco discreto al otro lado del edificio, apenas se ve desde la calle.
+- **해석:** 건물 반대편에 눈에 잘 안 띄는 자리가 있어요, 길에서는 거의 안 보여요.
+- **주요 단어:** `hueco` (명사·남) 빈자리, 공간 / `discreto` (형용사) 눈에 띄지 않는 / `al otro lado de` ~의 반대편에 / `edificio` (명사·남) 건물 / `apenas` (부사) 거의 ~않다 / `calle` (명사·여) 거리
+- **문법:** `apenas`가 동사 앞에서 부정의 의미(no 불필요). 수동의 se (앞에서 설명).
+- **표현:** `hueco` = 스페인 구어에서 주차 빈자리.
+- **시제:**
+  - `hay` → haber | 직설법 현재 무인칭형 | 앞에서 설명
+  - `se ve` → ver | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 13-25. **Álvaro:** (Piensa para sí: perfecto para no llamar la atención) Perfecto, ese me viene muy bien.
+- **해석:** (속으로 생각한다: 이목을 끌지 않기에 딱이군) 좋네요, 거기가 저한테 아주 편하겠어요.
+- **주요 단어:** `pensar` (동사) 생각하다 / `para sí` 속으로 / `llamar la atención` 주의를 끌다 / `venir bien` (a alguien) ~에게 잘 맞다, 편하다
+- **문법:** `para no + 부정사` = ~하지 않기 위해. `me viene bien`: gustar형 구조(간접목적어 me).
+- **표현:** `me viene muy bien` = "제게 딱 좋아요" 스페인 구어 빈출.
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 | 지문의 현재 서술 | 불규칙 (e→ie)
+  - `llamar` → llamar | 부정사 | para no 뒤 부정사 | 규칙
+  - `viene` → venir | 직설법 현재 3인칭 단수 | 현재의 적합성 | 불규칙 (vengo, vienes, viene)
+
+### 13-26. **Casera:** Aquí tiene las llaves.
+- **해석:** 여기 열쇠요.
+- **주요 단어:** `llave` 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 13-27. **Casera:** Cualquier cosa, tiene mi número.
+- **해석:** 무슨 일 있으면 제 번호 있으시죠.
+- **주요 단어:** `cualquier` (형용사) 어떤 ~이든 / `número` (명사·남) 번호
+- **문법:** `cualquier` = cualquiera가 명사 앞에서 어미 탈락.
+- **표현:** `Cualquier cosa, ...` = "무슨 일 있으면(연락 주세요)" 구어 관용.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 현재 소유 상태 | 앞에서 설명
+
+### 13-28. **Álvaro:** Muchas gracias por todo.
+- **해석:** 여러모로 정말 감사합니다.
+- **주요 단어:** `gracias por` ~에 대해 감사
+- **문법:** 감사 이유는 전치사 por.
+- **시제:** 동사 없음
+
+## 장면 14. 수상한 차량 미행
+> 새로 산 차로 감시를 이어가던 알바로가, 마침내 문제의 차량이 저택에서 나오는 것을 목격합니다.
+
+### 14-1. **Álvaro:** (Aparcado a distancia prudente, observando la finca con prismáticos) Tercer día de vigilancia, y por fin algo se mueve.
+- **해석:** (안전한 거리에 차를 세워두고, 쌍안경으로 저택을 관찰하며) 감시 사흘째, 드디어 뭔가 움직이는군.
+- **주요 단어:** `prudente` (형용사) 신중한 / `observar` (동사) 관찰하다 / `prismáticos` (명사·남·복) 쌍안경 / `vigilancia` (명사·여) 감시 / `por fin` 드디어 / `moverse` (재귀동사) 움직이다
+- **문법:** `tercer` = tercero가 남성 단수 명사 앞 어미 탈락. `moverse` 재귀동사: 주어 algo 자체가 움직임.
+- **표현:** `algo se mueve` = "뭔가 움직임이 있다(상황이 진전된다)".
+- **시제:**
+  - `Aparcado` → aparcar | 과거분사 남성 단수 | 알바로(차)가 주차된 상태 | 규칙
+  - `observando` → observar | 현재분사 | 동시에 진행 중인 동작 | 규칙
+  - `se mueve` → moverse | 직설법 현재 3인칭 단수 | 바로 지금 일어나는 일 | 불규칙 (o→ue)
+
+### 14-2. **Álvaro:** (Ve un coche con matrícula extranjera salir del portón principal) Ahí está.
+- **해석:** (외국 번호판을 단 차가 정문에서 나오는 것을 본다) 저기 있다.
+- **주요 단어:** `matrícula` (명사·여) 번호판 / `extranjero` (형용사) 외국의 / `portón` (명사·남) 대문 / `ahí` (부사) 거기
+- **문법:** 지각동사 `ver + 목적어 + 부정사` = ~가 ~하는 것을 보다. estar = 위치.
+- **표현:** `Ahí está` = "저기 있다/바로 그거다".
+- **시제:**
+  - `Ve` → ver | 직설법 현재 3인칭 단수 | 지문의 현재 서술 | 불규칙
+  - `salir` → salir | 부정사 | 지각동사 ver 뒤 목적어의 동작(완결된 동작 전체를 봄) | 불규칙 동사
+  - `está` → estar | 직설법 현재 3인칭 단수 | 위치·발견의 현재 | 불규칙 (estoy)
+
+### 14-3. **Álvaro:** Voy a seguirlo, con cuidado.
+- **해석:** 따라가 보자, 조심해서.
+- **주요 단어:** `seguir` (동사) 따라가다 / `con cuidado` 조심스럽게
+- **문법:** `ir a + 부정사` 근접미래. 목적대명사 lo를 부정사 뒤에 붙임(Lo voy a seguir도 가능).
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a + 부정사로 곧 할 행동·결심 | 불규칙 (voy, vas, va)
+  - `seguirlo` → seguir | 부정사 | ir a 뒤 부정사 | 동사 자체는 e→i 불규칙
+
+### 14-4. **Álvaro:** (Conduciendo a distancia segura) El coche se dirige hacia la autovía, dirección Santander.
+- **해석:** (안전한 거리를 두고 운전하며) 차가 고속도로 쪽으로, 산탄데르 방향으로 가고 있다.
+- **주요 단어:** `conducir` (동사) 운전하다 / `seguro` (형용사) 안전한 / `dirigirse` (재귀동사) ~로 향하다 / `autovía` (명사·여) 고속도로 / `dirección` (명사·여) 방향
+- **문법:** `dirigirse hacia` 재귀동사 + 방향 전치사. `dirección Santander`: 전치사 없이 방향 표시(도로 표지식).
+- **표현:** `conducir`는 스페인식(중남미 manejar). `autovía`는 스페인의 무료 고속도로.
+- **시제:**
+  - `Conduciendo` → conducir | 현재분사 | 지문 속 동시 동작 | 규칙형 현재분사(동사는 conduzco, conduje 불규칙)
+  - `se dirige` → dirigirse | 직설법 현재 3인칭 단수 | 실시간 중계 | 1인칭 dirijo (g→j 철자 변화)
+
+### 14-5. **Álvaro:** (Después de treinta minutos de seguimiento) Se detiene en una gasolinera.
+- **해석:** (30분간 미행한 뒤) 주유소에 선다.
+- **주요 단어:** `seguimiento` (명사·남) 추적, 미행 / `detenerse` (재귀동사) 멈추다 / `gasolinera` (명사·여) 주유소
+- **문법:** `después de + 명사` = ~ 후에. 재귀동사 detenerse.
+- **시제:**
+  - `Se detiene` → detenerse | 직설법 현재 3인칭 단수 | 실시간 중계 | 불규칙 (tener형: detengo, detienes, detiene)
+
+### 14-6. **Álvaro:** Voy a acercarme, con precaución.
+- **해석:** 조심해서 다가가 보자.
+- **주요 단어:** `acercarse` (재귀동사) 다가가다 / `precaución` (명사·여) 조심
+- **문법:** ir a + 부정사, 재귀대명사 me를 부정사 뒤에 붙임.
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | 앞에서 설명(근접미래)
+  - `acercarme` → acercarse | 부정사 (재귀) | ir a 뒤 | 규칙 (접속법·단순과거 1인칭에서 c→qu: acerque, acerqué)
+
+### 14-7. **Álvaro:** (Desde su coche, fotografía discretamente al conductor que baja a repostar) Un hombre de unos cuarenta años, no coincide con la descripción de Roselló, pero podría ser un intermediario.
+- **해석:** (자기 차에서 주유하려고 내리는 운전자를 몰래 촬영한다) 마흔 살쯤 된 남자, 로셀로의 인상착의와는 일치하지 않지만 중개인일 수도 있어.
+- **주요 단어:** `fotografiar` (동사) 사진 찍다 / `discretamente` (부사) 은밀히 / `conductor` (명사·남) 운전자 / `bajar` (동사) 내리다 / `repostar` (동사) 주유하다 / `unos + 숫자` 약 / `coincidir con` ~와 일치하다 / `intermediario` (명사·남) 중개인
+- **문법:** 사람 목적어 앞 인칭 a(`al conductor`). `bajar a + 부정사` = ~하러 내리다(목적). `unos cuarenta años` = 대략 40세.
+- **표현:** `repostar` = 스페인식 "주유하다".
+- **시제:**
+  - `fotografía` → fotografiar | 직설법 현재 3인칭 단수 | 지문의 현재 서술 | 강세 변화 (fotografío, fotografía: í에 강세)
+  - `baja` → bajar | 직설법 현재 3인칭 단수 | 관계절 속 동시 동작 | 규칙
+  - `repostar` → repostar | 부정사 | 목적의 a 뒤 | 규칙
+  - `coincide` → coincidir | 직설법 현재 3인칭 단수 | 현재의 판단 | 규칙
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 현재에 대한 추측·가능성("~일지도 모른다") | 불규칙 어간 podr-
+  - `ser` → ser | 부정사 | poder 뒤 | 불규칙 동사
+  - 비교: puede ser(직설법)보다 podría ser가 가능성을 더 조심스럽게 표현
+
+### 14-8. **Álvaro:** (El hombre habla brevemente por teléfono antes de volver al coche) Necesito esa conversación, aunque sea imposible de escuchar desde aquí.
+- **해석:** (남자가 차로 돌아가기 전에 잠깐 통화한다) 저 통화 내용이 필요한데, 여기선 들을 수가 없잖아.
+- **주요 단어:** `brevemente` (부사) 짧게 / `por teléfono` 전화로 / `volver` (동사) 돌아가다 / `conversación` (명사·여) 대화 / `aunque` (접속사) 비록 ~일지라도 / `escuchar` (동사) 듣다
+- **문법:** `antes de + 부정사`. `aunque + 접속법`: 사실이더라도 그것이 결론(필요하다)을 바꾸지 않음을 강조하는 양보. `imposible de + 부정사` = ~하기 불가능한.
+- **시제:**
+  - `habla` → hablar | 직설법 현재 3인칭 단수 | 지문의 현재 서술 | 규칙
+  - `volver` → volver | 부정사 | antes de 뒤 | 동사는 o→ue 불규칙
+  - `Necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재의 필요 | 규칙
+  - `sea` → ser | 접속법 현재 3인칭 단수 | aunque 뒤 양보: "설령 불가능하다 해도" 사실을 인정하되 중요성을 낮춤 | 불규칙 (sea)
+  - `escuchar` → escuchar | 부정사 | de 뒤 | 규칙
+  - 비교: aunque es imposible(직설법)은 "불가능하긴 하지만"이라는 정보 전달, aunque sea는 체념·양보 뉘앙스
+
+### 14-9. **Álvaro:** (Continúa el seguimiento hasta un aeropuerto pequeño, privado) Un aeródromo privado.
+- **해석:** (작은 사설 공항까지 미행을 계속한다) 사설 비행장이군.
+- **주요 단어:** `continuar` (동사) 계속하다 / `aeropuerto` (명사·남) 공항 / `privado` (형용사) 사설의 / `aeródromo` (명사·남) 비행장
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Continúa` → continuar | 직설법 현재 3인칭 단수 | 지문의 현재 서술 | 강세 변화 (continúo, continúa: ú 강세)
+
+### 14-10. **Álvaro:** Esto confirma que se trata de movimientos de alto nivel, no simple logística local.
+- **해석:** 이건 단순한 지역 물류가 아니라 고위급의 움직임이라는 걸 확인해 주는군.
+- **주요 단어:** `confirmar` (동사) 확인하다 / `tratarse de` ~에 관한 것이다 / `movimiento` (명사·남) 움직임 / `alto nivel` 고위급 / `logística` (명사·여) 물류
+- **문법:** `confirmar que + 직설법`(사실 확인). `se trata de` = 비인칭 재귀 구문, 주어 없이 3인칭 단수.
+- **시제:**
+  - `confirma` → confirmar | 직설법 현재 3인칭 단수 | 지금 드러난 사실의 의미 | 규칙
+  - `se trata` → tratarse | 직설법 현재 3인칭 단수 (비인칭) | 사실로 판단된 내용이라 직설법 | 규칙
+
+### 14-11. **Álvaro:** (Fotografía la matrícula del avión privado que espera en la pista) Con esto, Carlos podrá identificar el vuelo, y quizás a quién pertenece.
+- **해석:** (활주로에서 대기 중인 전용기의 등록번호를 촬영한다) 이걸로 카를로스가 비행편을 식별할 수 있을 거고, 어쩌면 누구 소유인지도 알 수 있겠지.
+- **주요 단어:** `avión` (명사·남) 비행기 / `esperar` (동사) 기다리다 / `pista` (명사·여) 활주로 / `identificar` (동사) 식별하다 / `vuelo` (명사·남) 비행편 / `quizás` (부사) 어쩌면 / `pertenecer a` ~에 속하다
+- **문법:** `a quién pertenece` = 간접의문문(identificar의 목적어), 의문사 강세 유지. 여기서 quizás는 identificar 절 안의 부가어라 동사(pertenece)는 직설법.
+- **시제:**
+  - `Fotografía` → fotografiar | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `espera` → esperar | 직설법 현재 3인칭 단수 | 관계절 속 현재 상태 | 규칙
+  - `podrá` → poder | 직설법 미래 3인칭 단수 | 앞으로 가능해질 일 예측 | 불규칙 어간 podr-
+  - `identificar` → identificar | 부정사 | poder 뒤 | 규칙
+  - `pertenece` → pertenecer | 직설법 현재 3인칭 단수 | 현재의 소유 관계 | 1인칭 pertenezco (-zc-)
+
+### 14-12. **Álvaro:** (Observa cómo el hombre sube al avión, que despega minutos después) Ahí se va, sea quien sea.
+- **해석:** (남자가 비행기에 오르고, 비행기가 몇 분 뒤 이륙하는 것을 지켜본다) 저기 떠나는군, 누구든 간에.
+- **주요 단어:** `subir a` ~에 타다 / `despegar` (동사) 이륙하다 / `irse` (재귀동사) 떠나다
+- **문법:** `observar cómo + 직설법` = ~하는 모습을 지켜보다. `sea quien sea` = 접속법 반복 양보 구문("누구든 간에").
+- **표현:** `Ahí se va` = "저기 가버리네".
+- **시제:**
+  - `Observa` → observar | 직설법 현재 3인칭 단수 | 지문의 현재 서술 | 규칙
+  - `sube` → subir | 직설법 현재 3인칭 단수 | 관찰되는 실제 동작 | 규칙
+  - `despega` → despegar | 직설법 현재 3인칭 단수 | 관계절 속 실제 동작 | 규칙 (접속법 despegue: g→gu)
+  - `se va` → irse | 직설법 현재 3인칭 단수 | 지금 눈앞의 일 | 불규칙 (va)
+  - `sea` (×2) → ser | 접속법 현재 3인칭 단수 | 정체를 모르는 채 양보하는 관용 반복 구문 | 불규칙
+
+### 14-13. **Álvaro:** (Piensa para sí, mientras anota todos los detalles) Esta pieza, junto con la descripción de Anselmo, y la estructura societaria de Domingo, debería ser suficiente para presentar algo sólido.
+- **해석:** (모든 세부 사항을 적으며 속으로 생각한다) 이 조각이면, 안셀모의 인상착의 증언과 도밍고가 밝혀낸 법인 구조와 합쳐서, 탄탄한 무언가를 내놓기에 충분할 거야.
+- **주요 단어:** `mientras` (접속사) ~하는 동안 / `anotar` (동사) 적다 / `detalle` (명사·남) 세부 사항 / `pieza` (명사·여) 조각 / `junto con` ~와 함께 / `estructura societaria` 법인(회사) 구조 / `suficiente` (형용사) 충분한 / `presentar` (동사) 제시하다 / `sólido` (형용사) 견고한
+- **문법:** `mientras + 직설법`(동시 진행 사실). `para + 부정사` 목적.
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `anota` → anotar | 직설법 현재 3인칭 단수 | 동시 진행 동작 | 규칙
+  - `debería` → deber | 조건법 단순 3인칭 단수 | "~여야 마땅하다/~일 것이다"라는 완곡한 기대·추측 | 규칙
+  - `ser` → ser | 부정사 | deber 뒤
+  - `presentar` → presentar | 부정사 | para 뒤 | 규칙
+  - 비교: debe ser는 더 단정적, debería ser는 조심스러운 기대

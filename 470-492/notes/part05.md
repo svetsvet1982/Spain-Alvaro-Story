@@ -215,3 +215,345 @@
   - `ser` → ser | 부정사 | poder + 부정사
   - `necesitábamos` → necesitar | 직설법 불완료과거 1인칭 복수 (imperfecto) | 과거부터 계속 필요한 상태였음(지속적 상태) | 규칙 -ábamos
 
+## 장면 18. 최종 보도 발행
+> 며칠 후, 알바로와 하비에르가 최종 보도를 발행합니다.
+
+### 18-1. **Javier:** (Revisando el artículo final) Esto ha quedado muy sólido, Álvaro.
+- **해석:** (최종 기사를 검토하며) 이거 아주 탄탄하게 나왔어, 알바로.
+- **주요 단어:** `revisar` (동사) 검토하다 / `artículo` (명사, 남) 기사 / `quedar` (동사) ~한 결과가 되다 / `sólido` (형) 탄탄한, 견고한
+- **문법:** `quedar + 형용사`: "(결과적으로) ~하게 되다/나오다". 지문의 현재분사(gerundio)는 동시 동작.
+- **표현:** "Ha quedado muy bien/sólido" = 완성물이 잘 나왔다고 칭찬할 때.
+- **시제:**
+  - `Revisando` → revisar | 현재분사 (gerundio) | 말하는 동안 진행 중인 동작 | 규칙 -ando
+  - `ha quedado` → quedar | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | 방금 완성되어 지금 눈앞에 있는 결과라 현재완료(스페인식 용법) | 규칙. 비교: quedó(단순과거)는 과거의 완결된 결과로 거리감
+
+### 18-2. **Javier:** Todo un trabajo de campo, tú solo.
+- **해석:** 완전한 현장 취재야, 너 혼자서.
+- **주요 단어:** `todo un` ~ 그야말로 완전한 ~ / `trabajo de campo` 현장 조사, 현장 취재
+- **문법:** `todo un + 명사`: 강조 "대단한, 진정한 ~".
+- **표현:** "Es todo un reto"처럼 감탄·강조에 자주 씀.
+- **시제:** 동사 없음
+
+### 18-3. **Álvaro:** Fue distinto a las infiltraciones anteriores, la verdad.
+- **해석:** 솔직히 이전의 잠입 취재들과는 달랐어.
+- **주요 단어:** `distinto a` ~와 다른 / `infiltración` (명사, 여) 잠입 / `anterior` (형) 이전의 / `la verdad` 사실은, 솔직히
+- **문법:** ser + 형용사(성질 비교).
+- **표현:** 문장 끝 "la verdad"는 "솔직히 말해서"라는 구어 담화 표지.
+- **시제:**
+  - `Fue` → ser | 직설법 단순과거 3인칭 단수 (indefinido) | 끝난 경험 전체를 하나로 평가 | 불규칙 (ser/ir 공통: fui, fuiste, fue). 비교: era는 배경 묘사, fue는 끝난 경험에 대한 총평
+
+### 18-4. **Álvaro:** Más parecido al periodismo clásico, sin tapadera artificial.
+- **해석:** 오히려 고전적인 저널리즘에 더 가까웠지, 인위적인 위장 신분 없이.
+- **주요 단어:** `parecido a` ~와 비슷한 / `periodismo` (명사, 남) 저널리즘 / `clásico` (형) 고전적인 / `tapadera` (명사, 여) 위장, 커버 / `artificial` (형) 인위적인
+- **문법:** 동사 생략 ([Fue] más parecido...). `al` = a + el.
+- **표현:** tapadera는 "위장(신분)·은폐 수단"을 뜻하는 구어.
+- **시제:**
+  - `parecido` → parecer | 과거분사 남성 단수 | 형용사화되어 "비슷한" | 규칙 과거분사(현재 1인칭은 parezco로 불규칙)
+
+### 18-5. **Javier:** ¿Cómo te sentiste, sin la red de seguridad del CNI?
+- **해석:** CNI라는 안전망 없이 기분이 어땠어?
+- **주요 단어:** `sentirse` (재귀동사) (기분이) ~하다 / `red de seguridad` 안전망
+- **문법:** `sentirse + 형용사/부사`: 감정 상태. 재귀 대명사 te가 활용동사 앞.
+- **시제:**
+  - `sentiste` → sentirse | 직설법 단순과거 2인칭 단수 (indefinido) | 끝난 취재 기간 동안의 경험 전체를 물음 | 단순과거 3인칭에서 e→i (sintió), 2인칭 sentiste는 어간 변화 없음
+
+### 18-6. **Álvaro:** Vulnerable, en algunos momentos.
+- **해석:** 어떤 순간엔 취약하다고 느꼈지.
+- **주요 단어:** `vulnerable` (형) 취약한 / `momento` (명사, 남) 순간
+- **문법:** 동사 생략 ([Me sentí] vulnerable).
+- **시제:** 동사 없음
+
+### 18-7. **Álvaro:** Sobre todo cuando Domingo cayó enfermo, aunque resultó no estar relacionado.
+- **해석:** 특히 도밍고가 병이 났을 때. 결국 관련 없는 걸로 밝혀졌지만.
+- **주요 단어:** `sobre todo` 특히 / `caer enfermo` (숙어) 병에 걸리다 / `resultar` (동사) ~로 드러나다 / `relacionado` (형) 관련된
+- **문법:** `resultar + 부정사`: "결국 ~인 것으로 판명되다". aunque + 직설법: 실제 사실의 양보.
+- **표현:** caer enfermo = enfermarse. resultar는 "결과적으로 ~였다"를 표현하는 유용한 동사.
+- **시제:**
+  - `cayó` → caer | 직설법 단순과거 3인칭 단수 (indefinido) | 과거의 특정 사건 | 불규칙 철자: i→y (caí, caíste, cayó)
+  - `resultó` → resultar | 직설법 단순과거 3인칭 단수 (indefinido) | 판명된 시점의 완결된 사실 | 규칙
+  - `estar` → estar | 부정사 | resultar + 부정사
+  - `relacionado` → relacionar | 과거분사 남성 단수 | estar + 과거분사로 상태 | 규칙
+
+### 18-8. **Javier:** Menos mal que no lo estaba.
+- **해석:** 관련 없어서 천만다행이다.
+- **주요 단어:** `menos mal` (숙어) 다행이다
+- **문법:** `lo`: 앞의 형용사(relacionado)를 받는 중성 대명사 (estar/ser 뒤 속사 대신). `Menos mal que + 직설법`(사실이므로 직설법).
+- **표현:** "Menos mal (que...)" = "다행이다, 휴" 스페인 구어 필수 표현.
+- **시제:**
+  - `estaba` → estar | 직설법 불완료과거 3인칭 단수 (imperfecto) | 과거의 상태 묘사 | estar의 불완료과거는 규칙형(estaba). 비교: 단순과거 estuvo는 불규칙이며 기간이 끝난 상태
+
+### 18-9. **Álvaro:** Menos mal.
+- **해석:** 다행이지.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 18-10. **Álvaro:** Aunque me hizo darme cuenta de lo solo que estaba, sin nadie vigilando mis espaldas.
+- **해석:** 그래도 그 일로 내가 얼마나 혼자였는지, 뒤를 봐 주는 사람이 아무도 없다는 걸 깨달았어.
+- **주요 단어:** `hacer + 부정사` ~하게 만들다(사역) / `darse cuenta de` (숙어) ~을 깨닫다 / `solo` (형) 혼자인, 외로운 / `vigilar` (동사) 지켜보다, 감시하다 / `espalda` (명사, 여) 등
+- **문법:** 사역 `hacer + 부정사`: me hizo darme cuenta ("나를 깨닫게 했다"). `lo + 형용사 + que + 동사`: "얼마나 ~한지" (lo solo que estaba = 내가 얼마나 혼자였는지). 형용사 solo는 주어(나, 남성)에 일치. `sin nadie + 현재분사`: "아무도 ~하지 않는 채로".
+- **표현:** vigilar/cubrir las espaldas "뒤를 봐 주다, 엄호하다".
+- **시제:**
+  - `hizo` → hacer | 직설법 단순과거 3인칭 단수 | 그 사건이 깨달음을 준 일회적 결과 | 불규칙: hic-/hiz- (hice, hiciste, hizo)
+  - `dar(me)` → darse | 부정사 | 사역 hacer 뒤 부정사, 재귀 대명사 결합
+  - `estaba` → estar | 직설법 불완료과거 1인칭 단수 | 당시 지속된 상태 | 규칙형
+  - `vigilando` → vigilar | 현재분사 | 지속적 동작 묘사 | 규칙
+
+### 18-11. **Javier:** ¿Publicamos ya, entonces?
+- **해석:** 그럼 이제 올릴까?
+- **주요 단어:** `publicar` 앞에서 설명 / `ya` 이제 / `entonces` 그럼
+- **문법:** 1인칭 복수 현재형 의문문으로 제안 ("~할까?").
+- **표현:** 스페인어에서 현재형 의문문은 제안·의향 묻기에 자주 쓰임 (¿Vamos?, ¿Pedimos?).
+- **시제:**
+  - `Publicamos` → publicar | 직설법 현재 1인칭 복수 | 제안의 현재형 (영어 Shall we...?) | 규칙 (c→qu 철자 변화는 접속법·단순과거 1인칭에만: publiqué)
+
+### 18-12. **Álvaro:** Sí, con las correcciones de Inmaculada ya incorporadas.
+- **해석:** 응, 인마쿨라다의 수정 사항도 이미 반영됐으니까.
+- **주요 단어:** `corrección` (명사, 여) 수정 / `incorporar` (동사) 반영하다, 통합하다
+- **문법:** `con + 명사 + 과거분사`: 부대상황 "~이 ~된 채로". incorporadas는 correcciones(여성 복수)에 일치.
+- **시제:**
+  - `incorporadas` → incorporar | 과거분사 여성 복수 | 완료된 상태 | 규칙
+
+### 18-13. **Javier:** (Pulsa publicar) Hecho.
+- **해석:** (게시 버튼을 누르고) 됐다.
+- **주요 단어:** `pulsar` (동사) (버튼을) 누르다 / `hecho` 완료된
+- **문법:** `publicar`는 여기서 버튼 이름("게시")을 명사처럼 쓴 것.
+- **표현:** "Hecho." = "Done." 완료 알림.
+- **시제:**
+  - `Pulsa` → pulsar | 직설법 현재 3인칭 단수 | 지문 묘사 | 규칙
+  - `publicar` → publicar | 부정사 | 버튼 명칭으로 명사적 사용
+  - `Hecho` → hacer | 과거분사 | "완료됨"이라는 결과 상태 | 불규칙 과거분사
+
+### 18-14. **Javier:** Ya está en la web.
+- **해석:** 이제 웹에 올라갔어.
+- **주요 단어:** `ya` 이제, 벌써 / `web` (명사, 여) 웹사이트
+- **문법:** estar + 장소: 위치.
+- **표현:** "Ya está" 자체가 "다 됐다"는 관용 표현이기도 함.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 지금의 위치·상태 | 불규칙(estoy)이나 3인칭은 강세만
+
+### 18-15. **Álvaro:** Después de todo este viaje, se siente bien verlo publicado por fin.
+- **해석:** 이 긴 여정 끝에 마침내 기사가 게재된 걸 보니 기분이 좋네.
+- **주요 단어:** `viaje` (명사, 남) 여행, 여정 / `sentirse bien` 기분이 좋다 / `ver` (동사) 보다 / `por fin` 마침내
+- **문법:** `se siente bien + 부정사`: 부정사 절(verlo publicado)이 주어인 비인칭적 구문 ("~하는 것이 기분 좋게 느껴진다"). `ver + 목적어 + 과거분사`: "~이 ~된 것을 보다".
+- **표현:** 영어 "it feels good to..."에 해당. 스페인에서는 "da gusto verlo publicado"도 자연스러움.
+- **시제:**
+  - `se siente` → sentirse | 직설법 현재 3인칭 단수 | 지금의 감정 | 불규칙 어간변화 e→ie
+  - `ver(lo)` → ver | 부정사 | 문장의 주어 역할 | —
+  - `publicado` → publicar | 과거분사 남성 단수 | lo(기사)의 완료 상태 | 규칙
+
+### 18-16. **Javier:** Te lo has ganado, después de todo lo que hiciste solo esta vez.
+- **해석:** 이번에 혼자서 해낸 그 모든 걸 생각하면 넌 그럴 자격이 있어.
+- **주요 단어:** `ganarse` (재귀동사) 얻어내다, 자격을 획득하다 / `todo lo que` ~한 모든 것
+- **문법:** `ganarse algo`: 재귀형으로 "(노력으로) ~을 얻다". te(재귀) + lo(직접목적) 순서. `todo lo que + 직설법`: 실제 한 일들이라 직설법.
+- **표현:** "Te lo has ganado" = "넌 그럴 자격 있어(You've earned it)".
+- **시제:**
+  - `has ganado` → ganarse | 직설법 현재완료 2인칭 단수 | 지금까지의 노력이 현재 결과로 이어짐 | 규칙
+  - `hiciste` → hacer | 직설법 단순과거 2인칭 단수 | 끝난 과거 행위들 | 불규칙 hic- (hice, hiciste). 한 문장 안 비교: 결과(현재와 연결)는 현재완료, 구체적 과거 행위는 단순과거
+
+### 18-17. **Álvaro:** Gracias, Javier.
+- **해석:** 고마워, 하비에르.
+- **주요 단어:** `gracias` 고마워
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 18-18. **Álvaro:** Aunque prometo no hacerlo así de nuevo sin avisar a nadie.
+- **해석:** 그래도 다시는 아무한테도 알리지 않고 이렇게 하지 않겠다고 약속할게.
+- **주요 단어:** `prometer` (동사) 약속하다 / `así` 이렇게 / `de nuevo` 다시 / `nadie` 아무도
+- **문법:** `prometer + (no) + 부정사`: "~하지 않겠다고 약속하다". `sin avisar a nadie`: sin + 부정사 + 부정어 nadie(중복 부정 허용). `hacerlo`: 부정사 뒤 대명사 결합.
+- **시제:**
+  - `prometo` → prometer | 직설법 현재 1인칭 단수 | 말하는 순간 약속을 수행(수행적 현재) | 규칙
+  - `hacer(lo)` → hacer | 부정사 | prometer + 부정사
+  - `avisar` → avisar | 부정사 | sin + 부정사
+
+### 18-19. **Javier:** Eso espero, sinceramente.
+- **해석:** 진심으로 그러길 바라.
+- **주요 단어:** `esperar` (동사) 바라다, 기대하다 / `sinceramente` (부사) 진심으로
+- **문법:** `Eso espero`: 목적어 eso를 앞으로 내세운 강조 어순.
+- **표현:** "Eso espero" = "그러길 바라(I hope so)".
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙
+
+### 18-20. **Javier:** Nos diste un buen susto, aunque no lo supiéramos hasta que ya había pasado.
+- **해석:** 너 때문에 우리 정말 놀랐어. 다 지나간 뒤에야 알았지만.
+- **주요 단어:** `dar un susto` (숙어) 놀라게 하다, 겁주다 / `buen` 여기선 "꽤 큰" / `hasta que` ~할 때까지 / `pasar` (동사) 일어나다, 지나가다
+- **문법:** `aunque + 접속법 불완료과거`: 여기서는 사실(몰랐던 것은 사실)이지만 접속법을 써서 "모르긴 했어도 (그건 중요치 않다)"는 양보 뉘앙스 — 상대가 이미 아는 사실이나 중요성을 낮춘 정보에 접속법 사용. `hasta que ya había pasado`: 과거 사실이므로 직설법, 과거의 과거라 대과거.
+- **표현:** "¡Qué susto me diste!"도 흔함. 여기서 buen은 "상당한" 강조.
+- **시제:**
+  - `diste` → dar | 직설법 단순과거 2인칭 단수 | 과거의 완결된 사건 | 불규칙: -er/-ir형 어미 (di, diste, dio)
+  - `supiéramos` → saber | 접속법 불완료과거 1인칭 복수 (pretérito imperfecto de subjuntivo) | 주절이 과거 + aunque 양보(중요성 낮춤)라 접속법 과거 | 불규칙: 단순과거 supieron → supie- + ramos, 강세 supiéramos
+  - `había pasado` → pasar | 직설법 대과거 3인칭 단수 (pretérito pluscuamperfecto) | "알게 된 시점보다 더 먼저" 끝난 일 | 규칙
+
+## 장면 19. 보도의 반향
+> 보도가 나간 뒤, 국내외에서 반향이 일어납니다.
+
+### 19-1. **Javier:** (Llama, emocionado) Álvaro, el artículo se está compartiendo muchísimo.
+- **해석:** (들뜬 채 전화해서) 알바로, 기사가 엄청나게 공유되고 있어.
+- **주요 단어:** `llamar` (동사) 전화하다 / `emocionado` (형) 들뜬, 감격한 / `compartir` 앞에서 설명 / `muchísimo` (부사) 엄청나게 (mucho의 절대최상급)
+- **문법:** `se está compartiendo`: 수동의 se(pasiva refleja) + 진행형 estar + 현재분사. "기사가 공유되고 있다". 대명사 se는 estar 앞(또는 está compartiéndose).
+- **표현:** -ísimo 절대최상급은 구어에서 매우 흔함.
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 3인칭 단수 | 지문 묘사 | 규칙
+  - `emocionado` → emocionar | 과거분사 남성 단수 | 감정 상태 | 규칙
+  - `está` → estar | 직설법 현재 3인칭 단수 | 진행형 조동사 | 불규칙(1인칭 estoy)
+  - `compartiendo` → compartir | 현재분사 | 지금 이 순간 진행 중인 확산 | 규칙 -iendo
+
+### 19-2. **Javier:** Varios medios internacionales lo están citando.
+- **해석:** 여러 해외 매체가 인용하고 있어.
+- **주요 단어:** `medio` (명사, 남) 매체, 언론 / `internacional` (형) 국제의 / `citar` (동사) 인용하다
+- **문법:** 진행형에서 목적 대명사 lo가 estar 앞 (= están citándolo).
+- **시제:**
+  - `están` → estar | 직설법 현재 3인칭 복수 | 진행형 | 불규칙
+  - `citando` → citar | 현재분사 | 현재 진행 | 규칙
+
+### 19-3. **Álvaro:** ¿Alguna reacción de las autoridades?
+- **해석:** 당국에서 무슨 반응 있어?
+- **주요 단어:** `alguno/a` (형) 어떤 / `reacción` (명사, 여) 반응 / `autoridad` (명사, 여) 당국
+- **문법:** ¿(Hay) alguna reacción...? 동사 생략.
+- **시제:** 동사 없음
+
+### 19-4. **Javier:** El CNI, a través de Carlos, ha confirmado extraoficialmente que están investigando la finca activamente ahora.
+- **해석:** CNI가 카를로스를 통해, 지금 그 농장을 적극적으로 수사하고 있다고 비공식적으로 확인해 줬어.
+- **주요 단어:** `a través de` ~을 통해 / `extraoficialmente` (부사) 비공식적으로 / `investigar` 앞에서 설명 / `activamente` (부사) 적극적으로
+- **문법:** `confirmar que + 직설법`: 확인된 사실 전달. CNI(단수 기관) → ha confirmado, 이어 están(복수, 기관 구성원들을 의미상 복수로 받음).
+- **표현:** extraoficialmente = off the record.
+- **시제:**
+  - `ha confirmado` → confirmar | 직설법 현재완료 3인칭 단수 | 방금(오늘) 전해진 소식이라 현재완료(스페인식) | 규칙
+  - `están` → estar | 직설법 현재 3인칭 복수 | 진행형 | 불규칙
+  - `investigando` → investigar | 현재분사 | 현재 진행 중인 수사 | 규칙
+
+### 19-5. **Álvaro:** Eso es justo lo que esperaba conseguir.
+- **해석:** 그게 바로 내가 이루고 싶었던 거야.
+- **주요 단어:** `justo` 바로 / `lo que` ~한 것 / `esperar` 바라다 / `conseguir` (동사) 달성하다, 얻다
+- **문법:** `lo que`: 중성 관계사 "~하는 것". `esperar + 부정사`: 주어가 같을 때.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 판단 | 불규칙
+  - `esperaba` → esperar | 직설법 불완료과거 1인칭 단수 | 과거에 지속적으로 품었던 바람 | 규칙
+  - `conseguir` → conseguir | 부정사 | esperar + 부정사 | (현재형은 불규칙 consigo)
+
+### 19-6. **Javier:** Y hay más: Domingo me escribió.
+- **해석:** 그리고 더 있어. 도밍고가 나한테 메시지를 보냈어.
+- **주요 단어:** `hay` (haber 비인칭) 있다 / `más` 더 / `escribir` (동사) 쓰다, 메시지 보내다
+- **문법:** 비인칭 hay. me: 간접목적 "나에게".
+- **표현:** "Y hay más" = "그뿐이 아니야".
+- **시제:**
+  - `hay` → haber | 직설법 현재 3인칭 단수(비인칭) | 존재 표현 | 불규칙 특수형 hay
+  - `escribió` → escribir | 직설법 단순과거 3인칭 단수 | 과거의 완결된 행위(전달 시점과 분리) | 규칙 (과거분사만 불규칙 escrito). 비교: me ha escrito도 가능(오늘 일이면 현재완료); 단순과거로 이미 끝난 사건으로 제시
+
+### 19-7. **Javier:** Dice que, después de tantos años como notario viendo cosas raras sin poder hacer nada, por fin sintió que su trabajo sirvió para algo importante.
+- **해석:** 공증인으로 수년 동안 이상한 일들을 보면서도 아무것도 할 수 없었는데, 마침내 자기 일이 뭔가 중요한 일에 쓰였다고 느꼈대.
+- **주요 단어:** `decir` 말하다 / `tanto` (형) 그렇게 많은 / `notario` (명사) 공증인 / `raro` (형) 이상한 / `sentir` (동사) 느끼다 / `servir para` ~에 쓸모가 있다
+- **문법:** 간접화법 `Dice que + 직설법`. `viendo`: 현재분사로 동시·지속 동작. `sin poder + 부정사`. `sentir que + 직설법`(인지·지각 동사 긍정문이므로 직설법).
+- **표현:** servir para algo "뭔가에 도움이 되다", no servir para nada "아무 소용 없다".
+- **시제:**
+  - `Dice` → decir | 직설법 현재 3인칭 단수 | 메시지 내용을 전달(현재 유효한 말) | 불규칙 e→i (digo, dices, dice)
+  - `viendo` → ver | 현재분사 | 여러 해 동안 반복·지속된 목격 | 불규칙 철자 viendo
+  - `poder` → poder | 부정사 | sin + 부정사
+  - `hacer` → hacer | 부정사 | poder + 부정사
+  - `sintió` → sentir | 직설법 단순과거 3인칭 단수 | 보도가 나간 특정 시점의 느낌 | 불규칙 e→i (3인칭 sintió)
+  - `sirvió` → servir | 직설법 단순과거 3인칭 단수 | 완결된 결과로서의 기여 | 불규칙 e→i (sirvió)
+
+### 19-8. **Álvaro:** Eso significa mucho, después de todo lo que arriesgó, sin siquiera saberlo del todo.
+- **해석:** 그건 큰 의미가 있어. 제대로 알지도 못한 채 그렇게 많은 걸 걸었으니까.
+- **주요 단어:** `significar` (동사) 의미하다 / `arriesgar` (동사) 위험을 무릅쓰다 / `siquiera` (부사) ~조차 / `del todo` 완전히
+- **문법:** `sin siquiera + 부정사`: "~조차 하지 않고". `saberlo`: 부정사 + lo. `todo lo que + 직설법`.
+- **표현:** "Significa mucho (para mí)" = "큰 의미가 있다".
+- **시제:**
+  - `significa` → significar | 직설법 현재 3인칭 단수 | 현재 평가 | 규칙
+  - `arriesgó` → arriesgar | 직설법 단순과거 3인칭 단수 | 과거의 완결된 행위 | 규칙
+  - `saber(lo)` → saber | 부정사 | sin siquiera + 부정사
+
+### 19-9. **Javier:** ¿Y Anselmo?
+- **해석:** 안셀모는?
+- **주요 단어:** —
+- **문법:** ¿Y + 명사?: "~은?" 생략 의문문.
+- **시제:** 동사 없음
+
+### 19-10. **Álvaro:** Sigue con sus ovejas, imperturbable.
+- **해석:** 여전히 양들이랑 지내, 태연하게.
+- **주요 단어:** `seguir con` ~을 계속하다, 여전히 ~와 함께 있다 / `oveja` (명사, 여) 양 / `imperturbable` (형) 동요하지 않는
+- **문법:** seguir + con + 명사: 상태의 지속.
+- **시제:**
+  - `Sigue` → seguir | 직설법 현재 3인칭 단수 | 현재의 지속 상태 | 불규칙 e→i + gu→g (sigo, sigues, sigue)
+
+### 19-11. **Álvaro:** Le mandé una copia impresa del artículo, por si acaso, aunque dudo que le importe demasiado la fama.
+- **해석:** 혹시 몰라서 기사 인쇄본을 한 부 보냈는데, 그 사람이 명성에 별로 관심 있을 것 같진 않아.
+- **주요 단어:** `mandar` (동사) 보내다 / `copia` (명사, 여) 사본 / `impreso` (형) 인쇄된 / `por si acaso` 혹시 몰라서 / `dudar` (동사) 의심하다 / `importar` (동사) 중요하다, 관심이 있다 / `fama` (명사, 여) 명성
+- **문법:** `dudar que + 접속법`: 의심 표현 뒤 접속법. `importar`는 gustar형 동사: le importe la fama (주어는 la fama, 동사 뒤). le = 안셀모에게.
+- **표현:** por si acaso "만일을 대비해" 매우 흔함.
+- **시제:**
+  - `mandé` → mandar | 직설법 단순과거 1인칭 단수 | 과거의 완결된 행위 | 규칙
+  - `impresa` → imprimir | 과거분사 여성 단수 | 형용사 "인쇄된" | 불규칙 과거분사 impreso (imprimido도 허용)
+  - `dudo` → dudar | 직설법 현재 1인칭 단수 | 현재의 의심 | 규칙
+  - `importe` → importar | 접속법 현재 3인칭 단수 | 의심(dudar) 뒤라 접속법 | 규칙. 비교: no dudo que le importa(직설법)는 확신
+
+### 19-12. **Javier:** (Ríe) Algunos héroes prefieren quedarse en su sitio, sin más.
+- **해석:** (웃으며) 어떤 영웅들은 그냥 제자리에 있는 걸 더 좋아하지.
+- **주요 단어:** `héroe` (명사, 남) 영웅 / `preferir` (동사) 선호하다 / `quedarse` (재귀동사) 머물다 / `sitio` (명사, 남) 자리, 장소 / `sin más` 그냥, 그 이상 없이
+- **문법:** `preferir + 부정사`. `quedarse`: 재귀동사, 부정사 뒤 se 결합.
+- **표현:** sitio는 스페인에서 lugar보다 구어적으로 자주 쓰임.
+- **시제:**
+  - `Ríe` → reír | 직설법 현재 3인칭 단수 | 지문 | 불규칙(앞에서 설명)
+  - `prefieren` → preferir | 직설법 현재 3인칭 복수 | 일반적 진리 | 불규칙 e→ie
+  - `quedar(se)` → quedarse | 부정사 | preferir + 부정사
+
+### 19-13. **Álvaro:** Exactamente.
+- **해석:** 바로 그거야.
+- **주요 단어:** `exactamente` (부사) 정확히
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 19-14. **Álvaro:** Y eso también tiene su mérito.
+- **해석:** 그리고 그것도 나름 대단한 거지.
+- **주요 단어:** `mérito` (명사, 남) 가치, 공로
+- **문법:** su: 소유형용사(eso의 것).
+- **표현:** "tener su mérito" = "나름의 가치가 있다, 쉽지 않은 일이다".
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 일반적 평가 | 불규칙 e→ie
+
+### 19-15. **Javier:** ¿Qué sigue ahora, para ti?
+- **해석:** 너한텐 이제 다음은 뭐야?
+- **주요 단어:** `seguir` 여기선 "다음에 오다"
+- **문법:** qué가 주어. para ti: 전치격 대명사.
+- **표현:** "¿Qué sigue?" = "다음은 뭐야?" (¿Y ahora qué? 비슷)
+- **시제:**
+  - `sigue` → seguir | 직설법 현재 3인칭 단수 | 가까운 미래를 현재형으로 | 불규칙 (앞에서 설명)
+
+### 19-16. **Álvaro:** Descansar, primero.
+- **해석:** 우선은 쉬어야지.
+- **주요 단어:** `descansar` (동사) 쉬다 / `primero` (부사) 먼저
+- **문법:** 부정사만으로 답(계획 나열).
+- **시제:**
+  - `Descansar` → descansar | 부정사 | 계획을 명사적으로 제시 | 규칙
+
+### 19-17. **Álvaro:** Y después, seguir con la siguiente pieza del rompecabezas, supongo.
+- **해석:** 그다음엔 퍼즐의 다음 조각을 계속 맞춰 가야겠지, 아마.
+- **주요 단어:** `seguir con` ~을 계속하다 / `siguiente` (형) 다음의 / `rompecabezas` (명사, 남, 단복동형) 퍼즐 / `suponer` (동사) 추측하다
+- **문법:** 부정사로 계획 제시. supongo는 삽입구.
+- **표현:** 문장 끝 "supongo" = "아마 그렇겠지" 구어적 완화.
+- **시제:**
+  - `seguir` → seguir | 부정사 | 계획 나열
+  - `supongo` → suponer | 직설법 현재 1인칭 단수 | 현재의 추측 | 불규칙 1인칭 -go (poner형: pongo → supongo)
+
+### 19-18. **Álvaro:** Siempre hay una siguiente.
+- **해석:** 다음 조각은 늘 있으니까.
+- **주요 단어:** `siempre` 항상 / `siguiente` 다음 것
+- **문법:** una siguiente: pieza 생략, 형용사의 명사화.
+- **시제:**
+  - `hay` → haber | 직설법 현재(비인칭) | 일반적 사실 | 불규칙 hay
+
+### 19-19. **Javier:** Siempre la hay, sí.
+- **해석:** 늘 있지, 맞아.
+- **주요 단어:** 앞에서 설명
+- **문법:** `la hay`: hay의 직접목적어(una siguiente)를 대명사 la로 받음. hay 문장의 목적어는 대명사 lo/la/los/las로 대체됨.
+- **시제:**
+  - `hay` → haber | 직설법 현재(비인칭) | 일반적 사실 | 불규칙
+
+### 19-20. **Javier:** Pero hoy, disfrutemos de esta.
+- **해석:** 하지만 오늘은 이번 걸 즐기자.
+- **주요 단어:** `disfrutar de` (동사) ~을 즐기다 / `esta` (지시대명사) 이것 (= esta pieza)
+- **문법:** 1인칭 복수 명령(=접속법 현재) "~하자".
+- **표현:** Vamos a disfrutar보다 약간 더 격식 있고 다짐하는 느낌.
+- **시제:**
+  - `disfrutemos` → disfrutar | 명령법 1인칭 복수 (imperativo, 형태는 접속법 현재 presente de subjuntivo) | 청유 "~하자" | 규칙 -ar → -emos
+

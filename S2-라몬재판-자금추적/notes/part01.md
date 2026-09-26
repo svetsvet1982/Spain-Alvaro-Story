@@ -241,3 +241,281 @@
   - `Empecemos` → empezar | 명령법 1인칭 복수 (접속법 현재 형태) | 함께 하자는 제안 | 철자 변화 z→c (e 앞), nosotros형은 어간변화 없음 (empiece지만 empecemos)
   - `repasar` → repasar | 부정사 | empezar a + 부정사
 
+## 장면 2. 검사와의 비공식 만남
+> 다음 날, 알바로와 하비에르가 검사 마리나 소텔로를 비공식적으로 만납니다. 그녀는 신중하게, 그러나 결정적인 정보를 흘립니다.
+
+### 2-1. **Marina:** (Recibiéndolos en un café discreto) Gracias por la discreción.
+- **해석:** (조용한 카페에서 두 사람을 맞으며) 신중하게 해 주셔서 감사해요.
+- **주요 단어:** `recibir` (동사) 맞이하다 / `discreto` (형용사) 눈에 띄지 않는, 조심스러운 / `discreción` (여성명사) 신중함, 비밀 유지 / `gracias por` ~에 대해 감사
+- **문법:** 현재분사에 목적격 대명사 los가 뒤에 붙음 → 강세부호 추가 (recibiendo → recibiéndolos). gracias por + 명사.
+- **표현:** discreto/discreción은 "비밀을 지키는, 튀지 않는"이라는 뉘앙스.
+- **시제:**
+  - `Recibiéndolos` → recibir | 현재분사 (gerundio) + 대명사 los | 지문에서 "~하면서"라는 동시 동작 묘사 | 규칙 (-iendo)
+
+### 2-2. **Marina:** No puedo hablar de esto en mi despacho.
+- **해석:** 이 얘기는 제 사무실에서는 못 해요.
+- **주요 단어:** `hablar de` ~에 대해 말하다 / `despacho` (남성명사) 사무실, 집무실
+- **문법:** poder + 부정사.
+- **표현:** 스페인에서 개인 사무실은 `despacho`, 일반 사무 공간은 oficina.
+- **시제:**
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 현재 상황의 제약 | 불규칙 o→ue
+  - `hablar` → hablar | 부정사 | poder + 부정사
+
+### 2-3. **Javier:** Lo entendemos perfectamente.
+- **해석:** 충분히 이해합니다.
+- **주요 단어:** `entender` (동사) 이해하다 / `perfectamente` (부사) 완벽하게
+- **문법:** 중성 lo = 앞의 상황 전체.
+- **시제:**
+  - `entendemos` → entender | 직설법 현재 1인칭 복수 | 현재의 이해 | e→ie 어간변화 동사지만 nosotros형은 규칙
+
+### 2-4. **Javier:** Gracias por recibirnos.
+- **해석:** 만나 주셔서 감사합니다.
+- **주요 단어:** `recibir` 앞에서 설명
+- **문법:** gracias por + 부정사, nos가 부정사 뒤에 붙음.
+- **시제:**
+  - `recibir(nos)` → recibir | 부정사 | 전치사 por 뒤라 부정사
+
+### 2-5. **Marina:** Solo puedo confirmar u orientar, no dar declaraciones oficiales.
+- **해석:** 저는 확인해 주거나 방향만 잡아 드릴 수 있지, 공식 발언은 못 해요.
+- **주요 단어:** `confirmar` 확인하다 / `orientar` 안내하다 / `dar` (동사) 주다 / `declaración` (여성명사) 성명, 진술 / `oficial` (형용사) 공식적인
+- **문법:** o가 o-/ho-로 시작하는 단어 앞에서 u로 바뀜 (confirmar **u** orientar). solo… no… 대조.
+- **표현:** `dar declaraciones` = 공식 발언을 하다.
+- **시제:**
+  - `puedo` → poder | 직설법 현재 1인칭 단수 (앞에서 설명)
+  - `confirmar`, `orientar`, `dar` → 부정사 | 모두 puedo에 걸리는 부정사 (dar는 불규칙 동사지만 여기선 원형)
+
+### 2-6. **Marina:** Y todo esto queda extraoficial, ¿de acuerdo?
+- **해석:** 그리고 이 모든 건 비공식으로 남는 거예요, 아시겠죠?
+- **주요 단어:** `quedar` (동사) (~한 상태로) 남다, 되다 / `extraoficial` (형용사) 비공식적인
+- **문법:** quedar + 형용사 = ~한 상태로 남다(결과 상태). 부가의문 ¿de acuerdo?
+- **표현:** 문장 끝 `¿de acuerdo?`는 동의를 확인하는 부가 질문.
+- **시제:**
+  - `queda` → quedar | 직설법 현재 3인칭 단수 | 지금 정하는 조건(규칙)을 현재로 선언 | 규칙
+
+### 2-7. **Álvaro:** Por supuesto.
+- **해석:** 물론이죠.
+- **주요 단어:** `por supuesto` 물론
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 2-8. **Marina:** Bien.
+- **해석:** 좋아요.
+- **주요 단어:** `bien` (부사) 좋아
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 2-9. **Marina:** Lo que han visto en el sumario es real, aunque todavía preliminar.
+- **해석:** 수사 기록에서 보신 건 사실이에요. 아직 예비 단계이긴 하지만요.
+- **주요 단어:** `ver` (동사) 보다 / `real` (형용사) 실제의 / `preliminar` (형용사) 예비적인, 초기의
+- **문법:** lo que = ~하는 것 (중성 관계사). 주어 ustedes(Uds.)에 맞춘 3인칭 복수 han — 존칭 복수. aunque + 형용사 (동사 es 생략).
+- **표현:** 검사가 기자들에게 ustedes로 거리를 두고 말함 (스페인에서 vosotros 대신 격식체).
+- **시제:**
+  - `han visto` → ver | 직설법 현재완료 3인칭 복수 (ustedes) | 최근에 본 일이 지금 대화와 이어져 현재완료 | 불규칙 과거분사 visto
+  - `es` → ser | 직설법 현재 | 사실성 평가 (앞에서 설명)
+
+### 2-10. **Marina:** Hay transferencias que apuntan a financiación irregular.
+- **해석:** 불법 정치자금을 가리키는 송금들이 있어요.
+- **주요 단어:** `apuntar a` (동사구) ~을 가리키다, 시사하다
+- **문법:** 존재가 확인된 선행사이므로 관계절은 직설법 apuntan (1-16의 접속법과 비교).
+- **시제:**
+  - `Hay` → haber | 직설법 현재 무인칭 (앞에서 설명)
+  - `apuntan` → apuntar | 직설법 현재 3인칭 복수 | 실제 존재하는 송금을 묘사해 직설법 | 규칙
+
+### 2-11. **Javier:** ¿Y el vínculo con Íñigo Roldán es sólido?
+- **해석:** 그럼 이니고 롤단과의 연결고리는 확실한가요?
+- **주요 단어:** `vínculo` (남성명사) 연결, 유대 / `sólido` (형용사) 견고한, 탄탄한
+- **문법:** ser + 형용사 (성질 평가). 증거의 본질적 강도를 묻는 것이라 ser.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 (앞에서 설명)
+
+### 2-12. **Marina:** Bastante.
+- **해석:** 꽤 그래요.
+- **주요 단어:** `bastante` (부사) 상당히, 꽤
+- **문법:** (Es bastante sólido) 생략.
+- **시제:** 동사 없음
+
+### 2-13. **Marina:** Sus empresas facturaron servicios que, según los peritos, nunca se prestaron realmente.
+- **해석:** 그의 회사들은 감정인들에 따르면 실제로는 한 번도 제공되지 않은 서비스에 대해 청구서를 발행했어요.
+- **주요 단어:** `facturar` (동사) 청구서를 발행하다 / `servicio` (남성명사) 서비스, 용역 / `según` (전치사) ~에 따르면 / `perito` (남성명사) 감정인, 전문가 / `prestar` (동사) (서비스를) 제공하다 / `realmente` (부사) 실제로
+- **문법:** se prestaron = 수동의 se (se pasiva refleja), 주어 servicios에 맞춰 복수. nunca가 동사 앞이라 no 불필요.
+- **표현:** `prestar un servicio` = 용역을 제공하다. `perito` = 법정 감정인.
+- **시제:**
+  - `facturaron` → facturar | 직설법 단순과거 3인칭 복수 | 과거에 완결된 구체적 행위(청구서 발행) | 규칙
+  - `se prestaron` → prestar | 직설법 단순과거 3인칭 복수 (수동 se) | 완결된 과거 사실의 부정 | 규칙
+
+### 2-14. **Marina:** Facturas falsas, básicamente, para justificar el dinero que salía hacia el partido.
+- **해석:** 한마디로 가짜 청구서죠. 정당으로 나가던 돈을 정당화하려고요.
+- **주요 단어:** `factura` (여성명사) 청구서, 송장 / `falso` (형용사) 가짜의 / `básicamente` (부사) 기본적으로, 요컨대 / `justificar` (동사) 정당화하다, (회계상) 근거를 대다 / `salir` (동사) 나가다
+- **문법:** 동사 생략된 명사구. para + 부정사 = 목적.
+- **시제:**
+  - `justificar` → justificar | 부정사 | para 뒤 목적
+  - `salía` → salir | 직설법 불완료과거 3인칭 단수 | 돈이 반복적으로 계속 나가던 과정을 묘사해 불완료과거 | 규칙 (불규칙은 현재 salgo 등)
+
+### 2-15. **Álvaro:** ¿Y a cambio de qué recibía Roldán?
+- **해석:** 그럼 롤단은 그 대가로 뭘 받았죠?
+- **주요 단어:** `a cambio de` ~의 대가로 / `recibir` 받다
+- **문법:** 전치사구 a cambio de가 의문사 qué 앞에 옴 (전치사는 의문사와 함께 문두로).
+- **시제:**
+  - `recibía` → recibir | 직설법 불완료과거 3인칭 단수 | 여러 해에 걸친 반복적 수혜를 묻는 것이라 불완료과거. 단순과거 recibió는 특정 한 번의 수령
+
+### 2-16. **Marina:** Varios contratos de obra pública, en los últimos cinco años, con condiciones sospechosamente favorables.
+- **해석:** 지난 5년간 여러 건의 공공 공사 계약을, 수상할 만큼 유리한 조건으로요.
+- **주요 단어:** `varios` (형용사) 여러 / `obra pública` 공공 공사 / `último` (형용사) 최근의, 마지막의 / `condición` (여성명사) 조건 / `sospechosamente` (부사) 수상하게 / `favorable` (형용사) 유리한
+- **문법:** 동사 없는 답변. 부사가 형용사 수식 (sospechosamente favorables).
+- **시제:** 동사 없음
+
+### 2-17. **Javier:** ¿Y el tesorero, Manuel Zuazo?
+- **해석:** 그럼 회계책임자 마누엘 수아소는요?
+- **주요 단어:** `tesorero` 앞에서 설명
+- **문법:** 동사 생략 의문문 (¿Y …? = ~는요?).
+- **시제:** 동사 없음
+
+### 2-18. **Marina:** Ahí es donde tenemos que ser más cautelosos.
+- **해석:** 바로 그 부분에서 더 신중해야 해요.
+- **주요 단어:** `ahí` (부사) 거기 / `donde` (관계부사) ~하는 곳 / `cauteloso` (형용사) 신중한
+- **문법:** 강조 구문 (분열문) Ahí es donde… = "바로 거기가 ~하는 곳이다". ser + 형용사 cautelosos (사람의 태도 성향).
+- **시제:**
+  - `es` → ser | 직설법 현재 | 강조 구문의 ser
+  - `tenemos` → tener | 직설법 현재 1인칭 복수 | tener que 의무 (앞에서 설명)
+  - `ser` → ser | 부정사 | tener que + 부정사
+
+### 2-19. **Marina:** Su nombre aparece, pero todavía no hay pruebas directas de que supiera el origen del dinero.
+- **해석:** 그의 이름은 나오지만, 그가 돈의 출처를 알았다는 직접 증거는 아직 없어요.
+- **주요 단어:** `aparecer` (동사) 나타나다 / `prueba` (여성명사) 증거 / `directo` (형용사) 직접적인 / `origen` (남성명사) 출처, 기원
+- **문법:** **증거가 없다(부정)는 명사 뒤 de que 절은 접속법** → supiera. 주절이 현재(no hay)인데 내용이 과거 일이므로 접속법 과거.
+- **시제:**
+  - `aparece` → aparecer | 직설법 현재 3인칭 단수 | 문서에 이름이 나온다는 현재 사실 | -cer 동사 (1인칭 aparezco만 불규칙)
+  - `hay` → haber | 직설법 현재 무인칭 (앞에서 설명)
+  - `supiera` → saber | 접속법 불완료과거 3인칭 단수 (pretérito imperfecto de subjuntivo) | 부정·불확실(증거 없음) 뒤라 접속법, 과거의 인지 여부라 불완료과거. supiese도 같은 뜻 | 불규칙: 단순과거 supieron의 어간 supie- 에서 파생
+
+### 2-20. **Álvaro:** ¿Es posible que solo fuera el encargado de recibir y gestionar, sin preguntar de dónde venía?
+- **해석:** 그가 돈이 어디서 오는지 묻지 않고 받아서 관리만 하는 담당자였을 가능성도 있나요?
+- **주요 단어:** `posible` (형용사) 가능한 / `encargado` (남성명사) 담당자 / `gestionar` (동사) 관리하다, 처리하다 / `sin` (전치사) ~없이 / `preguntar` (동사) 묻다 / `venir` (동사) 오다
+- **문법:** **Es posible que + 접속법** (가능성 표현). sin + 부정사. 간접의문 de dónde venía (의문사 강세 유지).
+- **시제:**
+  - `Es` → ser | 직설법 현재 | 가능성을 지금 묻는 것
+  - `fuera` → ser | 접속법 불완료과거 3인칭 단수 | es posible que 뒤라 접속법, 과거의 역할을 말하므로 과거형 | 불규칙: ser와 ir가 같은 형태(fuera)
+  - `recibir`, `gestionar`, `preguntar` → 부정사 | 전치사(de, sin) 뒤라 부정사
+  - `venía` → venir | 직설법 불완료과거 3인칭 단수 | 간접의문(직설법)으로 과거에 계속 흘러들어오던 돈을 묘사 | 불완료과거는 규칙형 (venía)
+
+### 2-21. **Marina:** Es posible, sí.
+- **해석:** 가능하죠, 네.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 (앞에서 설명)
+
+### 2-22. **Marina:** Aunque en un puesto como el suyo, la ignorancia deliberada también tiene un nombre en derecho.
+- **해석:** 하지만 그 사람 같은 자리에서는, 고의적인 무지도 법적으로 이름이 붙는 행위예요.
+- **주요 단어:** `puesto` (남성명사) 직위, 자리 / `como` ~와 같은 / `ignorancia` (여성명사) 무지 / `deliberado` (형용사) 고의적인 / `derecho` (남성명사) 법, 법학
+- **문법:** el suyo = 소유대명사 (el puesto suyo). 문두 Aunque는 앞말을 제한하는 "하지만"(sin embargo 뉘앙스)으로 직설법.
+- **표현:** `ignorancia deliberada` = 법률상 "고의적 무지(의도적 외면)" 이론. `tener un nombre` = 이름(법적 개념)이 있다, 즉 처벌 대상이 될 수 있다는 암시.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수 | 일반적·법리적 사실 | 불규칙 e→ie
+
+### 2-23. **Javier:** ¿Cree que llegará a juicio, todo esto?
+- **해석:** 이 모든 게 재판까지 갈 거라고 보세요?
+- **주요 단어:** `creer` (동사) 믿다, 생각하다 / `llegar a juicio` 재판에 회부되다 / `juicio` (남성명사) 재판
+- **문법:** 의문문 ¿Cree que…? 뒤는 직설법 (긍정 의문 creer). usted에 대한 3인칭. todo esto를 문말에 둔 우측 전위(구어적 강조).
+- **시제:**
+  - `Cree` → creer | 직설법 현재 3인칭 단수 (usted) | 현재 의견을 물음 | 규칙
+  - `llegará` → llegar | 직설법 단순미래 3인칭 단수 (futuro simple) | 앞으로의 전개를 예측 | 규칙 (원형 + -á)
+
+### 2-24. **Marina:** Si seguimos encontrando lo que hemos encontrado hasta ahora, es muy probable.
+- **해석:** 지금까지 찾은 것들을 계속 찾아낸다면, 가능성이 아주 높아요.
+- **주요 단어:** `seguir` (동사) 계속하다 / `hasta ahora` 지금까지 / `probable` (형용사) 가능성 높은
+- **문법:** 실현 가능한 조건문: Si + 직설법 현재, 주절 직설법 현재. seguir + 현재분사 = 계속 ~하다.
+- **시제:**
+  - `seguimos` → seguir | 직설법 현재 1인칭 복수 | si 조건절(현실적 조건)은 현재형. si 뒤에 미래형·접속법 현재는 쓰지 않음 | nosotros형은 규칙 (sigo, sigues…에서만 e→i)
+  - `encontrando` → encontrar | 현재분사 | seguir + 현재분사 진행
+  - `hemos encontrado` → encontrar | 직설법 현재완료 1인칭 복수 | hasta ahora(지금까지)와 함께 현재까지 이어진 결과라 현재완료
+  - `es` → ser | 직설법 현재 (앞에서 설명)
+
+### 2-25. **Marina:** Aunque estas cosas llevan tiempo, y cuanto más alto se sube, más resistencia hay.
+- **해석:** 다만 이런 일은 시간이 걸리고, 위로 올라갈수록 저항도 커지죠.
+- **주요 단어:** `llevar tiempo` 시간이 걸리다 / `subir` (동사) 올라가다 / `resistencia` (여성명사) 저항
+- **문법:** 비례 비교 cuanto más …, más … (~할수록 더 ~하다). se sube = 무인칭 se ("사람이 올라갈수록").
+- **표현:** `llevar tiempo` = tardar. "위로 갈수록"은 권력 상층부를 암시.
+- **시제:**
+  - `llevan` → llevar | 직설법 현재 3인칭 복수 | 일반적 진리 | 규칙
+  - `se sube` → subir | 직설법 현재 3인칭 단수 (무인칭 se) | 일반론 | 규칙
+  - `hay` → haber | 직설법 현재 무인칭 (앞에서 설명)
+
+### 2-26. **Álvaro:** ¿Alguna recomendación para nosotros, mientras seguimos investigando?
+- **해석:** 저희가 계속 취재하는 동안 해 주실 조언이 있을까요?
+- **주요 단어:** `recomendación` (여성명사) 조언, 권고 / `mientras` (접속사) ~하는 동안 / `investigar` (동사) 조사하다, 취재하다
+- **문법:** mientras + 직설법 (현재 진행 중인 사실). 미래의 불확실한 기간이라면 접속법도 가능.
+- **시제:**
+  - `seguimos` → seguir | 직설법 현재 1인칭 복수 (앞에서 설명) | 지금 실제로 진행 중이라 직설법
+  - `investigando` → investigar | 현재분사 | seguir + 현재분사
+
+### 2-27. **Marina:** Tengan mucho cuidado con cómo obtienen la información, y protejan bien a sus fuentes.
+- **해석:** 정보를 어떻게 얻는지 아주 조심하시고, 취재원을 잘 보호하세요.
+- **주요 단어:** `tener cuidado con` ~을 조심하다 / `obtener` (동사) 얻다 / `proteger` 보호하다 / `fuente` (여성명사) 출처, 취재원
+- **문법:** ustedes 명령형 = 접속법 현재 3인칭 복수 (Tengan, protejan). 간접의문 cómo (강세). 사람 목적어 인칭 a.
+- **시제:**
+  - `Tengan` → tener | 명령법 ustedes형 (접속법 현재 형태) | 격식 있는 복수 청자에게 하는 권고 | 불규칙: 1인칭 tengo에서 어간 teng- 파생
+  - `obtienen` → obtener | 직설법 현재 3인칭 복수 | 간접의문 안의 일반적 방식 | tener 계열 불규칙 e→ie
+  - `protejan` → proteger | 명령법 ustedes형 (접속법 현재) | 권고 | 철자 변화 g→j (a 앞): proteja, protejan
+
+### 2-28. **Marina:** Si Roldán o el partido sospechan que hay una investigación periodística paralela, podrían intentar frenar la judicial también.
+- **해석:** 롤단이나 정당이 언론의 병행 취재가 있다는 걸 눈치채면, 사법 수사까지 막으려 할 수도 있어요.
+- **주요 단어:** `sospechar` (동사) 의심하다, 눈치채다 / `periodístico` (형용사) 언론의 / `paralelo` (형용사) 병행하는 / `intentar` (동사) 시도하다 / `frenar` (동사) 제동을 걸다, 막다 / `judicial` (형용사) 사법의
+- **문법:** si + 직설법 현재 → 주절 조건법(완곡한 가능성). la judicial = la investigación judicial (명사 생략). sospechar que + 직설법 (긍정).
+- **시제:**
+  - `sospechan` → sospechar | 직설법 현재 3인칭 복수 | 현실적 조건절 | 규칙
+  - `hay` → haber | 직설법 현재 (앞에서 설명)
+  - `podrían` → poder | 조건법 단순 3인칭 복수 | 가능성을 조심스럽게 경고. 직설법 pueden보다 완곡 | 불규칙 어간 podr-
+  - `intentar` → 부정사 | poder + 부정사
+  - `frenar` → 부정사 | intentar + 부정사
+
+### 2-29. **Javier:** Lo tendremos muy presente.
+- **해석:** 명심하겠습니다.
+- **주요 단어:** `tener presente` (동사구) 명심하다, 염두에 두다
+- **문법:** 중성 lo = 앞의 조언.
+- **표현:** `tener (muy) presente algo` = 꼭 기억해 두다.
+- **시제:**
+  - `tendremos` → tener | 직설법 단순미래 1인칭 복수 | 앞으로의 다짐 | 불규칙 미래 어간 tendr-
+
+### 2-30. **Marina:** Una última cosa: cuando publiquen, aunque sea la primera parte, avísenme antes.
+- **해석:** 마지막으로 하나만요. 기사를 내실 때는, 설령 첫 편이라도 미리 알려 주세요.
+- **주요 단어:** `último` 마지막의 / `publicar` (동사) 게재하다, 발표하다 / `parte` 부분, 편 / `avisar` (동사) 알리다 / `antes` (부사) 미리, 전에
+- **문법:** **cuando + 접속법** (미래의 일). **aunque + 접속법** (가정적 양보 "설령 ~라도"). ustedes 명령형에 대명사 me가 뒤에 붙음 (avísenme, 강세 추가).
+- **시제:**
+  - `publiquen` → publicar | 접속법 현재 3인칭 복수 | 아직 일어나지 않은 미래 시점이라 cuando 뒤 접속법 | 철자 변화 c→qu (e 앞)
+  - `sea` → ser | 접속법 현재 3인칭 단수 | 가정적 양보라 접속법 (직설법 es는 "실제로 첫 편이지만") | 불규칙
+  - `avísenme` → avisar | 명령법 ustedes형 (접속법 현재) + me | 요청 | 규칙
+
+### 2-31. **Marina:** Necesito estar preparada para lo que venga después.
+- **해석:** 그 후에 벌어질 일에 대비해야 하니까요.
+- **주요 단어:** `necesitar` 필요하다 / `preparado` (형용사) 준비된 / `después` (부사) 그 후에
+- **문법:** estar + 과거분사 = 결과 상태 (준비된 상태). preparada는 화자(여성)에 일치. lo que + 접속법 = 아직 알 수 없는 미래의 일.
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재의 필요
+  - `estar` → estar | 부정사 | necesitar + 부정사; 상태이므로 ser가 아닌 estar
+  - `preparada` → preparar | 과거분사 여성 단수 | 상태 형용사
+  - `venga` → venir | 접속법 현재 3인칭 단수 | 무엇이 올지 모르는 불특정 미래라 접속법 | 불규칙: 1인칭 vengo에서 어간 veng-
+
+### 2-32. **Álvaro:** Cuente con ello.
+- **해석:** 그렇게 하겠습니다 (믿으셔도 됩니다).
+- **주요 단어:** `contar con` (동사구) ~을 믿다, 기대하다 / `ello` (중성 대명사) 그것
+- **문법:** usted 명령형. 전치사 뒤 중성 대명사 ello.
+- **표현:** `Cuente con ello / Cuenta con ello` = "그렇게 될 테니 믿으세요", 약속의 관용구.
+- **시제:**
+  - `Cuente` → contar | 명령법 usted형 (접속법 현재 3인칭 단수) | 격식체 권유 | 불규칙 o→ue
+
+### 2-33. **Marina:** Gracias.
+- **해석:** 고마워요.
+- **주요 단어:** `gracias` 감사
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 2-34. **Marina:** Y buena suerte, la van a necesitar.
+- **해석:** 그리고 행운을 빌어요. 필요하실 거예요.
+- **주요 단어:** `suerte` (여성명사) 운 / `necesitar` 필요로 하다
+- **문법:** la = buena suerte를 받는 목적격 대명사, ir a + 부정사 앞으로 이동 (van a necesitarla도 가능).
+- **표현:** `la vais/van a necesitar`는 "필요할 거야"라는 약간의 경고 섞인 관용적 덕담.
+- **시제:**
+  - `van` → ir | 직설법 현재 3인칭 복수 (ustedes) | ir a + 부정사 = 가까운 미래·예측 | 불규칙 (voy, vas, va, vamos, vais, van)
+  - `necesitar` → 부정사 | ir a + 부정사. 단순미래 necesitarán보다 구어적이고 확신 있는 예측
+

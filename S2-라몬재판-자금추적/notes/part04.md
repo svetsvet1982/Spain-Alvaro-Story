@@ -216,3 +216,203 @@
   - `Empecemos` → empezar | 명령법 1인칭 복수 imperativo (nosotros), 접속법 현재형과 동일 | "~하자" 청유 | 불규칙(어간 e→ie는 nosotros에서 일어나지 않음, 철자 z→c: empecemos)
   - `escribir` → escribir | 부정사 infinitivo | empezar a 뒤 | (과거분사 불규칙: escrito)
 
+## 장면 11. 결정적 증거
+> 며칠 후, 압수된 자료에서 결정적인 증거가 발견됩니다. 마리나가 알바로와 하비에르에게 이를 알립니다.
+
+### 11-1. **Marina:** (Llama) Álvaro, Javier, necesito que vengan.
+- **해석:** (전화한다) 알바로, 하비에르, 두 분이 와 주셔야겠어요.
+- **주요 단어:** `llamar` (동사) 전화하다, 부르다 / `necesitar` (동사) 필요로 하다 / `venir` (동사) 오다
+- **문법:** `necesitar que + 접속법` — 필요·요구를 나타내는 동사 뒤 que절 주어가 다르면 접속법.
+- **표현:** ustedes(존칭 복수)로 부름. 스페인에서도 공적 관계에서는 vosotros 대신 ustedes를 씀.
+- **시제:**
+  - `Llama` (지문) → llamar | 직설법 현재, 3인칭 단수 | 지문 동작 묘사 | 규칙
+  - `necesito` → necesitar | 직설법 현재, 1인칭 단수 | 현재의 필요 | 규칙
+  - `vengan` → venir | 접속법 현재 presente de subjuntivo, 3인칭 복수(ustedes) | 요구·필요(necesito que) 뒤라 접속법 | 불규칙(vengo → venga, vengan)
+
+### 11-2. **Marina:** Hay algo que deben ver, dentro de lo que puedo mostrarles.
+- **해석:** 제가 보여드릴 수 있는 범위 안에서, 두 분이 꼭 보셔야 할 게 있어요.
+- **주요 단어:** `deber` (동사) ~해야 한다 / `ver` (동사) 보다 / `mostrar` (동사) 보여주다
+- **문법:** `hay algo que...` 관계절, 선행사 algo는 실재하는 것이라 직설법(deben). `mostrarles` — 부정사 뒤에 간접목적대명사 les 부착(les puedo mostrar도 가능).
+- **표현:** `dentro de lo que puedo mostrarles` 수사 기밀상 제한이 있음을 암시.
+- **시제:**
+  - `Hay` → haber | 직설법 현재, 비인칭 | 존재 표현 | 불규칙
+  - `deben` → deber | 직설법 현재, 3인칭 복수(ustedes) | 강한 권유·당위. 확실한 선행사 algo에 대한 관계절이므로 직설법 | 규칙
+  - `ver` → ver | 부정사 infinitivo | deber 뒤 | (활용 불규칙: veo, visto)
+  - `puedo` → poder | 직설법 현재, 1인칭 단수 | 현재의 능력·허용 범위 | 불규칙(o→ue)
+  - `mostrarles` → mostrar | 부정사 infinitivo + les | poder 뒤 | (활용 시 o→ue: muestro)
+
+### 11-3. **Álvaro:** Vamos para allá.
+- **해석:** 지금 그쪽으로 갈게요.
+- **주요 단어:** `ir` (동사) 가다 / `para allá` 그쪽으로
+- **문법:** 현재형으로 즉각적인 미래 행동을 표현.
+- **표현:** `Vamos para allá` "지금 바로 갑니다" — 전화 통화에서 흔한 구어 표현.
+- **시제:**
+  - `Vamos` → ir | 직설법 현재, 1인칭 복수 | 곧 할 행동을 현재형으로 말해 즉시성 강조 | 불규칙(vamos)
+
+### 11-4. **Marina:** (Ya en la fiscalía, les muestra una copia de un documento) Esto es un correo interno de Roldán a Zuazo, de hace dos años.
+- **해석:** (검찰청에서, 두 사람에게 문서 사본을 보여주며) 이건 2년 전에 롤단이 수아소에게 보낸 내부 이메일이에요.
+- **주요 단어:** `fiscalía` (여성명사) 검찰(청) / `mostrar` (동사) 보여주다 / `copia` (여성명사) 사본 / `documento` (남성명사) 문서 / `correo` (남성명사) 우편, 이메일 / `interno` (형용사) 내부의
+- **문법:** `de A a B` "A에게서 B에게로". `hace + 기간` "~ 전에"(hace dos años) — 여기서 hace는 동사에서 굳어진 표현.
+- **표현:** `correo` = `correo electrónico`의 줄임말(스페인 구어).
+- **시제:**
+  - `muestra` (지문) → mostrar | 직설법 현재, 3인칭 단수 | 지문 동작 | 불규칙(o→ue)
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 정체 규정 | 불규칙
+  - `hace` → hacer | 직설법 현재, 3인칭 단수(비인칭) | 경과 시간 표현 "~ 전" | 불규칙(hago)
+
+### 11-5. **Javier:** (Leyendo) "Confirmado el segundo contrato.
+- **해석:** (읽으며) "두 번째 계약 확정.
+- **주요 단어:** `leer` (동사) 읽다 / `confirmar` (동사) 확인하다, 확정하다 / `segundo` (서수) 두 번째 / `contrato` (남성명사) 계약
+- **문법:** `Confirmado el segundo contrato` = 과거분사 절대구문(Está confirmado el segundo contrato의 축약). 메모·전보체 문장.
+- **표현:** 이메일·메시지에서 흔한 간결체.
+- **시제:**
+  - `Leyendo` (지문) → leer | 현재분사 gerundio | 동작의 동시 진행 | 불규칙 철자(모음 사이 i→y: leyendo)
+  - `Confirmado` → confirmar | 과거분사 participio (남성 단수, contrato와 일치) | 완료된 결과 상태 | 규칙
+
+### 11-6. **Javier:** Como hablamos, el diez por ciento de siempre".
+- **해석:** 얘기한 대로, 늘 하던 10퍼센트."
+- **주요 단어:** `como` (접속사) ~처럼, ~대로 / `hablar` (동사) 말하다 / `por ciento` 퍼센트 / `de siempre` 늘 하던, 평소의
+- **문법:** `como + 직설법` = 사실을 가리키는 "~한 대로". 두 줄로 나눈 인용문은 하나의 메시지.
+- **표현:** `el ... de siempre` "늘 하던 그 ~" — 반복된 관행임을 암시해 결정적 증거가 됨.
+- **시제:**
+  - `hablamos` → hablar | 직설법 단순과거 pretérito indefinido, 1인칭 복수 | 과거에 완결된 대화를 가리킴(형태상 현재형과 같으니 문맥으로 판단) | 규칙
+
+### 11-7. **Álvaro:** (Sorprendido) Eso es prácticamente una confesión por escrito.
+- **해석:** (놀라며) 그건 사실상 서면 자백이네요.
+- **주요 단어:** `sorprender` (동사) 놀라게 하다 / `prácticamente` (부사) 사실상 / `confesión` (여성명사) 자백 / `por escrito` 서면으로
+- **문법:** `eso` 중성 지시대명사(상대가 말한 내용).
+- **표현:** `por escrito` "문서로, 서면으로".
+- **시제:**
+  - `Sorprendido` (지문) → sorprender | 과거분사 participio (형용사적, 남성 단수) | 놀란 상태 묘사 | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 규정·평가 | 불규칙
+
+### 11-8. **Marina:** Exactamente.
+- **해석:** 바로 그거예요.
+- **주요 단어:** `exactamente` (부사) 정확히
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-9. **Marina:** Zuazo responde, además, aceptando explícitamente los términos.
+- **해석:** 게다가 수아소가 조건을 명시적으로 수락하며 답장을 보냈어요.
+- **주요 단어:** `responder` (동사) 답하다 / `además` (부사) 게다가 / `aceptar` (동사) 받아들이다 / `explícitamente` (부사) 명시적으로 / `término` (남성명사) 조건, 조항
+- **문법:** 현재분사 `aceptando`가 방식을 나타내는 부사적 용법("~하면서, ~하는 방식으로").
+- **표현:** `los términos` 계약·합의의 "조건".
+- **시제:**
+  - `responde` → responder | 직설법 현재, 3인칭 단수 | 문서 내용을 설명할 때 쓰는 역사적 현재(문서 속에서 '답한다'). 과거 일이지만 증거를 눈앞에서 설명하므로 현재 | 규칙
+  - `aceptando` → aceptar | 현재분사 gerundio | 답장의 방식을 설명 | 규칙
+
+### 11-10. **Javier:** ¿Y esto es suficiente para imputarlos formalmente?
+- **해석:** 그럼 이걸로 그들을 정식으로 기소할 수 있나요?
+- **주요 단어:** `suficiente` (형용사) 충분한 / `imputar` (동사) (범죄 혐의를) 적용하다, 피의자로 입건하다 / `formalmente` (부사) 정식으로
+- **문법:** `ser suficiente para + 부정사`. 목적대명사 `los`가 부정사 뒤에 붙음(imputarlos).
+- **표현:** `imputar` 스페인 법률 용어 — 정식 피의자(imputado)로 지정하는 것(현재는 investigado라는 용어도 씀).
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 현재의 평가 | 불규칙
+  - `imputarlos` → imputar | 부정사 infinitivo + los | 전치사 para 뒤 | 규칙
+
+### 11-11. **Marina:** Con esto, y todo lo demás que ya teníamos, sí.
+- **해석:** 이것과, 이미 우리가 가지고 있던 나머지 모든 것을 합치면, 네.
+- **주요 단어:** `con` (전치사) ~와 함께, ~로 / `lo demás` 나머지 것 / `ya` (부사) 이미
+- **문법:** `todo lo demás que...` — 중성 lo demás를 관계절이 수식.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `teníamos` → tener | 직설법 불완료과거 pretérito imperfecto, 1인칭 복수 | 이번 증거 이전부터 지속적으로 '가지고 있던' 상태(소유 상태의 배경)라 불완료과거. 단순과거 tuvimos는 '얻었다'는 순간적 사건 뉘앙스 | 불완료과거는 규칙(tenía)
+
+### 11-12. **Marina:** El juez ha decidido abrir diligencias contra ambos.
+- **해석:** 판사가 두 사람에 대해 수사 절차를 개시하기로 결정했어요.
+- **주요 단어:** `juez` (명사) 판사 / `decidir` (동사) 결정하다 / `abrir` (동사) 열다 / `diligencias` (여성명사 복수) (사법) 수사 절차 / `ambos` (대명사) 둘 다
+- **문법:** `decidir + 부정사` "~하기로 결정하다".
+- **표현:** `abrir diligencias` 스페인 법률 용어로 "(예심) 수사 절차를 개시하다".
+- **시제:**
+  - `ha decidido` → decidir | 직설법 현재완료 pretérito perfecto compuesto, 3인칭 단수 | 최근 일어나 지금 상황에 영향을 주는 결정이라 현재완료(스페인식 용법) | haber 불규칙(ha), decidido 규칙
+  - `abrir` → abrir | 부정사 infinitivo | decidir 뒤 | 과거분사 불규칙(abierto)
+
+### 11-13. **Álvaro:** (Piensa un instante) Esto confirma todo lo que Fran nos contó, sin necesidad de exponerlo a él.
+- **해석:** (잠시 생각하며) 이건 프란을 노출시킬 필요 없이 그가 우리에게 말해준 모든 걸 확인해 주네요.
+- **주요 단어:** `pensar` (동사) 생각하다 / `instante` (남성명사) 순간 / `confirmar` (동사) 확인하다 / `contar` (동사) 이야기하다 / `necesidad` (여성명사) 필요 / `exponer` (동사) 노출시키다, 드러내다
+- **문법:** `todo lo que` "~한 모든 것". `exponerlo a él` — 목적대명사 lo 중복(a él로 강조·명확화).
+- **표현:** `sin necesidad de + 부정사` "~할 필요 없이".
+- **시제:**
+  - `Piensa` (지문) → pensar | 직설법 현재, 3인칭 단수 | 지문 동작 | 불규칙(e→ie)
+  - `confirma` → confirmar | 직설법 현재, 3인칭 단수 | 지금 눈앞의 증거가 하는 역할 | 규칙
+  - `contó` → contar | 직설법 단순과거 pretérito indefinido, 3인칭 단수 | 과거 특정 시점에 완결된 제보 | 단순과거 어간은 규칙(contó), 현재형만 o→ue(cuenta)
+  - `exponerlo` → exponer | 부정사 infinitivo + lo | 전치사 de 뒤 | 불규칙(poner 계열: expongo, 과거분사 expuesto)
+
+### 11-14. **Marina:** Exacto.
+- **해석:** 맞아요.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-15. **Marina:** Su testimonio anónimo nos orientó, pero esta prueba se sostiene por sí sola.
+- **해석:** 그의 익명 증언이 우리에게 방향을 잡아줬지만, 이 증거는 그 자체로 충분히 성립해요.
+- **주요 단어:** `testimonio` (남성명사) 증언 / `anónimo` (형용사) 익명의 / `orientar` (동사) 방향을 잡아주다 / `prueba` (여성명사) 증거 / `sostenerse` (재귀동사) 지탱되다, 성립하다
+- **문법:** `por sí sola` "그 자체로, 혼자 힘으로" — sí는 재귀 전치격 대명사, sola는 prueba(여성)에 일치.
+- **표현:** `se sostiene por sí sola` "독자적으로 입증력이 있다".
+- **시제:**
+  - `orientó` → orientar | 직설법 단순과거 pretérito indefinido, 3인칭 단수 | 과거에 완결된 도움 | 규칙
+  - `se sostiene` → sostenerse | 직설법 현재, 3인칭 단수 (재귀) | 증거의 현재·일반적 성질 | 불규칙(tener 계열 e→ie)
+
+### 11-16. **Javier:** ¿Cuándo podremos publicar esto?
+- **해석:** 이건 언제 보도할 수 있을까요?
+- **주요 단어:** `poder` (동사) ~할 수 있다 / `publicar` (동사) 게재하다, 보도하다
+- **문법:** 의문사 cuándo + 직설법 미래(직접의문문).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `podremos` → poder | 직설법 미래 futuro simple, 1인칭 복수 | 앞으로의 가능 시점을 물음 | 불규칙 어간(podr-)
+  - `publicar` → publicar | 부정사 infinitivo | poder 뒤 | 규칙(c→qu: publiqué)
+
+### 11-17. **Marina:** En cuanto se formalice la imputación, que debería ser en los próximos días.
+- **해석:** 기소가 공식화되는 즉시요. 아마 며칠 안에 될 거예요.
+- **주요 단어:** `formalizar` (동사) 공식화하다 / `imputación` (여성명사) 혐의 적용, 입건 / `deber` (동사) ~해야 하다, ~일 것이다 / `próximo` (형용사) 다음의
+- **문법:** `en cuanto + 접속법`(미래 시점). `se formalice` 수동의 se. 관계사 `que`의 선행사는 앞 절 전체(그 일이).
+- **표현:** `debería ser` "~일 것이다(아마)" — 조건법으로 추정·예상을 부드럽게.
+- **시제:**
+  - `se formalice` → formalizar(se) | 접속법 현재 presente de subjuntivo, 3인칭 단수 (수동 se) | en cuanto가 아직 오지 않은 미래를 가리키므로 접속법 | 철자 변화 z→c(formalice)
+  - `debería` → deber | 조건법 단순 condicional simple, 3인칭 단수 | 확정 대신 조심스러운 예상·추측("~일 거예요"). 직설법 debe보다 완곡 | 규칙
+  - `ser` → ser | 부정사 infinitivo | deber 뒤 | 불규칙
+
+### 11-18. **Marina:** Les avisaré en el momento exacto.
+- **해석:** 딱 그때 알려드릴게요.
+- **주요 단어:** `avisar` (동사) 알리다 / `momento` (남성명사) 순간
+- **문법:** `les` 간접목적대명사(ustedes).
+- **표현:** 특이사항 없음
+- **시제:**
+  - `avisaré` → avisar | 직설법 미래, 1인칭 단수 | 약속(앞에서 설명) | 규칙
+
+### 11-19. **Álvaro:** Gracias, Marina.
+- **해석:** 고마워요, 마리나.
+- **주요 단어:** `gracias` 고마워요
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 11-20. **Álvaro:** De verdad.
+- **해석:** 정말로요.
+- **주요 단어:** `de verdad` 정말로, 진심으로
+- **문법:** 특이사항 없음
+- **표현:** 감사를 강조하는 구어.
+- **시제:** 동사 없음
+
+### 11-21. **Marina:** Gracias a ustedes, por no soltar esto cuando se puso difícil.
+- **해석:** 제가 고맙죠. 상황이 어려워졌을 때 이 일을 놓지 않아 주셔서요.
+- **주요 단어:** `soltar` (동사) 놓다, 풀어주다 / `ponerse` (재귀동사) ~하게 되다 / `difícil` (형용사) 어려운
+- **문법:** `por + 부정사` = 이유("~해서, ~한 데 대해"). `ponerse + 형용사` = 상태 변화("~해지다").
+- **표현:** `Gracias a ustedes` "오히려 제가 감사하죠". `no soltar algo` "끝까지 물고 늘어지다".
+- **시제:**
+  - `soltar` → soltar | 부정사 infinitivo | 전치사 por 뒤 | (활용 시 o→ue: suelto)
+  - `se puso` → ponerse | 직설법 단순과거 pretérito indefinido, 3인칭 단수 | 과거 특정 시점에 일어난 상태 변화(어려워진 순간)라 단순과거 | 불규칙 강변화 어간(pus-: puse, puso)
+
+### 11-22. **Javier:** (A Álvaro, ya fuera) Creo que por fin lo tenemos.
+- **해석:** (밖에 나와서 알바로에게) 드디어 잡은 것 같아.
+- **주요 단어:** `creer` (동사) 믿다, 생각하다 / `por fin` 마침내
+- **문법:** 긍정문 `creo que + 직설법`(부정 no creo que면 접속법). `lo` = 사건/증거를 가리키는 중성적 목적대명사.
+- **표현:** `lo tenemos` "잡았다, 해냈다".
+- **시제:**
+  - `Creo` → creer | 직설법 현재, 1인칭 단수 | 현재의 의견 | 규칙(단순과거 3인칭 creyó 철자 변화)
+  - `tenemos` → tener | 직설법 현재, 1인칭 복수 | 현재 상태(확보함). 긍정의 creo que 뒤라 직설법 | 불규칙 동사지만 nosotros형은 규칙적
+
+### 11-23. **Álvaro:** Por fin.
+- **해석:** 드디어.
+- **주요 단어:** `por fin` 마침내 (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+

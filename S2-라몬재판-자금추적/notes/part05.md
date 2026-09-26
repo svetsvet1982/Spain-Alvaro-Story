@@ -317,3 +317,267 @@
 - **시제:**
   - `tendré` → tener | 직설법 단순미래 1인칭 단수 | 다짐 | 불규칙 어간 tendr-
 
+## 장면 14. 부검 결과
+> 부검 결과가 나옵니다. 예상대로 단순한 자연사가 아니었습니다.
+
+### 14-1. **Marina:** (Llama) Álvaro, tengo el resultado preliminar de la autopsia.
+- **해석:** (전화해서) 알바로, 부검 예비 결과가 나왔어요.
+- **주요 단어:** `el resultado` (명사·남) 결과 / `preliminar` (형용사) 예비의, 초기의 / `la autopsia` 부검
+- **문법:** 특이사항 없음
+- **표현:** `tengo el resultado` 직역 '결과를 가지고 있다' → '결과가 나왔다'.
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 3인칭 단수 | 지문 묘사 | 규칙
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 현재 보유 | 불규칙 1인칭 (tener → tengo)
+
+### 14-2. **Álvaro:** Dime.
+- **해석:** 말해요.
+- **주요 단어:** `decir` 말하다
+- **문법:** 긍정명령 di + me 붙임.
+- **표현:** `Dime` 전화 받을 때나 상대 말을 재촉할 때 쓰는 스페인 구어 ('응, 말해').
+- **시제:**
+  - `Dime` → decir | 긍정명령 tú | 말을 재촉 | 불규칙 명령형 (decir → di)
+
+### 14-3. **Marina:** No fue un fallo cardíaco natural.
+- **해석:** 자연적인 심장마비가 아니었어요.
+- **주요 단어:** `natural` (형용사) 자연적인
+- **문법:** ser + 명사(정체 규정).
+- **시제:**
+  - `fue` → ser | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 과거에 완결된 한 사건(죽음)의 정체를 규정 | 불규칙 (ser/ir 공통 fue). 비교: era(불완료)는 배경 묘사일 때
+
+### 14-4. **Marina:** Encontraron restos de una sustancia que pudo provocar el paro cardíaco de forma inducida.
+- **해석:** 인위적으로 심정지를 일으켰을 수 있는 물질의 흔적이 발견됐어요.
+- **주요 단어:** `los restos` (명사·남·복) 잔여물, 흔적 / `la sustancia` (명사·여) 물질 / `provocar` (동사) 일으키다 / `el paro cardíaco` 심정지 / `de forma inducida` 인위적으로, 유도된 방식으로
+- **문법:** 무인칭 3인칭 복수(Encontraron). 관계사 que(선행사 sustancia). `de forma + 형용사` = 부사구.
+- **시제:**
+  - `Encontraron` → encontrar | 직설법 단순과거 3인칭 복수 | 부검에서 완결된 발견 행위 | 규칙 (단순과거에서는 어간변화 없음)
+  - `pudo` → poder | 직설법 단순과거 3인칭 단수 | 과거의 특정 사건에 대한 가능성 '~했을 수 있다' | 불규칙 강변화 어간 pud- (poder → pudo)
+  - `provocar` → provocar | 부정사 | poder 뒤 | 규칙
+  - `inducida` → inducir | 과거분사 여성 단수 | forma를 꾸미는 형용사 | 규칙 과거분사 (현재 1인칭 induzco, 단순과거 induje는 불규칙)
+
+### 14-5. **Álvaro:** (Se le hiela la sangre) Entonces lo mataron.
+- **해석:** (피가 얼어붙는 듯하다) 그럼 살해당한 거네요.
+- **주요 단어:** `helarse` (재귀동사) 얼다 / `la sangre` (명사·여) 피 / `entonces` 그러면 / `matar` (동사) 죽이다
+- **문법:** `se le hiela la sangre`: se(재귀) + le(간접목적, 영향받는 사람) + 동사 + 주어(la sangre) 구조. `lo mataron`: 무인칭 3인칭 복수 → 한국어 수동 '살해당했다'.
+- **표현:** `helarse la sangre` 소름이 끼치다, 등골이 오싹하다.
+- **시제:**
+  - `hiela` → helar(se) | 직설법 현재 3인칭 단수 | 지문 묘사 | e→ie
+  - `mataron` → matar | 직설법 단순과거 3인칭 복수 | 과거에 완결된 단일 사건 | 규칙
+
+### 14-6. **Marina:** Todo apunta a eso, aunque todavía es pronto para confirmarlo del todo.
+- **해석:** 모든 정황이 그렇다고 가리키고 있지만, 완전히 확정하기엔 아직 일러요.
+- **주요 단어:** `apuntar a` (동사) ~을 가리키다 / `del todo` 완전히
+- **문법:** `aunque + 직설법` 사실 인정. `es pronto para + 부정사`.
+- **표현:** `Todo apunta a...` 모든 정황이 ~을 가리킨다.
+- **시제:**
+  - `apunta` → apuntar | 직설법 현재 3인칭 단수 | 현재 정황 | 규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `confirmar(lo)` → confirmar | 부정사 | para 뒤 | 규칙
+
+### 14-7. **Marina:** Se ha abierto una investigación por homicidio.
+- **해석:** 살인 사건으로 수사가 개시됐어요.
+- **주요 단어:** `abrir` (동사) 열다, 개시하다 / `la investigación` 수사 / `el homicidio` (명사·남) 살인
+- **문법:** 수동의 se + 현재완료 (수사가 열렸다). `por homicidio` 혐의·원인의 por.
+- **시제:**
+  - `se ha abierto` → abrir | 직설법 현재완료 3인칭 단수 + 수동 se | 방금 일어나 현재까지 효력이 있는 일 | 불규칙 과거분사 (abrir → abierto)
+
+### 14-8. **Álvaro:** ¿Alguna pista sobre quién pudo hacerlo?
+- **해석:** 누가 했을지 단서라도 있어요?
+- **주요 단어:** `alguno` (형용사) 어떤 / `la pista` (명사·여) 단서 / `quién` 누구
+- **문법:** 동사 생략(¿Hay alguna pista...?). `sobre quién + 동사`: 간접의문.
+- **시제:**
+  - `pudo` → poder | 직설법 단순과거 3인칭 단수 | 과거 사건의 가능성 | 앞에서 설명
+  - `hacer(lo)` → hacer | 부정사 | poder 뒤 | —
+
+### 14-9. **Marina:** Nada concreto todavía.
+- **해석:** 아직 구체적인 건 없어요.
+- **주요 단어:** `concreto` (형용사) 구체적인
+- **문법:** 동사 생략 (No hay nada concreto).
+- **시제:** 동사 없음
+
+### 14-10. **Marina:** No hay señales de entrada forzada, lo que sugiere que conocía a la persona, o que alguien tuvo acceso previo a su domicilio.
+- **해석:** 강제 침입 흔적이 없어요. 그건 그가 범인을 알고 있었거나, 누군가 미리 그의 집에 접근할 수 있었다는 뜻이죠.
+- **주요 단어:** `la señal` (명사·여) 흔적, 신호 / `la entrada` (명사·여) 진입, 입구 / `forzado` 강제된 / `sugerir` (동사) 시사하다 / `el acceso` 접근 / `previo` (형용사) 사전의
+- **문법:** `lo que`: 앞 문장 전체를 받는 관계사. `sugerir que + 직설법`(암시·시사의 의미일 때 직설법; '제안하다'일 때는 접속법). 사람 목적어 앞 인칭의 a(conocía a la persona).
+- **시제:**
+  - `hay` → haber | 직설법 현재 무인칭 | 앞에서 설명
+  - `forzada` → forzar | 과거분사 여성 단수 | entrada를 꾸미는 형용사 | 규칙 과거분사 (현재형은 o→ue: fuerzo)
+  - `sugiere` → sugerir | 직설법 현재 3인칭 단수 | 현재의 추론 | e→ie
+  - `conocía` → conocer | 직설법 불완료과거 3인칭 단수 | '알고 있었다'라는 과거의 지속 상태. 비교: conoció(단순과거)는 '처음 알게 됐다' | 규칙형
+  - `tuvo` → tener | 직설법 단순과거 3인칭 단수 | 특정 시점의 접근이라는 완결된 사실 | 불규칙 강변화 어간 tuv-
+
+### 14-11. **Álvaro:** Esto cambia completamente el caso.
+- **해석:** 이러면 사건이 완전히 달라지네요.
+- **주요 단어:** `cambiar` (동사) 바꾸다 / `completamente` 완전히
+- **문법:** 특이사항 없음
+- **시제:**
+  - `cambia` → cambiar | 직설법 현재 3인칭 단수 | 현재의 판단 | 규칙
+
+### 14-12. **Marina:** Y lo hace mucho más peligroso para todos los involucrados, incluidos ustedes.
+- **해석:** 그리고 관련된 모든 사람에게 훨씬 더 위험해졌어요. 당신들도 포함해서요.
+- **주요 단어:** `hacer + 목적어 + 형용사` ~을 …하게 만들다 / `peligroso` 위험한 / `involucrado` 연루된(사람) / `incluido` 포함된
+- **문법:** `lo hace peligroso`: lo = el caso, 목적격 보어 형용사. `los involucrados`: 과거분사의 명사화. `incluidos ustedes`: 과거분사 절대구문, ustedes에 성·수 일치.
+- **시제:**
+  - `hace` → hacer | 직설법 현재 3인칭 단수 | 현재 영향 | 불규칙 동사 (1인칭 hago), 3인칭은 규칙적 형태
+  - `involucrados` → involucrar | 과거분사 남성 복수 | 명사로 사용 | 규칙
+  - `incluidos` → incluir | 과거분사 남성 복수 | 절대구문 '~을 포함하여' | 규칙 과거분사 (현재 incluyo는 y 삽입)
+
+### 14-13. **Álvaro:** Lo sé.
+- **해석:** 알아요.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 14-14. **Álvaro:** Voy a avisar a Javier ahora mismo.
+- **해석:** 지금 바로 하비에르에게 알릴게요.
+- **주요 단어:** `avisar` 알리다
+- **문법:** `ir a + 부정사` 바로 할 계획. 사람 목적어 앞 a.
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a로 즉시 할 행동 | 불규칙 (ir → voy)
+  - `avisar` → avisar | 부정사 | ir a 뒤 | 규칙
+
+### 14-15. **Javier:** (Contesta) ¿Qué dice la autopsia?
+- **해석:** (전화를 받으며) 부검 결과 뭐래?
+- **주요 단어:** `decir` 말하다
+- **문법:** 사물(la autopsia)을 주어로 한 decir '~에 따르면'.
+- **시제:**
+  - `Contesta` → contestar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `dice` → decir | 직설법 현재 3인칭 단수 | 현재 알려진 내용 | e→i 불규칙 (digo, dices, dice)
+
+### 14-16. **Álvaro:** No fue natural.
+- **해석:** 자연사가 아니었어.
+- **주요 단어:** `natural` 자연적인
+- **문법:** 특이사항 없음
+- **시제:**
+  - `fue` → ser | 직설법 단순과거 3인칭 단수 | 앞에서 설명 (완결된 사건 규정)
+
+### 14-17. **Álvaro:** Lo envenenaron, o algo parecido.
+- **해석:** 독살당했어. 아니면 그 비슷한 거.
+- **주요 단어:** `envenenar` (동사) 독살하다 / `parecido` (형용사) 비슷한
+- **문법:** 무인칭 3인칭 복수 + lo → 수동 의미.
+- **표현:** `o algo parecido` 또는 그 비슷한 것.
+- **시제:**
+  - `envenenaron` → envenenar | 직설법 단순과거 3인칭 복수 | 완결된 과거 행위 | 규칙
+  - `parecido` → parecer | 과거분사 남성 단수 | 형용사로 사용 | 규칙 과거분사
+
+### 14-18. **Álvaro:** Están investigando como homicidio.
+- **해석:** 살인 사건으로 수사하고 있어.
+- **주요 단어:** `investigar` 수사하다 / `como` ~로서
+- **문법:** `estar + 현재분사` 진행형. 주어 없는 3인칭 복수(수사 당국).
+- **시제:**
+  - `Están` → estar | 직설법 현재 3인칭 복수 | 진행형 보조동사 | 불규칙 (강세형 están)
+  - `investigando` → investigar | 현재분사 (gerundio) | 지금 진행 중인 수사 | 규칙
+
+### 14-19. **Javier:** (En silencio unos segundos) Esto ya no es solo un caso de corrupción, Álvaro.
+- **해석:** (몇 초간 말이 없다가) 알바로, 이건 이제 단순한 부패 사건이 아니야.
+- **주요 단어:** `ya no` 더 이상 ~아니다 / `solo` 단지 / `la corrupción` 부패
+- **문법:** `ya no` 상태 변화(이전엔 그랬지만 이제는 아니다).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 사건의 성격 규정 | 불규칙
+
+### 14-20. **Álvaro:** No.
+- **해석:** 아니지.
+- **주요 단어:** `no` 아니다
+- **문법:** 부정 질문 내용에 동의하는 no.
+- **시제:** 동사 없음
+
+### 14-21. **Álvaro:** Es exactamente el mismo patrón que vimos con Fabián, con Rueda.
+- **해석:** 파비안 때, 루에다 때 봤던 것과 정확히 같은 패턴이야.
+- **주요 단어:** `exactamente` 정확히 / `el patrón` 패턴
+- **문법:** 관계사 que (선행사 patrón).
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 현재 판단 | 불규칙
+  - `vimos` → ver | 직설법 단순과거 1인칭 복수 | 특정 과거 사건(파비안 건)에서 본 것이라 단순과거. 비교: 13-18의 hemos visto는 '지금까지의 경험' 전체를 말해 현재완료 | 불규칙이지만 강세 없음 (vi, viste, vio, vimos)
+
+### 14-22. **Álvaro:** Silencian a quien puede hablar.
+- **해석:** 말할 수 있는 사람의 입을 막는 거야.
+- **주요 단어:** `silenciar` (동사) 침묵시키다 / `quien` (관계대명사) ~하는 사람
+- **문법:** `a quien`: 선행사 없는 관계대명사(= a la persona que), 사람 목적어라 a. 무인칭 3인칭 복수.
+- **시제:**
+  - `Silencian` → silenciar | 직설법 현재 3인칭 복수 | 반복되는 수법(습관적 현재) | 규칙
+  - `puede` → poder | 직설법 현재 3인칭 단수 | 일반적 가능성 | o→ue
+  - `hablar` → hablar | 부정사 | poder 뒤 | 규칙
+
+### 14-23. **Javier:** ¿Crees que esto llega hasta Rueda también?
+- **해석:** 이게 루에다까지 닿아 있다고 생각해?
+- **주요 단어:** `llegar hasta` ~까지 이르다
+- **문법:** `creer que + 직설법` (의문문).
+- **시제:**
+  - `Crees` → creer | 직설법 현재 2인칭 단수 | 앞에서 설명
+  - `llega` → llegar | 직설법 현재 3인칭 단수 | 현재의 연관성 | 규칙
+
+### 14-24. **Álvaro:** No lo sé todavía, pero no descartaría nada.
+- **해석:** 아직은 모르겠어. 하지만 어떤 가능성도 배제하진 않을 거야.
+- **주요 단어:** `descartar` 배제하다
+- **문법:** 이중 부정 no ... nada. 조건법으로 조심스러운 입장 표명.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `descartaría` → descartar | 조건법 단순형 1인칭 단수 (condicional simple) | 단정 대신 완곡하게 자기 입장을 표현 ('나라면 ~하지 않겠다') | 규칙 (부정사 + -ía)
+
+### 14-25. **Álvaro:** El dinero, al final, siempre lleva al mismo sitio.
+- **해석:** 돈은 결국 언제나 같은 곳으로 이어지지.
+- **주요 단어:** `el dinero` 돈 / `al final` 결국 / `llevar a` ~로 이끌다 / `el sitio` (명사·남) 장소
+- **문법:** a + el → al 축약.
+- **표현:** `sitio`는 스페인에서 lugar 대신 흔히 쓰는 말.
+- **시제:**
+  - `lleva` → llevar | 직설법 현재 3인칭 단수 | 일반적 진리·경험칙의 현재 | 규칙
+
+### 14-26. **Javier:** Deberíamos hablar con Carlos, entonces.
+- **해석:** 그럼 카를로스와 얘기해야겠네.
+- **주요 단어:** `deber` ~해야 하다 / `entonces` 그렇다면
+- **문법:** `deber + 부정사` 의무; 조건법으로 완곡한 제안.
+- **시제:**
+  - `Deberíamos` → deber | 조건법 단순형 1인칭 복수 | 제안·조언을 부드럽게 ('~하는 게 좋겠다') | 규칙
+  - `hablar` → hablar | 부정사 | deber 뒤 | 규칙
+
+### 14-27. **Javier:** Esto ya no es solo un tema para la fiscalía ordinaria.
+- **해석:** 이건 이제 일반 검찰만 다룰 문제가 아니야.
+- **주요 단어:** `el tema` (명사·남, -ma로 끝나지만 남성) 문제, 주제 / `la fiscalía` 검찰청 / `ordinario` 일반의, 통상의
+- **문법:** `ya no` 앞에서 설명.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 14-28. **Álvaro:** Tienes razón.
+- **해석:** 네 말이 맞아.
+- **주요 단어:** `tener razón` 옳다
+- **문법:** 특이사항 없음
+- **표현:** `tener razón` 말이 맞다 (ser razón 아님).
+- **시제:**
+  - `Tienes` → tener | 직설법 현재 2인칭 단수 | 현재 판단 | e→ie 불규칙
+
+### 14-29. **Álvaro:** Le llamo ahora.
+- **해석:** 지금 전화할게.
+- **주요 단어:** `llamar` 전화하다
+- **문법:** `le`: 남성 사람 직접목적어에 le를 쓰는 스페인식 leísmo (표준은 lo, 스페인에서는 허용).
+- **표현:** 스페인 구어의 leísmo.
+- **시제:**
+  - `llamo` → llamar | 직설법 현재 1인칭 단수 | 곧 할 행동을 현재형으로 표현 (즉시성, 구어) | 규칙
+
+### 14-30. **Javier:** Ten mucho cuidado, Álvaro.
+- **해석:** 정말 조심해, 알바로.
+- **주요 단어:** `tener cuidado` 조심하다
+- **문법:** 긍정명령 tú.
+- **시제:**
+  - `Ten` → tener | 긍정명령 tú | 앞에서 설명 (불규칙 ten)
+
+### 14-31. **Javier:** En serio.
+- **해석:** 진심이야.
+- **주요 단어:** `en serio` 진지하게, 정말로
+- **문법:** 특이사항 없음
+- **표현:** 말을 강조하는 구어.
+- **시제:** 동사 없음
+
+### 14-32. **Álvaro:** Lo tendré.
+- **해석:** 조심할게.
+- **주요 단어:** 앞에서 설명
+- **문법:** lo = cuidado (앞 문장의 명사를 대명사로 받음).
+- **시제:**
+  - `tendré` → tener | 직설법 단순미래 1인칭 단수 | 약속 | 불규칙 어간 tendr-
+
+### 14-33. **Álvaro:** Los dos lo tendremos.
+- **해석:** 우리 둘 다 조심하자.
+- **주요 단어:** `los dos` 둘 다
+- **문법:** 주어 los dos + 1인칭 복수 동사(화자 포함).
+- **시제:**
+  - `tendremos` → tener | 직설법 단순미래 1인칭 복수 | 약속·다짐 | 불규칙 어간 tendr-
+

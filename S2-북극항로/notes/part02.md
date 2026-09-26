@@ -313,3 +313,159 @@
 - **표현:** `meses más` "몇 달 더".
 - **시제:**
   - `habría tardado` → tardar | 조건법 완료 3인칭 단수 (condicional compuesto) | 과거에 실제로 일어나지 않은 일(사진이 없었던 경우)의 가상 결과라 조건법 완료. 단순 조건법 tardaría(현재·미래 가정)와 구별 | haber 조건법(habría, 어간 habr- 불규칙) + 과거분사 tardado(규칙)
+
+## 장면 8. 승리를 위한 건배
+> 며칠 후, 알바로와 카를로스가 함께 저녁을 먹으며 아크를 마무리합니다.
+
+### 8-1. **Carlos:** (Levantando la copa) Por un caso resuelto sin sustos, y con un componente internacional bien gestionado.
+- **해석:** (잔을 들며) 큰 탈 없이 해결된 사건과, 잘 처리된 국제 공조를 위하여.
+- **주요 단어:** `levantar` (동사) 들어 올리다 / `copa` (명사, 여성) (와인) 잔 / `caso` (명사, 남성) 사건 / `resolver` (동사) 해결하다 / `susto` (명사, 남성) 놀람, 위기 / `gestionar` (동사) 관리·처리하다
+- **문법:** 건배사 `Por + 명사` "~을 위하여". 과거분사 resuelto(caso에 일치), gestionado(componente에 일치)가 형용사 역할.
+- **표현:** `sin sustos` "놀랄 일 없이, 무사히". `levantar la copa` 건배하려고 잔을 들다.
+- **시제:**
+  - `Levantando` → levantar | 현재분사 (gerundio) | 지문에서 말하는 동시에 진행 중인 동작 | 규칙
+  - `resuelto` → resolver | 과거분사 | 해결된 결과 상태 | 불규칙 과거분사 (resolver → resuelto)
+  - `gestionado` → gestionar | 과거분사 | 처리된 상태 | 규칙
+
+### 8-2. **Álvaro:** Brindo por eso, sin duda.
+- **해석:** 물론이지, 그걸 위해 건배.
+- **주요 단어:** `brindar` (동사) 건배하다 / `sin duda` 틀림없이, 물론
+- **문법:** `brindar por ~` "~을 위해 건배하다".
+- **시제:**
+  - `Brindo` → brindar | 직설법 현재 1인칭 단수 | 말하는 순간 행위가 이루어지는 수행적 현재 | 규칙
+
+### 8-3. **Carlos:** ¿Cómo está Javier?
+- **해석:** 하비에르는 좀 어때?
+- **주요 단어:** `cómo` (의문사) 어떻게
+- **문법:** 건강·상태를 물을 때 estar.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재 상태를 물음, 일시적 상태라 estar | 불규칙
+
+### 8-4. **Álvaro:** Mejorando cada semana.
+- **해석:** 매주 좋아지고 있어.
+- **주요 단어:** `mejorar` (동사) 나아지다 / `semana` (명사, 여성) 주
+- **문법:** `(Está) mejorando` — estar 생략된 현재진행.
+- **시제:**
+  - `Mejorando` → mejorar | 현재분사 | 생략된 estar와 함께 지금 진행 중인 점진적 변화 | 규칙
+
+### 8-5. **Álvaro:** Ya casi ha vuelto a la redacción a tiempo parcial.
+- **해석:** 이제 거의 파트타임으로 편집국에 복귀했어.
+- **주요 단어:** `casi` (부사) 거의 / `volver` (동사) 돌아오다 / `redacción` (명사, 여성) 편집국; 작문 / `a tiempo parcial` 파트타임으로
+- **문법:** `volver a + 장소` "~로 돌아가다"(volver a + 부정사 "다시 ~하다"와 구별).
+- **표현:** `a tiempo parcial` ↔ `a tiempo completo`(풀타임).
+- **시제:**
+  - `ha vuelto` → volver | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | 결과가 지금까지 이어지는 최근의 변화라 현재완료 | haber 현재 ha + 불규칙 과거분사 vuelto (volver → vuelto)
+
+### 8-6. **Carlos:** Me alegra mucho oírlo.
+- **해석:** 그 말 들으니 정말 기쁘다.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `oír` (동사) 듣다
+- **문법:** gustar형 구문: 주어는 `oírlo`(부정사), me는 간접목적. lo(=그 소식)는 부정사 뒤에 붙음, oír의 강세 부호 유지.
+- **표현:** `Me alegra oír(lo)` "(그 얘기를) 들으니 반갑다".
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재 3인칭 단수 | 지금 느끼는 감정, 주어가 부정사라 3인칭 단수 | 규칙
+  - `oírlo` → oír | 부정사 + 대명사 | alegrar의 주어로 쓰인 명사적 부정사 | 불규칙 동사 (oigo, oyes)
+
+### 8-7. **Carlos:** Y en cuanto a Ibargüen, va a tener que responder por bastante más que unos papeles mal rellenados.
+- **해석:** 그리고 이바르구엔 얘기라면, 서류 몇 장 잘못 쓴 것보다 훨씬 많은 것에 대해 책임져야 할 거야.
+- **주요 단어:** `en cuanto a ~` ~에 관해서는 / `responder por ~` ~에 대해 책임지다 / `bastante` (부사) 꽤, 상당히 / `papel` 서류 / `rellenar` (동사) (서류를) 작성하다, 채우다
+- **문법:** `ir a + tener que + 부정사` "~해야 할 것이다"(미래 + 의무 결합). `más que` 비교("~보다 더"). `en cuanto a`(~에 관해) vs `en cuanto`(~하자마자) 구별.
+- **표현:** `papeles mal rellenados` "잘못 기재된 서류" — 단순한 서류 위반 수준이 아님을 비꼬는 표현.
+- **시제:**
+  - `va` → ir | 직설법 현재 3인칭 단수 | ir a + 부정사로 예상되는 미래 | 불규칙
+  - `tener` → tener | 부정사 | ir a 뒤, tener que 의무 구문 | 불규칙 동사(원형)
+  - `responder` → responder | 부정사 | tener que 뒤 | 규칙
+  - `rellenados` → rellenar | 과거분사 (남성 복수) | papeles를 수식하는 형용사 | 규칙
+
+### 8-8. **Álvaro:** ¿Y la empresa?
+- **해석:** 그럼 회사는?
+- **주요 단어:** `empresa` (명사, 여성) 회사
+- **문법:** 동사 생략 의문문.
+- **시제:** 동사 없음
+
+### 8-9. **Álvaro:** ¿Seguirá operando?
+- **해석:** 계속 영업할까?
+- **주요 단어:** `seguir` 계속하다 / `operar` (동사) 운영·영업하다
+- **문법:** `seguir + 현재분사` "계속 ~하다".
+- **시제:**
+  - `Seguirá` → seguir | 직설법 단순미래 3인칭 단수 | 앞으로의 일을 묻는 미래(추측을 담은 질문) | 미래형은 규칙
+  - `operando` → operar | 현재분사 | seguir와 결합해 지속 | 규칙
+
+### 8-10. **Carlos:** Bajo intervención judicial, de momento.
+- **해석:** 당분간은 법원 관리하에 있어.
+- **주요 단어:** `bajo` (전치사) ~ 아래 / `intervención judicial` 법원의 관리(법정 관리) / `de momento` 당분간, 현재로서는
+- **문법:** 동사(está / seguirá) 생략.
+- **표현:** `de momento` = por ahora "지금으로선".
+- **시제:** 동사 없음
+
+### 8-11. **Carlos:** Habrá que ver qué queda de Nortia cuando esto termine.
+- **해석:** 이게 끝나면 노르티아에 뭐가 남을지 두고 봐야지.
+- **주요 단어:** `haber que + 부정사` ~해야 한다(비인칭) / `ver` (동사) 보다 / `quedar` (동사) 남다 / `terminar` (동사) 끝나다
+- **문법:** `haber que` 비인칭 의무(주어 없음, 3인칭 단수만). 간접의문문 `qué queda`는 직설법. `cuando + 접속법` — 미래 시점이면 접속법.
+- **표현:** `Habrá que ver` "두고 봐야 한다" — 결과를 장담 못할 때 쓰는 관용 표현.
+- **시제:**
+  - `Habrá` → haber | 직설법 단순미래 3인칭 단수 | 앞으로 해야 할 일(미래의 필요) | 불규칙 어간 habr-
+  - `ver` → ver | 부정사 | haber que 뒤 | 불규칙 동사(원형)
+  - `queda` → quedar | 직설법 현재 3인칭 단수 | 간접의문문 속 내용, 현재형이지만 문맥상 그 시점에 남을 것 | 규칙
+  - `termine` → terminar | 접속법 현재 3인칭 단수 | cuando가 아직 오지 않은 미래를 가리키므로 접속법(미래형 terminará 불가) | 규칙
+
+### 8-12. **Álvaro:** ¿Y el resto de la red, los compradores?
+- **해석:** 그럼 조직의 나머지, 구매자들은?
+- **주요 단어:** `resto` (명사, 남성) 나머지 / `red` (명사, 여성) 네트워크, 조직망 / `comprador` (명사, 남성) 구매자
+- **문법:** 동사 생략 의문문. `los compradores`는 el resto de la red의 동격 설명.
+- **시제:** 동사 없음
+
+### 8-13. **Carlos:** Ahí es donde la cosa se complica.
+- **해석:** 바로 거기서 일이 복잡해져.
+- **주요 단어:** `ahí` (부사) 거기 / `cosa` (명사, 여성) 일, 것 / `complicarse` (재귀동사) 복잡해지다
+- **문법:** 강조 구문 `Ahí es donde ~` "~하는 곳은 바로 거기다"(분열문). 재귀동사 complicarse = 저절로 복잡해지다.
+- **표현:** `la cosa se complica` "상황이 꼬인다" — 구어에서 매우 흔함.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 강조 구문의 ser | 불규칙
+  - `se complica` → complicarse | 직설법 현재 3인칭 단수 | 현재 상황의 일반적 설명 | 규칙 (접속법 complique에서 c→qu)
+
+### 8-14. **Carlos:** Estamos colaborando con varios países para rastrear el destino final, pero eso llevará tiempo.
+- **해석:** 최종 목적지를 추적하려고 여러 나라와 협력하고 있지만, 그건 시간이 걸릴 거야.
+- **주요 단어:** `colaborar` (동사) 협력하다 / `varios` (형용사) 여러 / `rastrear` (동사) 추적하다 / `llevar` (동사) 가져가다; (시간이) 걸리다
+- **문법:** `estar + 현재분사` 현재진행. `para + 부정사` 목적. `llevar tiempo` "시간이 걸리다"(주어는 일 자체).
+- **표현:** `eso llevará tiempo` "시간이 좀 걸릴 거야".
+- **시제:**
+  - `Estamos` → estar | 직설법 현재 1인칭 복수 | 진행형 조동사 | 불규칙
+  - `colaborando` → colaborar | 현재분사 | 지금 진행 중인 지속 행위 | 규칙
+  - `rastrear` → rastrear | 부정사 | para 뒤 | 규칙
+  - `llevará` → llevar | 직설법 단순미래 3인칭 단수 | 앞으로의 예측 | 규칙
+
+### 8-15. **Álvaro:** Al menos, un envío menos que llegue a donde no debía.
+- **해석:** 그래도 가서는 안 될 곳에 도착하는 화물이 하나 줄었잖아.
+- **주요 단어:** `al menos` 적어도 / `menos` 덜, 하나 적은 / `llegar` (동사) 도착하다 / `deber` (동사) ~해야 하다
+- **문법:** 관계절 `que llegue` — '하나 줄어든(=존재하지 않게 된) 화물'이라는 비현실·부정적 선행사를 수식하므로 접속법. `donde no debía (llegar)` — 반복되는 llegar 생략. `a donde` 방향.
+- **표현:** `un ... menos` "~ 하나가 줄었다" — 성과를 소박하게 말하는 표현.
+- **시제:**
+  - `llegue` → llegar | 접속법 현재 3인칭 단수 | 실제로는 일어나지 않게 된 가상의 도착을 말하는 관계절이라 접속법 | 철자 변화 g→gu (e 앞에서 [g] 소리 유지)
+  - `debía` → deber | 직설법 불완료과거 3인칭 단수 | 원래부터(과거 계속) 그곳에 가서는 안 됐다는 당위를 배경처럼 서술해 불완료과거. 단순과거 debió는 한 시점의 의무를 말해 여기선 어색 | 규칙
+
+### 8-16. **Carlos:** Exacto.
+- **해석:** 바로 그거야.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **표현:** 동의할 때 쓰는 "맞아, 바로 그거야".
+- **시제:** 동사 없음
+
+### 8-17. **Carlos:** Y eso, en este trabajo, ya es una victoria considerable.
+- **해석:** 그리고 이 일에서는 그것만으로도 상당한 승리야.
+- **주요 단어:** `victoria` (명사, 여성) 승리 / `considerable` (형용사) 상당한
+- **문법:** `ya` = "그것만으로도 이미". 삽입구 `en este trabajo`.
+- **표현:** `ya es mucho` 류 표현 — "그 정도면 충분히 대단하다".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 평가·규정이라 ser 현재 | 불규칙
+
+### 8-18. **Álvaro:** Brindemos por las victorias considerables, entonces.
+- **해석:** 그럼 상당한 승리들을 위해 건배하자.
+- **주요 단어:** `brindar` 앞에서 설명 / `entonces` 그럼
+- **문법:** 접속법 현재 1인칭 복수로 nosotros 명령(권유, "~하자").
+- **표현:** 상대 말을 받아 건배사로 만드는 재치 있는 응답.
+- **시제:**
+  - `Brindemos` → brindar | 접속법 현재 1인칭 복수 (nosotros 명령형 imperativo) | "~합시다" 권유는 접속법 현재 1인칭 복수로 표현 | 규칙 (-ar → -emos)
+
+### 8-19. **Carlos:** Por las victorias considerables.
+- **해석:** 상당한 승리들을 위하여.
+- **문법:** 건배사 `Por + 명사`(앞에서 설명).
+- **시제:** 동사 없음

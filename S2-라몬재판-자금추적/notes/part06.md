@@ -449,3 +449,171 @@
   - `cerrar` → cerrar | 부정사
   - `cueste` (×2) → costar | 접속법 현재, 3인칭 단수 | 불확정·양보를 나타내는 관용 구문이라 접속법 | 어간모음변화(o→ue)
 
+## 장면 18. 롤단 재판의 최종 판결
+> 몇 주 후, 재판 최종 판결이 내려집니다.
+
+### 18-1. **Jueza:** (Leyendo el fallo) Este tribunal declara a Íñigo Roldán culpable de los delitos de cohecho y financiación ilegal de partidos políticos.
+- **해석:** (판결문을 읽으며) 본 법정은 이니고 롤단에게 뇌물 수수 및 정당 불법 자금 제공 혐의에 대해 유죄를 선고합니다.
+- **주요 단어:** `leer` (동사) 읽다 / `fallo` (명사, 남) 판결 / `tribunal` (명사, 남) 법정 / `declarar` (동사) 선언하다 / `culpable` (형용사) 유죄의 / `delito` (명사, 남) 범죄 / `cohecho` (명사, 남) 뇌물죄 / `financiación` (명사, 여) 자금 조달(스페인식; 중남미 financiamiento) / `partido político` 정당
+- **문법:** `declarar a alguien + 형용사` = ~를 ...라고 선언하다. 사람 목적어 앞 인칭 a.
+- **표현:** 법정 공식 문구. `Este tribunal` – 판사가 자신을 3인칭으로 칭함.
+- **시제:**
+  - `Leyendo` → leer | 현재분사 | 판결문을 읽는 동시 동작 | 불규칙 철자(le-yendo, i→y)
+  - `declara` → declarar | 직설법 현재, 3인칭 단수 | 선고 행위 자체를 현재형으로 수행(수행적 현재)
+
+### 18-2. **Jueza:** Se le condena a cuatro años de prisión, además de una multa equivalente al triple de las cantidades ilícitamente entregadas.
+- **해석:** 피고에게 징역 4년과 함께 불법으로 건넨 금액의 세 배에 해당하는 벌금을 선고합니다.
+- **주요 단어:** `condenar a` (동사) ~형을 선고하다 / `prisión` (명사, 여) 징역 / `multa` (명사, 여) 벌금 / `equivalente a` ~에 상당하는 / `triple` (명사) 세 배 / `cantidad` (명사, 여) 금액 / `ilícitamente` 불법적으로 / `entregar` (동사) 건네다
+- **문법:** `se le condena` – 무인칭 se + 목적격 대명사 le(피고). 무인칭 se 구문에서는 사람 직접목적어를 lo 대신 le로 쓰는 것이 일반적(se le condena, se le acusa). 과거분사 `entregadas`는 cantidades에 일치(여성 복수).
+- **표현:** 법률 문체의 무인칭 se.
+- **시제:**
+  - `condena` → condenar | 직설법 현재, 3인칭 단수(무인칭 se) | 선고 행위를 현재형으로 수행
+  - `entregadas` → entregar | 과거분사 | 형용사적 수식(이미 건네진)
+
+### 18-3. **Marina:** (En voz baja, a Álvaro) Es una condena sólida, dadas las circunstancias.
+- **해석:** (낮은 목소리로 알바로에게) 상황을 감안하면 탄탄한 판결이에요.
+- **주요 단어:** `condena` (명사, 여) 형벌, 유죄판결 / `sólido` (형용사) 견고한 / `dado` (dar의 과거분사) 주어진 / `circunstancia` (명사, 여) 상황
+- **문법:** `dadas las circunstancias` – 과거분사 독립구문('상황을 고려하면'), dadas는 circunstancias에 일치.
+- **시제:**
+  - `Es` → ser | 직설법 현재, 3인칭 단수 | 평가
+  - `dadas` → dar | 과거분사 | 독립 분사구문 | 불규칙 아님(dado)
+
+### 18-4. **Álvaro:** (Asiente, tomando notas) ¿Y en cuanto al partido?
+- **해석:** (메모하며 고개를 끄덕인다) 그럼 정당은요?
+- **주요 단어:** `asentir` (동사) 끄덕이다, 동의하다 / `tomar notas` 메모하다 / `en cuanto a` ~에 관해서는
+- **문법:** `en cuanto a + el` = al.
+- **시제:**
+  - `Asiente` → asentir | 직설법 현재, 3인칭 단수 | 지문 동작 | 어간모음변화(e→ie)
+  - `tomando` → tomar | 현재분사 | 동시 동작
+
+### 18-5. **Marina:** Eso queda para otro procedimiento, administrativo, aparte de este.
+- **해석:** 그건 이번 재판과 별도로, 다른 행정 절차에서 다뤄질 몫이에요.
+- **주요 단어:** `quedar para` ~로 남겨지다 / `procedimiento` (명사, 남) 절차 / `administrativo` (형용사) 행정의 / `aparte de` ~와 별도로
+- **문법:** 지시대명사 `este`(= este procedimiento).
+- **표현:** `quedar para` – '(나중 일로) 남다'.
+- **시제:**
+  - `queda` → quedar | 직설법 현재, 3인칭 단수 | 현재 정해진 상황
+
+### 18-6. **Marina:** Pero la sentencia deja muy claro que hubo un delito.
+- **해석:** 하지만 판결은 범죄가 있었다는 걸 아주 분명히 해요.
+- **주요 단어:** `sentencia` (명사, 여) 판결 / `dejar claro` 분명히 하다 / `delito` 범죄
+- **문법:** `dejar + 형용사` = ~한 상태로 만들다. 사실 확인이라 que 뒤 직설법.
+- **시제:**
+  - `deja` → dejar | 직설법 현재, 3인칭 단수 | 판결의 현재 효과
+  - `hubo` → haber | 직설법 단순과거 pretérito indefinido, 무인칭 | 과거에 완결된 사건(범죄 발생) | 불규칙(hubo)
+  - 비교: `había`(불완료과거)는 배경적 존재, `hubo`는 일어난 사건 자체.
+
+### 18-7. **Jueza:** Se levanta la sesión.
+- **해석:** 이것으로 폐정합니다.
+- **주요 단어:** `levantar` (동사) 들어 올리다, (회의를) 끝내다 / `sesión` (명사, 여) 회기, 공판
+- **문법:** 수동 se (la sesión이 주어).
+- **표현:** `Se levanta la sesión` – 법정·회의의 폐회 선언 고정 문구.
+- **시제:**
+  - `Se levanta` → levantar | 직설법 현재, 3인칭 단수(수동 se) | 선언 행위 자체(수행적 현재)
+
+### 18-8. **Javier:** (Ya fuera del juzgado) Cuatro años.
+- **해석:** (법원 밖에서) 4년이라.
+- **주요 단어:** `fuera de` ~ 밖에 / `juzgado` (명사, 남) 법원
+- **문법:** 동사 생략.
+- **시제:** 동사 없음
+
+### 18-9. **Javier:** No está mal, para lo que suele pasar en estos casos.
+- **해석:** 이런 사건에서 보통 일어나는 걸 생각하면 나쁘지 않아.
+- **주요 단어:** `mal` 나쁘게 / `soler` (동사) 보통 ~하다 / `pasar` (동사) 일어나다
+- **문법:** `para lo que` – '~에 비하면'. `soler + 부정사` 습관.
+- **표현:** `No está mal` – "나쁘지 않네"(estar + 부사).
+- **시제:**
+  - `está` → estar | 직설법 현재, 3인칭 단수 | 현재 평가
+  - `suele` → soler | 직설법 현재, 3인칭 단수 | 일반적 경향 | 어간모음변화(o→ue)
+  - `pasar` → pasar | 부정사 | soler 뒤
+
+### 18-10. **Álvaro:** Aunque no deja de ser agridulce, con Zuazo muerto y sin que la investigación de su asesinato haya avanzado del todo.
+- **해석:** 그래도 씁쓸한 건 어쩔 수 없어. 수아소는 죽었고, 그의 살해 수사는 아직 제대로 진척되지도 않았으니까.
+- **주요 단어:** `dejar de` ~하기를 그만두다 / `agridulce` (형용사) 달콤씁쓸한 / `muerto` (morir의 과거분사) 죽은 / `avanzar` (동사) 진척되다 / `del todo` 완전히
+- **문법:** `no dejar de ser` = 여전히 ~이다. `sin que + 접속법`(sin que 뒤는 항상 접속법). `con + 명사 + 과거분사` 상황 묘사.
+- **표현:** `no deja de ser agridulce` – '그래도 씁쓸하긴 하다'.
+- **시제:**
+  - `deja` → dejar | 직설법 현재, 3인칭 단수 | 현재 평가
+  - `ser` → ser | 부정사 | dejar de 뒤
+  - `muerto` → morir | 과거분사 | 상태 | 불규칙 과거분사(morir → muerto)
+  - `haya avanzado` → avanzar | 접속법 현재완료 pretérito perfecto de subjuntivo, 3인칭 단수 | sin que가 접속법을 요구 + 지금까지 완료 여부를 말하므로 현재완료
+
+### 18-11. **Marina:** Esa parte sigue abierta, y con la conexión a Rueda, no va a cerrarse pronto.
+- **해석:** 그 부분은 아직 열려 있고, 루에다와 연결된 이상 금방 끝나진 않을 거예요.
+- **주요 단어:** `parte` (명사, 여) 부분 / `abierto` (abrir의 과거분사) 열린 / `conexión` (명사, 여) 연결 / `cerrarse` 닫히다 / `pronto` 곧
+- **문법:** `seguir + 형용사`. 재귀대명사가 부정사 뒤(cerrarse).
+- **시제:**
+  - `sigue` → seguir | 직설법 현재, 3인칭 단수 | 지속 상태
+  - `abierta` → abrir | 과거분사 | 불규칙(abrir → abierto)
+  - `va` → ir | 직설법 현재 | ir a + 부정사 예측
+  - `cerrarse` → cerrarse | 부정사 | 미래 예측 내용
+
+### 18-12. **Javier:** ¿Alguna novedad sobre "El Ceniza"?
+- **해석:** "엘 세니사"에 대해선 새 소식 있어요?
+- **주요 단어:** `novedad` (명사, 여) 새 소식
+- **문법:** 동사(hay) 생략.
+- **시제:** 동사 없음
+
+### 18-13. **Marina:** Nada que pueda compartir todavía.
+- **해석:** 아직 공유할 수 있는 건 없어요.
+- **주요 단어:** `compartir` (동사) 공유하다 / `todavía` 아직
+- **문법:** 부정 선행사(nada) + 관계절 → 접속법.
+- **시제:**
+  - `pueda` → poder | 접속법 현재, 1인칭 단수 | 존재하지 않는 선행사라 접속법 | 어간모음변화(o→ue)
+  - `compartir` → compartir | 부정사
+
+### 18-14. **Marina:** Pero Carlos me ha dicho que están cerca.
+- **해석:** 하지만 카를로스가 거의 다 왔다고 했어요.
+- **주요 단어:** `decir` (동사) 말하다 / `cerca` 가까이
+- **문법:** 간접화법 `decir que` + 직설법(전달).
+- **시제:**
+  - `ha dicho` → decir | 직설법 현재완료, 3인칭 단수 | 최근에 들은 말, 현재와 연결 | 불규칙 과거분사(dicho)
+  - `están` → estar | 직설법 현재, 3인칭 복수 | 전달 내용이 지금도 유효
+
+### 18-15. **Álvaro:** Eso espero de verdad.
+- **해석:** 정말 그러길 바라요.
+- **주요 단어:** `de verdad` 진심으로
+- **문법:** 중성대명사 eso가 목적어로 앞에 나옴.
+- **시제:**
+  - `espero` → esperar | 직설법 현재, 1인칭 단수 | 현재의 바람
+
+### 18-16. **Marina:** Bueno, felicidades a los dos.
+- **해석:** 자, 두 분 모두 축하해요.
+- **주요 단어:** `felicidades` 축하합니다 / `los dos` 두 사람
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 18-17. **Marina:** El reportaje, el juicio... han hecho un trabajo excelente.
+- **해석:** 기사도, 재판도… 정말 훌륭하게 해내셨어요.
+- **주요 단어:** `reportaje` (명사, 남) 르포 기사 / `trabajo` (명사, 남) 일 / `excelente` 훌륭한
+- **문법:** 주어 ustedes(두 분) 생략 – 3인칭 복수 활용.
+- **표현:** 마리나는 두 기자에게 ustedes(존칭 복수)를 씀.
+- **시제:**
+  - `han hecho` → hacer | 직설법 현재완료, 3인칭 복수(ustedes) | 지금 막 결실을 맺은 성과 | 불규칙 과거분사(hecho)
+
+### 18-18. **Javier:** Gracias, Marina.
+- **해석:** 고마워요, 마리나.
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 18-19. **Javier:** No habría sido posible sin usted.
+- **해석:** 당신이 없었으면 불가능했을 거예요.
+- **주요 단어:** `posible` 가능한 / `sin` ~ 없이
+- **문법:** 과거 사실 반대 가정의 귀결절. `sin usted`가 조건(= si no hubiera sido por usted) 역할.
+- **시제:**
+  - `habría sido` → ser | 조건법 완료 condicional compuesto, 3인칭 단수 | 과거에 실제 일어나지 않은 가정의 결과 | 불규칙(ser → sido)
+
+### 18-20. **Marina:** Ni sin ustedes.
+- **해석:** 여러분이 없었어도 마찬가지고요.
+- **문법:** `ni` = 그리고 ~도 아니다(앞 부정문에 호응), 동사 생략.
+- **시제:** 동사 없음
+
+### 18-21. **Marina:** Nos vemos pronto, espero, en circunstancias menos tensas.
+- **해석:** 곧 또 봬요. 좀 덜 긴장되는 상황에서요.
+- **주요 단어:** `verse` (상호재귀) 서로 보다 / `tenso` (형용사) 긴장된
+- **문법:** 상호 재귀 nos vemos.
+- **표현:** `Nos vemos` – 작별 인사 "또 봐요".
+- **시제:**
+  - `vemos` → ver(se) | 직설법 현재, 1인칭 복수 | 가까운 미래를 현재형으로
+  - `espero` → esperar | 직설법 현재, 1인칭 단수 | 삽입된 바람
+

@@ -309,3 +309,282 @@
   - `prefiera` → preferir | 접속법 현재 3인칭 단수 (usted) | como 뒤 상대 선택이 정해지지 않은 내용이라 접속법 | 불규칙 e→ie
   - 비교: Como prefiere(직설법)는 "당신이 (이미) 선호하는 대로" — 알려진 사실.
 
+## 장면 22. 아슬아슬한 탈출
+> 알바로가 시메온의 주의를 끄는 동안, 카밀라가 겨우 사무실을 빠져나옵니다.
+
+### 22-1. **Camila:** (Sale silenciosamente por una puerta lateral, justo antes de que Simeón llegue) ...
+- **해석:** (시메온이 도착하기 직전, 옆문으로 조용히 빠져나간다) ...
+- **주요 단어:** `silenciosamente` (부사) 조용히 / `puerta lateral` (명사구) 옆문 / `justo antes de que` 바로 ~하기 직전에 / `llegar` (동사) 도착하다
+- **문법:** `antes de que + 접속법` — antes de que 뒤에는 항상 접속법 (아직 일어나지 않은 일). 주어가 다르므로 antes de + 부정사가 아닌 antes de que + 절.
+- **시제:**
+  - `Sale` → salir | 직설법 현재 3인칭 단수 | 지문 묘사 | 1인칭 불규칙 (salgo)
+  - `llegue` → llegar | 접속법 현재 3인칭 단수 | antes de que 뒤 필수 접속법 | 철자 변화 g→gu (llegue)
+
+### 22-2. **Simeón:** (Entra en el despacho, revisa brevemente) Todo parece en orden.
+- **해석:** (집무실에 들어가 잠깐 살펴본다) 다 이상 없어 보이네요.
+- **주요 단어:** `entrar en` ~에 들어가다 (스페인에선 en, 중남미는 a도) / `brevemente` (부사) 잠깐 / `en orden` 정돈된·이상 없는
+- **문법:** parecer + 보어 (~처럼 보이다).
+- **시제:**
+  - `Entra` → entrar | 직설법 현재 3인칭 단수 | 지문 | 규칙형
+  - `revisa` → revisar | 직설법 현재 3인칭 단수 | 지문 | 규칙형
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재의 인상 | 1인칭 불규칙 (parezco)
+
+### 22-3. **Simeón:** Habrá sido una luz que alguien olvidó apagar.
+- **해석:** 누가 끄는 걸 깜빡한 불이었겠죠.
+- **주요 단어:** `olvidar + 부정사` ~하는 것을 잊다 / `apagar` (동사) 끄다
+- **문법:** 미래완료로 과거 사건에 대한 추측 표현. 관계대명사 que가 luz를 받음.
+- **시제:**
+  - `Habrá sido` → ser | 직설법 미래완료 3인칭 단수 (futuro compuesto / futuro perfecto) | 과거(에 가까운 일)에 대한 추측 "~였을 것이다" | haber 미래 불규칙 (habr-) + 과거분사 sido
+  - `olvidó` → olvidar | 직설법 단순과거 3인칭 단수 | 과거의 완결 행위 | 규칙형
+  - `apagar` → apagar | 부정사 | olvidar의 목적어 | 규칙형
+  - 비교: 추측의 미래(Será...)는 현재 추측, 미래완료(Habrá sido...)는 완료된 일에 대한 추측, 조건법(Sería...)은 더 먼 과거 추측.
+
+### 22-4. **Álvaro:** (Con alivio disimulado) Eso mismo pensé.
+- **해석:** (안도감을 숨기며) 저도 딱 그렇게 생각했어요.
+- **주요 단어:** `alivio` (명사) 안도 / `disimulado` (형용사, disimular의 과거분사) 숨긴 / `eso mismo` 바로 그것
+- **문법:** 목적어 eso mismo 전치로 강조.
+- **시제:**
+  - `disimulado` → disimular | 과거분사 (형용사) | 감춰진 상태 | 규칙형
+  - `pensé` → pensar | 직설법 단순과거 1인칭 단수 | 과거 한 시점의 생각 | 규칙형 (단순과거엔 어간변화 없음)
+
+### 22-5. **Simeón:** Bueno, vuelva a dormir.
+- **해석:** 자, 다시 주무세요.
+- **주요 단어:** `bueno` (간투사) 자·그럼
+- **표현:** Bueno = 대화 마무리·전환
+- **시제:**
+  - `vuelva` → volver | 명령법 usted | 앞에서 설명
+  - `dormir` → dormir | 부정사 | 앞에서 설명
+
+### 22-6. **Simeón:** Mañana hay trabajo temprano.
+- **해석:** 내일 아침 일찍 일이 있어요.
+- **주요 단어:** `mañana` (부사) 내일 / `temprano` (부사) 일찍
+- **문법:** 미래 일정도 현재형 hay로 표현 가능 (시간 부사 mañana가 미래 표시).
+- **시제:**
+  - `hay` → haber | 직설법 현재 (비인칭) | 확정된 일정은 현재형으로 | 불규칙
+
+### 22-7. **Álvaro:** Así lo haré.
+- **해석:** 그렇게 할게요.
+- **주요 단어:** `así` (부사) 그렇게
+- **문법:** 중성 대명사 lo가 앞 내용(다시 자는 것)을 받음.
+- **표현:** Así lo haré = 공손한 수락 표현
+- **시제:**
+  - `haré` → hacer | 직설법 단순미래 1인칭 단수 | 약속·의지 | 불규칙 미래 어간 har-
+
+### 22-8. **Álvaro:** Buenas noches, Simeón.
+- **해석:** 안녕히 주무세요, 시메온.
+- **표현:** Buenas noches = 밤 인사 (만날 때·헤어질 때 모두)
+- **시제:** 동사 없음
+
+### 22-9. **Simeón:** (Se aleja, todavía con cierta desconfianza en la mirada) Buenas noches.
+- **해석:** (여전히 눈빛에 약간의 의심을 품은 채 멀어진다) 안녕히 주무세요.
+- **주요 단어:** `alejarse` (재귀동사) 멀어지다 / `todavía` 여전히 / `cierto, -a` (명사 앞) 어느 정도의 / `desconfianza` 불신 / `mirada` 눈빛
+- **문법:** cierto가 명사 앞에서 부정관사 없이 "어느 정도의"라는 뜻.
+- **시제:**
+  - `Se aleja` → alejarse | 직설법 현재 3인칭 단수 | 지문 | 규칙형
+  - 대사는 동사 없음
+
+### 22-10. **Álvaro:** (Encuentra a Camila esperando, tensa, en la oscuridad) ¿Consiguió todo?
+- **해석:** (어둠 속에서 긴장한 채 기다리는 카밀라를 찾는다) 다 챙겼어요?
+- **주요 단어:** `encontrar` (동사) 찾다·발견하다 / `oscuridad` (명사) 어둠 / `conseguir` (동사) 얻다·해내다
+- **문법:** 사람 목적어 a Camila. `encontrar a alguien + 현재분사` = ~하고 있는 누군가를 발견하다.
+- **시제:**
+  - `Encuentra` → encontrar | 직설법 현재 3인칭 단수 | 지문 | 불규칙 o→ue
+  - `esperando` → esperar | 현재분사 | 목적어의 진행 상태 | 규칙형
+  - `Consiguió` → conseguir | 직설법 단순과거 3인칭 단수 (usted) | 방금 끝난 완결 행위의 결과 확인 | 불규칙 e→i (3인칭 단순과거 consiguió)
+
+### 22-11. **Camila:** (Con la voz temblorosa por la adrenalina) Todo.
+- **해석:** (아드레날린으로 떨리는 목소리로) 전부요.
+- **주요 단어:** `tembloroso` 앞에서 설명 / `por` (전치사) ~ 때문에 (원인)
+- **시제:** 동사 없음
+
+### 22-12. **Camila:** Justo a tiempo.
+- **해석:** 딱 맞춰서요.
+- **주요 단어:** `justo a tiempo` (숙어) 아슬아슬하게 제때
+- **시제:** 동사 없음
+
+### 22-13. **Álvaro:** Eso ha sido demasiado cerca.
+- **해석:** 정말 아슬아슬했어요.
+- **주요 단어:** `demasiado` 너무 / `cerca` 가까이
+- **문법:** 부사 cerca를 보어로 사용한 구어체 (영어 "too close"와 비슷). 
+- **표현:** Ha sido demasiado cerca = 간발의 차였다 (스페인에서는 Ha estado muy cerca / Por los pelos도 흔함).
+- **시제:**
+  - `ha sido` → ser | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | 방금 일어나 현재와 연결된 일이라 현재완료 (스페인식 용법) | haber 현재 + 불규칙 과거분사 sido
+  - 비교: Fue demasiado cerca(단순과거)는 중남미식 또는 끝난 과거로 거리 두기.
+
+### 22-14. **Camila:** Demasiado.
+- **해석:** 너무요.
+- **시제:** 동사 없음
+
+### 22-15. **Camila:** Necesitamos sacar esta información de aquí cuanto antes.
+- **해석:** 이 정보를 가능한 한 빨리 여기서 빼내야 해요.
+- **주요 단어:** `necesitar` (동사) 필요하다 / `sacar` (동사) 꺼내다·빼내다 / `cuanto antes` (숙어) 가능한 한 빨리
+- **문법:** necesitar + 부정사 = ~해야 한다.
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요 | 규칙형
+  - `sacar` → sacar | 부정사 | 규칙형 (접속법 c→qu: saque)
+
+### 22-16. **Álvaro:** Mañana, en cuanto tenga oportunidad, contactaré con mi gente.
+- **해석:** 내일 기회가 생기는 대로 우리 쪽 사람들에게 연락할게요.
+- **주요 단어:** `en cuanto` (접속사) ~하자마자 / `oportunidad` (명사) 기회 / `contactar con` ~와 연락하다 / `mi gente` 내 사람들(동료)
+- **문법:** 시간 접속사(en cuanto, cuando, hasta que) + 미래의 일 → 접속법.
+- **시제:**
+  - `tenga` → tener | 접속법 현재 1인칭 단수 | 아직 일어나지 않은 미래 시간절이라 접속법 | 불규칙 (tengo → tenga)
+  - `contactaré` → contactar | 직설법 단순미래 1인칭 단수 | 확실한 계획·약속 | 규칙 미래
+  - 비교: en cuanto tengo(직설법)는 습관 "~할 때마다 늘".
+
+### 22-17. **Camila:** (Lo mira con una mezcla de miedo y determinación) Entonces esto está pasando de verdad.
+- **해석:** (두려움과 결의가 뒤섞인 눈으로 그를 본다) 그럼 이게 정말로 일어나고 있는 거네요.
+- **주요 단어:** `mezcla` (명사) 혼합 / `miedo` 두려움 / `determinación` 결의 / `pasar` (동사) 일어나다 / `de verdad` 정말로
+- **시제:**
+  - `mira` → mirar | 직설법 현재 3인칭 단수 | 지문 | 규칙형
+  - `está pasando` → pasar | 현재진행 (estar 현재 + 현재분사) | 지금 전개되고 있는 상황 강조 | 규칙형
+
+### 22-18. **Álvaro:** De verdad.
+- **해석:** 정말로요.
+- **시제:** 동사 없음
+
+### 22-19. **Álvaro:** Ya casi terminamos, Camila.
+- **해석:** 이제 거의 끝나가요, 카밀라.
+- **주요 단어:** `ya casi` 이제 거의 / `terminar` 앞에서 설명
+- **문법:** ya casi + 현재 = 거의 다 되어 간다.
+- **시제:**
+  - `terminamos` → terminar | 직설법 현재 1인칭 복수 | 곧 완료될 현재 상황 (형태상 단순과거와 동일하지만 casi와 문맥상 현재) | 규칙형
+
+## 장면 23. 비상 연락
+> 다음 날, 알바로가 극도로 조심스럽게 유일하게 허락된 비상 연락 수단을 사용합니다.
+
+### 23-1. **Álvaro:** (En el pueblo, usando un teléfono público con un código preestablecido) Es Duarte.
+- **해석:** (마을에서 미리 정해 둔 코드로 공중전화를 쓰며) 두아르테입니다.
+- **주요 단어:** `pueblo` (명사) 마을 / `usar` (동사) 사용하다 / `teléfono público` 공중전화 / `código` 코드 / `preestablecido` (형용사) 미리 정해진
+- **문법:** 전화로 자신을 밝힐 때 Soy 대신 Es (+이름)도 씀 — 여기선 코드네임/신원 확인.
+- **시제:**
+  - `usando` → usar | 현재분사 | 지문 속 동작 | 규칙형
+  - `preestablecido` → preestablecer | 과거분사 (형용사) | "사전에 정해진" 결과 상태 | 규칙 과거분사 (활용은 establecer처럼 establezco)
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 신원 확인 | 불규칙
+
+### 23-2. **Álvaro:** Repito, es Duarte.
+- **해석:** 반복합니다, 두아르테입니다.
+- **주요 단어:** `repetir` (동사) 반복하다
+- **표현:** 무전·통신 관용 표현 "Repito".
+- **시제:**
+  - `Repito` → repetir | 직설법 현재 1인칭 단수 | 지금 하는 발화 행위 | 불규칙 e→i
+  - `es` → ser | 앞에서 설명
+
+### 23-3. **Operador:** (Voz automatizada) Mensaje recibido.
+- **해석:** (자동 음성) 메시지 수신됨.
+- **주요 단어:** `automatizado` (형용사) 자동화된 / `mensaje` (명사, 남) 메시지 / `recibir` 받다
+- **문법:** 명사 + 과거분사의 축약 수동 표현 (= El mensaje ha sido recibido).
+- **시제:**
+  - `automatizada` → automatizar | 과거분사 (형용사) | 상태 묘사 | 규칙형
+  - `recibido` → recibir | 과거분사 | 완료된 수동 결과 | 규칙형
+
+### 23-4. **Operador:** Transmita en quince segundos.
+- **해석:** 15초 안에 전송하십시오.
+- **주요 단어:** `transmitir` (동사) 전송하다 / `en + 시간` ~ 후에·~ 안에
+- **시제:**
+  - `Transmita` → transmitir | 명령법 긍정 usted | 기계적 정중 지시 | 규칙형 (접속법형)
+
+### 23-5. **Álvaro:** (Rápido, en voz baja) Tengo pruebas documentales completas.
+- **해석:** (빠르게, 낮은 목소리로) 완전한 문서 증거를 확보했습니다.
+- **주요 단어:** `en voz baja` 작은 목소리로 / `prueba` (명사) 증거 / `documental` (형용사) 문서의 / `completo` 완전한
+- **시제:**
+  - `Tengo` → tener | 직설법 현재 1인칭 단수 | 현재 보유 상태 | 불규칙 1인칭 (tengo)
+
+### 23-6. **Álvaro:** Conexión confirmada con Vicente Rueda.
+- **해석:** 비센테 루에다와의 연결 확인됨.
+- **주요 단어:** `confirmar` 확인하다
+- **문법:** 보고체 축약 — 명사 + 과거분사 (confirmada, conexión에 성수 일치).
+- **시제:**
+  - `confirmada` → confirmar | 과거분사 | 완료된 결과를 간결히 보고 | 규칙형
+
+### 23-7. **Álvaro:** Necesito extracción para dos personas en los próximos días.
+- **해석:** 앞으로 며칠 내에 두 사람 탈출 지원이 필요합니다.
+- **주요 단어:** `extracción` (명사) (작전) 탈출·구출 / `próximo` 다음의
+- **시제:**
+  - `Necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재의 필요 | 규칙형
+
+### 23-8. **Álvaro:** Punto de encuentro habitual.
+- **해석:** 평소 접선 장소로.
+- **주요 단어:** `punto de encuentro` 만남 장소 / `habitual` 평소의
+- **문법:** 명사구 (encuentro는 명사).
+- **시제:** 동사 없음
+
+### 23-9. **Operador:** Mensaje registrado.
+- **해석:** 메시지 기록됨.
+- **주요 단어:** `registrar` 기록하다
+- **시제:**
+  - `registrado` → registrar | 과거분사 | 완료 결과 보고 | 규칙형
+
+### 23-10. **Operador:** Fin de transmisión.
+- **해석:** 전송 종료.
+- **주요 단어:** `fin` 끝 / `transmisión` 전송
+- **시제:** 동사 없음
+
+### 23-11. **Álvaro:** (Cuelga, mirando alrededor con nerviosismo) Espero que llegue a tiempo.
+- **해석:** (초조하게 주위를 둘러보며 전화를 끊는다) 제때 도착해야 할 텐데.
+- **주요 단어:** `colgar` (동사) 전화를 끊다 / `alrededor` 주위 / `nerviosismo` 초조함 / `llegar a tiempo` 제때 도착하다
+- **문법:** `esperar que + 접속법` — 희망 동사 뒤 종속절은 접속법. 주어는 생략(메시지/구조대).
+- **시제:**
+  - `Cuelga` → colgar | 직설법 현재 3인칭 단수 | 지문 | 불규칙 o→ue
+  - `mirando` → mirar | 현재분사 | 동시 동작 | 규칙형
+  - `Espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙형
+  - `llegue` → llegar | 접속법 현재 3인칭 단수 | 희망 뒤라 접속법 | g→gu
+
+### 23-12. **Camila:** (Esperando cerca, ansiosa) ¿Ha funcionado?
+- **해석:** (근처에서 초조하게 기다리며) 됐어요?
+- **주요 단어:** `ansioso` 초조한 / `funcionar` 작동하다·잘 되다
+- **시제:**
+  - `Esperando` → esperar | 현재분사 | 지문 | 규칙형
+  - `Ha funcionado` → funcionar | 직설법 현재완료 3인칭 단수 | 방금 끝난 일의 결과를 물음 (스페인식) | 규칙형
+
+### 23-13. **Álvaro:** Eso espero.
+- **해석:** 그러길 바라요.
+- **표현:** Eso espero = 그랬으면 좋겠다 (정형 표현)
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙형
+
+### 23-14. **Álvaro:** No hay forma de confirmar si el mensaje llegó, hasta que alguien responda en el punto de encuentro.
+- **해석:** 접선 장소에서 누가 응답하기 전까지는 메시지가 도착했는지 확인할 방법이 없어요.
+- **주요 단어:** `forma de + 부정사` ~할 방법 / `si` (접속사) ~인지 / `hasta que` ~할 때까지 / `responder` 응답하다
+- **문법:** 간접의문 si + 직설법. `hasta que + 접속법` — 미래 시점이라 접속법.
+- **시제:**
+  - `hay` → haber | 직설법 현재 (비인칭) | 현재 사실 | 불규칙
+  - `confirmar` → confirmar | 부정사 | forma de 뒤 | 규칙형
+  - `llegó` → llegar | 직설법 단순과거 3인칭 단수 | 이미 보낸 메시지가 (과거에) 도착했는지 | 규칙형
+  - `responda` → responder | 접속법 현재 3인칭 단수 | 미래의 일을 가리키는 시간절이라 접속법 | 규칙형
+
+### 23-15. **Camila:** ¿Y si no llega a tiempo?
+- **해석:** 만약 제때 안 오면요?
+- **문법:** 실현 가능한 조건 si + 직설법 현재 (si 뒤에 접속법 현재는 쓰지 않음).
+- **시제:**
+  - `llega` → llegar | 직설법 현재 3인칭 단수 | 현실적 조건절 | 규칙형
+
+### 23-16. **Álvaro:** Entonces tendremos que encontrar otra forma de salir de aquí, nosotros solos.
+- **해석:** 그럼 우리끼리 여기서 빠져나갈 다른 방법을 찾아야겠죠.
+- **주요 단어:** `tener que` ~해야 한다 / `otra forma` 다른 방법 / `salir de` ~에서 나가다 / `solos` 우리끼리
+- **문법:** si 조건절에 대한 결과절 → 미래형. nosotros solos 강조.
+- **시제:**
+  - `tendremos` → tener | 직설법 단순미래 1인칭 복수 | 조건에 따른 미래 결과 | 불규칙 미래 어간 tendr-
+  - `encontrar` → encontrar | 부정사 | tener que 뒤
+  - `salir` → salir | 부정사 | forma de 뒤
+
+### 23-17. **Camila:** (Respira hondo, con determinación) Como hemos hecho hasta ahora.
+- **해석:** (결연하게 깊이 숨을 들이쉰다) 지금까지 해 온 것처럼요.
+- **주요 단어:** `respirar hondo` 깊이 숨 쉬다 / `hasta ahora` 지금까지
+- **문법:** como + 직설법 (실제로 해 온 일이라 직설법).
+- **시제:**
+  - `Respira` → respirar | 직설법 현재 3인칭 단수 | 지문 | 규칙형
+  - `hemos hecho` → hacer | 직설법 현재완료 1인칭 복수 | hasta ahora처럼 현재까지 이어지는 기간 | 불규칙 과거분사 hecho
+
+### 23-18. **Álvaro:** Exactamente.
+- **해석:** 바로 그거예요.
+- **시제:** 동사 없음
+
+### 23-19. **Álvaro:** Volvamos, antes de que alguien note nuestra ausencia.
+- **해석:** 누가 우리가 없는 걸 알아채기 전에 돌아갑시다.
+- **주요 단어:** `volver` 돌아가다 / `notar` 알아차리다 / `ausencia` 부재
+- **문법:** nosotros 명령 (~합시다) = 접속법 현재 1인칭 복수. antes de que + 접속법.
+- **시제:**
+  - `Volvamos` → volver | 명령법 nosotros (접속법 현재 1인칭 복수) | 권유 | nosotros형은 어간변화 없음 (vuelva → volvamos)
+  - `note` → notar | 접속법 현재 3인칭 단수 | antes de que 뒤 필수 접속법 | 규칙형
+

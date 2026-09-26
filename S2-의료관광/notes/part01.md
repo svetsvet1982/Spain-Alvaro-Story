@@ -258,3 +258,322 @@
 - **시제:**
   - `cuenta` → contar | 긍정명령 2인칭 단수 (imperativo, tú) | 상대에게 "나를 믿어라" 하는 권유형 명령 | 어간변화(o→ue: contar→cuenta; tú 명령형 = 직설법 3인칭 단수형)
 
+## 장면 2. 엘레나 박사의 속성 교육
+> 다음 날, 신뢰할 수 있는 의사 엘레나 페라스 박사가 알바로에게 증상 묘사와 의료 용어를 속성으로 가르칩니다.
+
+### 2-1. **Elena:** Bueno, Álvaro, empecemos por lo básico.
+- **해석:** 자, 알바로, 기본부터 시작하죠.
+- **주요 단어:** `bueno` (감탄사) 자, 그럼 / `empezar por` ~부터 시작하다 / `lo básico` 기본적인 것
+- **문법:** `empecemos`: nosotros 청유형 "~합시다" = 접속법 현재 1인칭 복수. `lo + 형용사` 추상명사화.
+- **표현:** 문두 `Bueno,` 는 화제 전환·말 시작의 담화표지.
+- **시제:**
+  - `empecemos` → empezar | 접속법 현재 1인칭 복수를 쓴 청유 명령 (imperativo de nosotros) | "~하자"는 제안 | 철자 변화(z→c: empecemos), nosotros형은 어간모음 변화 없음
+  - 비교: `vamos a empezar`(구어적 "시작해 봅시다")와 뜻은 비슷, empecemos가 좀 더 격식적.
+
+### 2-2. **Elena:** Vas a presentarte con dolores articulares crónicos y fatiga persistente.
+- **해석:** 당신은 만성 관절 통증과 지속적인 피로를 호소하며 (진료를) 받게 될 거예요.
+- **주요 단어:** `presentarse` 앞에서 설명 / `dolor articular`, `crónico`, `fatiga persistente` 앞에서 설명
+- **문법:** `presentarte`: 재귀대명사 te가 부정사 뒤에 붙음 (te vas a presentar도 가능). 여기서 Elena는 tú를 쓰는데, 다음 대사부터는 usted(Diga, Le preguntarán)로 바뀜 — 연습용 역할극으로 의사-환자 말투를 쓰기 때문으로 볼 수 있음.
+- **시제:**
+  - `Vas` → ir | 직설법 현재 2인칭 단수 | ir a + 부정사 근접미래: 정해진 계획 | 불규칙
+  - `presentarte` → presentarse | 부정사 (재귀) | ir a 뒤
+
+### 2-3. **Elena:** Necesitas sonar convincente.
+- **해석:** 설득력 있게 들려야 해요.
+- **주요 단어:** `convincente` (형용사) 설득력 있는 (← convencer)
+- **문법:** necesitar + 부정사 (주어 동일).
+- **시제:**
+  - `Necesitas` → necesitar | 직설법 현재 2인칭 단수 | 현재의 필요 | 규칙
+  - `sonar` → sonar | 부정사 | 앞에서 설명
+
+### 2-4. **Álvaro:** Adelante, dígame qué debo saber.
+- **해석:** 말씀하세요, 뭘 알아야 하는지 알려 주세요.
+- **주요 단어:** `adelante` (부사) 앞으로; (감탄) 어서 하세요 / `saber` (동사) 알다
+- **문법:** `dígame` = diga + me, usted 긍정명령 뒤에 대명사 부착 → 강세 표시(dí-) 필요. `qué debo saber` 간접의문문.
+- **표현:** `Adelante` "계속하세요/어서요". 의사에게 존칭(usted) 사용.
+- **시제:**
+  - `dígame` → decir | 명령법 usted 긍정 (접속법 현재 3인칭 단수형 diga) | 존칭으로 정중한 요청 | 불규칙(decir → diga)
+  - `debo` → deber | 직설법 현재 1인칭 단수 | 해야 할 일(의무) | 규칙
+  - `saber` → saber | 부정사 | deber 뒤
+
+### 2-5. **Elena:** Primero, la forma de describir el dolor.
+- **해석:** 첫째, 통증을 묘사하는 방식이에요.
+- **주요 단어:** `primero` (부사) 먼저 / `forma` (명사, 여) 방식 / `describir` 앞에서 설명
+- **문법:** `la forma de + 부정사` "~하는 방법". 동사 생략 명사구.
+- **시제:**
+  - `describir` → describir | 부정사 | 전치사 de 뒤 명사적 용법
+
+### 2-6. **Elena:** No es lo mismo decir “me duele” que describir el tipo de dolor: punzante, sordo, intermitente.
+- **해석:** "아파요"라고 말하는 것과 통증의 종류—찌르는 듯한, 둔한, 간헐적인—를 묘사하는 것은 같지 않아요.
+- **주요 단어:** `lo mismo` 같은 것 / `doler` (동사) 아프다 / `punzante` (형용사) 찌르는 듯한 / `sordo` (형용사) 귀가 먼; (통증이) 둔한, 묵직한 / `intermitente` (형용사) 간헐적인
+- **문법:**
+  - `No es lo mismo A que B`: "A와 B는 같지 않다" — 비교 구문에서 que 사용.
+  - 부정사(decir, describir)가 주어 역할.
+  - `me duele`: doler는 gustar형 동사 (아픈 부위가 주어, me = 나에게).
+- **표현:** `dolor sordo` "둔통, 묵직한 통증" 의학 표현. `No es lo mismo...` 일상에서 매우 흔함.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 진리 | 불규칙
+  - `decir` → decir | 부정사 | 명사적 용법(주어)
+  - `duele` → doler | 직설법 현재 3인칭 단수 | 인용문 속 현재 통증 | 어간변화(o→ue)
+  - `describir` → describir | 부정사 | 명사적 용법
+
+### 2-7. **Álvaro:** ¿Cuál sería más creíble para mi caso?
+- **해석:** 제 경우엔 어떤 게 더 그럴듯할까요?
+- **주요 단어:** `cuál` (의문대명사) 어느 것 / `creíble` 앞에서 설명
+- **문법:** 여러 선택지 중 고르는 질문이라 qué가 아닌 cuál. 비교급 `más + 형용사`.
+- **시제:**
+  - `sería` → ser | 조건법 1·3인칭 단수 (condicional simple), 여기선 3인칭 | 가정적 판단 "(그렇게 한다면) ~일까" | 규칙 어미(ser + ía)
+
+### 2-8. **Elena:** Un dolor sordo y constante en las articulaciones, que empeora por las mañanas.
+- **해석:** 관절에 묵직하고 지속적인 통증, 그리고 그게 아침마다 심해지는 거요.
+- **주요 단어:** `constante` (형용사) 끊임없는 / `articulación` (명사, 여) 관절 / `empeorar` (동사) 악화되다 / `por las mañanas` 아침마다
+- **문법:** 설명적 관계절 `, que empeora`. 동사 생략 명사구 답변.
+- **표현:** `por las mañanas` (복수) "아침마다" — 습관·반복.
+- **시제:**
+  - `empeora` → empeorar | 직설법 현재 3인칭 단수 | 반복되는 증상 패턴 | 규칙
+
+### 2-9. **Elena:** Es un patrón típico de dolencias crónicas leves, fácil de mantener sin levantar sospechas médicas.
+- **해석:** 가벼운 만성 질환의 전형적인 패턴이라, 의학적 의심을 사지 않고 유지하기 쉬워요.
+- **주요 단어:** `patrón` (명사, 남) 패턴, 양상 / `típico` (형용사) 전형적인 / `leve` (형용사) 가벼운 / `mantener` (동사) 유지하다
+- **문법:** `fácil de + 부정사` "~하기 쉬운" (형용사 + de + 부정사, 수동적 의미). `sin + 부정사`.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 분류·정의 | 불규칙
+  - `mantener` → mantener | 부정사 | fácil de 뒤 (tener형 불규칙 동사)
+  - `levantar` → levantar | 부정사 | sin 뒤 (앞에서 설명)
+
+### 2-10. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entender` (동사) 이해하다
+- **표현:** "Entendido" = 알겠다(이해 완료). 군대·업무 톤의 짧은 대답.
+- **시제:**
+  - `Entendido` → entender | 과거분사 남성 단수 | "(말씀하신 것) 이해됨" 완료 상태를 나타내는 독립 분사 | 규칙
+
+### 2-11. **Álvaro:** ¿Y la fatiga?
+- **해석:** 그럼 피로는요?
+- **문법:** `¿Y + 명사?` "~는요?" 화제 전환 질문.
+- **시제:** 동사 없음
+
+### 2-12. **Elena:** Diga que se cansa con facilidad, incluso con esfuerzos mínimos, y que no mejora aunque duerma bien.
+- **해석:** 쉽게 지친다고, 아주 작은 움직임에도 그렇고, 잠을 잘 자도 나아지지 않는다고 말하세요.
+- **주요 단어:** `cansarse` (재귀동사) 지치다 / `con facilidad` 쉽게 / `incluso` (부사) 심지어 / `esfuerzo` (명사, 남) 노력, 힘씀 / `mínimo` (형용사) 최소의 / `mejorar` (동사) 나아지다 / `dormir` (동사) 자다
+- **문법:**
+  - `Diga que ... y que ...`: 전달(말하다) 동사 뒤 사실 전달은 직설법.
+  - `aunque + 접속법`: 가정적 양보 "~하더라도" (잘 자는 경우를 가정).
+  - 3인칭 se cansa: usted에 대한 재귀.
+- **표현:** `con facilidad` = fácilmente.
+- **시제:**
+  - `Diga` → decir | 명령법 usted 긍정 | 존칭 지시 | 불규칙
+  - `cansa` → cansarse | 직설법 현재 3인칭 단수(usted) | 반복되는 상태(전달 내용) | 규칙
+  - `mejora` → mejorar | 직설법 현재 3인칭 단수 | 일반적 상태 | 규칙
+  - `duerma` → dormir | 접속법 현재 3인칭 단수 | aunque + 접속법 = 가정적 양보("잘 자더라도") | 불규칙(o→ue: duerma)
+  - 비교: `aunque duerme bien`(직설법: 실제로 잘 잔다는 사실 인정) vs `aunque duerma bien`(접속법: 잘 자는 경우라도).
+
+### 2-13. **Álvaro:** ¿Qué preguntas típicas me harán en la consulta?
+- **해석:** 진료실에서 보통 어떤 질문들을 할까요?
+- **주요 단어:** `pregunta` (명사, 여) 질문 / `consulta` (명사, 여) 진료, 진료실
+- **문법:** 무인칭적 3인칭 복수 (harán = 그들이, 즉 의료진이). 간접목적 me.
+- **표현:** `hacer una pregunta` "질문하다".
+- **시제:**
+  - `harán` → hacer | 직설법 단순미래 3인칭 복수 | 앞으로 진료 때 일어날 일 예측 | 불규칙 어간(hacer → har-)
+
+### 2-14. **Elena:** Le preguntarán desde cuándo tiene los síntomas, si ha tomado alguna medicación, y si tiene antecedentes familiares de algo similar.
+- **해석:** 언제부터 증상이 있었는지, 약을 먹은 적이 있는지, 비슷한 가족력이 있는지 물어볼 거예요.
+- **주요 단어:** `preguntar` (동사) 묻다 / `desde cuándo` 언제부터 / `tomar` (동사) 먹다, 복용하다 / `medicación` (명사, 여) 약물 / `antecedentes familiares` 가족력 / `similar` (형용사) 비슷한
+- **문법:**
+  - `Le`: usted에 대한 간접목적어.
+  - 간접의문문: `desde cuándo...`, `si...`(~인지 아닌지).
+  - `desde cuándo tiene`: 스페인어는 지속 기간을 현재형으로 ("언제부터 가지고 있나" → 한국어 "있었나").
+- **시제:**
+  - `preguntarán` → preguntar | 직설법 단순미래 3인칭 복수 | 앞으로의 예측 | 규칙
+  - `tiene` (2회) → tener | 직설법 현재 3인칭 단수 | 과거부터 지금까지 이어지는 상태 = 현재형 | 불규칙(e→ie)
+  - `ha tomado` → tomar | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto) | "지금까지 ~한 적 있나" 경험·현재와 연결된 과거 | haber(ha) + 과거분사
+  - 비교: `ha tomado`(지금까지의 경험) vs `tomó`(특정 과거 시점의 사건).
+
+### 2-15. **Álvaro:** ¿Cómo debería responder sobre antecedentes?
+- **해석:** 가족력에 대해선 어떻게 대답해야 할까요?
+- **주요 단어:** `responder` (동사) 대답하다 / `sobre` (전치사) ~에 대해
+- **문법:** deber + 부정사, 조건법으로 완곡.
+- **시제:**
+  - `debería` → deber | 조건법 1인칭 단수 | 조언 구하기(앞에서 설명)
+  - `responder` → responder | 부정사 | deber 뒤
+
+### 2-16. **Elena:** Invente algo simple: un familiar con artritis, por ejemplo.
+- **해석:** 간단한 걸 지어내세요. 예를 들면 관절염이 있는 가족 같은 거요.
+- **주요 단어:** `inventar` (동사) 지어내다 / `simple` (형용사) 단순한 / `familiar` (명사) 친척, 가족 한 사람 / `artritis` (명사, 여) 관절염
+- **문법:** usted 명령. `un familiar` — 형용사 familiar(가족의)가 명사로 쓰여 "가족 구성원".
+- **시제:**
+  - `Invente` → inventar | 명령법 usted 긍정 (접속법 현재형 invente) | 지시·조언 | 규칙(-ar → -e)
+
+### 2-17. **Elena:** Nada demasiado específico que puedan verificar fácilmente.
+- **해석:** 쉽게 확인할 수 있을 만큼 너무 구체적인 건 안 돼요.
+- **주요 단어:** `nada` (부정대명사) 아무것도 / `demasiado` (부사) 지나치게 / `específico` (형용사) 구체적인 / `verificar` (동사) 확인하다
+- **문법:** 부정 선행사(nada)를 수식하는 관계절 → 접속법 (puedan). 3인칭 복수 = 불특정 "그들(클리닉 측)".
+- **시제:**
+  - `puedan` → poder | 접속법 현재 3인칭 복수 | 선행사가 부정(nada)이라 접속법 | 불규칙(o→ue)
+  - `verificar` → verificar | 부정사 | poder 뒤
+
+### 2-18. **Álvaro:** Vale.
+- **해석:** 알겠어요.
+- **표현:** 스페인식 "OK" (앞에서 설명).
+- **시제:** 동사 없음
+
+### 2-19. **Álvaro:** ¿Y qué debo esperar de una clínica que vende tratamientos fraudulentos?
+- **해석:** 그럼 사기 치료를 파는 클리닉에서 어떤 걸 예상해야 하죠?
+- **주요 단어:** `esperar` (동사) 기대하다, 예상하다; 기다리다 / `fraudulento` (형용사) 사기의
+- **문법:** `esperar algo de alguien` "~에게서 ~를 예상하다". 관계절 `que vende` (실제 존재하는 대상이라 직설법).
+- **시제:**
+  - `debo` → deber | 직설법 현재 1인칭 단수 | 의무 | 규칙
+  - `esperar` → esperar | 부정사 | deber 뒤
+  - `vende` → vender | 직설법 현재 3인칭 단수 | 해당 클리닉의 실제 활동 | 규칙
+
+### 2-20. **Elena:** Suelen prometer curas rápidas, tratamientos “exclusivos” que no encontrará en la sanidad pública, y presionar para que pague por adelantado.
+- **해석:** 보통 빠른 완치, 공공 의료에선 찾을 수 없는 "독점" 치료를 약속하고, 선불로 내라고 압박해요.
+- **주요 단어:** `soler` (동사) ~하곤 하다 / `prometer` (동사) 약속하다 / `cura` (명사, 여) 치유 / `exclusivo` (형용사) 독점적인 / `encontrar` (동사) 찾다 / `presionar` (동사) 압박하다 / `pagar` (동사) 지불하다 / `por adelantado` 미리, 선불로
+- **문법:**
+  - `soler + 부정사`: 습관·경향 "보통 ~한다". soler 뒤 prometer와 presionar 두 부정사가 병렬.
+  - `para que + 접속법`: 목적절은 항상 접속법.
+- **표현:** 따옴표 “exclusivos”는 비꼬는 뉘앙스("이른바 독점").
+- **시제:**
+  - `Suelen` → soler | 직설법 현재 3인칭 복수 | 일반적 경향 | 어간변화(o→ue)
+  - `prometer` → prometer | 부정사 | soler 뒤
+  - `encontrará` → encontrar | 직설법 단순미래 3인칭 단수(usted) | "(당신이) 찾지 못할 것" 예측 | 규칙 (현재형 encuentra는 o→ue지만 미래형은 원형 + 어미)
+  - `presionar` → presionar | 부정사 | soler 뒤
+  - `pague` → pagar | 접속법 현재 3인칭 단수 | para que 뒤 목적 → 항상 접속법 | 철자 변화(g→gu: pague)
+
+### 2-21. **Álvaro:** ¿Y las vacunas falsas?
+- **해석:** 그럼 가짜 백신은요?
+- **주요 단어:** `falso` (형용사) 가짜의
+- **시제:** 동사 없음
+
+### 2-22. **Álvaro:** ¿Cómo se identifican?
+- **해석:** 어떻게 알아볼 수 있죠?
+- **주요 단어:** `identificar` (동사) 식별하다
+- **문법:** 수동 se (pasiva refleja): 주어 las vacunas(복수)에 맞춰 identifican. "어떻게 식별되나?"
+- **시제:**
+  - `identifican` → identificar | 직설법 현재 3인칭 복수 (수동 se) | 일반적 방법을 묻는 현재 | 규칙
+
+### 2-23. **Elena:** Es difícil a simple vista, por eso es tan peligroso.
+- **해석:** 겉보기로는 어려워요. 그래서 그렇게 위험한 거예요.
+- **주요 단어:** `difícil` (형용사) 어려운 / `a simple vista` 육안으로, 얼핏 봐서는 / `por eso` 그래서 / `peligroso` (형용사) 위험한
+- **문법:** 비인칭 ser + 형용사 (주어는 상황 전체, 남성 단수). `tan + 형용사` "그토록".
+- **표현:** `a simple vista` 관용구.
+- **시제:**
+  - `Es`, `es` → ser | 직설법 현재 3인칭 단수 | 일반적 평가 | 불규칙
+
+### 2-24. **Elena:** Pero suele haber señales: falta de registro sanitario visible, envases sin las garantías habituales, y mucha insistencia en que no informe a su médico habitual.
+- **해석:** 하지만 대개 신호가 있어요. 눈에 보이는 보건 등록이 없다든지, 포장에 보통의 보증 표시가 없다든지, 그리고 주치의에게 알리지 말라고 몹시 강조한다든지요.
+- **주요 단어:** `señal` (명사, 여) 신호, 징후 / `falta` (명사, 여) 부족, 결여 / `registro sanitario` 보건 당국 등록(허가번호) / `envase` (명사, 남) 용기, 포장 / `garantía` (명사, 여) 보증 / `insistencia` (명사, 여) 고집, 강조 / `informar` (동사) 알리다 / `habitual` (형용사) 평소의
+- **문법:**
+  - `suele haber`: 존재의 haber(hay)는 soler와 결합해 "보통 ~가 있다"; 무인칭이라 3인칭 단수 고정(señales가 복수여도 suelen X).
+  - `insistencia en que + 접속법`: 요구·강요 내용이라 접속법.
+- **시제:**
+  - `suele` → soler | 직설법 현재 3인칭 단수 | 일반적 경향 | 어간변화(o→ue)
+  - `haber` → haber | 부정사 (존재의 무인칭 haber) | soler 뒤
+  - `informe` → informar | 접속법 현재 3인칭 단수(usted) | insistir en que(강요) 뒤라 접속법 | 규칙
+
+### 2-25. **Álvaro:** Eso último es una señal de alarma clara.
+- **해석:** 그 마지막 건 명백한 경고 신호네요.
+- **주요 단어:** `último` (형용사) 마지막의 / `señal de alarma` 경고 신호 / `claro` (형용사) 분명한
+- **문법:** `eso último` 중성 지시사 + 형용사 "그 마지막 것".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 판단·정의 | 불규칙
+
+### 2-26. **Elena:** Exacto.
+- **해석:** 바로 그거예요.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **시제:** 동사 없음
+
+### 2-27. **Elena:** Cualquier profesional que le pida discreción frente a otros médicos, debería preocuparle.
+- **해석:** 다른 의사들 앞에서 비밀을 지켜 달라고 요구하는 전문가라면 누구든 경계해야 해요.
+- **주요 단어:** `profesional` (명사) 전문가 / `pedir` (동사) 요청하다 / `discreción` (명사, 여) 신중함, 비밀 유지 / `frente a` ~에 대하여, ~ 앞에서 / `preocupar` (동사) 걱정시키다
+- **문법:**
+  - `cualquier ... que + 접속법`: 불특정 선행사 → 접속법.
+  - `preocuparle`: preocupar는 gustar형 → 주어가 "그 전문가", le = 당신에게. 직역 "그런 전문가는 당신을 걱정시켜야 한다" → "경계해야 한다".
+  - 주어와 동사 사이 콤마는 규범상 불필요하지만 긴 주어라 붙은 것.
+- **시제:**
+  - `pida` → pedir | 접속법 현재 3인칭 단수 | 불특정 선행사(cualquier) 관계절 | 불규칙(e→i: pida)
+  - `debería` → deber | 조건법 3인칭 단수 | 완곡한 조언 "~해야 할 것" | 규칙
+  - `preocuparle` → preocupar | 부정사 + 간접목적어 le | deber 뒤
+
+### 2-28. **Álvaro:** Lo tendré muy presente.
+- **해석:** 명심하겠습니다.
+- **주요 단어:** `tener presente` ~를 염두에 두다 / `presente` (형용사) 현재의; 염두에 둔
+- **문법:** 중성 lo = 앞의 조언 전체.
+- **표현:** `tener (muy) presente algo` "~를 (꼭) 명심하다".
+- **시제:**
+  - `tendré` → tener | 직설법 단순미래 1인칭 단수 | 앞으로의 다짐 | 불규칙 어간(tener → tendr-)
+
+### 2-29. **Álvaro:** ¿Algún consejo final?
+- **해석:** 마지막 조언 있으세요?
+- **주요 단어:** `consejo` (명사, 남) 조언 / `final` (형용사) 마지막의
+- **문법:** `algún`: alguno의 남성 단수 명사 앞 어미 탈락형.
+- **시제:** 동사 없음
+
+### 2-30. **Elena:** No exagere los síntomas.
+- **해석:** 증상을 과장하지 마세요.
+- **주요 단어:** `exagerar` (동사) 과장하다
+- **문법:** usted 부정명령 = No + 접속법 현재.
+- **시제:**
+  - `exagere` → exagerar | 명령법 usted 부정 (접속법 현재 3인칭 단수) | 금지 지시 | 규칙
+
+### 2-31. **Elena:** Los pacientes reales no dramatizan constantemente, describen con naturalidad, incluso con cierta resignación.
+- **해석:** 실제 환자들은 계속 극적으로 굴지 않아요. 자연스럽게, 어느 정도 체념한 듯이 묘사하죠.
+- **주요 단어:** `real` (형용사) 실제의 / `dramatizar` (동사) 극적으로 부풀리다 / `constantemente` (부사) 끊임없이 / `con naturalidad` 자연스럽게 / `cierto` (형용사) 어느 정도의 / `resignación` (명사, 여) 체념
+- **문법:** `cierta + 명사`(명사 앞) = "어느 정도의"; 명사 뒤면 "확실한" 뜻. `con + 명사` 부사구.
+- **시제:**
+  - `dramatizan` → dramatizar | 직설법 현재 3인칭 복수 | 일반적 사실 | 규칙
+  - `describen` → describir | 직설법 현재 3인칭 복수 | 일반적 사실 | 규칙
+
+### 2-32. **Álvaro:** Entendido.
+- **해석:** 알겠습니다.
+- **시제:**
+  - `Entendido` → entender | 과거분사 | 앞에서 설명
+
+### 2-33. **Álvaro:** Practiquemos un poco, entonces.
+- **해석:** 그럼 조금 연습해 보죠.
+- **주요 단어:** `practicar` (동사) 연습하다 / `un poco` 조금
+- **문법:** nosotros 청유형.
+- **시제:**
+  - `Practiquemos` → practicar | 접속법 현재 1인칭 복수 (청유) | "~합시다" 제안 | 철자 변화(c→qu)
+
+### 2-34. **Elena:** Perfecto.
+- **해석:** 좋아요.
+- **시제:** 동사 없음
+
+### 2-35. **Elena:** Dígame, señor... ¿qué le trae por aquí hoy?
+- **해석:** 말씀해 보세요, 선생님… 오늘은 무슨 일로 오셨나요?
+- **주요 단어:** `traer` (동사) 가져오다, 데려오다 / `por aquí` 이곳에
+- **문법:** `¿Qué le trae por aquí?` 직역 "무엇이 당신을 이곳에 데려왔나요?" — qué가 주어, le가 목적어(스페인에서는 사람 직접목적어에 le 사용 leísmo 허용).
+- **표현:** 의사가 진료를 시작할 때 쓰는 전형적 표현 "어디가 불편해서 오셨어요?". `señor...` 말줄임은 이름을 모르는 척하는 역할극 시작.
+- **시제:**
+  - `Dígame` → decir | 명령법 usted 긍정 | 정중한 요청 | 불규칙
+  - `trae` → traer | 직설법 현재 3인칭 단수 | 지금 내원한 이유 | 1인칭 traigo만 불규칙
+
+### 2-36. **Álvaro:** (Practicando) Llevo meses con un dolor sordo en las articulaciones, sobre todo por las mañanas, y una fatiga que no se me pasa ni durmiendo bien.
+- **해석:** (연습하며) 몇 달째 관절이 묵직하게 아파요. 특히 아침에요. 그리고 잘 자도 피로가 가시질 않아요.
+- **주요 단어:** `practicar` 앞에서 설명 / `llevar` (동사) 가지고 가다; (시간을) 보내다 / `sobre todo` 특히 / `pasarse` (재귀동사) (증상이) 가시다, 지나가다 / `ni` 조차 ~않다
+- **문법:**
+  - `Llevar + 기간 + con/현재분사`: "~한 지 ~째이다" (지속 기간 구문).
+  - `no se me pasa`: 비의도의 se + 간접목적어 me — "(피로가) 나에게서 가시지 않는다".
+  - `ni durmiendo bien`: ni + 현재분사 "잘 자도 (안 된다)" 조건·양보.
+- **표현:** `Llevo meses con...` 스페인 구어에서 매우 자연스러운 "몇 달째 ~에 시달리다". `se me pasa` 증상·감정이 사라질 때.
+- **시제:**
+  - `Practicando` → practicar | 현재분사 (지문) | 말하는 동시에 연습 중임을 나타냄
+  - `Llevo` → llevar | 직설법 현재 1인칭 단수 | 과거부터 지금까지 지속되는 기간 → 현재형 | 규칙
+  - `pasa` → pasarse | 직설법 현재 3인칭 단수 | 현재까지 계속되는 상태 | 규칙
+  - `durmiendo` → dormir | 현재분사 | 양보적 조건 "자면서도/자도" | 불규칙(o→u: durmiendo)
+  - 비교: `Llevo meses con dolor` vs `Tengo dolor desde hace meses` — 같은 뜻, llevar 쪽이 더 구어적.
+
+### 2-37. **Elena:** (Sonríe) Muy convincente.
+- **해석:** (미소 지으며) 아주 그럴듯해요.
+- **주요 단어:** `sonreír` (동사) 미소 짓다 / `convincente` 앞에서 설명
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 (지문) | 대본 지문은 현재형으로 동작 묘사 | 불규칙(e→i + 강세: sonríe)
+
+### 2-38. **Elena:** Está listo.
+- **해석:** 준비됐네요.
+- **주요 단어:** `listo` (형용사) 준비된; 영리한
+- **문법:** ser/estar 대비: `estar listo` = 준비된(상태), `ser listo` = 영리하다(성질). usted에게 3인칭.
+- **시제:**
+  - `Está` → estar | 직설법 현재 3인칭 단수(usted) | 현재 상태이므로 estar | 불규칙(강세 está)
+

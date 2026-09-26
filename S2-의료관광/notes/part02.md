@@ -234,3 +234,279 @@
 - **시제:**
   - `haré` → hacer | 직설법 단순미래 1인칭 단수 | 앞에서 설명 (약속의 미래)
 
+## 장면 5. 두 번째 방문과 수상한 백신
+> 며칠 후, 알바로가 두 번째로 클리닉을 방문합니다. 이번엔 초기 치료를 받아들이고, 예상대로 백신 접종까지 권유받습니다.
+
+### 5-1. **Doctor:** Bienvenido de nuevo, señor Puig.
+- **해석:** 다시 오신 걸 환영합니다, 푸이그 씨.
+- **주요 단어:** `bienvenido` (형용사) 환영받는 / `de nuevo` 다시 / `señor` ~씨, 선생님
+- **문법:** bienvenido는 상대의 성·수에 일치(남성 단수). 동사 생략(Sea bienvenido).
+- **표현:** Bienvenido de nuevo = "다시 오신 걸 환영합니다". 의사는 usted로 존칭.
+- **시제:**
+  - 동사 없음 (bienvenido는 형용사화된 과거분사 형태지만 여기선 인사 표현)
+
+### 5-2. **Doctor:** Veo que ha decidido seguir adelante con el tratamiento.
+- **해석:** 치료를 계속 진행하기로 결정하셨군요.
+- **주요 단어:** `ver` 보다, 알다 / `decidir` 결정하다 / `seguir adelante` 계속 진행하다
+- **문법:** ver que + 직설법(사실 인지). decidir + 부정사("~하기로 결정하다"). usted → 3인칭 동사.
+- **표현:** seguir adelante con algo = ~을 밀고 나가다.
+- **시제:**
+  - `Veo` → ver | 직설법 현재 1인칭 단수 | 지금 눈앞에서 확인한 사실 | 1인칭 불규칙(veo)
+  - `ha decidido` → decidir | 직설법 현재완료 3인칭 단수 (pretérito perfecto compuesto, usted) | 결정 결과가 현재(다시 온 것)와 직결되므로 현재완료 | haber + 과거분사(decidido)
+  - `seguir` → seguir | 부정사 | decidir의 목적
+  - 비교: decidió(단순과거)는 과거 특정 시점의 결정 자체에 초점, ha decidido는 "그래서 지금 여기 오셨군요"라는 현재 연결.
+
+### 5-3. **Álvaro:** Así es.
+- **해석:** 그렇습니다.
+- **표현:** 상대 말에 대한 긍정 확인의 정형 표현.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 현재 사실 확인 | 불규칙
+
+### 5-4. **Álvaro:** Después de pensarlo, me parece razonable probar.
+- **해석:** 생각해 보니, 한번 해 보는 게 합리적인 것 같아요.
+- **주요 단어:** `después de` ~한 후에 / `pensar` 생각하다 / `parecer` ~인 것 같다 / `razonable` 합리적인 / `probar` 시도하다, 해 보다
+- **문법:** después de + 부정사. lo(= 그 일)가 부정사에 붙음. me parece + 형용사 + 부정사(부정사가 문법적 주어).
+- **시제:**
+  - `pensarlo` → pensar | 부정사 + 직접목적대명사 | 전치사 뒤 원형
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재 의견; 주어는 probar(부정사) | 1인칭만 불규칙(parezco)
+  - `probar` → probar | 부정사 | parecer 구문의 주어 역할
+
+### 5-5. **Doctor:** Excelente decisión.
+- **해석:** 훌륭한 결정입니다.
+- **주요 단어:** `excelente` 훌륭한 / `la decisión` 결정
+- **시제:**
+  - 동사 없음
+
+### 5-6. **Doctor:** Antes de empezar, quiero comentarle algo adicional que podría interesarle.
+- **해석:** 시작하기 전에, 관심 있으실 만한 것을 추가로 말씀드리고 싶습니다.
+- **주요 단어:** `antes de` ~하기 전에 / `empezar` 시작하다 / `querer` 원하다 / `comentar` 언급하다, 말하다 / `adicional` 추가의 / `interesar` 관심을 끌다
+- **문법:** antes de + 부정사(주어 같을 때; 다르면 antes de que + 접속법). le는 usted에게(간접목적어), 부정사에 붙음. que는 algo를 받는 관계대명사. interesar는 gustar형.
+- **시제:**
+  - `empezar` → empezar | 부정사 | 전치사 뒤
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재의 의도 | 불규칙(e→ie)
+  - `comentarle` → comentar | 부정사 + 대명사 | querer + 부정사
+  - `podría` → poder | 조건법 단순형 3인칭 단수 | 가능성을 조심스럽게 제시(영업용 공손·완곡 표현) | 불규칙 어간 podr-
+  - `interesarle` → interesar | 부정사 + 대명사 | poder + 부정사
+  - 비교: que puede interesarle(현재)보다 podría가 덜 강요적.
+
+### 5-7. **Álvaro:** Adelante.
+- **해석:** 말씀하세요.
+- **주요 단어:** `adelante` (부사) 앞으로
+- **표현:** "계속하세요/말씀하세요/들어오세요" 허락의 표현.
+- **시제:**
+  - 동사 없음
+
+### 5-8. **Doctor:** Dado su perfil, con los viajes que mencionó anteriormente, le recomendaría también nuestra vacuna de refuerzo inmunológico.
+- **해석:** 앞서 말씀하신 여행들을 고려하면, 고객님 프로필상 저희 면역 강화 백신도 권해 드리고 싶습니다.
+- **주요 단어:** `dado` (과거분사) ~을 고려하면 ← dar / `el perfil` 프로필 / `el viaje` 여행 / `anteriormente` 이전에 / `recomendar` 추천하다 / `refuerzo` 강화, 부스터 / `inmunológico` 면역의
+- **문법:** Dado + 명사: 과거분사가 명사에 일치하는 절대구문("~을 감안할 때", su perfil 남성 단수 → dado). que는 los viajes를 받는 관계대명사. le = usted에게.
+- **표현:** vacuna de refuerzo = 부스터 백신.
+- **시제:**
+  - `Dado` → dar | 과거분사 남성 단수 | 절대구문으로 이유·전제를 나타냄 | 규칙 과거분사(dado)
+  - `mencionó` → mencionar | 직설법 단순과거 3인칭 단수 (usted) | 지난 방문 때 한 번 말한 완결된 행위
+  - `recomendaría` → recomendar | 조건법 단순형 1인칭 단수 | 추천을 공손하게 완화하는 조건법("권해 드리고 싶습니다") | 규칙(recomendar + ía)
+
+### 5-9. **Doctor:** Muchos pacientes internacionales la solicitan.
+- **해석:** 많은 외국인 환자들이 그걸 요청합니다.
+- **주요 단어:** `el paciente` 환자 / `internacional` 국제적인, 외국의 / `solicitar` 요청하다, 신청하다
+- **문법:** la = la vacuna(직접목적대명사, 여성 단수).
+- **시제:**
+  - `solicitan` → solicitar | 직설법 현재 3인칭 복수 | 일반적·반복적 사실을 나타내는 현재
+
+### 5-10. **Álvaro:** (Alerta, disimulando interés) No sabía que ofrecían vacunas aquí.
+- **해석:** (경계하면서도 관심 없는 척하며) 여기서 백신도 제공하는 줄은 몰랐네요.
+- **주요 단어:** `alerta` 경계하는 / `disimular` 감추다, 모르는 척하다 / `el interés` 관심 / `saber` 알다 / `ofrecer` 제공하다
+- **문법:** 지문의 현재분사 disimulando는 동시 동작("~하면서"). saber que + 직설법, 주절 과거라 종속절도 불완료과거로 시제 일치.
+- **표현:** disimular interés = 관심을 숨기다(관심 없는 척하다).
+- **시제:**
+  - `disimulando` → disimular | 현재분사 (gerundio) | 지문 속 동작, 말하는 동안 동시에 하는 태도
+  - `sabía` → saber | 직설법 불완료과거 1인칭 단수 (pretérito imperfecto) | "그동안 몰랐던" 과거의 지속적 상태(지식)는 불완료과거
+  - `ofrecían` → ofrecer | 직설법 불완료과거 3인칭 복수 | 시제 일치 + 계속 제공해 온 상태 | 규칙(불완료과거에는 -zc- 없음)
+  - 비교: No supe(단순과거)는 "알게 되지 못했다/알아내지 못했다"는 의미로 달라짐.
+
+### 5-11. **Álvaro:** ¿De qué se trata exactamente?
+- **해석:** 정확히 어떤 건가요?
+- **주요 단어:** `tratarse de` ~에 관한 것이다
+- **문법:** tratarse de는 항상 3인칭 단수 무인칭 재귀 구문(주어 없음). 전치사 de가 의문사 앞으로.
+- **표현:** ¿De qué se trata? = "무슨 내용이에요? 뭔데요?"
+- **시제:**
+  - `trata` → tratarse | 직설법 현재 3인칭 단수 (무인칭) | 현재 대상의 성격을 물음
+
+### 5-12. **Doctor:** Una fórmula propia, desarrollada para fortalecer las defensas antes de tratamientos como el suyo.
+- **해석:** 고객님이 받으시는 치료 같은 것 전에 면역력을 강화하기 위해 개발한 저희 자체 조제품입니다.
+- **주요 단어:** `la fórmula` 제형, 조제 / `propio` 자체의, 고유의 / `desarrollar` 개발하다 / `fortalecer` 강화하다 / `las defensas` 면역력(방어력) / `como` ~같은
+- **문법:** 과거분사 desarrollada가 형용사로 fórmula(여성 단수)에 일치. para + 부정사(목적). 소유대명사 el suyo = 고객님의 것(el tratamiento).
+- **시제:**
+  - `desarrollada` → desarrollar | 과거분사 여성 단수 | 수동적 의미의 형용사("개발된")
+  - `fortalecer` → fortalecer | 부정사 | para 뒤 목적 | (활용 시 1인칭 fortalezco 불규칙)
+
+### 5-13. **Doctor:** Muy popular entre nuestros pacientes de fuera.
+- **해석:** 외국에서 온 저희 환자분들 사이에서 아주 인기 있습니다.
+- **주요 단어:** `popular` 인기 있는 / `entre` ~사이에서 / `de fuera` 외부의, 외국에서 온
+- **문법:** 동사 생략(Es muy popular).
+- **시제:**
+  - 동사 없음
+
+### 5-14. **Álvaro:** ¿Y está autorizada por las autoridades sanitarias?
+- **해석:** 그럼 보건 당국의 허가는 받았나요?
+- **주요 단어:** `autorizar` 허가하다 / `la autoridad` 당국 / `sanitario` 보건의
+- **문법:** estar + 과거분사 = 결과 상태("허가된 상태이다"). por + 행위자. autorizada는 la vacuna에 일치.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 현재 상태를 물음
+  - `autorizada` → autorizar | 과거분사 여성 단수 | 결과 상태
+  - 비교: ¿Ha sido autorizada?(ser 수동 현재완료)는 허가 "행위"에 초점, está autorizada는 현재 "상태"에 초점.
+
+### 5-15. **Doctor:** (Ligera vacilación) Es un producto de uso interno de la clínica, dentro de un programa especial.
+- **해석:** (약간 머뭇거리며) 특별 프로그램 안에서 운영되는 클리닉 내부용 제품입니다.
+- **주요 단어:** `ligero` 가벼운, 약간의 / `la vacilación` 망설임 / `el producto` 제품 / `uso interno` 내부 사용 / `dentro de` ~안에서
+- **문법:** 정체·분류는 ser. 지문은 명사구(동사 없음).
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 제품의 본질·분류
+
+### 5-16. **Doctor:** No necesita la misma autorización que una vacuna comercial convencional.
+- **해석:** 일반 상업용 백신과 같은 허가가 필요하지는 않습니다.
+- **주요 단어:** `necesitar` 필요로 하다 / `mismo ... que` ~와 같은 / `comercial` 상업의 / `convencional` 일반적인
+- **문법:** el mismo + 명사 + que ~ = "~와 같은 …" 비교 구문.
+- **시제:**
+  - `necesita` → necesitar | 직설법 현재 3인칭 단수 | 일반적 사실(규정)로 제시
+
+### 5-17. **Álvaro:** Entiendo.
+- **해석:** 알겠습니다.
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 지금의 이해 | 불규칙(e→ie)
+
+### 5-18. **Álvaro:** ¿Puedo ver el envase, o el prospecto, antes de decidir?
+- **해석:** 결정하기 전에 용기나 설명서를 볼 수 있을까요?
+- **주요 단어:** `el envase` 용기, 포장 / `el prospecto` (약) 설명서 / `decidir` 결정하다
+- **문법:** poder + 부정사(허락 요청). antes de + 부정사.
+- **표현:** prospecto = 스페인에서 약 첨부문서를 가리키는 말.
+- **시제:**
+  - `Puedo` → poder | 직설법 현재 1인칭 단수 | 허락을 구하는 현재 | 불규칙(o→ue)
+  - `ver` → ver | 부정사 | poder + 부정사
+  - `decidir` → decidir | 부정사 | 전치사 뒤
+
+### 5-19. **Doctor:** Por supuesto.
+- **해석:** 물론이죠.
+- **표현:** 확답 표현.
+- **시제:**
+  - 동사 없음
+
+### 5-20. **Doctor:** (Le muestra un vial sin etiquetado claro) Aquí tiene.
+- **해석:** (라벨이 명확하지 않은 바이알을 그에게 보여 준다) 여기 있습니다.
+- **주요 단어:** `mostrar` 보여 주다 / `el etiquetado` 라벨 표기 / `claro` 명확한
+- **문법:** 지문의 le = 알바로에게(간접목적어).
+- **표현:** Aquí tiene = (usted에게) "여기 있습니다", 물건을 건넬 때 쓰는 정형 표현(tú에게는 Aquí tienes).
+- **시제:**
+  - `muestra` → mostrar | 직설법 현재 3인칭 단수 | 지문은 장면 묘사라 현재 | 불규칙(o→ue)
+  - `tiene` → tener | 직설법 현재 3인칭 단수 (usted) | 관용 표현 | 불규칙(e→ie)
+
+### 5-21. **Álvaro:** (Examinándolo con disimulo, memorizando detalles) No veo ningún número de lote ni fecha de caducidad.
+- **해석:** (티 나지 않게 살펴보며 세부 사항을 기억해 두면서) 로트 번호도 유효기간도 안 보이네요.
+- **주요 단어:** `examinar` 살펴보다 / `con disimulo` 티 나지 않게 / `memorizar` 암기하다 / `el detalle` 세부 / `número de lote` 로트(제조) 번호 / `fecha de caducidad` 유통·유효기한
+- **문법:** 현재분사 + 대명사 lo(= el vial) 결합 → 강세 유지 위해 악센트(Examinándolo). 이중부정 no ... ningún ... ni.
+- **시제:**
+  - `Examinándolo` → examinar | 현재분사 + 대명사 | 동시 동작
+  - `memorizando` → memorizar | 현재분사 | 동시 동작
+  - `veo` → ver | 직설법 현재 1인칭 단수 | 지금 눈앞의 관찰
+
+### 5-22. **Doctor:** Es un envasado especial para uso clínico interno, no está pensado para venta al público general.
+- **해석:** 클리닉 내부용 특수 포장이라서, 일반 대중 판매용으로 만든 게 아닙니다.
+- **주요 단어:** `el envasado` 포장 / `clínico` 임상의 / `pensado para` ~용으로 만들어진 / `la venta` 판매 / `el público` 대중
+- **문법:** ser(분류) vs estar + 과거분사(결과 상태). al = a + el.
+- **표현:** estar pensado para ~ = "~을 위해 고안된 것이다".
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 본질·분류
+  - `está` → estar | 직설법 현재 3인칭 단수 | 과거분사와 결합해 상태
+  - `pensado` → pensar | 과거분사 남성 단수 | 결과 상태, el envasado에 일치
+
+### 5-23. **Álvaro:** Entiendo.
+- **해석:** 알겠습니다.
+- **시제:**
+  - `Entiendo` → entender | 앞에서 설명
+
+### 5-24. **Álvaro:** Deme un momento para pensarlo, si no le importa.
+- **해석:** 괜찮으시다면, 생각할 시간을 잠시 주세요.
+- **주요 단어:** `dar` 주다 / `el momento` 잠시 / `importar` 신경 쓰이다, 상관있다
+- **문법:** usted 긍정 명령 dé + me → Deme(대명사 붙으면서 원래 악센트 탈락). importar는 gustar형(le = usted에게).
+- **표현:** si no le importa = "괜찮으시다면" 정중한 완곡 표현.
+- **시제:**
+  - `Deme` → dar | 명령법 3인칭 단수 usted형 (= 접속법 현재 dé) | 정중한 요청 | 불규칙
+  - `pensarlo` → pensar | 부정사 + 대명사 | para 뒤 목적
+  - `importa` → importar | 직설법 현재 3인칭 단수 | si 조건절은 직설법 현재
+
+### 5-25. **Doctor:** Por supuesto, tómese su tiempo.
+- **해석:** 물론이죠, 천천히 생각하세요.
+- **주요 단어:** `tomarse` 가지다, 취하다 / `el tiempo` 시간
+- **문법:** usted 긍정 명령 + 재귀대명사 se 뒤에 붙음(tome + se → tómese, 악센트 추가).
+- **표현:** tómese su tiempo = "천천히 하세요"(tú형: tómate tu tiempo).
+- **시제:**
+  - `tómese` → tomarse | 명령법 usted형 (= 접속법 현재 3인칭 단수) | 정중한 권유
+
+### 5-26. **Doctor:** Mientras tanto, empecemos con el tratamiento inicial.
+- **해석:** 그동안 초기 치료부터 시작하죠.
+- **주요 단어:** `mientras tanto` 그동안 / `empezar con` ~로 시작하다
+- **문법:** 1인칭 복수 명령(청유) = 접속법 현재 nosotros형. "~합시다".
+- **시제:**
+  - `empecemos` → empezar | 명령법 1인칭 복수 (= 접속법 현재 nosotros) | 함께 하자는 제안 | 철자 변화 z→c, 접속법에서 어간 e→ie는 nosotros형에선 일어나지 않음(empecemos)
+  - 비교: Vamos a empezar도 비슷하지만 empecemos가 더 격식적.
+
+### 5-27. **Álvaro:** (Con disimulo, activa el pequeño dispositivo que le dio Carlos cerca del vial, piensa para sí) Con esto debería bastar para que lo analicen.
+- **해석:** (몰래, 카를로스가 준 작은 장치를 바이알 가까이에서 작동시키고 속으로 생각한다) 이걸로 분석해 보기엔 충분할 거야.
+- **주요 단어:** `activar` 작동시키다 / `el dispositivo` 장치 / `dar` 주다 / `cerca de` ~가까이 / `pensar para sí` 속으로 생각하다 / `bastar` 충분하다 / `analizar` 분석하다
+- **문법:** 관계대명사 que(el dispositivo 받음), le = 알바로에게. bastar para que + 접속법(목적). lo = el vial(내용물).
+- **표현:** para sí = 혼잣말로, 속으로.
+- **시제:**
+  - `activa` → activar | 직설법 현재 3인칭 단수 | 지문 장면 묘사의 현재
+  - `dio` → dar | 직설법 단순과거 3인칭 단수 | 이전에 한 번 준 완결된 행위 | 불규칙(dio, 악센트 없음)
+  - `piensa` → pensar | 직설법 현재 3인칭 단수 | 지문 묘사 | 불규칙(e→ie)
+  - `debería` → deber | 조건법 단순형 3인칭 단수 | 추측·기대("~해야 할 텐데/~할 것이다")를 완곡하게 | 규칙
+  - `bastar` → bastar | 부정사 | deber + 부정사
+  - `analicen` → analizar | 접속법 현재 3인칭 복수 | para que(목적) 뒤는 항상 접속법; 주어는 막연한 분석팀 | 철자 변화 z→c
+
+### 5-28. **Doctor:** ¿Todo bien, señor Puig?
+- **해석:** 괜찮으세요, 푸이그 씨?
+- **문법:** 동사 생략(¿Está todo bien?).
+- **시제:**
+  - 동사 없음
+
+### 5-29. **Álvaro:** Sí, perfectamente.
+- **해석:** 네, 아주 좋아요.
+- **주요 단어:** `perfectamente` 완벽하게
+- **시제:**
+  - 동사 없음
+
+### 5-30. **Álvaro:** Solo pensando en todo lo que me ha contado.
+- **해석:** 그냥 말씀해 주신 것들을 전부 생각하고 있었어요.
+- **주요 단어:** `pensar en` ~에 대해 생각하다 / `contar` 이야기하다
+- **문법:** 주동사 생략된 현재분사 문장(= Estoy solo pensando). todo lo que = ~한 모든 것.
+- **시제:**
+  - `pensando` → pensar | 현재분사 | 생략된 estar와 함께 진행 중인 동작
+  - `ha contado` → contar | 직설법 현재완료 3인칭 단수 (usted) | 방금(오늘) 들은 이야기라 현재와 연결된 현재완료 | haber + 과거분사
+
+### 5-31. **Doctor:** Me alegra que se lo tome en serio.
+- **해석:** 진지하게 받아들이시니 기쁩니다.
+- **주요 단어:** `alegrar` 기쁘게 하다 / `tomarse algo en serio` ~을 진지하게 받아들이다
+- **문법:** alegrar는 gustar형(que절이 주어, me 간접목적어). 감정 표현 뒤 que절 → 접속법. se lo: 재귀 se + 직접목적 lo(= 그 일).
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재 3인칭 단수 | 현재 감정
+  - `tome` → tomarse | 접속법 현재 3인칭 단수 (usted) | 감정 동사 뒤 종속절은 사실이라도 접속법
+
+### 5-32. **Doctor:** La salud no es algo con lo que jugar.
+- **해석:** 건강은 가지고 장난칠 게 아니죠.
+- **주요 단어:** `la salud` 건강 / `jugar con` ~을 가지고 놀다
+- **문법:** 전치사 + 관계대명사 con lo que. 관계절 안에 부정사(jugar)가 와서 "~할 만한 것" 의미.
+- **표현:** No es algo con lo que jugar = 가볍게 다룰 일이 아니다.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 진리
+  - `jugar` → jugar | 부정사 | 관계절 속 부정사("~할")
+
+### 5-33. **Álvaro:** (Piensa para sí, con ironía amarga) Cierto, no debería serlo.
+- **해석:** (씁쓸한 아이러니를 느끼며 속으로 생각한다) 맞아, 그래선 안 되지.
+- **주요 단어:** `la ironía` 아이러니 / `amargo` 씁쓸한 / `cierto` 맞는, 사실인
+- **문법:** 중성 lo가 앞 문장의 술어(algo con lo que jugar)를 대신함(serlo).
+- **표현:** 의사가 실제로는 건강을 가지고 장난치고 있다는 반어.
+- **시제:**
+  - `Piensa` → pensar | 직설법 현재 3인칭 단수 | 지문 묘사 | 불규칙(e→ie)
+  - `debería` → deber | 조건법 단순형 3인칭 단수 | 당위를 완곡히 말하며 "실제로는 그렇지 않다"는 반어적 함의
+  - `serlo` → ser | 부정사 + 대명사 | deber + 부정사
+

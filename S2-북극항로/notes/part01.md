@@ -219,3 +219,209 @@
 - **시제:**
   - `empecemos` → empezar | 명령법(1인칭 복수, 접속법 현재형 사용) imperativo | 함께 행동을 촉구하는 "하자" | 어간모음 e→ie는 nosotros형에서 일어나지 않음(empiece → empecemos), 철자 z→c
 
+## 장면 2. 이바르구엔과의 첫 만남
+> 알바로가 '이케르 사발라' 신분으로 노르티아 로히스티카를 방문해 이바르구엔과 첫 만남을 갖습니다.
+
+### 2-1. **Ibargüen:** (En su oficina, con vistas al puerto) Señor Zabala, adelante.
+- **해석:** (항구가 내려다보이는 자기 사무실에서) 사발라 씨, 들어오세요.
+- **주요 단어:** `oficina` (명사, 여성) 사무실 / `vistas` (명사, 여성 복수) 전망 / `puerto` (명사, 남성) 항구 / `adelante` (부사) 앞으로; 들어오세요
+- **문법:** 지문은 동사 없는 상황 묘사. `con vistas a` = ~이 보이는(전망). `al` = a + el 축약.
+- **표현:** `Adelante` = 문을 열어주며 "들어오세요", 또는 "계속하세요".
+- **시제:** 동사 없음
+
+### 2-2. **Ibargüen:** Me alegra que se interesara por nosotros.
+- **해석:** 저희에게 관심을 가져 주셔서 기쁩니다.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `interesarse por` (재귀동사) ~에 관심을 갖다
+- **문법:** 감정 표현 `me alegra que + 접속법`. 주절은 현재지만, 관심을 가진 것은 이미 지난 일이라 접속법 과거(불완료) 사용. `se`는 usted의 재귀대명사.
+- **표현:** 스페인에서는 이 경우 접속법 현재완료 `que se haya interesado`도 흔함.
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재, 3인칭 단수 | 지금 느끼는 감정 (주어는 que절, 간접목적 me) | 규칙
+  - `interesara` (se interesara) → interesarse | 접속법 불완료과거 pretérito imperfecto de subjuntivo(-ra형), 3인칭 단수(usted) | 감정 동사 뒤라 접속법, 관심을 가진 시점이 과거라 과거형 | 규칙(3인칭 복수 단순과거 interesaron → -ron 빼고 -ra)
+  - 비교: `se haya interesado`(접속법 현재완료)는 현재와 연결된 최근 일, `se interesara`는 과거 한 시점의 일로 좀 더 거리감 있게 표현
+
+### 2-3. **Álvaro:** El placer es mío.
+- **해석:** 제가 더 기쁩니다.
+- **주요 단어:** `placer` (명사, 남성) 기쁨 / `mío` (소유대명사) 나의 것
+- **문법:** 강세형 소유사 `mío`가 ser의 보어로 쓰임.
+- **표현:** `El placer es mío` = 정형화된 인사 "천만에요, 제 기쁨이죠".
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 정형 표현 | 불규칙
+
+### 2-4. **Álvaro:** La ruta ártica es, sin duda, el futuro de la logística intercontinental.
+- **해석:** 북극 항로는 틀림없이 대륙 간 물류의 미래입니다.
+- **주요 단어:** `sin duda` 틀림없이 / `futuro` (명사, 남성) 미래 / `intercontinental` (형용사) 대륙 간의
+- **문법:** ser + 명사(정체 규정). 삽입구 sin duda를 쉼표로 분리.
+- **시제:**
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 확신에 찬 평가(본질 규정) | 앞에서 설명
+
+### 2-5. **Ibargüen:** Exacto.
+- **해석:** 바로 그겁니다.
+- **주요 단어:** `exacto` (형용사) 정확한
+- **문법:** 형용사 단독 사용 맞장구.
+- **시제:** 동사 없음
+
+### 2-6. **Ibargüen:** Menos tiempo, menos combustible, y una ventaja estratégica frente a competidores que todavía dependen de las rutas de siempre.
+- **해석:** 시간도 덜 들고, 연료도 덜 들고, 여전히 기존 항로에 의존하는 경쟁사들에 비해 전략적 우위가 있죠.
+- **주요 단어:** `combustible` (명사, 남성) 연료 / `ventaja` (명사, 여성) 이점, 우위 / `estratégico` (형용사) 전략적 / `frente a` ~에 맞서, ~에 비해 / `competidor` (명사) 경쟁자 / `depender de` ~에 의존하다
+- **문법:** 명사구 나열(동사 생략) + 관계대명사 que 절(선행사 competidores, 실재하는 대상이라 직설법).
+- **표현:** `de siempre` = 늘 쓰던, 기존의.
+- **시제:**
+  - `dependen` → depender | 직설법 현재, 3인칭 복수 | 현재 사실, 실존 선행사 관계절이라 직설법 | 규칙
+
+### 2-7. **Álvaro:** ¿Qué tipo de carga manejan principalmente?
+- **해석:** 주로 어떤 종류의 화물을 취급하시나요?
+- **주요 단어:** `manejar` (동사) 다루다, 취급하다 / `principalmente` (부사) 주로
+- **문법:** 주어 ustedes(귀사) 생략. 3인칭 복수 활용.
+- **시제:**
+  - `manejan` → manejar | 직설법 현재, 3인칭 복수(ustedes) | 평소 업무(습관적 현재) | 규칙
+
+### 2-8. **Ibargüen:** Minerales, componentes industriales, maquinaria pesada.
+- **해석:** 광물, 산업용 부품, 중장비입니다.
+- **주요 단어:** `maquinaria` (명사, 여성, 집합명사) 기계류 / `pesado` (형용사) 무거운
+- **문법:** 명사 나열.
+- **시제:** 동사 없음
+
+### 2-9. **Ibargüen:** Diversificamos bastante.
+- **해석:** 꽤 다양하게 하고 있죠.
+- **주요 단어:** `diversificar` (동사) 다각화하다
+- **문법:** 목적어 없이 자동사처럼 사용. bastante는 부사.
+- **시제:**
+  - `diversificamos` → diversificar | 직설법 현재, 1인칭 복수 | 회사의 일반적 운영 방식 | 규칙(접속법에서 c→qu: diversifique)
+
+### 2-10. **Álvaro:** ¿Y algún tipo de carga más especializada?
+- **해석:** 그럼 좀 더 특수한 종류의 화물은요?
+- **주요 단어:** `especializado` (형용사) 특수한, 전문화된
+- **문법:** 동사 생략 의문문. especializada는 carga(여성)에 일치(tipo가 아님에 주의).
+- **시제:** 동사 없음 (`especializada` → especializar의 과거분사, 형용사 용법)
+
+### 2-11. **Álvaro:** Mi cliente tiene interés en sectores de alta tecnología.
+- **해석:** 제 고객이 첨단기술 분야에 관심이 있어서요.
+- **주요 단어:** `cliente` (명사) 고객 / `interés` (명사, 남성) 관심 / `alta tecnología` 첨단기술
+- **문법:** `tener interés en` = ~에 관심이 있다.
+- **시제:**
+  - `tiene` → tener | 직설법 현재, 3인칭 단수 | 현재 상태 | 불규칙 e→ie
+
+### 2-12. **Ibargüen:** (Ligera pausa) Depende de lo que entienda usted por especializada.
+- **해석:** (잠깐 멈칫하며) '특수한'을 어떤 의미로 생각하시느냐에 달렸죠.
+- **주요 단어:** `ligero` (형용사) 가벼운, 살짝의 / `pausa` (명사, 여성) 멈춤 / `depender de` ~에 달려 있다 / `entender por` ~을 …로 이해하다
+- **문법:** `lo que + 접속법`: 상대가 무엇을 뜻하는지 화자가 모르는(미정) 내용이라 접속법. 주어 usted를 동사 뒤에 도치해 정중함을 강조.
+- **표현:** `entender X por Y` = Y라는 말로 X를 뜻하다. 모호하게 되받아치는 전형적 회피 화법.
+- **시제:**
+  - `depende` → depender | 직설법 현재, 3인칭 단수 | 일반적 판단 | 규칙
+  - `entienda` → entender | 접속법 현재, 3인칭 단수(usted) | 미지·불확정 내용을 가리키는 lo que 뒤라 접속법 | 어간모음 e→ie
+  - 비교: `lo que entiende usted`(직설법)라면 상대의 뜻을 이미 알고 있다는 전제가 됨
+
+### 2-13. **Ibargüen:** Algunas cargas requieren más discreción que otras, por temas de competencia comercial.
+- **해석:** 어떤 화물은 상업적 경쟁 문제 때문에 다른 화물보다 더 신중함이 필요하거든요.
+- **주요 단어:** `requerir` (동사) 필요로 하다 / `discreción` (명사, 여성) 신중함, 비밀 유지 / `tema` (명사, 남성) 문제, 사안 / `competencia` (명사, 여성) 경쟁
+- **문법:** 비교급 `más + 명사 + que`. `por` = 원인.
+- **표현:** `por temas de...` 구어체 "~ 문제로". 불법성을 영업 비밀로 포장하는 완곡어법.
+- **시제:**
+  - `requieren` → requerir | 직설법 현재, 3인칭 복수 | 일반적 사실 | 어간모음 e→ie (단순과거 3인칭은 e→i: requirió)
+
+### 2-14. **Álvaro:** Entiendo perfectamente.
+- **해석:** 충분히 이해합니다.
+- **주요 단어:** `perfectamente` (부사) 완벽하게
+- **문법:** 특이사항 없음
+- **시제:**
+  - `entiendo` → entender | 직설법 현재, 1인칭 단수 | 앞에서 설명
+
+### 2-15. **Álvaro:** La discreción, en mi negocio, siempre se valora.
+- **해석:** 제 업계에서는 신중함이 늘 높이 평가받죠.
+- **주요 단어:** `negocio` (명사, 남성) 사업, 업계 / `valorar` (동사) 평가하다, 소중히 여기다
+- **문법:** 수동 재귀(pasiva refleja) `se valora` = "평가된다". 주어 la discreción과 3인칭 단수 일치.
+- **표현:** 상대의 암시를 받아주며 "나도 같은 부류"임을 은근히 드러내는 말.
+- **시제:**
+  - `valora` (se valora) → valorar | 직설법 현재, 3인칭 단수 | siempre와 함께 일반적 진리 | 규칙
+
+### 2-16. **Ibargüen:** Me alegra oírlo.
+- **해석:** 그 말을 들으니 기쁘군요.
+- **주요 단어:** `oír` (동사) 듣다
+- **문법:** `me alegra + 부정사`: 주어가 동일(내가 기쁘고 내가 듣는다)하면 que절 대신 부정사. 목적대명사 lo는 부정사 뒤에 붙음.
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재, 3인칭 단수 | 앞에서 설명
+  - `oír` → oír | 부정사 | alegrar의 실질 주어 역할 | 불규칙 동사(oigo, oyes, oye...)
+
+### 2-17. **Ibargüen:** ¿Qué volumen de inversión maneja su cliente?
+- **해석:** 고객분은 어느 정도 규모의 투자를 운용하시나요?
+- **주요 단어:** `volumen` (명사, 남성) 규모, 양
+- **문법:** 주어 su cliente가 동사 뒤로 도치(의문문).
+- **시제:**
+  - `maneja` → manejar | 직설법 현재, 3인칭 단수 | 앞에서 설명(현재 운용 규모)
+
+### 2-18. **Álvaro:** Estamos hablando de varios millones, si el proyecto demuestra ser sólido.
+- **해석:** 프로젝트가 탄탄하다는 게 입증되면 수백만 단위 이야기입니다.
+- **주요 단어:** `hablar de` ~에 대해 말하다 / `varios` (형용사) 여러 / `millón` (명사, 남성) 백만 / `demostrar` (동사) 증명하다 / `sólido` (형용사) 견고한
+- **문법:** 진행형 `estar + 현재분사`. 실현 가능 조건 `si + 직설법 현재`. `demostrar + 부정사` = ~임을 증명하다.
+- **표현:** `Estamos hablando de...` = "~ 수준의 얘기다"(규모 강조 구어체).
+- **시제:**
+  - `estamos` → estar | 직설법 현재, 1인칭 복수 | 진행형 조동사 | 불규칙
+  - `hablando` → hablar | 현재분사 | 지금 논의 중인 금액을 강조하는 진행형 | 규칙
+  - `demuestra` → demostrar | 직설법 현재, 3인칭 단수 | si 조건절은 현재 직설법 | 어간모음 o→ue
+  - `ser` → ser | 부정사 | demostrar의 보어, sólido는 성격이라 ser
+
+### 2-19. **Ibargüen:** Eso nos interesa mucho.
+- **해석:** 그건 저희에게 매우 흥미롭군요.
+- **주요 단어:** `interesar` (동사) 관심을 끌다
+- **문법:** gustar형 동사: 주어 eso, 간접목적 nos.
+- **시제:**
+  - `interesa` → interesar | 직설법 현재, 3인칭 단수 | 지금의 관심 | 규칙
+
+### 2-20. **Ibargüen:** Le propongo una segunda reunión, más detallada, la próxima semana.
+- **해석:** 다음 주에 좀 더 자세한 두 번째 회의를 제안드립니다.
+- **주요 단어:** `proponer` (동사) 제안하다 / `reunión` (명사, 여성) 회의 / `detallado` (형용사) 상세한 / `próximo` (형용사) 다음의
+- **문법:** 간접목적 대명사 le = a usted. 시간 표현 la próxima semana는 전치사 없이 부사적으로 사용.
+- **시제:**
+  - `propongo` → proponer | 직설법 현재, 1인칭 단수 | 말하는 순간 제안 행위를 하는 수행적 현재 | 불규칙: poner 계열 1인칭 -go (pongo → propongo)
+  - `detallada` → detallar | 과거분사(형용사) | reunión에 일치
+
+### 2-21. **Álvaro:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** `perfecto` (형용사) 완벽한
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 2-22. **Álvaro:** Ahí estaré.
+- **해석:** 꼭 가겠습니다.
+- **주요 단어:** `ahí` (부사) 거기
+- **문법:** estar + 장소(위치).
+- **표현:** `Ahí estaré` = "그 자리에 있겠다", 약속 수락의 관용 표현.
+- **시제:**
+  - `estaré` → estar | 직설법 단순미래, 1인칭 단수 | 미래 약속에 대한 다짐 | 규칙형 미래(estar + -é)
+
+### 2-23. **Ibargüen:** Antes de que se vaya, una pregunta: ¿de dónde le viene el interés específico por esta ruta?
+- **해석:** 가시기 전에 질문 하나 하죠. 이 항로에 대한 특별한 관심은 어디서 생긴 겁니까?
+- **주요 단어:** `irse` (재귀동사) 떠나다 / `venir` (동사) 오다 / `específico` (형용사) 구체적인, 특별한
+- **문법:** `antes de que + 접속법`(항상 접속법). `le viene el interés` = "당신에게 관심이 온다" — 간접목적 le + 주어 el interés(도치).
+- **표현:** `¿De dónde le viene...?` = "~은 어디서 비롯된 거죠?"
+- **시제:**
+  - `vaya` (se vaya) → irse | 접속법 현재, 3인칭 단수(usted) | antes de que 뒤는 무조건 접속법 | 불규칙(vaya, vayas...)
+  - `viene` → venir | 직설법 현재, 3인칭 단수 | 현재 가진 관심의 출처를 묻는 현재 | 불규칙 e→ie, 1인칭 vengo
+
+### 2-24. **Álvaro:** Digamos que mi cliente prefiere anticiparse a donde el mercado todavía no ha llegado.
+- **해석:** 제 고객은 시장이 아직 닿지 않은 곳을 먼저 선점하길 좋아한다고 해두죠.
+- **주요 단어:** `decir` (동사) 말하다 / `preferir` (동사) 선호하다 / `anticiparse a` ~을 앞지르다, 선수 치다 / `mercado` (명사, 남성) 시장 / `llegar` (동사) 도착하다
+- **문법:** `digamos que` = nosotros 명령형(접속법 현재 1인칭 복수) "~라고 해두자". preferir + 부정사(주어 동일). 재귀형 anticiparse는 부정사 뒤에 se 결합.
+- **표현:** `Digamos que...` = 직답을 피하며 얼버무리는 구어 표현.
+- **시제:**
+  - `digamos` → decir | 명령법 1인칭 복수(접속법 현재형) | "말하자면 이렇다" 식으로 완곡하게 제시 | 불규칙(digo → diga-)
+  - `prefiere` → preferir | 직설법 현재, 3인칭 단수 | 고객의 성향(일반적 사실) | 어간모음 e→ie
+  - `anticiparse` → anticiparse | 부정사 | preferir의 목적어
+  - `ha llegado` → llegar | 직설법 현재완료, 3인칭 단수 | todavía no와 함께 "지금까지 아직 ~하지 않았다" — 현재까지 이어지는 미완 상태라 현재완료 | 규칙
+
+### 2-25. **Ibargüen:** (Sonríe) Me gusta esa visión.
+- **해석:** (미소 지으며) 그런 시각 마음에 드는군요.
+- **주요 단어:** `sonreír` (동사) 미소 짓다 / `gustar` (동사) 마음에 들다 / `visión` (명사, 여성) 시각, 비전
+- **문법:** gustar 구조: 주어 esa visión, 간접목적 me.
+- **시제:**
+  - `sonríe` → sonreír | 직설법 현재, 3인칭 단수 | 지문은 현재형으로 동작 묘사 | 불규칙 e→i + 강세 표기(sonrío, sonríes, sonríe)
+  - `gusta` → gustar | 직설법 현재, 3인칭 단수 | 지금의 감정 | 규칙
+
+### 2-26. **Ibargüen:** Nos vemos la próxima semana, entonces.
+- **해석:** 그럼 다음 주에 뵙죠.
+- **주요 단어:** `verse` (상호 재귀동사) 서로 만나다
+- **문법:** nos는 상호(recíproco) 대명사 "서로". 현재형으로 확정된 미래 약속 표현.
+- **표현:** `Nos vemos` = 작별 인사 "또 봐요".
+- **시제:**
+  - `vemos` (nos vemos) → verse | 직설법 현재, 1인칭 복수 | 확정된 가까운 미래를 현재로 표현 | 불규칙(1인칭 단수 veo)
+

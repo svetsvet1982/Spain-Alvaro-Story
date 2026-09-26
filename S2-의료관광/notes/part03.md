@@ -290,4 +290,183 @@
   - `haber podido` → haber + poder | 완료부정사 (infinitivo compuesto) | "도울 수 있었던 것" — 이미 완료된 일에 대한 현재의 감정 | poder 과거분사 podido는 규칙
   - `ayudar` → ayudar | 부정사 | poder 뒤 부정사 | 규칙
 
-<!-- END SCENE 7 -->
+## 장면 8. 병상의 하비에르
+> 알바로가 병원에서 회복 중인 하비에르를 찾아가 사건 소식을 전합니다.
+
+### 8-1. **Álvaro:** (En la habitación del hospital) ¿Cómo va la recuperación?
+- **해석:** (병실에서) 회복은 어때?
+- **주요 단어:** `habitación` (여성명사) 방, 병실 / `recuperación` (여성명사) 회복
+- **문법:** `¿Cómo va ...?` = "~는 어떻게 되어 가?" (ir로 진행 상황을 물음).
+- **표현:** 안부·진척을 묻는 구어 표현.
+- **시제:**
+  - `va` → ir | 직설법 현재 3인칭 단수 | 지금의 진행 상황 | 불규칙 (voy, vas, va)
+
+### 8-2. **Javier:** Mejor cada día.
+- **해석:** 날마다 나아지고 있어.
+- **주요 단어:** `mejor` (부사/형용사) 더 좋은, 더 잘 / `cada día` 매일
+- **문법:** 동사 생략(Va mejor cada día).
+- **시제:** 동사 없음
+
+### 8-3. **Javier:** La fisioterapia es dura, pero avanzo.
+- **해석:** 물리치료가 힘들긴 한데, 진전은 있어.
+- **주요 단어:** `fisioterapia` (여성명사) 물리치료 / `duro` (형용사) 힘든, 딱딱한 / `avanzar` (동사) 나아가다, 진전하다
+- **문법:** ser + 형용사로 물리치료 자체의 성격을 평가.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반적 성격 평가 | 앞에서 설명
+  - `avanzo` → avanzar | 직설법 현재 1인칭 단수 | 현재 진행 중인 경향 | 규칙 (접속법에서만 z→c: avance)
+
+### 8-4. **Álvaro:** Me alegra oírlo.
+- **해석:** 그 말 들으니 기쁘다.
+- **주요 단어:** `oír` (동사) 듣다
+- **문법:** me alegra + 부정사(gustar형). 부정사 뒤에 lo 부착(그것을 = 앞의 말).
+- **표현:** "다행이다, 반가운 소식이네".
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재 3인칭 단수 | 앞에서 설명
+  - `oír` → oír | 부정사 | alegra의 주어 역할 | 불규칙 동사(oigo, oyes, oye), 부정사에 강세 표기 í
+
+### 8-5. **Javier:** Cuéntame, ¿cómo terminó lo de las vacunas falsas?
+- **해석:** 얘기해 봐, 가짜 백신 건은 어떻게 끝났어?
+- **주요 단어:** `contar` (동사) 이야기하다; 세다 / `terminar` (동사) 끝나다 / `vacuna` (여성명사) 백신 / `falso` (형용사) 가짜의
+- **문법:** 명령형 + me 부착 시 원래 강세 유지 위해 강세 표기(cuenta → cuéntame). `lo de + 명사` = "~에 관한 일, ~ 건".
+- **표현:** `lo de ...` 는 구어에서 매우 흔한 "~ 그 일".
+- **시제:**
+  - `Cuéntame` → contar | 긍정 명령법 2인칭 단수 tú (imperativo afirmativo) | 친근한 요청 | 어간모음변화 o→ue (cuenta)
+  - `terminó` → terminar | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 사건이 과거에 완결된 결말을 묻는 것이라 단순과거 | 규칙
+  - 비교: ¿cómo ha terminado?(현재완료)도 가능하지만, 병원에 있던 사이 끝난 하나의 완결된 사건으로 보아 단순과거.
+
+### 8-6. **Álvaro:** Detuvimos a los responsables.
+- **해석:** 책임자들을 체포했어.
+- **주요 단어:** `detener` 앞에서 설명 / `responsable` (명사) 책임자
+- **문법:** 사람 직접목적어 앞 인칭 a.
+- **시제:**
+  - `Detuvimos` → detener | 직설법 단순과거 1인칭 복수 (pretérito indefinido) | 과거 특정 시점(급습 날)에 완결된 행위 | 불규칙: tener 계열 어간 tuv- (detuve, detuviste, detuvo, detuvimos)
+  - 비교: 장면 7에서는 당일이라 hemos incautado(현재완료), 며칠 지난 지금은 단순과거.
+
+### 8-7. **Álvaro:** Cientos de viales incautados, y sanidad pública está localizando a todos los pacientes afectados.
+- **해석:** 바이알 수백 개를 압수했고, 보건 당국이 피해 환자 전원을 찾고 있어.
+- **주요 단어:** `incautado` 앞에서 설명 / `localizar` 앞에서 설명 / `afectado` (형용사/과거분사) 피해를 입은
+- **문법:** 앞 절은 동사 생략(fueron incautados). estar + 현재분사 = 진행형. 인칭 a.
+- **시제:**
+  - `incautados` → incautar | 과거분사 남성 복수 | 생략된 수동 구문의 결과 상태, viales와 일치 | 규칙
+  - `está localizando` → estar + localizar | estar 직설법 현재 3인칭 단수 + 현재분사 (gerundio) | 지금 진행 중인 작업 | 규칙
+  - `afectados` → afectar | 과거분사 남성 복수 | 형용사적 수식 "영향 받은" | 규칙
+
+### 8-8. **Javier:** Menos mal.
+- **해석:** 다행이네.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 8-9. **Javier:** Es aterrador pensar en cuánta gente pudo haberse inyectado eso sin saberlo.
+- **해석:** 얼마나 많은 사람이 그걸 모르고 맞았을 수도 있는지 생각하면 끔찍해.
+- **주요 단어:** `aterrador` (형용사) 소름 끼치는, 무서운 / `pensar en` ~에 대해 생각하다 / `cuánto` (의문사) 얼마나 많은 / `inyectarse` (재귀) (자기 몸에) 주사를 맞다
+- **문법:** `Es + 형용사 + 부정사` 비인칭 구문(부정사가 주어). `cuánta gente` — gente(여성)에 맞춰 cuánta. `haberse inyectado` 는 완료부정사에 재귀대명사 se가 붙은 형태. `sin + 부정사` = "~하지 않고".
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 현재의 느낌·평가 | 앞에서 설명
+  - `pensar` → pensar | 부정사 | 문장의 실질 주어 | 규칙 부정사 (현재형은 e→ie)
+  - `pudo` → poder | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | poder + 완료부정사로 "~했을 수도 있다"는 과거의 가능성 | 불규칙: 어간 pud- (pude, pudiste, pudo)
+  - `haberse inyectado` → inyectarse | 완료부정사 (infinitivo compuesto) | 과거에 이미 일어났을 수 있는 행위 | 규칙
+  - `saberlo` → saber | 부정사 + lo | sin 뒤 부정사 | 앞에서 설명
+
+### 8-10. **Álvaro:** Lo es.
+- **해석:** 정말 그래.
+- **주요 단어:** —
+- **문법:** `lo` 는 앞 형용사 aterrador를 받는 중성 대명사(ser·estar의 보어 대신). "Es aterrador" → "Lo es".
+- **표현:** 짧은 동의 표현 "그렇지".
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 8-11. **Álvaro:** Al menos esta vez, nadie salió herido en el proceso, más allá del daño ya hecho.
+- **해석:** 적어도 이번엔 이미 생긴 피해 말고는 그 과정에서 다친 사람은 없었어.
+- **주요 단어:** `al menos` 적어도 / `nadie` (대명사) 아무도 / `salir` (동사) 나가다; (결과로) ~하게 되다 / `herir` (동사) 다치게 하다 / `más allá de` ~을 넘어서, ~외에 / `daño` (남성명사) 피해 / `hacer` (동사) 하다
+- **문법:** `salir + 과거분사/형용사` = "(결과적으로) ~하게 되다". nadie가 동사 앞에 오면 no 불필요.
+- **표현:** `salir herido` = 다치다(사건의 결과로).
+- **시제:**
+  - `salió` → salir | 직설법 단순과거 3인칭 단수 (pretérito indefinido) | 이미 끝난 작전을 하나의 완결된 사건으로 봄 | 규칙 (현재 yo형 salgo만 불규칙)
+  - `herido` → herir | 과거분사 남성 단수 | salir와 함께 결과 상태 | 과거분사 규칙 (현재형은 e→ie: hiero)
+  - `hecho` → hacer | 과거분사 남성 단수 | daño를 수식 "이미 가해진" | 불규칙 과거분사 (hacer → hecho)
+
+### 8-12. **Javier:** Eso ya es algo, después de la última vez.
+- **해석:** 지난번 일을 생각하면 그것만 해도 어디야.
+- **주요 단어:** `algo` (대명사) 무언가 / `después de` ~후에 / `última vez` 지난번
+- **문법:** 특이사항 없음
+- **표현:** `ya es algo` = "그것만으로도 의미가 있다, 그나마 다행". `la última vez` 는 하비에르가 다친 이전 사건을 암시.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 앞에서 설명
+
+### 8-13. **Álvaro:** (Sonríe con cansancio) Sí, después de la última vez.
+- **해석:** (지친 미소를 짓는다) 그래, 지난번 일을 생각하면.
+- **주요 단어:** `sonreír` (동사) 미소 짓다 / `cansancio` (남성명사) 피로
+- **문법:** `con + 명사` 로 방식 표현(지친 듯이).
+- **시제:**
+  - `Sonríe` → sonreír | 직설법 현재 3인칭 단수 | 지문의 동작 묘사 | 불규칙 (reír형): sonrío, sonríes, sonríe — 강세 í
+
+### 8-14. **Javier:** ¿Y ahora qué?
+- **해석:** 그럼 이제 어떻게 할 거야?
+- **주요 단어:** `ahora` (부사) 이제, 지금
+- **문법:** 동사 생략 의문문.
+- **표현:** "이제 뭐 할 건데?"라는 구어 표현.
+- **시제:** 동사 없음
+
+### 8-15. **Javier:** ¿Descanso, o ya tienes otro caso en mente?
+- **해석:** 좀 쉬는 거야, 아니면 벌써 다른 사건을 생각해 둔 거야?
+- **주요 단어:** `descanso` (남성명사) 휴식 / `caso` (남성명사) 사건 / `tener en mente` 염두에 두다
+- **문법:** `Descanso` 는 여기서 명사("휴식"). 동사 descansar의 yo 현재형과 형태가 같으니 주의.
+- **표현:** `tener algo en mente` = ~을 구상하고 있다.
+- **시제:**
+  - `tienes` → tener | 직설법 현재 2인칭 단수 | 현재 머릿속에 가진 계획 | 불규칙 e→ie (tienes)
+
+### 8-16. **Álvaro:** Un descanso me vendría bien, la verdad.
+- **해석:** 솔직히 좀 쉬면 좋겠어.
+- **주요 단어:** `venir bien` ~에게 좋다, 도움이 되다 / `la verdad` 솔직히
+- **문법:** `venir bien a alguien` 은 gustar형 구조(주어 un descanso, me 간접목적어).
+- **표현:** `la verdad` 를 문장 끝에 붙여 "사실은, 솔직히".
+- **시제:**
+  - `vendría` → venir | 조건법 단순 3인칭 단수 (condicional simple) | 가정·희망을 부드럽게 표현("쉬면 좋을 텐데") | 불규칙 어간 vendr- (vendría)
+  - 비교: me viene bien(현재)은 실제 상황, me vendría bien은 가정적·완곡한 바람.
+
+### 8-17. **Álvaro:** Aunque ya sabes cómo es esto.
+- **해석:** 근데 이 일이 어떤지 너도 알잖아.
+- **주요 단어:** `aunque` 앞에서 설명 / `saber` 앞에서 설명
+- **문법:** `aunque + 직설법` = 사실인 내용을 양보 ("~이긴 하지만"). 여기서는 앞 문장을 뒤집는 "하지만"의 의미. `cómo` 간접의문.
+- **표현:** `ya sabes cómo es esto` = "이 바닥 사정 알잖아".
+- **시제:**
+  - `sabes` → saber | 직설법 현재 2인칭 단수 | 상대가 이미 아는 사실 | 규칙적 형태 (yo형 sé만 불규칙)
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일의 일반적 성격 | 앞에서 설명
+  - 비교: aunque + 접속법(7-11)은 가정적 양보, 여기의 직설법은 사실 인정.
+
+### 8-18. **Javier:** Lo sé demasiado bien.
+- **해석:** 너무 잘 알지.
+- **주요 단어:** `demasiado` (부사) 너무
+- **문법:** lo = 앞 내용 전체를 받는 중성 대명사.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재의 앎 | 불규칙 (yo형 sé, 대명사 se와 구별하려 강세)
+
+### 8-19. **Javier:** Bueno, cuando estés listo, aquí seguiré, esperando la próxima historia.
+- **해석:** 뭐, 네가 준비되면 난 여기서 다음 이야기를 기다리고 있을게.
+- **주요 단어:** `listo` (형용사) 준비된 (estar listo) / `seguir` (동사) 계속하다, 계속 ~하다 / `esperar` (동사) 기다리다 / `próximo` (형용사) 다음의 / `historia` (여성명사) 이야기, 기사
+- **문법:** `cuando + 접속법` = 미래 시점을 가리키는 시간절(아직 일어나지 않음). `seguir + 현재분사` = 계속 ~하다. `estar listo` 준비된 / `ser listo` 똑똑한.
+- **표현:** 기자 동료로서 "다음 기사 거리"를 기다린다는 뉘앙스.
+- **시제:**
+  - `estés` → estar | 접속법 현재 2인칭 단수 (presente de subjuntivo) | cuando가 미래의 일을 가리키면 접속법 | 불규칙(강세): esté, estés
+  - `seguiré` → seguir | 직설법 단순미래 1인칭 단수 (futuro simple) | 미래의 약속·의지 | 미래형은 규칙 (seguir + é)
+  - `esperando` → esperar | 현재분사 (gerundio) | seguir와 함께 지속 동작 | 규칙
+  - 비교: cuando + 직설법(cuando estás listo)은 습관적 사실, 미래 시점이면 반드시 접속법.
+
+### 8-20. **Álvaro:** Cuenta con ello.
+- **해석:** 믿어도 돼.
+- **주요 단어:** `contar con` 앞에서 설명
+- **문법:** 7-22의 Cuento con ello와 달리 여기서는 tú 명령형.
+- **표현:** "그렇게 할게, 약속해".
+- **시제:**
+  - `Cuenta` → contar | 긍정 명령법 2인칭 단수 tú | 상대에게 믿으라고 권함 | o→ue (직설법 3인칭 단수 cuenta와 동형)
+
+### 8-21. **Álvaro:** Descansa, Javier.
+- **해석:** 푹 쉬어, 하비에르.
+- **주요 단어:** `descansar` (동사) 쉬다
+- **문법:** 특이사항 없음
+- **표현:** 병문안을 마치며 하는 인사.
+- **시제:**
+  - `Descansa` → descansar | 긍정 명령법 2인칭 단수 tú | 따뜻한 권유 | 규칙 (tú 명령 = 직설법 3인칭 단수형)
+
+<!-- END SCENE 8 -->

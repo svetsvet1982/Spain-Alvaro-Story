@@ -206,4 +206,145 @@
   - `debería` → deber | 조건법 1인칭 단수 | 앞에서 설명 (회의적인 반문)
   - `confiar` → 부정사 | deber 뒤 부정사 | 규칙 (단, 활용 시 강세: confío)
 
+### 1-25. **Roselló:** No debería, en general.
+- **해석:** 일반적으로는 믿으시면 안 되죠.
+- **주요 단어:** `en general` 일반적으로
+- **문법:** 앞 질문의 confiar en su palabra가 생략됨.
+- **시제:**
+  - `debería` → deber | 조건법 3인칭 단수(usted) | 앞에서 설명. 여기선 "~하지 않는 게 맞겠죠"라는 완곡한 판단
+
+### 1-26. **Roselló:** Pero esta vez, le pido que confíe, aunque solo sea por curiosidad.
+- **해석:** 하지만 이번엔, 그저 호기심 때문이라도 믿어 주시길 부탁드립니다.
+- **주요 단어:** `pedir` (동사) 부탁하다 / `curiosidad` (명사, 여) 호기심
+- **문법:** pedir que + 접속법(요청). aunque solo sea por ~: "~ 때문이라도"(양보, 접속법).
+- **표현:** aunque solo sea por curiosidad — 자주 쓰는 관용적 양보 표현.
+- **시제:**
+  - `pido` → pedir | 직설법 현재 1인칭 단수 | 지금 하는 부탁 | 불규칙: e→i (pido)
+  - `confíe` → confiar | 접속법 현재 3인칭 단수 | pedir que(요청) 뒤라 접속법 | 강세 변화: confíe
+  - `sea` → ser | 접속법 현재 3인칭 단수 | aunque + 가정적 양보라 접속법 | 불규칙 (sea)
+
+### 1-27. **Roselló:** Hay algo que necesito decirles, y prefiero decirlo con ella presente, no a sus espaldas.
+- **해석:** 두 분께 꼭 말씀드려야 할 게 있는데, 그녀 없는 데서가 아니라 그녀가 있는 자리에서 말하고 싶습니다.
+- **주요 단어:** `necesitar` (동사) 필요하다 / `preferir` (동사) 선호하다 / `presente` (형용사) 출석한, 있는 / `a sus espaldas` 그 사람 몰래, 등 뒤에서
+- **문법:** decirles(les = 두 분), decirlo(lo = algo). con ella presente: con + 명사 + 형용사의 절대 구문("그녀가 있는 상태로").
+- **표현:** a espaldas de alguien — "~ 몰래".
+- **시제:**
+  - `Hay` → haber | 앞에서 설명
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재의 필요 | 규칙
+  - `decir` → 부정사 (두 번) | necesitar/preferir 뒤 부정사 | 불규칙 동사
+  - `prefiero` → preferir | 직설법 현재 1인칭 단수 | 현재의 선호 | 불규칙: e→ie
+
+### 1-28. **Álvaro:** (Duda largamente) Voy a hablarlo con ella.
+- **해석:** (한참 망설인다) 그녀와 얘기해 보겠습니다.
+- **주요 단어:** `dudar` (동사) 망설이다 / `largamente` (부사) 오래 / `hablar algo con alguien` ~와 ~에 대해 이야기하다
+- **문법:** hablarlo: lo = 그 제안. 부정사 뒤 대명사 결합.
+- **표현:** hablarlo con alguien — 스페인 구어에서 "~와 상의하다".
+- **시제:**
+  - `Duda` → dudar | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a + 부정사로 가까운 계획 | 불규칙
+  - `hablar` → 부정사 | ir a 뒤 | 규칙
+
+### 1-29. **Álvaro:** La decisión será suya también, no solo mía.
+- **해석:** 결정은 제 것만이 아니라 그녀의 것이기도 합니다.
+- **주요 단어:** `decisión` (명사, 여) 결정 / `suyo/a` (소유대명사) 그녀의 것 / `mío/a` (소유대명사) 나의 것
+- **문법:** 소유대명사 suya, mía가 decisión(여성)에 일치.
+- **시제:**
+  - `será` → ser | 직설법 단순미래 3인칭 단수 | 앞으로 내릴 결정에 대한 단언 | 불규칙 동사지만 미래형은 규칙적 (será)
+
+### 1-30. **Roselló:** Me parece justo.
+- **해석:** 공정하다고 생각합니다.
+- **주요 단어:** `parecer` (동사) ~처럼 보이다 / `justo` (형용사) 공정한
+- **문법:** me parece + 형용사: "내게는 ~하게 여겨진다" (gustar형).
+- **표현:** Me parece justo / Me parece bien — 동의 표현.
+- **시제:**
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재의 의견 | 1인칭만 불규칙 (parezco)
+
+### 1-31. **Roselló:** Un restaurante tranquilo, mañana, al mediodía.
+- **해석:** 조용한 식당에서, 내일 점심때요.
+- **주요 단어:** `tranquilo` (형용사) 조용한 / `mañana` (부사) 내일
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 1-32. **Roselló:** Le enviaré la dirección.
+- **해석:** 주소를 보내 드리겠습니다.
+- **주요 단어:** `enviar` (동사) 보내다 / `dirección` (명사, 여) 주소
+- **문법:** le = usted(간접목적어).
+- **시제:**
+  - `enviaré` → enviar | 직설법 단순미래 1인칭 단수 | 앞으로 할 행동에 대한 약속 | 규칙 (현재형은 envío로 강세 주의)
+
+### 1-33. **Álvaro:** Todavía no he dicho que sí.
+- **해석:** 아직 좋다고 하지 않았습니다.
+- **주요 단어:** `todavía no` 아직 ~않다 / `decir que sí` 승낙하다
+- **문법:** todavía no + 현재완료: 지금까지 일어나지 않은 일.
+- **표현:** decir que sí / que no — "예/아니오라고 하다".
+- **시제:**
+  - `he dicho` → decir | 직설법 현재완료 1인칭 단수 (pretérito perfecto compuesto) | 지금 이 순간까지 아직 승낙하지 않았음(현재와 연결) | 불규칙 과거분사: dicho
+
+### 1-34. **Roselló:** Lo sé.
+- **해석:** 압니다.
+- **주요 단어:** `saber` (동사) 알다
+- **문법:** lo = 앞 문장 내용(중성 대명사).
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재 인식 | 불규칙 (sé)
+
+### 1-35. **Roselló:** Pero espero que lo diga, señor Fuentes.
+- **해석:** 하지만 좋다고 해 주시길 바랍니다, 푸엔테스 씨.
+- **주요 단어:** `esperar` (동사) 바라다
+- **문법:** esperar que + 접속법. lo = que sí.
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `diga` → decir | 접속법 현재 3인칭 단수 | 희망(esperar que) 뒤라 접속법 | 불규칙: dig-
+
+### 1-36. **Roselló:** Esta vez, de verdad, espero que lo diga.
+- **해석:** 이번엔, 진심으로, 좋다고 해 주시길 바랍니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞 문장과 같은 구조(esperar que + 접속법)의 반복으로 강조.
+- **시제:**
+  - `espero` → esperar | 앞에서 설명
+  - `diga` → decir | 앞에서 설명 (접속법 현재)
+
+## 장면 2. 마드리드 식당에서의 점심 — 적수에 대한 경의
+> 다음 날, 마드리드의 조용한 식당. 알바로와 카밀라가 로셀요와 점심을 함께합니다. 그가 진짜 이유를 밝힙니다 — 자신을 이토록 끈질기게 몰아붙인 유일한 상대에 대한 경의입니다.
+
+### 2-1. **Roselló:** (Ya sentado, se levanta levemente) Señora Reyes.
+- **해석:** (이미 앉아 있다가 살짝 일어서며) 레예스 씨.
+- **주요 단어:** `sentado` (형용사/과거분사) 앉아 있는 / `levantarse` (재귀동사) 일어서다 / `levemente` (부사) 살짝
+- **문법:** 재귀동사 levantarse. sentado는 상태를 나타내는 과거분사.
+- **시제:**
+  - `sentado` → sentar | 과거분사 | "앉은 상태" (동작 결과) | 규칙 과거분사
+  - `levanta` → levantar(se) | 직설법 현재 3인칭 단수 | 지문 서술 현재 | 규칙
+
+### 2-2. **Roselló:** Un placer, por fin, ponerle cara al nombre.
+- **해석:** 드디어 이름만 알던 분의 얼굴을 뵙게 되어 반갑습니다.
+- **주요 단어:** `placer` (명사) 기쁨 / `por fin` 드디어 / `poner cara a` ~에 얼굴을 맞추다
+- **문법:** 부정사구 ponerle cara al nombre가 (Es) un placer의 실질 주어. le는 al nombre를 미리 받는 중복 간접목적어.
+- **표현:** ponerle cara al nombre — "이름만 듣던 사람을 직접 보다"라는 관용 표현.
+- **시제:**
+  - `poner` → 부정사 | 주어 역할의 부정사 | 불규칙 동사 (pongo, puse, puesto)
+
+### 2-3. **Camila:** (Con cautela, sin sentarse todavía) No puedo decir que sea mutuo, dadas las circunstancias.
+- **해석:** (경계하며, 아직 앉지 않은 채) 상황이 상황인지라, 저도 반갑다고는 못 하겠네요.
+- **주요 단어:** `mutuo` (형용사) 상호의 / `dado` (과거분사) 주어진, ~을 고려하면 / `circunstancia` (명사, 여) 상황
+- **문법:** sin + 부정사(~하지 않고). no decir que + 접속법: 부정된 전달·인식 동사 뒤 접속법. dadas las circunstancias: 과거분사가 명사에 성·수 일치하는 절대 분사구문.
+- **표현:** El placer es mutuo(저도 반갑습니다)를 비튼 말. dadas las circunstancias — "사정이 이러하니".
+- **시제:**
+  - `sentarse` → 부정사 | sin 뒤 부정사 | 불규칙 동사(e→ie: me siento)
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 현재 능력·가능 | 불규칙: o→ue
+  - `decir` → 부정사 | poder 뒤 | 불규칙 동사
+  - `sea` → ser | 접속법 현재 3인칭 단수 | 부정문 no decir que 뒤라 접속법 (긍정 Digo que es…라면 직설법) | 불규칙
+  - `dadas` → dar | 과거분사 여성 복수 | 절대 분사구문, circunstancias에 일치 | 규칙 과거분사 (dado)
+
+### 2-4. **Roselló:** Comprensible del todo.
+- **해석:** 충분히 이해합니다.
+- **주요 단어:** `comprensible` (형용사) 이해할 만한 / `del todo` 완전히
+- **문법:** Es가 생략된 형태.
+- **시제:** 동사 없음
+
+### 2-5. **Roselló:** Siéntense, por favor.
+- **해석:** 앉으시죠.
+- **주요 단어:** `sentarse` (재귀동사) 앉다
+- **문법:** ustedes 긍정 명령 + 재귀대명사 se 후치, 강세 부호 추가(siéntense).
+- **시제:**
+  - `Siéntense` → sentarse | 명령법 ustedes (= 접속법 현재 3인칭 복수 형태) | 공손한 권유 | 불규칙: e→ie (siento → siéntense)
+
 <!--END-->

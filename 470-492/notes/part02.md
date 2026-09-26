@@ -634,3 +634,200 @@
 - **문법:** `Se lo` = le lo → se lo (앞에서 설명).
 - **시제:**
   - `agradezco` → agradecer | 직설법 현재, 1인칭 단수 | 앞에서 설명(-zco)
+
+## 장면 8. 밤길의 불심검문
+> 그날 밤, 알바로가 취재 자료를 갖고 호텔로 돌아가던 중 불심검문을 받습니다.
+
+### 8-1. **Guardia:** (Deteniendo el coche en una carretera secundaria) Buenas noches.
+- **해석:** (지방도로에서 차를 세우며) 안녕하십니까.
+- **주요 단어:** `detener` (동사) 세우다, 정지시키다; 체포하다 / `carretera secundaria` (명사구) 지방도로, 보조 도로 / `buenas noches` 밤 인사
+- **문법:** 특이사항 없음
+- **표현:** `Buenas noches` 밤에 만날 때와 헤어질 때 모두 사용. `Guardia`는 주로 Guardia Civil(스페인 치안경찰) 대원.
+- **시제:**
+  - `Deteniendo` → detener | 현재분사 | 지문의 동시 동작 | tener 계열 불규칙 동사지만 현재분사는 규칙(deteniendo)
+
+### 8-2. **Guardia:** Control rutinario.
+- **해석:** 일상 검문입니다.
+- **주요 단어:** `control` (명사, 남) 검문, 단속 / `rutinario` (형용사) 일상적인, 정기적인
+- **문법:** 동사 생략(Es un control rutinario).
+- **표현:** 스페인 경찰의 정형화된 말.
+- **시제:** 동사 없음
+
+### 8-3. **Guardia:** Muestre su documento de identidad y abra el maletero, por favor.
+- **해석:** 신분증을 보여 주시고 트렁크를 열어 주십시오.
+- **주요 단어:** `mostrar` (동사) 보여주다 / `abrir` (동사) 열다 / `maletero` (명사, 남) (차) 트렁크(스페인)
+- **문법:** usted 긍정 명령 두 개를 y로 연결.
+- **표현:** `maletero` 스페인식(중남미는 baúl, cajuela 등).
+- **시제:**
+  - `Muestre` → mostrar | 명령법 usted 긍정(접속법 현재 형태), 3인칭 단수 | 공적 지시 | 어간변화 o→ue (muestro → muestre)
+  - `abra` → abrir | 명령법 usted 긍정, 3인칭 단수 | 공적 지시 | -ir 동사 → -a (과거분사는 불규칙 abierto)
+
+### 8-4. **Álvaro:** (Con calma) Por supuesto, aquí tiene.
+- **해석:** (침착하게) 물론이죠, 여기 있습니다.
+- **주요 단어:** `calma` (명사, 여) 침착함
+- **문법:** 특이사항 없음
+- **표현:** `con calma` 침착하게. `aquí tiene` 앞에서 설명.
+- **시제:**
+  - `tiene` → tener | 직설법 현재, 3인칭 단수(usted) | 건네는 관용 표현(앞에서 설명)
+
+### 8-5. **Guardia:** (Revisando) ¿Qué hace por esta zona a estas horas?
+- **해석:** (확인하며) 이 시간에 이 동네에서 뭘 하고 계십니까?
+- **주요 단어:** `revisar` (동사) 검토하다, 점검하다 / `a estas horas` 이런 시간에(늦은 시간)
+- **문법:** `por esta zona` 막연한 장소의 por.
+- **표현:** `a estas horas` "이렇게 늦은 시간에" 의심의 뉘앙스.
+- **시제:**
+  - `Revisando` → revisar | 현재분사 | 지문의 동시 동작 | 규칙
+  - `hace` → hacer | 직설법 현재, 3인칭 단수(usted) | 지금 하는 일을 물음 | 불규칙
+
+### 8-6. **Álvaro:** Estamos realizando un trabajo periodístico.
+- **해석:** 취재 작업을 하고 있습니다.
+- **주요 단어:** `realizar` (동사) 수행하다, 실행하다
+- **문법:** `estar + 현재분사` 진행형. 1인칭 복수(nosotros)로 소속 매체·팀 차원의 일임을 암시.
+- **표현:** `realizar un trabajo` hacer보다 격식 있는 표현.
+- **시제:**
+  - `Estamos` → estar | 직설법 현재, 1인칭 복수 | 진행형 조동사 | 불규칙
+  - `realizando` → realizar | 현재분사 | 현재 진행 중인(요즘 계속되는) 활동 | 규칙
+
+### 8-7. **Álvaro:** Investigando un asunto en la zona, nada más.
+- **해석:** 이 지역의 한 사안을 조사하는 중이에요, 그게 다입니다.
+- **주요 단어:** `asunto` 앞에서 설명 / `nada más` 그뿐
+- **문법:** 앞 문장의 estamos를 생략하고 현재분사만 남긴 보충 설명.
+- **표현:** `nada más` "그 이상은 아무것도 없다" 대수롭지 않게 말하는 표현.
+- **시제:**
+  - `Investigando` → investigar | 현재분사 | 진행 중인 활동(앞에서 설명)
+
+### 8-8. **Guardia:** ¿Puede identificar para qué medio trabaja?
+- **해석:** 어느 매체에서 일하시는지 밝혀 주실 수 있습니까?
+- **주요 단어:** `identificar` (동사) 밝히다, 확인시키다 / `medio` (명사, 남) 매체, 언론사 / `trabajar para` ~에서 일하다
+- **문법:** 간접의문문 `para qué medio trabaja`(직설법). 전치사 para가 의문사 앞으로.
+- **표현:** `medio (de comunicación)` 언론 매체.
+- **시제:**
+  - `Puede` → poder | 직설법 현재, 3인칭 단수(usted) | 요청(~해 주시겠습니까) | o→ue
+  - `identificar` → identificar | 부정사 | poder 뒤 | 규칙
+  - `trabaja` → trabajar | 직설법 현재, 3인칭 단수 | 현재 소속 | 규칙
+
+### 8-9. **Álvaro:** (Le muestra su acreditación) Aquí tiene mi acreditación de prensa.
+- **해석:** (기자증을 보여준다) 여기 제 기자증입니다.
+- **주요 단어:** `acreditación` (명사, 여) 인증서, 출입증 / `prensa` (명사, 여) 언론, 신문
+- **문법:** `Le` 간접목적어(경찰에게).
+- **표현:** `acreditación de prensa` 기자 신분증.
+- **시제:**
+  - `muestra` → mostrar | 직설법 현재, 3인칭 단수 | 지문 서술 | o→ue
+  - `tiene` → tener | 직설법 현재, 3인칭 단수(usted) | 앞에서 설명
+
+### 8-10. **Guardia:** (La revisa con atención) Entendido.
+- **해석:** (주의 깊게 확인한다) 알겠습니다.
+- **주요 단어:** `con atención` 주의 깊게 / `entendido` 알겠다
+- **문법:** `La` = la acreditación(직접목적격 여성).
+- **표현:** `Entendido` "알겠습니다" 경찰·군대식 짧은 응답.
+- **시제:**
+  - `revisa` → revisar | 직설법 현재, 3인칭 단수 | 지문 서술 | 규칙
+  - `Entendido` → entender | 과거분사(단독 사용) | "이해됨"이라는 완료 상태를 간결히 표현 | 규칙 과거분사(entender의 어간변화는 현재형에서만)
+
+### 8-11. **Guardia:** ¿Le importa que revisemos el vehículo, de todas formas?
+- **해석:** 그래도 차량을 좀 살펴봐도 괜찮겠습니까?
+- **주요 단어:** `importar` (동사) 상관있다, 신경 쓰이다 / `vehículo` (명사, 남) 차량
+- **문법:** `importar`는 gustar형(le = 당신에게). `importar que + 접속법`: 감정·판단 동사 뒤 접속법.
+- **표현:** `¿Le importa que...?` "~해도 괜찮겠습니까?" 정중한 허락 요청.
+- **시제:**
+  - `importa` → importar | 직설법 현재, 3인칭 단수 | 지금 괜찮은지 물음 | 규칙
+  - `revisemos` → revisar | 접속법 현재, 1인칭 복수 | importar que 뒤라 접속법 | 규칙 -ar → -emos
+
+### 8-12. **Álvaro:** Tengo derecho a preguntar el motivo del registro, aunque no tengo ningún problema en colaborar.
+- **해석:** 협조하는 데는 전혀 문제없지만, 수색 이유를 물어볼 권리는 있습니다.
+- **주요 단어:** `derecho` (명사, 남) 권리 / `registro` (명사, 남) 수색, (차량·소지품) 검사 / `colaborar` (동사) 협조하다
+- **문법:** `tener derecho a + 부정사`. `aunque + 직설법`: 실제 사실(협조할 의향이 있다)을 양보로 제시. `tener problema en + 부정사`.
+- **표현:** `registro` 여기서는 "등록"이 아니라 경찰의 "수색".
+- **시제:**
+  - `Tengo` → tener | 직설법 현재, 1인칭 단수 | 현재 보유한 권리 | 불규칙(tengo)
+  - `preguntar` → preguntar | 부정사 | tener derecho a 뒤 | 규칙
+  - `tengo` → tener | 직설법 현재, 1인칭 단수 | aunque 뒤 사실 서술이라 직설법 | 불규칙
+  - `colaborar` → colaborar | 부정사 | 전치사 en 뒤 | 규칙
+
+### 8-13. **Guardia:** Control rutinario en la zona, por movimientos sospechosos reportados esta semana.
+- **해석:** 이번 주 신고된 수상한 움직임 때문에 이 지역에서 하는 일상 검문입니다.
+- **주요 단어:** `movimiento` (명사, 남) 움직임, 동향 / `sospechoso` (형용사) 수상한 / `reportar` (동사) 보고하다, 신고하다
+- **문법:** `por + 명사` 원인. `reportados` 과거분사가 movimientos를 수식(남성 복수 일치, 수동 의미).
+- **표현:** `reportar` 스페인에서는 informar/denunciar가 더 일반적이며, reportar는 영어 영향 표현으로 여겨지기도 함.
+- **시제:**
+  - `reportados` → reportar | 과거분사(형용사적, 남성 복수) | "신고된" 수동 의미 | 규칙
+
+### 8-14. **Álvaro:** Entiendo.
+- **해석:** 알겠습니다.
+- **주요 단어:** `entender` 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재, 1인칭 단수 | 앞에서 설명
+
+### 8-15. **Álvaro:** Adelante, por favor.
+- **해석:** 그러시죠, 하세요.
+- **주요 단어:** `adelante` (부사) 앞으로; 진행하세요
+- **문법:** 특이사항 없음
+- **표현:** `Adelante` 허락·권유("들어오세요/하세요/진행하세요").
+- **시제:** 동사 없음
+
+### 8-16. **Guardia:** (Revisa brevemente el maletero, con documentos y una cámara) Todo en orden.
+- **해석:** (서류와 카메라가 든 트렁크를 짧게 살펴본다) 이상 없습니다.
+- **주요 단어:** `brevemente` (부사) 짧게 / `cámara` (명사, 여) 카메라 / `en orden` 정상인, 이상 없는
+- **문법:** `Todo en orden` 동사(está) 생략.
+- **표현:** `Todo en orden` "모두 이상 없음" 정형 표현.
+- **시제:**
+  - `Revisa` → revisar | 직설법 현재, 3인칭 단수 | 지문 서술 | 규칙
+
+### 8-17. **Álvaro:** ¿Puedo preguntar qué tipo de movimientos sospechosos han reportado?
+- **해석:** 어떤 종류의 수상한 움직임이 신고되었는지 여쭤봐도 될까요?
+- **주요 단어:** 앞에서 설명
+- **문법:** 간접의문문 `qué tipo de ... han reportado`(직설법). 주어는 불특정 3인칭 복수(사람들이/주민들이).
+- **표현:** 3인칭 복수 비인칭 "(누군가가) 신고했다".
+- **시제:**
+  - `Puedo` → poder | 직설법 현재, 1인칭 단수 | 허락 요청 | o→ue
+  - `preguntar` → preguntar | 부정사 | 규칙
+  - `han reportado` → reportar | 직설법 현재완료, 3인칭 복수 | 앞서 언급된 "이번 주"(현재를 포함한 기간)의 일이라 현재완료. 단순과거 reportaron보다 지금과 연결된 느낌 | 규칙 과거분사
+
+### 8-18. **Guardia:** Vehículos con matrícula extranjera, entradas y salidas nocturnas de una finca cercana.
+- **해석:** 외국 번호판 차량들, 인근 농장으로의 야간 출입입니다.
+- **주요 단어:** `entrada` (명사, 여) 들어감, 입구 / `salida` (명사, 여) 나감, 출구 / `nocturno` (형용사) 야간의 / `cercano` (형용사) 가까운
+- **문법:** 동사 생략 명사 나열.
+- **표현:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 8-19. **Guardia:** Nada que le incumba directamente a usted.
+- **해석:** 선생님과 직접 관련된 일은 아닙니다.
+- **주요 단어:** `incumbir` (동사) ~와 관계되다, ~의 소관이다 / `directamente` (부사) 직접
+- **문법:** 선행사가 부정어 `nada`인 관계절이라 **접속법**(incumba). `le ... a usted` 간접목적어 중복(강조·명확화).
+- **표현:** `No le incumbe` "당신이 상관할 일이 아니다" 격식 있는 선긋기.
+- **시제:**
+  - `incumba` → incumbir | 접속법 현재, 3인칭 단수 | 부정된(존재하지 않는) 선행사 nada를 수식하는 관계절 | 규칙 -ir → -a
+
+### 8-20. **Álvaro:** (Disimulando el interés) Entiendo, gracias por la información.
+- **해석:** (관심을 숨기며) 알겠습니다, 알려 주셔서 감사합니다.
+- **주요 단어:** `disimular` (동사) 숨기다, 내색하지 않다 / `interés` (명사, 남) 관심 / `información` (명사, 여) 정보
+- **문법:** `gracias por + 명사`.
+- **표현:** `disimular` 감정·의도를 감추다.
+- **시제:**
+  - `Disimulando` → disimular | 현재분사 | 지문의 동시 동작(말하면서 숨김) | 규칙
+  - `Entiendo` → entender | 직설법 현재, 1인칭 단수 | 앞에서 설명
+
+### 8-21. **Guardia:** Puede continuar.
+- **해석:** 가셔도 됩니다.
+- **주요 단어:** `continuar` (동사) 계속하다
+- **문법:** `poder + 부정사` 허가.
+- **표현:** 검문 종료 시 쓰는 정형 표현.
+- **시제:**
+  - `Puede` → poder | 직설법 현재, 3인칭 단수(usted) | 허가 | o→ue
+  - `continuar` → continuar | 부정사 | poder 뒤 | 규칙(현재형 continúo 강세 주의)
+
+### 8-22. **Guardia:** Tenga buena noche.
+- **해석:** 좋은 밤 되십시오.
+- **주요 단어:** `tener` 가지다 / `noche` 밤
+- **문법:** usted 긍정 명령(작별 인사로서의 기원).
+- **표현:** `Tenga buena noche` 격식 있는 작별 인사(스페인에서는 Que pase buena noche / Buenas noches가 더 흔함).
+- **시제:**
+  - `Tenga` → tener | 명령법 usted 긍정(접속법 현재 형태), 3인칭 단수 | 명령보다는 기원·인사 | 불규칙: tengo → tenga
+
+### 8-23. **Álvaro:** Igualmente, gracias.
+- **해석:** 그쪽도요, 감사합니다.
+- **주요 단어:** `igualmente` (부사) 마찬가지로
+- **문법:** 특이사항 없음
+- **표현:** `Igualmente` 상대의 인사·기원을 그대로 돌려줄 때 "당신도요".
+- **시제:** 동사 없음

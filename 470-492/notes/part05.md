@@ -557,3 +557,198 @@
 - **시제:**
   - `disfrutemos` → disfrutar | 명령법 1인칭 복수 (imperativo, 형태는 접속법 현재 presente de subjuntivo) | 청유 "~하자" | 규칙 -ar → -emos
 
+## 장면 20. 출판 계약 협상
+> 몇 주 후, 알바로가 출판사 편집장 로렌소 이바녜스와 그동안의 취재를 책으로 엮는 협상을 진행합니다.
+
+### 20-1. **Lorenzo:** (En su oficina) Álvaro, hemos leído el borrador que nos envió.
+- **해석:** (자기 사무실에서) 알바로 씨, 보내 주신 초고 읽었습니다.
+- **주요 단어:** `oficina` (명사, 여) 사무실 / `leer` (동사) 읽다 / `borrador` (명사, 남) 초고, 초안 / `enviar` 앞에서 설명
+- **문법:** `nos envió`: 3인칭 단수 = usted(존칭). 관계절 que nos envió. 로렌소는 격식체 usted를 사용.
+- **표현:** 비즈니스 관계라 tú 대신 usted.
+- **시제:**
+  - `hemos leído` → leer | 직설법 현재완료 1인칭 복수 | 최근에 읽고 지금 그 결과로 이야기함 | 과거분사 leído(강세 주의)
+  - `envió` → enviar | 직설법 단순과거 3인칭 단수(usted) | 특정 과거 시점의 발송 행위 | 규칙(강세 envió)
+
+### 20-2. **Lorenzo:** Es una historia extraordinaria.
+- **해석:** 대단한 이야기예요.
+- **주요 단어:** `historia` (명사, 여) 이야기 / `extraordinario` (형) 비범한, 대단한
+- **문법:** ser + 명사: 본질적 평가.
+- **시제:**
+  - `Es` → ser | 직설법 현재 3인칭 단수 | 일반적 평가 | 불규칙
+
+### 20-3. **Álvaro:** Me alegra que les haya gustado.
+- **해석:** 마음에 드셨다니 기쁩니다.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `gustar` (동사) 마음에 들다
+- **문법:** 감정 표현(me alegra) + que + 접속법. 이미 일어난 일이라 접속법 현재완료. `les` = ustedes(출판사 사람들)에게.
+- **표현:** "Me alegra que..." / "Me alegro de que..." 둘 다 흔함.
+- **시제:**
+  - `alegra` → alegrar | 직설법 현재 3인칭 단수 | 지금의 감정 | 규칙
+  - `haya gustado` → gustar | 접속법 현재완료 3인칭 단수 (pretérito perfecto de subjuntivo) | 감정 뒤라 접속법, 이미 완료된 일이라 완료형 | haber 접속법 haya(불규칙) + 규칙 과거분사
+
+### 20-4. **Lorenzo:** Queremos publicarlo, y no solo como libro.
+- **해석:** 출간하고 싶습니다. 그리고 책으로만이 아니라요.
+- **주요 단어:** `querer` 원하다 / `publicar` 앞에서 설명 / `libro` (명사, 남) 책
+- **문법:** `querer + 부정사`, 대명사 lo 부정사에 결합. no solo ... (sino también) "~뿐만 아니라".
+- **시제:**
+  - `Queremos` → querer | 직설법 현재 1인칭 복수 | 현재의 의향 | 불규칙 e→ie이지만 nosotros는 변화 없음
+  - `publicar(lo)` → publicar | 부정사 | querer + 부정사
+
+### 20-5. **Lorenzo:** Queremos los derechos exclusivos para la adaptación audiovisual también, si está de acuerdo.
+- **해석:** 동의하신다면 영상화 독점권도 원합니다.
+- **주요 단어:** `derecho` (명사, 남) 권리 / `exclusivo` (형) 독점의 / `adaptación` (명사, 여) 각색 / `audiovisual` (형) 영상의 / `estar de acuerdo` 동의하다
+- **문법:** `si + 직설법 현재`: 실현 가능한 조건. está = usted.
+- **표현:** estar de acuerdo (con) "(~에) 동의하다" 필수 표현.
+- **시제:**
+  - `Queremos` → querer | 직설법 현재 1인칭 복수 | 앞에서 설명
+  - `está` → estar | 직설법 현재 3인칭 단수(usted) | 현실적 조건절(si 뒤에는 접속법 현재 불가) | 불규칙
+
+### 20-6. **Álvaro:** ¿Qué tipo de adaptación tienen en mente?
+- **해석:** 어떤 식의 각색을 생각하고 계신가요?
+- **주요 단어:** `tipo` (명사, 남) 종류 / `tener en mente` 염두에 두다
+- **문법:** tienen = ustedes(출판사 측).
+- **시제:**
+  - `tienen` → tener | 직설법 현재 3인칭 복수(ustedes) | 현재 구상 | 불규칙 e→ie
+
+### 20-7. **Lorenzo:** Un documental, para empezar.
+- **해석:** 우선은 다큐멘터리요.
+- **주요 단어:** `documental` (명사, 남) 다큐멘터리 / `empezar` (동사) 시작하다
+- **문법:** para + 부정사: "~하는 차원에서", 관용적 "para empezar" = 우선.
+- **시제:**
+  - `empezar` → empezar | 부정사 | 관용구 | (현재형은 e→ie 불규칙)
+
+### 20-8. **Lorenzo:** Y si funciona bien, quizás una serie basada en el conjunto de sus investigaciones.
+- **해석:** 그리고 잘되면, 어쩌면 선생님의 취재 전체를 바탕으로 한 시리즈도요.
+- **주요 단어:** `funcionar` (동사) 작동하다, 잘 되다 / `quizás` 아마도 / `serie` (명사, 여) (TV) 시리즈 / `basado en` ~에 기반한 / `conjunto` (명사, 남) 전체, 총체
+- **문법:** `si + 직설법 현재`: 현실적 조건. 주절은 동사 생략. basada는 serie에 일치.
+- **시제:**
+  - `funciona` → funcionar | 직설법 현재 3인칭 단수 | 미래 조건도 si 뒤에서는 현재형 | 규칙
+  - `basada` → basar | 과거분사 여성 단수 | 형용사적 | 규칙
+
+### 20-9. **Álvaro:** Suena ambicioso.
+- **해석:** 야심 찬 계획이네요.
+- **주요 단어:** `sonar` (동사) ~하게 들리다 / `ambicioso` (형) 야심 찬
+- **문법:** sonar + 형용사.
+- **시제:**
+  - `Suena` → sonar | 직설법 현재 3인칭 단수 | 현재 인상 | 불규칙 o→ue
+
+### 20-10. **Álvaro:** ¿Cómo se estructuraría el contrato, en términos de derechos de autor?
+- **해석:** 저작권 측면에서 계약은 어떻게 구성되나요?
+- **주요 단어:** `estructurar` (동사) 구성하다 / `contrato` (명사, 남) 계약 / `en términos de` ~의 측면에서 / `derechos de autor` 저작권
+- **문법:** 수동의 se + 조건법: "계약이 어떻게 짜이게 될까".
+- **표현:** 조건법으로 가정적·공손하게 질문.
+- **시제:**
+  - `se estructuraría` → estructurarse | 조건법 단순 3인칭 단수 | 아직 확정되지 않은 가정적 계획에 대한 공손한 질문 | 규칙
+
+### 20-11. **Lorenzo:** Usted mantendría los derechos de autor sobre el texto original, y nosotros gestionaríamos la explotación audiovisual, con un porcentaje de royalties para usted sobre cualquier producción derivada.
+- **해석:** 원고에 대한 저작권은 선생님이 계속 보유하시고, 저희는 영상화 사업을 관리하되, 모든 파생 제작물에 대해 선생님께 일정 비율의 로열티를 드리는 방식입니다.
+- **주요 단어:** `mantener` (동사) 유지하다 / `texto` (명사, 남) 텍스트, 원고 / `gestionar` (동사) 관리하다, 운영하다 / `explotación` (명사, 여) (권리의) 이용·사업화 / `porcentaje` (명사, 남) 비율 / `royalty` 로열티 / `producción derivada` 파생 제작물
+- **문법:** 조건법으로 가정적 계약 조건 제시. 주어 usted/nosotros를 명시해 대조. `cualquier`: cualquiera가 명사 앞에서 탈락.
+- **표현:** explotación은 법률·비즈니스 용어로 "(권리의) 활용·상업적 이용"(착취 의미 아님).
+- **시제:**
+  - `mantendría` → mantener | 조건법 단순 3인칭 단수(usted) | 아직 제안 단계의 조건 | 불규칙 어간 mantendr- (tener형)
+  - `gestionaríamos` → gestionar | 조건법 단순 1인칭 복수 | 가정적 제안 | 규칙
+  - `derivada` → derivar | 과거분사 여성 단수 | 형용사 "파생된" | 규칙
+
+### 20-12. **Álvaro:** ¿Qué porcentaje están pensando?
+- **해석:** 몇 퍼센트를 생각하고 계시나요?
+- **주요 단어:** `pensar` (동사) 생각하다
+- **문법:** 진행형 estar + 현재분사. están = ustedes.
+- **표현:** 원래 "pensar en" 이지만 구어에서 목적어로 바로 쓰기도 함.
+- **시제:**
+  - `están` → estar | 직설법 현재 3인칭 복수 | 진행형 | 불규칙
+  - `pensando` → pensar | 현재분사 | 지금 검토 중 | 규칙 (현재형은 e→ie)
+
+### 20-13. **Lorenzo:** Quince por ciento sobre ingresos netos de la adaptación audiovisual, además del anticipo estándar por el libro.
+- **해석:** 영상화 순수익의 15퍼센트입니다. 책에 대한 표준 선인세와는 별도로요.
+- **주요 단어:** `por ciento` 퍼센트 / `ingreso` (명사, 남) 수입 / `neto` (형) 순- / `además de` ~ 외에도 / `anticipo` (명사, 남) 선금, 선인세 / `estándar` (형) 표준의
+- **문법:** 동사 생략 명사구. del = de + el.
+- **시제:** 동사 없음
+
+### 20-14. **Álvaro:** Me parece razonable, aunque exigimos que se incluya una cláusula que garantice control editorial sobre cómo se representan las fuentes protegidas.
+- **해석:** 합리적이라고 봅니다. 다만 보호 대상 취재원이 어떻게 묘사되는지에 대해 편집 통제권을 보장하는 조항을 넣어 주셔야 합니다.
+- **주요 단어:** `parecer` (동사) ~로 보이다 / `razonable` (형) 합리적인 / `exigir` (동사) 요구하다 / `incluir` (동사) 포함하다 / `cláusula` (명사, 여) 조항 / `garantizar` (동사) 보장하다 / `representar` (동사) 묘사하다 / `fuente` (명사, 여) 취재원 / `proteger` (동사) 보호하다
+- **문법:** `exigir que + 접속법`: 요구 동사 뒤 접속법. `una cláusula que garantice`: 아직 존재하지 않는 조항(불특정 선행사)이라 접속법. `cómo se representan`: 간접의문문(직설법), 수동의 se. exigimos는 1인칭 복수(본인과 변호사 측).
+- **표현:** Me parece + 형용사: 의견 표현. aunque는 "다만" 조건 추가.
+- **시제:**
+  - `parece` → parecer | 직설법 현재 3인칭 단수 | 현재 의견 | 1인칭 parezco만 불규칙
+  - `exigimos` → exigir | 직설법 현재 1인칭 복수 | 현재의 요구 | g→j 철자 변화는 exijo(1인칭 단수)에서만
+  - `se incluya` → incluirse | 접속법 현재 3인칭 단수 | 요구(exigir que) 뒤라 접속법 | 불규칙: -uir 동사 y 삽입 (incluyo → incluya)
+  - `garantice` → garantizar | 접속법 현재 3인칭 단수 | 불특정 선행사의 관계절 | 철자 변화 z→c 앞 e (garantice)
+  - `se representan` → representarse | 직설법 현재 3인칭 복수 | 간접의문문 속 일반적 사실 | 규칙
+  - `protegidas` → proteger | 과거분사 여성 복수 | 형용사 "보호되는" | 규칙 과거분사 (현재 1인칭 protejo는 철자 변화)
+
+### 20-15. **Lorenzo:** Por supuesto.
+- **해석:** 물론이죠.
+- **주요 단어:** `por supuesto` 물론
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 20-16. **Lorenzo:** La protección de sus fuentes es una prioridad absoluta para nosotros también.
+- **해석:** 선생님 취재원 보호는 저희에게도 절대적인 우선순위입니다.
+- **주요 단어:** `protección` (명사, 여) 보호 / `prioridad` (명사, 여) 우선순위 / `absoluto` (형) 절대적인
+- **문법:** sus = usted의 소유형용사. ser + 명사.
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 원칙·일반적 사실 | 불규칙
+
+### 20-17. **Álvaro:** ¿Y una cláusula de rescisión, por si en algún momento no estoy de acuerdo con la dirección del proyecto?
+- **해석:** 그리고 혹시라도 제가 프로젝트 방향에 동의하지 않을 때를 대비한 해지 조항은요?
+- **주요 단어:** `rescisión` (명사, 여) (계약) 해지 / `por si` ~할 경우에 대비해 / `algún momento` 어느 순간 / `dirección` (명사, 여) 방향, 연출 / `proyecto` (명사, 남) 프로젝트
+- **문법:** `por si + 직설법`: "~할 경우를 대비해" (por si 뒤엔 직설법 현재 또는 접속법 불완료과거).
+- **표현:** por si acaso와 같은 계열.
+- **시제:**
+  - `estoy` → estar | 직설법 현재 1인칭 단수 | por si 뒤 현재형으로 가능성 제시 | 불규칙 estoy
+
+### 20-18. **Lorenzo:** Podemos incluir una cláusula de rescisión razonable, con condiciones claras para ambas partes.
+- **해석:** 양측 모두에게 명확한 조건을 둔 합리적인 해지 조항을 넣을 수 있습니다.
+- **주요 단어:** `incluir` 앞에서 설명 / `condición` (명사, 여) 조건 / `claro` (형) 명확한 / `ambos` (형) 양쪽의 / `parte` (명사, 여) 당사자
+- **문법:** poder + 부정사.
+- **시제:**
+  - `Podemos` → poder | 직설법 현재 1인칭 복수 | 현재의 가능·의향 | o→ue이나 nosotros는 변화 없음
+  - `incluir` → incluir | 부정사 | poder + 부정사
+
+### 20-19. **Álvaro:** Entonces, en principio, estoy de acuerdo con los términos generales.
+- **해석:** 그렇다면 원칙적으로 전반적인 조건에는 동의합니다.
+- **주요 단어:** `en principio` 원칙적으로, 일단은 / `término` (명사, 남) 조건, 조항 / `general` (형) 전반적인
+- **문법:** estar de acuerdo con + 명사.
+- **표현:** en principio는 "최종 확정은 아니지만 일단"이라는 유보 뉘앙스.
+- **시제:**
+  - `estoy` → estar | 직설법 현재 1인칭 단수 | 현재 입장 | 불규칙
+
+### 20-20. **Lorenzo:** Perfecto.
+- **해석:** 좋습니다.
+- **주요 단어:** 앞에서 설명
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 20-21. **Lorenzo:** Le enviaré el contrato completo para que su abogada lo revise antes de firmar.
+- **해석:** 서명 전에 변호사분이 검토하실 수 있도록 계약서 전문을 보내 드리겠습니다.
+- **주요 단어:** `enviar` 앞에서 설명 / `completo` (형) 완전한 / `abogada` (명사, 여) (여성) 변호사 / `revisar` 앞에서 설명 / `firmar` (동사) 서명하다
+- **문법:** `para que + 접속법`: 목적절, 주어가 다르므로 접속법. `Le` = usted에게. `antes de + 부정사`.
+- **시제:**
+  - `enviaré` → enviar | 직설법 단순미래 1인칭 단수 (futuro simple) | 약속·공식적 계획 (ir a보다 격식 있는 확약) | 규칙
+  - `revise` → revisar | 접속법 현재 3인칭 단수 | para que 목적절이라 항상 접속법 | 규칙
+  - `firmar` → firmar | 부정사 | antes de + 부정사
+
+### 20-22. **Álvaro:** Se lo agradezco.
+- **해석:** 감사합니다.
+- **주요 단어:** `agradecer` (동사) 감사하다
+- **문법:** `Se lo`: 간접목적 le(=usted)가 lo 앞에서 se로 바뀜 (le lo → se lo).
+- **표현:** usted에게 쓰는 정중한 감사 표현.
+- **시제:**
+  - `agradezco` → agradecer | 직설법 현재 1인칭 단수 | 지금의 감사 | 불규칙 -cer → -zco (agradezco)
+
+### 20-23. **Álvaro:** Esto podría ser el cierre perfecto para todo este trabajo.
+- **해석:** 이게 그동안의 모든 작업을 마무리하는 완벽한 끝이 될 수도 있겠네요.
+- **주요 단어:** `cierre` (명사, 남) 마무리, 폐쇄 / `perfecto` 완벽한
+- **문법:** poder(조건법) + 부정사: 가능성.
+- **시제:**
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 가능성 추측 | 불규칙 어간 podr-
+  - `ser` → ser | 부정사 | poder + 부정사
+
+### 20-24. **Lorenzo:** O el principio de algo todavía más grande, quién sabe.
+- **해석:** 아니면 훨씬 더 큰 무언가의 시작일지도 모르죠, 누가 알겠어요.
+- **주요 단어:** `principio` (명사, 남) 시작 / `todavía más` 훨씬 더 / `grande` (형) 큰
+- **문법:** 앞 문장의 podría ser 생략. todavía + 비교급: 강조 "훨씬".
+- **표현:** "quién sabe" = "누가 알겠어, 모를 일이지".
+- **시제:**
+  - `sabe` → saber | 직설법 현재 3인칭 단수 | 관용구 속 현재 | 불규칙(1인칭 sé)이나 3인칭은 규칙형

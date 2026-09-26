@@ -254,3 +254,270 @@
 - **문법:** nosotros 청유 명령(접속법 현재 1인칭 복수). seguir는 e→i 어간 변화.
 - **시제:** `Sigamos` → seguir, 접속법 현재 1인칭 복수(청유 명령)
 
+## 장면 14. 마드리드 최종 합의 서명식
+> 몇 주간의 세부 조율을 거쳐, 마드리드에서 최종 합의 서명식이 열립니다. 스페인과 페루 양국 대표가 공식 협정에 서명하며 협상이 마무리됩니다.
+
+### 14-1. **Fernando:** Bienvenidos a todos a esta ceremonia de firma.
+- **해석:** 이 서명식에 오신 모든 분들을 환영합니다.
+- **주요 단어:** `bienvenido` (형용사) 환영받는 / `la ceremonia` (여성명사) 의식, 식 / `la firma` (여성명사) 서명
+- **문법:** `Bienvenidos`는 청중(복수)에 성·수 일치. `a todos`: 대상, `a esta ceremonia`: 도착 장소.
+- **표현:** `Bienvenidos a...` = "~에 오신 것을 환영합니다".
+- **시제:** 동사 없음
+
+### 14-2. **Fernando:** Ha sido un camino largo, con más de un momento difícil, pero hemos llegado a un acuerdo del que podemos sentirnos orgullosos.
+- **해석:** 한 번 이상 어려운 순간이 있었던 긴 여정이었지만, 우리는 자랑스러워할 만한 합의에 도달했습니다.
+- **주요 단어:** `el camino` 앞에서 설명 / `largo` (형용사) 긴 / `más de uno` 하나 이상 / `difícil` (형용사) 어려운 / `llegar a` (동사구) ~에 도달하다 / `sentirse` (재귀동사) 느끼다 / `orgulloso` (형용사) 자랑스러운
+- **문법:** `del que` = de + el que(관계대명사, 선행사 un acuerdo). `sentirse orgulloso de` 구문의 전치사 de가 관계사 앞으로 이동. `sentirnos`: 재귀대명사가 부정사 뒤에 붙음.
+- **시제:** `Ha sido` → ser, 직설법 현재완료 3인칭 단수 / `hemos llegado` → llegar, 직설법 현재완료 1인칭 복수 / `podemos` → poder, 직설법 현재 1인칭 복수 / `sentirnos` → sentirse, 부정사
+
+### 14-3. **Alonso:** Para el Perú, este acuerdo representa mucho más que la devolución de piezas concretas.
+- **해석:** 페루에게 이 합의는 특정 유물들의 반환 이상의 훨씬 큰 의미를 지닙니다.
+- **주요 단어:** `representar` (동사) 나타내다, 의미하다 / `la devolución` (여성명사) 반환 / `concreto` (형용사) 구체적인, 특정한
+- **문법:** `mucho más que` = ~보다 훨씬 더. `el Perú`: 페루는 관사를 붙이기도 함(격식체).
+- **시제:** `representa` → representar, 직설법 현재 3인칭 단수
+
+### 14-4. **Alonso:** Representa el reconocimiento de una historia que durante demasiado tiempo se ignoró.
+- **해석:** 너무 오랫동안 외면당했던 역사를 인정한다는 의미입니다.
+- **주요 단어:** `el reconocimiento` 앞에서 설명 / `la historia` (여성명사) 역사 / `durante` (전치사) ~동안 / `demasiado` (형용사) 너무 많은 / `ignorar` (동사) 무시하다, 외면하다
+- **문법:** `que ... se ignoró`: 관계절 + 수동의 se. 점과거로 완결된 과거 기간 표현.
+- **시제:** `Representa` → representar, 직설법 현재 3인칭 단수 / `se ignoró` → ignorar, 직설법 단순과거(점과거) 3인칭 단수
+
+### 14-5. **Mariano:** Desde el museo, quiero agradecer la paciencia de todas las partes.
+- **해석:** 박물관을 대표해 모든 당사자의 인내에 감사드리고 싶습니다.
+- **주요 단어:** `querer` 앞에서 설명 / `agradecer` 앞에서 설명 / `la paciencia` (여성명사) 인내 / `la parte` (여성명사) 당사자
+- **문법:** `agradecer + 명사` = ~에 대해 감사하다(전치사 불필요).
+- **시제:** `quiero` → querer, 직설법 현재 1인칭 단수 / `agradecer` → 부정사
+
+### 14-6. **Mariano:** No siempre fue fácil, pero el resultado final protege tanto el patrimonio como las instituciones que lo cuidan.
+- **해석:** 늘 쉬웠던 것은 아니지만, 최종 결과는 문화유산과 그것을 관리하는 기관들 모두를 보호합니다.
+- **주요 단어:** `fácil` (형용사) 쉬운 / `el resultado` (남성명사) 결과 / `proteger` (동사) 보호하다 / `tanto A como B` A와 B 모두 / `el patrimonio` (남성명사) 유산 / `la institución` (여성명사) 기관 / `cuidar` (동사) 돌보다
+- **문법:** 점과거 `fue`는 협상 전체를 하나의 완결된 과정으로 봄. `que lo cuidan`: 관계절, lo = el patrimonio.
+- **시제:** `fue` → ser, 직설법 단순과거 3인칭 단수 / `protege` → proteger, 직설법 현재 3인칭 단수 / `cuidan` → cuidar, 직설법 현재 3인칭 복수
+
+### 14-7. **Joaquín:** Coincido.
+- **해석:** 동감입니다.
+- **주요 단어:** `coincidir` (동사) 일치하다, 의견이 같다
+- **문법:** 특이사항 없음
+- **표현:** `Coincido (contigo/con usted)` = "같은 생각입니다".
+- **시제:** `Coincido` → coincidir, 직설법 현재 1인칭 단수
+
+### 14-8. **Joaquín:** Y añadiría que el modelo que hemos construido aquí podría servir de ejemplo para otros casos, en otros países.
+- **해석:** 그리고 덧붙이자면, 우리가 여기서 만든 모델은 다른 나라의 다른 사례들에 본보기가 될 수 있을 겁니다.
+- **주요 단어:** `añadir` (동사) 덧붙이다 / `construir` (동사) 구축하다 / `servir de` (동사구) ~로 쓰이다 / `el ejemplo` (남성명사) 본보기
+- **문법:** 조건법 `añadiría`로 공손하게 덧붙임. `que hemos construido`: 관계절. `servir de` = servir como.
+- **시제:** `añadiría` → añadir, 조건법 1인칭 단수 / `hemos construido` → construir, 직설법 현재완료 1인칭 복수 / `podría` → poder, 조건법 3인칭 단수 / `servir` → 부정사
+
+### 14-9. **Alonso:** Esperamos que así sea, sinceramente.
+- **해석:** 진심으로 그렇게 되기를 바랍니다.
+- **주요 단어:** `esperar` (동사) 바라다 / `sinceramente` (부사) 진심으로
+- **문법:** `esperar que` + 접속법(소망).
+- **표현:** `Ojalá / Esperemos que así sea` = "그렇게 되길".
+- **시제:** `Esperamos` → esperar, 직설법 현재 1인칭 복수 / `sea` → ser, 접속법 현재 3인칭 단수
+
+### 14-10. **Fernando:** Antes de proceder con las firmas, quiero agradecer especialmente a Óscar, cuya mediación fue decisiva en más de un momento crítico.
+- **해석:** 서명에 들어가기 전에, 여러 결정적인 순간에 중재 역할이 결정적이었던 오스카에게 특별히 감사를 전하고 싶습니다.
+- **주요 단어:** `proceder con` (동사구) ~을 진행하다 / `especialmente` (부사) 특히 / `cuyo/a` (관계형용사) 그의, 그것의 / `la mediación` (여성명사) 중재 / `decisivo` (형용사) 결정적인 / `crítico` (형용사) 중대한
+- **문법:** `cuya`: 소유 관계형용사, 뒤의 명사(mediación)에 성·수 일치. `agradecer a + 사람` = ~에게 감사하다.
+- **시제:** `proceder` → 부정사 / `quiero` → querer, 직설법 현재 1인칭 단수 / `agradecer` → 부정사 / `fue` → ser, 직설법 단순과거 3인칭 단수
+
+### 14-11. **Óscar:** (Con modestia) Simplemente intenté ayudar a que ambas partes se escucharan.
+- **해석:** (겸손하게) 저는 그저 양측이 서로의 말을 듣도록 도우려고 했을 뿐입니다.
+- **주요 단어:** `la modestia` (여성명사) 겸손 / `simplemente` (부사) 단지 / `intentar` (동사) 시도하다 / `ayudar a` (동사구) ~하도록 돕다 / `ambos/as` (형용사) 양쪽의
+- **문법:** `ayudar a que` + 접속법. 주절이 과거(intenté)이므로 접속법 불완료과거 `escucharan`. `se escucharan`: 상호의 se(서로).
+- **시제:** `intenté` → intentar, 직설법 단순과거 1인칭 단수 / `ayudar` → 부정사 / `se escucharan` → escucharse, 접속법 불완료과거 3인칭 복수
+
+### 14-12. **Óscar:** El mérito es de ustedes, por estar dispuestos a ceder cuando hacía falta.
+- **해석:** 필요할 때 양보할 준비가 되어 있었던 여러분의 공입니다.
+- **주요 단어:** `el mérito` (남성명사) 공로 / `dispuesto a` (형용사구) ~할 용의가 있는 / `ceder` (동사) 양보하다 / `hacer falta` 앞에서 설명
+- **문법:** `ser de + 사람` = ~의 것이다(소유). `por + 부정사` = ~했기 때문에(이유). `estar dispuesto`: 상태이므로 estar.
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `estar`, `ceder` → 부정사 / `hacía` → hacer, 직설법 불완료과거 3인칭 단수
+
+### 14-13. **Alonso:** No sea tan modesto, Óscar.
+- **해석:** 너무 겸손해하지 마세요, 오스카.
+- **주요 단어:** `tan` (부사) 그렇게 / `modesto` (형용사) 겸손한
+- **문법:** usted에 대한 부정 명령 = no + 접속법 현재.
+- **시제:** `sea` → ser, 명령법(접속법 현재) 3인칭 단수(usted), 부정
+
+### 14-14. **Alonso:** Sin sus propuestas, dudo que hubiéramos llegado tan lejos.
+- **해석:** 당신의 제안이 없었다면 우리가 여기까지 올 수 있었을지 의문입니다.
+- **주요 단어:** `la propuesta` (여성명사) 제안 / `dudar` (동사) 의심하다 / `llegar lejos` 멀리까지 가다
+- **문법:** `dudar que` + 접속법. `Sin sus propuestas`가 과거 사실에 반대되는 가정 역할 → 접속법 과거완료 `hubiéramos llegado`.
+- **시제:** `dudo` → dudar, 직설법 현재 1인칭 단수 / `hubiéramos llegado` → llegar, 접속법 과거완료 1인칭 복수
+
+### 14-15. **Fernando:** Bien, procedamos entonces.
+- **해석:** 좋습니다, 그럼 진행합시다.
+- **주요 단어:** `proceder` (동사) 진행하다
+- **문법:** nosotros 청유 명령.
+- **시제:** `procedamos` → proceder, 접속법 현재 1인칭 복수(청유 명령)
+
+### 14-16. **Fernando:** (Firma el documento) Por parte de España, queda firmado.
+- **해석:** (문서에 서명한다) 스페인 측은 서명을 마쳤습니다.
+- **주요 단어:** `firmar` (동사) 서명하다 / `el documento` (남성명사) 문서 / `por parte de` ~측에서 / `quedar` (동사) ~한 상태가 되다
+- **문법:** `quedar + 과거분사` = ~된 상태가 되다(결과). 
+- **표현:** `queda firmado/aprobado` = 공식 절차의 완료를 선언하는 표현.
+- **시제:** `Firma` → firmar, 직설법 현재 3인칭 단수(지문) / `queda` → quedar, 직설법 현재 3인칭 단수 / `firmado` → firmar, 과거분사
+
+### 14-17. **Alonso:** (Firma a su vez) Por parte del Perú, también.
+- **해석:** (이어서 서명한다) 페루 측도 마찬가지입니다.
+- **주요 단어:** `a su vez` (부사구) 차례로, 이어서
+- **문법:** 뒤의 queda firmado가 생략됨.
+- **시제:** `Firma` → firmar, 직설법 현재 3인칭 단수(지문)
+
+### 14-18. **Mariano:** (Firma) Y por el museo nacional.
+- **해석:** (서명한다) 그리고 국립 박물관 측도요.
+- **주요 단어:** 앞에서 설명
+- **문법:** 생략 구문(Y [queda firmado] por...).
+- **시제:** `Firma` → firmar, 직설법 현재 3인칭 단수(지문)
+
+### 14-19. **Joaquín:** (Firma) Y por la institución regional.
+- **해석:** (서명한다) 그리고 지역 기관 측도요.
+- **주요 단어:** `la institución` 앞에서 설명 / `regional` 앞에서 설명
+- **문법:** 생략 구문.
+- **시제:** `Firma` → firmar, 직설법 현재 3인칭 단수(지문)
+
+### 14-20. **Fernando:** Con esto, damos por cerrado formalmente este proceso.
+- **해석:** 이로써 이 과정을 공식적으로 종결합니다.
+- **주요 단어:** `con esto` 이로써 / `dar por cerrado` 종결된 것으로 하다 / `cerrar` (동사) 닫다, 끝내다
+- **문법:** `dar por + 과거분사` 구문(13-36 참고). cerrado는 este proceso에 일치.
+- **시제:** `damos` → dar, 직설법 현재 1인칭 복수 / `cerrado` → cerrar, 과거분사
+
+### 14-21. **Fernando:** Cuarenta y tres piezas verán resuelto su estatus en los próximos meses, según lo acordado.
+- **해석:** 합의된 바에 따라 43점의 유물이 앞으로 몇 달 안에 지위가 정리될 것입니다.
+- **주요 단어:** `cuarenta y tres` 43 / `resolver` (동사) 해결하다 / `el estatus` (남성명사) 지위 / `próximo` (형용사) 다음의 / `el mes` (남성명사) 달 / `según` (전치사) ~에 따라
+- **문법:** `ver + 목적어 + 과거분사` = ~이 …되는 것을 보다(→ ~이 …되다). `resuelto`는 resolver의 불규칙 과거분사. `lo acordado` = 중성관사 lo + 과거분사(합의된 것).
+- **표현:** `según lo acordado/previsto` = "합의된/예정된 대로".
+- **시제:** `verán` → ver, 직설법 미래 3인칭 복수 / `resuelto` → resolver, 과거분사 / `acordado` → acordar, 과거분사
+
+### 14-22. **Alonso:** Es un buen día para el patrimonio cultural, y para la relación entre nuestros países.
+- **해석:** 문화유산에게, 그리고 우리 두 나라의 관계에 있어 좋은 날입니다.
+- **주요 단어:** `bueno` (형용사, 남성 단수 명사 앞 buen) 좋은 / `cultural` (형용사) 문화의 / `la relación` (여성명사) 관계 / `entre` (전치사) ~사이의
+- **문법:** `buen`: bueno가 남성 단수 명사 앞에서 어미 탈락.
+- **시제:** `Es` → ser, 직설법 현재 3인칭 단수
+
+### 14-23. **Fernando:** Brindemos, entonces.
+- **해석:** 그럼 건배합시다.
+- **주요 단어:** `brindar` (동사) 건배하다
+- **문법:** nosotros 청유 명령.
+- **시제:** `Brindemos` → brindar, 접속법 현재 1인칭 복수(청유 명령)
+
+### 14-24. **Fernando:** (Levanta una copa) Por la cooperación, y por que este acuerdo sea el primero de muchos.
+- **해석:** (잔을 들며) 협력을 위하여, 그리고 이 합의가 앞으로 이어질 많은 합의의 첫 번째가 되기를 바라며.
+- **주요 단어:** `levantar` (동사) 들어 올리다 / `la copa` (여성명사) (굽 달린) 잔 / `la cooperación` (여성명사) 협력 / `primero` (형용사) 첫 번째의
+- **문법:** 건배사의 `por + 명사` = ~을 위하여. `por que` + 접속법 = ~하기를 바라며(소망). 띄어 쓴 por que(이유의 porque와 다름) 주의.
+- **표현:** `el primero de muchos` = "많은 것들 중 첫 번째" (앞으로 더 있기를).
+- **시제:** `Levanta` → levantar, 직설법 현재 3인칭 단수(지문) / `sea` → ser, 접속법 현재 3인칭 단수
+
+### 14-25. **Todos:** (Brindan) ¡Salud!
+- **해석:** (건배한다) 건배!
+- **주요 단어:** `la salud` (여성명사) 건강 → 건배 구호
+- **문법:** 특이사항 없음
+- **표현:** `¡Salud!` = 스페인어권의 대표적인 건배 구호(재채기할 때도 사용).
+- **시제:** `Brindan` → brindar, 직설법 현재 3인칭 복수(지문)
+
+### 14-26. **Alonso:** (A Óscar, aparte) Por cierto, ¿de dónde surgió su interés por este tema?
+- **해석:** (오스카에게, 따로) 그런데, 이 주제에 대한 관심은 어디서 생긴 겁니까?
+- **주요 단어:** `aparte` (부사) 따로, 방백으로 / `por cierto` 그런데(화제 전환) / `surgir` (동사) 생겨나다 / `el interés por` ~에 대한 관심 / `el tema` (남성명사) 주제
+- **문법:** `interés por/en + 명사`. `su` = usted의.
+- **시제:** `surgió` → surgir, 직설법 단순과거 3인칭 단수
+
+### 14-27. **Alonso:** Su conocimiento va más allá de lo que esperaría de un simple asesor.
+- **해석:** 당신의 지식은 일개 자문역에게 기대할 만한 수준을 넘어섭니다.
+- **주요 단어:** `el conocimiento` (남성명사) 지식 / `ir más allá de` ~을 넘어서다 / `simple` (형용사, 명사 앞) 단순한, 일개의 / `el asesor` (남성명사) 자문역
+- **문법:** `de lo que` + 절(비교 대상). `esperaría`: 조건법으로 가정적 기대 표현. `simple`이 명사 앞에 오면 '일개의', 뒤에 오면 '단순한'.
+- **시제:** `va` → ir, 직설법 현재 3인칭 단수 / `esperaría` → esperar, 조건법 1인칭 단수
+
+### 14-28. **Óscar:** (Sonríe, evasivo) Digamos que he tenido... experiencias recientes que me acercaron mucho a este mundo.
+- **해석:** (얼버무리며 미소 짓는다) 이 세계에 저를 아주 가까이 다가가게 한... 최근의 경험들이 있었다고 해 두죠.
+- **주요 단어:** `evasivo` (형용사) 회피하는, 얼버무리는 / `reciente` (형용사) 최근의 / `acercar` (동사) 가까이 가져가다 / `el mundo` (남성명사) 세계, 분야
+- **문법:** `Digamos que...` = nosotros 청유 접속법으로 "~라고 해 둡시다". `que me acercaron`: 관계절, 주어는 experiencias.
+- **표현:** `Digamos que...` = 말을 아끼거나 돌려 말할 때 쓰는 구어 표현.
+- **시제:** `Sonríe` → sonreír, 직설법 현재 3인칭 단수(지문) / `Digamos` → decir, 접속법 현재 1인칭 복수 / `he tenido` → tener, 직설법 현재완료 1인칭 단수 / `acercaron` → acercar, 직설법 단순과거 3인칭 복수
+
+### 14-29. **Alonso:** Misterioso.
+- **해석:** 수수께끼 같군요.
+- **주요 단어:** `misterioso` (형용사) 신비로운, 수수께끼 같은
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 14-30. **Alonso:** Bueno, espero que sigamos coincidiendo en el futuro, Óscar, sea cual sea su verdadero interés en esto.
+- **해석:** 뭐, 당신의 진짜 관심사가 무엇이든 간에, 앞으로도 계속 마주치게 되길 바랍니다, 오스카.
+- **주요 단어:** `seguir + 현재분사` 계속 ~하다 / `coincidir` (동사) (여기서는) 우연히 만나다, 함께하다 / `el futuro` (남성명사) 미래 / `verdadero` (형용사) 진짜의
+- **문법:** `esperar que` + 접속법(`sigamos`). `sea cual sea` = 양보의 반복 구문(무엇이든 간에), 접속법 사용.
+- **표현:** `sea cual sea / sea lo que sea` = "~이 무엇이든".
+- **시제:** `espero` → esperar, 직설법 현재 1인칭 단수 / `sigamos` → seguir, 접속법 현재 1인칭 복수 / `coincidiendo` → coincidir, 현재분사 / `sea ... sea` → ser, 접속법 현재 3인칭 단수
+
+### 14-31. **Óscar:** Yo también lo espero, Alonso.
+- **해석:** 저도 그러길 바랍니다, 알론소.
+- **주요 단어:** `esperar` 앞에서 설명
+- **문법:** `lo` = 앞 문장 내용 전체를 받는 중성 대명사.
+- **시제:** `espero` → esperar, 직설법 현재 1인칭 단수
+
+### 14-32. **Óscar:** Ha sido un honor formar parte de este proceso.
+- **해석:** 이 과정의 일원이 된 것은 영광이었습니다.
+- **주요 단어:** `el honor` (남성명사) 영광 / `formar parte de` ~의 일부가 되다
+- **문법:** 부정사구 `formar parte...`가 문장의 실제 주어.
+- **표현:** `Ha sido un honor + 부정사` = "~하게 되어 영광이었습니다".
+- **시제:** `Ha sido` → ser, 직설법 현재완료 3인칭 단수 / `formar` → 부정사
+
+### 14-33. **Fernando:** (Se acerca) Óscar, de verdad, gracias.
+- **해석:** (다가와서) 오스카, 정말 고맙습니다.
+- **주요 단어:** `acercarse` (재귀동사) 다가가다 / `de verdad` 정말로
+- **문법:** 재귀동사 acercarse.
+- **시제:** `Se acerca` → acercarse, 직설법 현재 3인칭 단수(지문)
+
+### 14-34. **Fernando:** No habría sido lo mismo sin usted.
+- **해석:** 당신이 없었다면 이렇게 되지 않았을 겁니다.
+- **주요 단어:** `lo mismo` 같은 것 / `sin` (전치사) ~없이
+- **문법:** `sin usted`가 과거 사실 반대 조건 역할 → 조건법 완료.
+- **표현:** `No habría sido lo mismo sin ti/usted` = 감사 표현의 관용구.
+- **시제:** `habría sido` → ser, 조건법 완료 3인칭 단수
+
+### 14-35. **Óscar:** Gracias a ustedes, por confiar en mis propuestas.
+- **해석:** 제 제안을 믿어 주신 여러분께 감사드립니다.
+- **주요 단어:** `confiar en` 앞에서 설명 / `la propuesta` 앞에서 설명
+- **문법:** `gracias por + 부정사` = ~해 주셔서 감사합니다.
+- **시제:** `confiar` → 부정사
+
+### 14-36. **Óscar:** Ha sido una experiencia distinta a todo lo que había hecho antes.
+- **해석:** 제가 전에 해 왔던 어떤 일과도 다른 경험이었습니다.
+- **주요 단어:** `la experiencia` (여성명사) 경험 / `distinto a/de` (형용사) ~와 다른 / `hacer` (동사) 하다
+- **문법:** `todo lo que` = ~한 모든 것. 과거완료 `había hecho`는 이 경험 이전의 일. hecho는 불규칙 과거분사.
+- **시제:** `Ha sido` → ser, 직설법 현재완료 3인칭 단수 / `había hecho` → hacer, 직설법 과거완료 1인칭 단수
+
+### 14-37. **Fernando:** Espero que la disfrutara, a pesar de la tensión de algunos momentos.
+- **해석:** 몇몇 순간의 긴장에도 불구하고 즐기셨기를 바랍니다.
+- **주요 단어:** `disfrutar` (동사) 즐기다 / `a pesar de` ~에도 불구하고 / `la tensión` (여성명사) 긴장
+- **문법:** `esperar que` + 접속법. 지나간 일에 대한 바람이므로 접속법 불완료과거(`disfrutara`). `la` = la experiencia.
+- **시제:** `Espero` → esperar, 직설법 현재 1인칭 단수 / `disfrutara` → disfrutar, 접속법 불완료과거 3인칭 단수(usted)
+
+### 14-38. **Óscar:** La disfruté, sí.
+- **해석:** 네, 즐거웠습니다.
+- **주요 단어:** `disfrutar` 앞에서 설명
+- **문법:** `La`(=la experiencia)가 활용 동사 앞에 위치.
+- **시제:** `disfruté` → disfrutar, 직설법 단순과거 1인칭 단수
+
+### 14-39. **Óscar:** Aunque, si le soy sincero, prefiero las negociaciones a las persecuciones a medianoche.
+- **해석:** 그래도 솔직히 말씀드리면, 한밤중의 추격전보다는 협상이 더 좋습니다.
+- **주요 단어:** `aunque` (접속사) 하지만(여기서는 앞 말을 보충·수정) / `sincero` (형용사) 솔직한 / `preferir A a B` B보다 A를 선호하다 / `la negociación` (여성명사) 협상 / `la persecución` (여성명사) 추격 / `a medianoche` 한밤중에
+- **문법:** `si le soy sincero` = "당신에게 솔직히 말하자면" (le = a usted). `preferir A a B`: 비교 대상 앞에 전치사 a.
+- **표현:** `Si te soy sincero/a` = 구어체 "솔직히 말하면". 오스카의 비밀스러운 과거 모험을 암시하는 농담.
+- **시제:** `soy` → ser, 직설법 현재 1인칭 단수 / `prefiero` → preferir, 직설법 현재 1인칭 단수(e→ie)
+
+### 14-40. **Fernando:** (Ríe, sin entender del todo la broma) Me lo imagino.
+- **해석:** (농담을 완전히 이해하지 못한 채 웃으며) 그러시겠죠.
+- **주요 단어:** `reír` (동사) 웃다 / `entender` (동사) 이해하다 / `del todo` 완전히 / `la broma` (여성명사) 농담 / `imaginarse` (재귀동사) 상상하다
+- **문법:** `sin + 부정사` = ~하지 않은 채. `Me lo imagino`: 재귀대명사 me + 직접목적 lo(그 상황).
+- **표현:** `Me lo imagino` = "그럴 것 같아요, 짐작이 가네요" (맞장구).
+- **시제:** `Ríe` → reír, 직설법 현재 3인칭 단수(지문) / `entender` → 부정사 / `imagino` → imaginarse, 직설법 현재 1인칭 단수
+
+### 14-41. **Fernando:** Bueno, vamos a la recepción, que hay mucho que celebrar todavía.
+- **해석:** 자, 리셉션으로 갑시다, 아직 축하할 일이 많으니까요.
+- **주요 단어:** `la recepción` (여성명사) 리셉션, 연회 / `celebrar` (동사) 축하하다 / `todavía` (부사) 아직
+- **문법:** `vamos a + 장소` = 청유("갑시다"). 뒤의 `que`는 구어체 이유 접속사(= porque). `hay mucho que + 부정사` = ~할 것이 많다.
+- **시제:** `vamos` → ir, 직설법 현재 1인칭 복수(청유 의미) / `hay` → haber, 직설법 현재 3인칭 단수(무인칭) / `celebrar` → 부정사
+
+### 14-42. **Óscar:** Vamos.
+- **해석:** 가시죠.
+- **주요 단어:** `ir` (동사) 가다
+- **문법:** ir의 1인칭 복수 현재가 청유형으로 쓰임(vayamos 대신 관용적으로 vamos).
+- **시제:** `Vamos` → ir, 직설법 현재 1인칭 복수(청유 의미)

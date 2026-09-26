@@ -509,3 +509,303 @@
 - **문법:** 정의를 묻는 `¿Qué es...?` → ser.
 - **시제:**
   - `es` → ser | 직설법 현재 3인칭 단수 | 정의·본질 | 불규칙
+
+### 21-61. **Comandante Rueda:** Una especie de tortita de maíz dulce, gruesa, con queso derretido dentro.
+- **해석:** 달콤한 옥수수로 만든 두툼한 팬케이크 같은 건데, 안에 녹은 치즈가 들어 있지.
+- **주요 단어:** `una especie de` (구) 일종의 / `la tortita` (명사, 여) 작은 팬케이크 / `el maíz` 옥수수 / `grueso` (형용사) 두꺼운 / `derretido` (형용사) 녹은
+- **문법:** 동사 없는 명사구 설명. `derretido`는 과거분사가 형용사로 쓰여 `queso`에 성·수 일치.
+- **표현:** `-ita` 축소사(tortita)로 친근한 느낌.
+- **시제:**
+  - `derretido` → derretir | 과거분사(형용사적 용법) | 녹은 상태 | 불규칙 동사(e→i: derrito)의 규칙 과거분사
+  - 그 외 활용된 동사 없음
+
+### 21-62. **Comandante Rueda:** Un manjar, ya verás.
+- **해석:** 진미야, 먹어 보면 알 거야.
+- **주요 단어:** `el manjar` (명사, 남) 진미, 별미
+- **문법:** 특이사항 없음
+- **표현:** `ya verás` = "두고 봐, 곧 알게 될 거야"(기대를 주는 관용 표현).
+- **시제:**
+  - `verás` → ver | 직설법 단순미래 2인칭 단수 | 곧 경험하게 될 일 예고 | 규칙
+
+### 21-63. **Álvaro:** Suena delicioso.
+- **해석:** 맛있겠네요.
+- **주요 단어:** `sonar` (동사) ~하게 들리다 / `delicioso` (형용사) 맛있는
+- **문법:** `sonar + 형용사` = ~하게 들린다.
+- **시제:**
+  - `Suena` → sonar | 직설법 현재 3인칭 단수 | 지금 들은 설명의 인상 | 불규칙 (o→ue)
+
+### 21-64. **Álvaro:** Me apunto a probarla.
+- **해석:** 저도 먹어 볼게요.
+- **주요 단어:** `apuntarse a` (재귀동사) ~에 참여하다, 끼다
+- **문법:** `probarla`: 부정사 + la(= la cachapa).
+- **표현:** `Me apunto` = "나도 할래, 나도 낄게"(스페인에서 매우 흔한 구어).
+- **시제:**
+  - `Me apunto` → apuntarse | 직설법 현재 1인칭 단수 | 지금 내리는 결정 | 규칙
+  - `probarla` → probar | 부정사 | `a` 뒤 | 불규칙 동사의 원형
+
+### 21-65. **Fabián:** Yo la he probado antes, y te aseguro que no exagera.
+- **해석:** 난 전에 먹어 봤는데, 장담하건대 과장이 아니야.
+- **주요 단어:** `asegurar` (동사) 보장하다, 장담하다 / `exagerar` (동사) 과장하다
+- **문법:** `asegurar que + 직설법`(확신이므로 직설법). `la` = la cachapa.
+- **표현:** `te aseguro que...` = 장담하는데.
+- **시제:**
+  - `he probado` → probar | 직설법 현재완료 1인칭 단수 | 지금까지의 경험 | 규칙 과거분사
+  - `aseguro` → asegurar | 직설법 현재 1인칭 단수 | 말하는 순간의 단언 | 규칙
+  - `exagera` → exagerar | 직설법 현재 3인칭 단수 | 코만단테가 방금 한 말에 대한 현재 판단 | 규칙
+
+### 21-66. **Camarero:** (Se acerca) Buenas tardes, ¿ya saben qué van a pedir, o necesitan un momento más?
+- **해석:** (다가와서) 안녕하세요, 주문하실 메뉴 정하셨나요, 아니면 조금 더 시간이 필요하세요?
+- **주요 단어:** `acercarse` (재귀동사) 다가가다 / `pedir` (동사) 주문하다 / `necesitar` (동사) 필요하다
+- **문법:** `saber qué + 동사` = 간접의문(qué 강세). `ir a + 부정사` = 가까운 미래.
+- **표현:** `Buenas tardes` = 오후 인사. 식당 직원의 정형화된 주문 질문.
+- **시제:**
+  - `Se acerca` → acercarse | 직설법 현재 3인칭 단수 | 지문 | 규칙(철자: 접속법 acerque)
+  - `saben` → saber | 직설법 현재 3인칭 복수 (ustedes) | 현재 상태 질문 | 불규칙(1인칭 sé)
+  - `van (a pedir)` → ir | 직설법 현재 3인칭 복수 | `ir a + 부정사`로 곧 할 행동 | 불규칙
+  - `pedir` → pedir | 부정사 | `ir a` 뒤 | 불규칙 동사(e→i)의 원형
+  - `necesitan` → necesitar | 직설법 현재 3인칭 복수 | 현재 필요 | 규칙
+
+### 21-67. **Comandante Rueda:** Tráiganos tres cachapas con queso de mano, y para acompañar, un pabellón criollo para mí.
+- **해석:** 케소 데 마노 얹은 카차파 셋 가져다주고, 곁들여서 내 건 파베욘 크리오요로 하나.
+- **주요 단어:** `traer` (동사) 가져오다 / `acompañar` (동사) 곁들이다, 동반하다 / `el pabellón criollo` 파베욘 크리오요(베네수엘라 국민 요리)
+- **문법:** 긍정 명령 + 대명사 부착 `Tráiganos`(traiga + nos, 강세 표시). 종업원 한 명에게 usted.
+- **표현:** `para acompañar` = 곁들임으로.
+- **시제:**
+  - `Tráiganos` → traer | 명령법 usted형 (= 접속법 현재 3인칭 단수 traiga) | 주문(정중한 명령) | 불규칙 (traer → traig-)
+  - `acompañar` → acompañar | 부정사 | `para` 뒤 목적 | 규칙
+
+### 21-68. **Fabián:** Yo también quiero el pabellón, por favor.
+- **해석:** 저도 파베욘 주세요.
+- **주요 단어:** `querer` (동사) 원하다
+- **문법:** 특이사항 없음
+- **표현:** 주문 시 `quiero + 음식`은 구어에서 흔하지만, 더 공손하게는 `quería`, `me pone`(스페인) 등.
+- **시제:**
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재 바람 | 불규칙 (e→ie)
+
+### 21-69. **Álvaro:** ¿Qué lleva el pabellón exactamente?
+- **해석:** 파베욘에는 정확히 뭐가 들어가나요?
+- **주요 단어:** `llevar` (동사) (재료가) 들어가다, 포함하다
+- **문법:** 특이사항 없음
+- **표현:** `¿Qué lleva...?` = 음식 재료를 묻는 전형적 표현.
+- **시제:**
+  - `lleva` → llevar | 직설법 현재 3인칭 단수 | 요리 구성(일반 사실) | 규칙
+
+### 21-70. **Comandante Rueda:** Carne mechada, arroz blanco, caraotas negras, y tajadas de plátano frito.
+- **해석:** 결대로 찢은 소고기, 흰쌀밥, 검은콩, 그리고 튀긴 플랜틴 조각이지.
+- **주요 단어:** `la carne mechada` 결대로 찢은 고기 / `el arroz` 쌀밥 / `las caraotas` 콩(베네수엘라어; 스페인에서는 alubias/judías) / `la tajada` 조각 / `el plátano` 바나나, 플랜틴
+- **문법:** 동사 없는 나열. `mechada`, `frito`는 과거분사의 형용사적 용법.
+- **표현:** `caraotas`, `tajadas`는 베네수엘라 음식 용어.
+- **시제:**
+  - `mechada` → mechar | 과거분사(형용사) | 조리된 상태 | 규칙
+  - `frito` → freír | 과거분사(형용사) | 튀겨진 상태 | 불규칙 과거분사 (frito; freído도 가능하지만 형용사로는 frito)
+
+### 21-71. **Comandante Rueda:** El plato más completo que hay aquí.
+- **해석:** 여기서 가장 푸짐한 요리야.
+- **주요 단어:** `el plato` (명사, 남) 요리, 접시 / `completo` (형용사) 완전한, 푸짐한
+- **문법:** `el + 명사 + más + 형용사 + que` = 최상급.
+- **시제:**
+  - `hay` → haber | 직설법 현재 무인칭 | 존재 | 불규칙
+
+### 21-72. **Álvaro:** Entonces yo también quiero probar el pabellón, en vez de solo la cachapa.
+- **해석:** 그럼 저도 카차파만 먹지 말고 파베욘도 먹어 볼게요.
+- **주요 단어:** `en vez de` (구) ~대신에
+- **문법:** `querer + 부정사`(동일 주어).
+- **시제:**
+  - `quiero` → querer | 직설법 현재 1인칭 단수 | 현재의 바람 | 불규칙
+  - `probar` → probar | 부정사 | `querer` 뒤 | 불규칙 동사의 원형
+
+### 21-73. **Camarero:** Perfecto.
+- **해석:** 알겠습니다.
+- **시제:** 동사 없음
+
+### 21-74. **Camarero:** ¿Y para beber?
+- **해석:** 음료는요?
+- **주요 단어:** `beber` (동사) 마시다
+- **문법:** `para + 부정사` 단독 질문(동사 생략: ¿Qué quieren para beber?).
+- **표현:** 식당 정형 질문.
+- **시제:**
+  - `beber` → beber | 부정사 | `para` 뒤 | 규칙
+
+### 21-75. **Comandante Rueda:** Papelón con limón para todos, es lo que se toma aquí.
+- **해석:** 전부 파펠론 콘 리몬으로. 여기선 다들 그걸 마시지.
+- **주요 단어:** `el papelón con limón` 파펠론 콘 리몬(사탕수수 원당+레몬 음료) / `tomar` (동사) 마시다
+- **문법:** `lo que se toma` = 사람들이 마시는 것(무인칭/수동 se).
+- **표현:** `tomar` = 마시다(특히 음료).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 정체 규정 | 불규칙
+  - `se toma` → tomar | 직설법 현재 3인칭 단수 (수동 se) | 지역 관습 | 규칙
+
+### 21-76. **Comandante Rueda:** Ya se acostumbrará, Diego.
+- **해석:** 곧 익숙해질 거야, 디에고.
+- **주요 단어:** `acostumbrarse` (재귀동사) 익숙해지다
+- **문법:** 여기서는 디에고를 usted로 지칭(3인칭 단수). 앞에서 tú를 쓰던 것과 섞여 있는 구어적 혼용.
+- **표현:** `Ya se acostumbrará` = 금방 적응할 것이다.
+- **시제:**
+  - `se acostumbrará` → acostumbrarse | 직설법 단순미래 3인칭 단수 | 앞으로의 예상 | 규칙
+
+### 21-77. **Álvaro:** Suena bien, nunca lo he probado.
+- **해석:** 좋네요, 한 번도 안 마셔 봤어요.
+- **주요 단어:** `sonar bien` (구) 좋게 들리다
+- **문법:** `nunca + 현재완료` = 지금까지 한 번도 ~한 적 없다.
+- **시제:**
+  - `Suena` → sonar | 직설법 현재 3인칭 단수 | 현재 인상 | 불규칙 (o→ue)
+  - `he probado` → probar | 직설법 현재완료 1인칭 단수 | 지금까지의 경험(없음). 21-13의 과거완료와 비교: 이것은 지금까지도 경험이 없으므로 현재완료 | 규칙 과거분사
+
+### 21-78. **Camarero:** Enseguida les traigo todo.
+- **해석:** 바로 다 가져다드리겠습니다.
+- **주요 단어:** `enseguida` (부사) 곧, 즉시 / `traer` (동사) 가져오다
+- **문법:** `les` = 간접목적어(여러분께).
+- **표현:** 식당 직원의 정형 표현.
+- **시제:**
+  - `traigo` → traer | 직설법 현재 1인칭 단수 | 곧 할 행동을 현재형으로(가까운 미래·약속) | 불규칙 (-igo)
+
+### 21-79. **Comandante Rueda:** (Cuando el camarero se aleja) Ya verás, Diego, esta comida te va a hacer sentir como en casa, aunque estés a miles de kilómetros.
+- **해석:** (종업원이 멀어지자) 두고 봐, 디에고, 수천 킬로미터 떨어져 있어도 이 음식이 자네를 집에 온 것처럼 느끼게 해 줄 거야.
+- **주요 단어:** `alejarse` (재귀동사) 멀어지다 / `sentir` (동사) 느끼다 / `como en casa` 집에 있는 것처럼 / `miles de` 수천의
+- **문법:** `hacer + 부정사` = ~하게 만들다(사역), 대명사 `te`는 `va` 앞으로. `aunque + 접속법` = 양보.
+- **표현:** `sentirse como en casa` = 편안하다, 내 집 같다.
+- **시제:**
+  - `se aleja` → alejarse | 직설법 현재 3인칭 단수 | 지문, cuando + 현재 사실 | 규칙
+  - `verás` → ver | 직설법 단순미래 2인칭 단수 | 관용 "ya verás" | 규칙
+  - `va (a hacer)` → ir | 직설법 현재 3인칭 단수 | `ir a + 부정사`로 확신 있는 예측 | 불규칙
+  - `hacer` → hacer | 부정사 | `ir a` 뒤 | 불규칙 동사의 원형
+  - `sentir` → sentir | 부정사 | 사역 `hacer` 뒤 | 불규칙 동사(e→ie)의 원형
+  - `estés` → estar | 접속법 현재 2인칭 단수 | `aunque + 접속법`: 떨어져 있는 건 사실이지만 "그렇다 하더라도"라며 결과에 영향이 없음을 강조. 비교: `aunque estás`(직설법)는 "비록 멀리 있지만"이라고 사실을 새 정보로 단언 | 불규칙
+
+### 21-80. **Álvaro:** Eso espero.
+- **해석:** 그러길 바랍니다.
+- **주요 단어:** `esperar` (동사) 바라다
+- **문법:** `Eso`(목적어) 앞으로 도치.
+- **표현:** `Eso espero` = "그러면 좋겠네요".
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙
+
+### 21-81. **Álvaro:** Todo suena mucho más pesado que lo que como normalmente.
+- **해석:** 다 제가 평소에 먹는 것보다 훨씬 무거운 음식 같네요.
+- **주요 단어:** `pesado` (형용사) 무거운, 소화가 잘 안 되는 / `normalmente` (부사) 보통
+- **문법:** `más ... que lo que + 절` = ~하는 것보다 더.
+- **표현:** 음식에 `pesado` = 기름지고 든든한.
+- **시제:**
+  - `suena` → sonar | 직설법 현재 3인칭 단수 | 지금의 인상 | 불규칙
+  - `como` → comer | 직설법 현재 1인칭 단수 | 평소 습관 | 규칙
+
+### 21-82. **Fabián:** (Ríe) Aquí no se come poco, eso lo aprenderás rápido.
+- **해석:** (웃으며) 여기선 적게 먹는 법이 없어, 금방 알게 될 거야.
+- **주요 단어:** `aprender` (동사) 배우다 / `rápido` (부사적) 빨리
+- **문법:** `se come` = 무인칭 se(사람들이 먹는다). `eso lo`: 목적어 도치 후 대명사 중복.
+- **표현:** 특이사항 없음
+- **시제:**
+  - `Ríe` → reír | 직설법 현재 3인칭 단수 | 지문 | 불규칙
+  - `se come` → comer | 직설법 현재 3인칭 단수 (무인칭 se) | 지역의 일반적 관습 | 규칙
+  - `aprenderás` → aprender | 직설법 단순미래 2인칭 단수 | 앞으로의 예측 | 규칙
+
+### 21-83. **Comandante Rueda:** La comida ligera es para quien no trabaja duro.
+- **해석:** 가벼운 음식은 힘들게 일하지 않는 사람이나 먹는 거야.
+- **주요 단어:** `ligero` (형용사) 가벼운 / `trabajar duro` (구) 열심히 일하다
+- **문법:** `quien + 직설법` = 일반적인 사람(실제 부류를 가리킴).
+- **시제:**
+  - `es` → ser | 직설법 현재 3인칭 단수 | 일반론 | 불규칙
+  - `trabaja` → trabajar | 직설법 현재 3인칭 단수 | 일반적 특성 | 규칙
+
+### 21-84. **Comandante Rueda:** Aquí trabajamos duro, así que comemos como corresponde.
+- **해석:** 여기선 힘들게 일하니까, 그에 걸맞게 먹는 거지.
+- **주요 단어:** `así que` (접속사) 그래서 / `corresponder` (동사) 걸맞다, 해당하다
+- **문법:** `así que` = 결과.
+- **표현:** `como corresponde` = 마땅히 그래야 하는 대로.
+- **시제:**
+  - `trabajamos` → trabajar | 직설법 현재 1인칭 복수 | 습관 | 규칙
+  - `comemos` → comer | 직설법 현재 1인칭 복수 | 습관 | 규칙
+  - `corresponde` → corresponder | 직설법 현재 3인칭 단수 | 일반적 당위 | 규칙
+
+### 21-85. **Álvaro:** No puedo discutir esa lógica.
+- **해석:** 그 논리엔 반박할 수가 없네요.
+- **주요 단어:** `discutir` (동사) 반박하다, 논쟁하다 / `la lógica` 논리
+- **문법:** `poder + 부정사`.
+- **시제:**
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 현재 판단 | 불규칙 (o→ue)
+  - `discutir` → discutir | 부정사 | `poder` 뒤 | 규칙
+
+### 21-86. **Comandante Rueda:** (Cuando llega la comida) Ahí está.
+- **해석:** (음식이 나오자) 나왔군.
+- **주요 단어:** `ahí` (부사) 거기
+- **문법:** `Ahí está` = 위치·등장 → estar.
+- **표현:** `¡Ahí está!` = "왔다, 저기 있다".
+- **시제:**
+  - `llega` → llegar | 직설법 현재 3인칭 단수 | 지문, cuando + 현재 사실 | 규칙
+  - `está` → estar | 직설법 현재 3인칭 단수 | 지금 눈앞에 있음 | 불규칙
+
+### 21-87. **Comandante Rueda:** Pruébalo, Diego, y dime qué opinas.
+- **해석:** 먹어 봐, 디에고, 그리고 어떤지 말해 줘.
+- **주요 단어:** `probar` (동사) 맛보다 / `opinar` (동사) 의견을 가지다
+- **문법:** tú 긍정 명령 + 대명사 부착: `prueba + lo` → `Pruébalo`, `di + me` → `dime`. `qué opinas` = 간접의문.
+- **시제:**
+  - `Pruébalo` → probar | 명령법 tú형 (긍정) | 친근한 권유 | 불규칙 (o→ue)
+  - `dime` → decir | 명령법 tú형 (긍정) | 요청 | 불규칙 명령형 (decir → di)
+  - `opinas` → opinar | 직설법 현재 2인칭 단수 | 지금의 의견 | 규칙
+
+### 21-88. **Álvaro:** (Prueba un bocado) Está buenísimo, la verdad.
+- **해석:** (한 입 먹어 본다) 정말 맛있네요.
+- **주요 단어:** `el bocado` (명사, 남) 한 입 / `buenísimo` (형용사) 아주 맛있는 (bueno의 절대최상급)
+- **문법:** 음식 맛에는 `estar + 형용사`(지금 먹어 본 상태). `ser bueno`는 "좋은 것이다(몸에 좋다)"의 의미.
+- **표현:** `la verdad` = 정말로, 솔직히.
+- **시제:**
+  - `Prueba` → probar | 직설법 현재 3인칭 단수 | 지문 | 불규칙 (o→ue)
+  - `Está` → estar | 직설법 현재 3인칭 단수 | 맛(지금 느끼는 상태) → estar | 불규칙
+
+### 21-89. **Álvaro:** La carne está increíblemente tierna.
+- **해석:** 고기가 믿을 수 없을 만큼 부드러워요.
+- **주요 단어:** `increíblemente` (부사) 믿을 수 없을 만큼 / `tierno` (형용사) 부드러운, 연한
+- **문법:** 조리된 상태 → estar.
+- **시제:**
+  - `está` → estar | 직설법 현재 3인칭 단수 | 음식의 현재 상태 | 불규칙
+
+### 21-90. **Comandante Rueda:** Se cocina despacio, muchas horas.
+- **해석:** 여러 시간 동안 천천히 익히거든.
+- **주요 단어:** `cocinar` (동사) 요리하다, 익히다 / `despacio` (부사) 천천히
+- **문법:** `Se cocina` = 수동 se(고기가 조리된다).
+- **시제:**
+  - `Se cocina` → cocinar | 직설법 현재 3인칭 단수 (수동 se) | 조리법(일반 사실) | 규칙
+
+### 21-91. **Comandante Rueda:** Así queda así de suave.
+- **해석:** 그래서 이렇게 부드러운 거야.
+- **주요 단어:** `quedar` (동사) (결과적으로) ~하게 되다 / `suave` (형용사) 부드러운
+- **문법:** 첫 `Así` = 그렇게 해서(방법), 둘째 `así de + 형용사` = 이만큼 ~한.
+- **표현:** `así de + 형용사` = 이 정도로 ~한.
+- **시제:**
+  - `queda` → quedar | 직설법 현재 3인칭 단수 | 조리의 결과 상태(일반 사실) | 규칙
+
+### 21-92. **Fabián:** Ya te dije que no exageraba con la comida de aquí.
+- **해석:** 여기 음식 얘기하실 때 과장 아니라고 했잖아.
+- **주요 단어:** `exagerar` (동사) 과장하다
+- **문법:** 간접화법 시제 일치: 과거 전달동사(`dije`) 뒤에서 원래 현재 `no exagera`(21-65) → 불완료과거 `no exageraba`.
+- **표현:** `Ya te dije que...` = "내가 말했잖아".
+- **시제:**
+  - `dije` → decir | 직설법 단순과거 1인칭 단수 | 아까 한 번 말한 행위 | 불규칙 (dij-: dije, dijo)
+  - `exageraba` → exagerar | 직설법 불완료과거 3인칭 단수 | 간접화법 시제 일치(과거 속의 현재) | 규칙
+
+### 21-93. **Comandante Rueda:** Bueno, mientras comemos, hablemos un poco de lo que nos trae aquí, sin prisa, mientras disfrutamos.
+- **해석:** 자, 먹으면서 우리가 여기 모인 이유에 대해 조금 얘기해 보지, 서두르지 말고 즐기면서.
+- **주요 단어:** `mientras` (접속사) ~하는 동안 / `traer` (동사) 데려오다 / `la prisa` 서두름 / `disfrutar` (동사) 즐기다
+- **문법:** `mientras + 직설법` = 실제 동시 진행. `lo que nos trae aquí` = 우리를 여기로 데려온 것(용건).
+- **표현:** `lo que nos trae aquí` = 본론, 방문 목적. `sin prisa` = 천천히.
+- **시제:**
+  - `comemos` → comer | 직설법 현재 1인칭 복수 | 지금 진행 중인 사실 | 규칙
+  - `hablemos` → hablar | 접속법 현재 1인칭 복수 | nosotros 명령("~하자") | 규칙
+  - `trae` → traer | 직설법 현재 3인칭 단수 | 현재의 용건 | 불규칙 (1인칭 traigo)
+  - `disfrutamos` → disfrutar | 직설법 현재 1인칭 복수 | 동시 진행 | 규칙
+
+### 21-94. **Fabián:** Cuando usted diga, Comandante.
+- **해석:** 말씀만 하십시오, 코만단테님.
+- **주요 단어:** `decir` (동사) 말하다
+- **문법:** `cuando + 접속법` = 미래의 불확정 시점.
+- **표현:** `Cuando usted diga` = "원하실 때 언제든지".
+- **시제:**
+  - `diga` → decir | 접속법 현재 3인칭 단수 | 아직 일어나지 않은 미래 시점을 가리키는 cuando 뒤 → 접속법 | 불규칙 (dig-)
+
+### 21-95. **Comandante Rueda:** Para el próximo pedido, necesitamos aumentar el volumen respecto al envío anterior.
+- **해석:** 다음 주문에서는 지난번 발송분보다 물량을 늘려야 해.
+- **주요 단어:** `el pedido` 주문 / `aumentar` (동사) 늘리다 / `el volumen` 물량 / `respecto a` (구) ~에 비해 / `el envío` 발송(분) / `anterior` 이전의
+- **문법:** `necesitar + 부정사`. `respecto a + el` → `respecto al`.
+- **시제:**
+  - `necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요 | 규칙
+  - `aumentar` → aumentar | 부정사 | `necesitar` 뒤 | 규칙

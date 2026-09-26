@@ -947,3 +947,171 @@
 - **문법:** 특이사항 없음
 - **시제:**
   - `espero` → esperar | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 7-111. **파비안:** Una cosa más, Diego: si algo de lo que has dicho hoy resultara ser falso, lo sabremos en menos de una semana.
+- **해석:** 한 가지 더, 디에고: 오늘 네가 한 말 중 뭐라도 거짓으로 드러난다면, 일주일 안에 우린 알게 될 거야.
+- **주요 단어:** `resultar` (동사) ~로 판명되다 / `falso` (형용사) 거짓의 / `saber` (동사) 알다 / `semana` (명사, 여성) 주
+- **문법:** `si + 접속법 과거`(가능성이 낮다고 보는 가정) + 귀결은 직설법 미래 — 귀결을 단호한 사실로 못박는 구어적 혼합. `resultar + 부정사/형용사` ~로 드러나다.
+- **표현:** `Una cosa más` "하나 더". `en menos de` ~도 안 돼서.
+- **시제:**
+  - `has dicho` → decir | 직설법 현재완료 2인칭 단수 | hoy라는 아직 끝나지 않은 시간 단위 안의 일 | 불규칙 과거분사 dicho
+  - `resultara` → resultar | 접속법 과거 3인칭 단수 | 일어나지 않길/않을 거라 보는 가정 | 규칙
+  - `ser` → ser | 부정사 | resultar 뒤
+  - `sabremos` → saber | 직설법 단순미래 1인칭 복수 | 확실한 결과를 단언 | 불규칙 어간 sabr-
+  - 비교: si resulta ser falso(직설법)면 더 현실적 가정, 접속법 과거는 거리감·위협적 뉘앙스.
+
+### 7-112. **파비안:** Y entonces esta conversación te parecerá amable, comparada con la siguiente.
+- **해석:** 그때가 되면 다음 대화에 비하면 이번 대화는 친절하게 느껴질 거다.
+- **주요 단어:** `amable` (형용사) 친절한 / `comparar` (동사) 비교하다 / `siguiente` (형용사) 다음의
+- **문법:** `parecer` 역구조(te = 너에게). `comparada con` 과거분사구(conversación에 일치) "~와 비교하면".
+- **시제:**
+  - `parecerá` → parecer | 직설법 단순미래 3인칭 단수 | 가정 결과의 미래 예측 | 규칙 어미
+  - `comparada` → comparar | 과거분사 여성 단수 | 분사구문
+
+### 7-113. **알바로:** No tiene de qué preocuparse.
+- **해석:** 걱정하실 것 없습니다.
+- **주요 단어:** `preocuparse` (재귀동사) 걱정하다
+- **문법:** `tener de qué + 부정사` ~할 거리가 있다(preocuparse de 때문에 de).
+- **표현:** `No tiene de qué preocuparse` "걱정 마세요"의 정중한 표현.
+- **시제:**
+  - `tiene` → tener | 직설법 현재 3인칭 단수(usted) | 불규칙
+  - `preocuparse` → preocuparse | 부정사 | de qué 뒤, 재귀 se는 usted에 맞춤
+
+### 7-114. **알바로:** Todo lo que le he dicho es cierto, y lo seguirá siendo cuando lo compruebe.
+- **해석:** 제가 말씀드린 건 모두 사실이고, 확인하셔도 여전히 사실일 겁니다.
+- **주요 단어:** `cierto` (형용사, 명사 뒤·서술) 사실인 / `seguir` (동사) 계속 ~하다
+- **문법:** `seguir + 현재분사` 계속 ~이다. 첫 lo는 cierto를 받는 중성 대명사, 둘째 lo는 todo(말한 것). `cuando + 접속법`: 미래의 일이라 접속법.
+- **시제:**
+  - `he dicho` → decir | 직설법 현재완료 1인칭 단수 | 오늘 지금까지 한 말 | 불규칙 dicho
+  - `es` → ser | 직설법 현재 3인칭 단수 | 불규칙
+  - `seguirá` → seguir | 직설법 단순미래 3인칭 단수 | 미래 확신 | 규칙 어미 (현재형은 e→i: sigo)
+  - `siendo` → ser | 현재분사 | seguir 구문
+  - `compruebe` → comprobar | 접속법 현재 3인칭 단수(usted) | cuando + 미래 → 접속법 | o→ue
+  - 비교: cuando lo comprueba(직설법)는 습관·일반적 사실.
+
+### 7-115. **파비안:** Eso espero, de verdad.
+- **해석:** 정말 그러길 바란다.
+- **표현:** `de verdad` 진심으로.
+- **문법:** 특이사항 없음
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 앞에서 설명
+
+### 7-116. **마놀로:** (Le ayuda a levantarse) Con cuidado, todavía te vas a marear un rato.
+- **해석:** (그가 일어나도록 돕는다) 조심해, 한동안은 아직 어지러울 거야.
+- **주요 단어:** `levantarse` (재귀동사) 일어나다 / `cuidado` (명사, 남성) 조심 / `marearse` (재귀동사) 어지럽다 / `rato` (명사, 남성) 잠시
+- **문법:** `ayudar a + 부정사`. 재귀 te를 ir a 앞에.
+- **표현:** `Con cuidado` "조심해". `un rato` 한동안.
+- **시제:**
+  - `ayuda` → ayudar | 직설법 현재 3인칭 단수 | 지문 | 규칙
+  - `levantarse` → levantarse | 부정사 | ayudar a 뒤
+  - `vas` → ir | 직설법 현재 2인칭 단수 | ir a + 부정사로 곧 일어날 일 예측 | 불규칙
+  - `marear` → marearse | 부정사 | ir a 뒤
+
+### 7-117. **마놀로:** Te llevo a casa.
+- **해석:** 집까지 데려다줄게.
+- **주요 단어:** `llevar` (동사) 데려가다
+- **문법:** 특이사항 없음
+- **시제:**
+  - `llevo` → llevar | 직설법 현재 1인칭 단수 | 곧 할 행동을 현재형으로 제안·결정 | 규칙
+
+### 7-118. **알바로:** (Se apoya en él, aún inestable) Gracias, Manolo.
+- **해석:** (아직 휘청거리며 그에게 기댄다) 고마워요, 마놀로.
+- **주요 단어:** `apoyarse en` (재귀동사) ~에 기대다 / `inestable` (형용사) 불안정한
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Se apoya` → apoyarse | 직설법 현재 3인칭 단수 | 지문 | 규칙
+
+### 7-119. **파비안:** Descansa este fin de semana, Diego.
+- **해석:** 이번 주말엔 쉬어, 디에고.
+- **주요 단어:** `descansar` (동사) 쉬다 / `fin de semana` 주말
+- **문법:** 긍정 명령 tú.
+- **시제:**
+  - `Descansa` → descansar | 긍정 명령 tú | 권유 | 규칙
+
+### 7-120. **파비안:** El lunes seguimos con la segunda operación, si todo sale como dices.
+- **해석:** 모든 게 네 말대로라면, 월요일에 두 번째 작전을 이어가자.
+- **주요 단어:** `seguir con` ~을 계속하다 / `segundo` (서수) 두 번째 / `salir` (동사) (결과가) 되다
+- **문법:** `si + 직설법 현재` 현실 조건. `como + 직설법` 네가 말하는 대로(구체적 내용).
+- **표현:** `salir como ...` "~대로 되다".
+- **시제:**
+  - `seguimos` → seguir | 직설법 현재 1인칭 복수 | 확정된 미래 일정을 현재형으로 | e→i 불규칙(1인칭 복수는 변화 없음)
+  - `sale` → salir | 직설법 현재 3인칭 단수 | 조건 | 불규칙(salgo)
+  - `dices` → decir | 직설법 현재 2인칭 단수 | 불규칙
+
+### 7-121. **알바로:** Allí estaré.
+- **해석:** 그리로 가겠습니다.
+- **표현:** `Allí estaré` "꼭 거기 있을게요" — 참석 약속.
+- **문법:** 장소는 estar.
+- **시제:**
+  - `estaré` → estar | 직설법 단순미래 1인칭 단수 | 약속 | 규칙 어미
+
+### 7-122. **알바로:** Buenas noches, Fabián.
+- **해석:** 안녕히 주무세요, 파비안.
+- **문법:** 특이사항 없음
+- **표현:** `Buenas noches` 밤 인사(헤어질 때).
+- **시제:** 동사 없음
+
+### 7-123. **파비안:** Buenas noches.
+- **해석:** 잘 자.
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 7-124. **파비안:** Y bienvenido, de verdad esta vez, a la familia.
+- **해석:** 그리고 이번엔 진짜로, 패밀리에 온 걸 환영한다.
+- **주요 단어:** `bienvenido` (형용사) 환영받는 / `familia` (명사, 여성) 가족(여기선 조직)
+- **문법:** bienvenido는 상대 성·수에 일치(남성 단수).
+- **표현:** `Bienvenido a ...` "~에 온 걸 환영해". `la familia` 범죄 조직을 가리키는 은어적 표현.
+- **시제:** 동사 없음 (bienvenido는 형용사)
+
+### 7-125. **마놀로:** (Ya en la puerta, en voz baja) Has estado bien ahí dentro.
+- **해석:** (문가에서, 낮은 목소리로) 아까 안에서 잘 버텼어.
+- **주요 단어:** `puerta` (명사, 여성) 문 / `dentro` (부사) 안에
+- **표현:** `en voz baja` 작은 목소리로. `estar bien` 잘하다, 괜찮았다.
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Has estado` → estar | 직설법 현재완료 2인칭 단수 | 방금 끝난 오늘 밤의 일을 평가(현재와 연결) | 과거분사 estado 규칙
+  - 비교: Estuviste bien은 완결된 과거로 좀 더 거리감; 스페인에선 오늘 일엔 현재완료가 자연스러움.
+
+### 7-126. **마놀로:** No todos aguantan un interrogatorio así sin venirse abajo.
+- **해석:** 그런 심문을 무너지지 않고 견디는 사람은 흔치 않아.
+- **주요 단어:** `aguantar` (동사) 견디다 / `interrogatorio` (명사, 남성) 심문
+- **문법:** `No todos` 부분부정(모두가 ~하는 건 아니다). `sin + 부정사`. 원문의 줄바꿈된 두 줄을 한 문장으로 합침.
+- **표현:** `venirse abajo` 앞에서 설명.
+- **시제:**
+  - `aguantan` → aguantar | 직설법 현재 3인칭 복수 | 일반적 사실 | 규칙
+  - `venirse` → venirse | 부정사 | sin 뒤 | venir 불규칙 동사
+
+### 7-127. **알바로:** (Con una sonrisa cansada) Digamos que tengo práctica manteniendo la calma bajo presión.
+- **해석:** (지친 미소를 지으며) 압박 속에서 침착함을 유지하는 데 좀 익숙하다고 해두죠.
+- **주요 단어:** `sonrisa` (명사, 여성) 미소 / `cansado` (형용사) 지친 / `mantener` (동사) 유지하다 / `presión` (명사, 여성) 압박
+- **문법:** `Digamos que` 1인칭 복수 명령(접속법 현재) "~라고 해두자". `tener práctica + 현재분사` ~에 익숙하다.
+- **표현:** `Digamos que...` 말을 얼버무리거나 겸손하게 돌려 말할 때. `bajo presión` 압박 속에서.
+- **시제:**
+  - `Digamos` → decir | 1인칭 복수 명령 (접속법 현재 1인칭 복수) | 청유("~라고 하자") | 불규칙 (diga-)
+  - `tengo` → tener | 직설법 현재 1인칭 단수 | 불규칙
+  - `manteniendo` → mantener | 현재분사 | 익숙한 행동의 내용 | tener 계열
+
+### 7-128. **마놀로:** Eso espero, porque esto no ha hecho más que empezar.
+- **해석:** 그러길 바라, 이건 이제 막 시작일 뿐이니까.
+- **문법:** `no hacer más que + 부정사` "~할 뿐이다, 막 ~했을 뿐".
+- **표현:** `esto no ha hecho más que empezar` "이제 겨우 시작이다".
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `ha hecho` → hacer | 직설법 현재완료 3인칭 단수 | 지금까지의 진행 상황(현재와 연결) | 불규칙 과거분사 hecho
+  - `empezar` → empezar | 부정사 | más que 뒤
+
+### 7-129. **알바로:** Lo sé.
+- **해석:** 알아요.
+- **문법:** lo = 앞 내용.
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 불규칙
+
+### 7-130. **알바로:** Vamos, que necesito dormir de verdad esta noche.
+- **해석:** 가요, 오늘 밤은 제대로 좀 자야겠어요.
+- **주요 단어:** `dormir` (동사) 자다
+- **문법:** `que`는 이유를 덧붙이는 구어의 접속사(= porque).
+- **표현:** `Vamos` "가자" 재촉. `, que ...` 스페인 구어에서 이유 설명.
+- **시제:**
+  - `Vamos` → ir | 1인칭 복수 청유 (직설법 현재형이 청유로 쓰임; 접속법 vayamos 대신 관용적으로 vamos) | 불규칙
+  - `necesito` → necesitar | 직설법 현재 1인칭 단수 | 현재 필요 | 규칙
+  - `dormir` → dormir | 부정사 | necesitar 뒤 | o→ue 불규칙 동사

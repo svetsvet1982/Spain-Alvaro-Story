@@ -598,3 +598,162 @@
   - `Sonríe` → sonreír | 직설법 현재, 3인칭 단수 | 지문 현재형 묘사 | 불규칙: e→i, 강세 í (sonrío, sonríe)
   - `recuerdas` → recordar | 직설법 현재, 2인칭 단수 | 가끔 반복되는 습관적 행동 | 불규칙: o→ue
 
+## 장면 45. 내부의 저항 세력
+> 이니고가 벨기에 정보원을 통해 추가 정보를 확보합니다.
+
+### 45-1. **Íñigo:** (Por videollamada) Tengo algo nuevo.
+- **해석:** (화상통화로) 새로운 게 있어요.
+- **주요 단어:** `nuevo` (형용사) 새로운 (앞에서 설명: videollamada, tener)
+- **문법:** `algo` + 형용사(남성 단수): "새로운 무언가".
+- **시제:**
+  - `Tengo` → tener | 직설법 현재, 1인칭 단수 | 앞에서 설명(41-1) | 불규칙
+
+### 45-2. **Íñigo:** Verhoeven no trabaja solo.
+- **해석:** 베르호벤 혼자 움직이는 게 아니에요.
+- **주요 단어:** `solo` (형용사) 혼자인
+- **문법:** 여기서 `solo`는 형용사("혼자서", 주어와 성수 일치)로, 부사 "오직"과 구별.
+- **시제:**
+  - `trabaja` → trabajar | 직설법 현재, 3인칭 단수 | 현재 계속되는 활동 | 규칙
+
+### 45-3. **Íñigo:** Hay al menos otros dos antiguos funcionarios en el mismo esquema, en distintas direcciones generales.
+- **해석:** 같은 구도에 적어도 다른 전직 공무원이 두 명 더 있어요. 서로 다른 총국 출신으로요.
+- **주요 단어:** `otros dos` 다른 두 명 / `funcionario` (명사, 남) 공무원 / `esquema` (명사, 남) 구도, 체계 / `distinto` (형용사) 서로 다른
+- **문법:** 어순 `otros dos` (영어 two other와 반대). `distintas` + 복수명사 앞 = "여러 다른".
+- **표현:** `esquema`는 여기서 "(비리) 구조, 스킴".
+- **시제:**
+  - `Hay` → haber | 직설법 현재, 무인칭 | 존재 | 불규칙(hay)
+
+### 45-4. **Álvaro:** ¿Qué áreas cubren?
+- **해석:** 어느 분야를 맡고 있지?
+- **주요 단어:** `área` (명사, 여) 분야 (단수에선 el área) / `cubrir` (동사) 담당하다, 커버하다
+- **문법:** `qué` + 명사 의문. `el área`: 강세 있는 a로 시작하는 여성명사는 단수 관사 el, 복수는 las áreas.
+- **시제:**
+  - `cubren` → cubrir | 직설법 현재, 3인칭 복수 | 현재의 담당 범위 | 규칙(과거분사만 불규칙: cubierto)
+
+### 45-5. **Íñigo:** Una en supervisión bancaria, otra en cooperación judicial internacional.
+- **해석:** 한 명은 은행 감독, 다른 한 명은 국제 사법 협력 쪽이에요.
+- **주요 단어:** `supervisión` (명사, 여) 감독 / `bancario` (형용사) 은행의 / `judicial` (형용사) 사법의
+- **문법:** `una... otra...`: "하나는... 다른 하나는..." — 여기선 `área`를 받으므로 여성형.
+- **시제:**
+  - 동사 없음
+
+### 45-6. **Íñigo:** Cubren prácticamente todos los ángulos regulatorios relevantes para blanqueo de capitales.
+- **해석:** 자금세탁과 관련된 규제 측면을 사실상 전부 커버하고 있어요.
+- **주요 단어:** `ángulo` (명사, 남) 각도, 측면 / `relevante` (형용사) 관련된, 중요한 / `blanqueo de capitales` (명사구, 남) 자금세탁
+- **문법:** `todos los` + 명사: "모든 ~". `relevante para`: "~에 관련된".
+- **표현:** `blanqueo de capitales`: 스페인에서 쓰는 "자금세탁" 공식 용어(중남미는 lavado de dinero가 흔함).
+- **시제:**
+  - `Cubren` → cubrir | 직설법 현재, 3인칭 복수 | 앞에서 설명 | 규칙
+
+### 45-7. **Camila:** Eso confirma que es una operación coordinada, no esfuerzos aislados.
+- **해석:** 그건 이게 개별적인 시도가 아니라 조직적인 작전이라는 걸 확인해주네요.
+- **주요 단어:** `confirmar` (동사) 확인하다 / `operación` (명사, 여) 작전 / `coordinado` (형용사, ← coordinar) 조직적인 / `esfuerzo` (명사, 남) 노력, 시도 / `aislado` (형용사, ← aislar) 고립된, 개별적인
+- **문법:** `confirmar que` + 직설법(사실 확인). `A, no B` 대조.
+- **시제:**
+  - `confirma` → confirmar | 직설법 현재, 3인칭 단수 | 현재의 판단 | 규칙
+  - `es` → ser | 직설법 현재, 3인칭 단수 | 사실로 확인된 내용이라 직설법 | 불규칙
+  - `coordinada` → coordinar | 과거분사, 여성 단수 | 형용사 역할 | 규칙
+  - `aislados` → aislar | 과거분사, 남성 복수 | 형용사 역할 | 규칙(활용 시 강세 aíslo)
+
+### 45-8. **Íñigo:** Exactamente.
+- **해석:** 바로 그거예요.
+- **주요 단어:** `exactamente` (부사) 정확히 (앞에서 설명)
+- **문법:** 특이사항 없음
+- **시제:**
+  - 동사 없음
+
+### 45-9. **Íñigo:** Y hay algo más: mi fuente menciona que hay resistencia interna, un grupo de funcionarios que sospecha de este patrón desde hace meses.
+- **해석:** 그리고 또 있어요. 제 정보원 말로는 내부 저항이 있대요. 몇 달 전부터 이 패턴을 의심해온 공무원 그룹이요.
+- **주요 단어:** `fuente` (명사, 여) 정보원, 출처 / `mencionar` (동사) 언급하다 / `resistencia` (명사, 여) 저항 / `interno` (형용사) 내부의 / `sospechar de` ~을 의심하다
+- **문법:** `desde hace` + 기간 + 현재형: "~전부터 계속 ~하고 있다". 관계절 동사 `sospecha`는 선행사 `un grupo`(단수)에 일치.
+- **표현:** `Y hay algo más:` 앞에서 설명. `mi fuente`: 기자·수사관이 쓰는 "내 소식통".
+- **시제:**
+  - `hay` → haber | 직설법 현재, 무인칭 | 존재 | 불규칙
+  - `menciona` → mencionar | 직설법 현재, 3인칭 단수 | 전달된 정보를 현재형으로 인용(보고의 현재) | 규칙
+  - `hay` → haber | 직설법 현재 | 현재의 존재 | 불규칙
+  - `sospecha` → sospechar | 직설법 현재, 3인칭 단수 | `desde hace meses`와 함께 과거에 시작해 지금도 계속되는 일 | 규칙
+  - 비교: 한국어로는 "의심해왔다"(완료)지만 스페인어는 `desde hace` + 현재형. `ha sospechado`는 이 구문에서 부자연스러움.
+
+### 45-10. **Álvaro:** ¿Podríamos contactar con ellos?
+- **해석:** 그들과 접촉할 수 있을까?
+- **주요 단어:** `contactar con` ~와 연락하다
+- **문법:** `contactar con` + 사람(스페인에서 흔함; contactar a도 가능). 전치격 대명사 `ellos`.
+- **시제:**
+  - `Podríamos` → poder | 조건법 단순, 1인칭 복수 | 가능성을 조심스럽게 타진 | 불규칙 어간 podr-
+  - `contactar` → contactar | 부정사 | poder 뒤 | 규칙
+  - 비교: `¿Podemos...?`(직설법)는 직접적, `¿Podríamos...?`는 가정적·신중한 제안.
+
+### 45-11. **Íñigo:** Con mucho cuidado, sí.
+- **해석:** 아주 조심스럽게 한다면요, 네.
+- **주요 단어:** `cuidado` (명사, 남) 주의
+- **문법:** `con` + 명사: 방식("~하게").
+- **시제:**
+  - 동사 없음
+
+### 45-12. **Íñigo:** Uno de ellos podría estar dispuesto a hablar, si garantizamos protección para su identidad.
+- **해석:** 그중 한 명은 신원 보호를 보장해주면 말할 의향이 있을지도 몰라요.
+- **주요 단어:** `dispuesto a` (형용사) ~할 의향이 있는 / `garantizar` (동사) 보장하다 / `identidad` (명사, 여) 신원
+- **문법:** `estar dispuesto a` + 부정사: "~할 용의가 있다". 현실 조건 `si` + 직설법 현재. `uno de ellos`: "그들 중 하나".
+- **시제:**
+  - `podría` → poder | 조건법 단순, 3인칭 단수 | 불확실한 가능성(추측) | 불규칙 어간 podr-
+  - `estar` → estar | 부정사 | poder 뒤 | 불규칙 동사
+  - `dispuesto` → disponer | 과거분사(불규칙), 남성 단수 | 형용사로 쓰임 "준비된, 의향 있는" | 불규칙: disponer → dispuesto (poner → puesto)
+  - `hablar` → hablar | 부정사 | `dispuesto a` 뒤 | 규칙
+  - `garantizamos` → garantizar | 직설법 현재, 1인칭 복수 | si 조건절(실현 가능한 조건)에는 직설법 | 규칙(z→c: garantice)
+
+### 45-13. **Javier:** Eso sería enorme.
+- **해석:** 그러면 엄청나겠네요.
+- **주요 단어:** `enorme` (형용사) 거대한 → 엄청난(구어)
+- **문법:** 조건법으로 가정적 결과 표현(조건절 생략: 그렇게 된다면).
+- **시제:**
+  - `sería` → ser | 조건법 단순, 3인칭 단수 | 아직 실현되지 않은 가정의 결과 | 조건법은 규칙형
+
+### 45-14. **Javier:** Alguien desde dentro, confirmando el patrón desde la perspectiva institucional.
+- **해석:** 내부 사람이 기관의 관점에서 그 패턴을 확인해주는 거니까요.
+- **주요 단어:** `alguien` (대명사) 누군가 / `desde dentro` 내부로부터 / `perspectiva` (명사, 여) 관점
+- **문법:** 동사 없는 명사구 + 현재분사 `confirmando`(동시·설명: "~하면서, ~하는").
+- **표현:** `desde dentro`: "내부에서" (스페인에서 desde adentro보다 흔함).
+- **시제:**
+  - `confirmando` → confirmar | 현재분사 | 명사 alguien의 행위를 설명(상황 묘사) | 규칙
+
+### 45-15. **Íñigo:** Voy a intentar el contacto esta semana.
+- **해석:** 이번 주에 접촉을 시도해볼게요.
+- **주요 단어:** `intentar` (동사) 시도하다 / `contacto` (명사, 남) 접촉
+- **문법:** `ir a` + 부정사: 가까운 미래 계획.
+- **시제:**
+  - `Voy` → ir | 직설법 현재, 1인칭 단수 | `ir a` 우언적 미래로 이번 주 계획 | 불규칙
+  - `intentar` → intentar | 부정사 | `ir a` 뒤 | 규칙
+
+### 45-16. **Íñigo:** Aunque será delicado, dado el nivel de vigilancia que probablemente tienen sobre disidentes internos.
+- **해석:** 다만 내부 반대자들에게 걸려 있을 감시 수준을 생각하면 까다로울 거예요.
+- **주요 단어:** `delicado` (형용사) 민감한, 까다로운 / `dado` (← dar) ~을 고려하면 / `nivel` (명사, 남) 수준 / `vigilancia` (명사, 여) 감시 / `probablemente` (부사) 아마 / `disidente` (명사) 반대자
+- **문법:** 문두 `Aunque` + 직설법: 사실(예상)로서의 단서 "다만 ~일 것이다". `dado` + 명사: "~을 감안하면"(과거분사 절대구문, 명사와 성수 일치 dado el nivel / dada la situación). 관계절 `que... tienen`의 주어는 불특정 "그들(감시하는 쪽)".
+- **표현:** `tener vigilancia sobre`: "~을 감시하고 있다".
+- **시제:**
+  - `será` → ser | 직설법 단순미래, 3인칭 단수 | 앞으로의 일에 대한 예측 | 불규칙 동사, 미래형은 규칙적
+  - `dado` → dar | 과거분사, 남성 단수 | 절대구문으로 이유·조건 제시 | 규칙적 과거분사
+  - `tienen` → tener | 직설법 현재, 3인칭 복수 | `probablemente`와 함께 현재 상황에 대한 추정(부사로 추측 표현) | 불규칙: e→ie
+  - 참고: `aunque` + 직설법(será)은 "실제로 까다로울 것"이라는 정보 제시. 접속법 `sea`면 "까다롭더라도"로 가정적 양보.
+
+### 45-17. **Camila:** Entiendo esa sensación mejor que nadie.
+- **해석:** 그 느낌은 제가 누구보다 잘 알아요.
+- **주요 단어:** `entender` (동사) 이해하다 / `sensación` (명사, 여) 느낌 / `mejor que nadie` 누구보다 잘
+- **문법:** 비교 `mejor que nadie`: 비교 뒤에서는 `nadie`가 "누구보다"의 뜻(부정어가 긍정 의미).
+- **표현:** 감시당하던 자신의 경험을 암시하는 대사.
+- **시제:**
+  - `Entiendo` → entender | 직설법 현재, 1인칭 단수 | 현재의 공감 | 불규칙: e→ie
+
+### 45-18. **Íñigo:** Lo imagino.
+- **해석:** 그렇겠죠.
+- **주요 단어:** `imaginar` (동사) 상상하다
+- **문법:** 중성 `lo` = 앞의 말 전체.
+- **표현:** `Lo imagino / Me lo imagino`: "그럴 것 같아요, 짐작이 가요" — 공감의 맞장구.
+- **시제:**
+  - `imagino` → imaginar | 직설법 현재, 1인칭 단수 | 현재의 짐작 | 규칙
+
+### 45-19. **Íñigo:** Tendré mucho cuidado.
+- **해석:** 아주 조심할게요.
+- **주요 단어:** `tener cuidado` 조심하다 (앞에서 설명)
+- **문법:** `mucho`가 명사 `cuidado`를 수식(형용사, 남성 단수).
+- **시제:**
+  - `Tendré` → tener | 직설법 단순미래, 1인칭 단수 | 앞으로의 약속·다짐 | 불규칙: 어간 tendr-

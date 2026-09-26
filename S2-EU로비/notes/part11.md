@@ -693,3 +693,118 @@
 - **표현:** 관용 표현.
 - **시제:** 동사 없음.
 
+## 장면 50. 감시당하는 제보자
+> 몇 주 후, 마르턴 데브리스가 자신이 감시당하고 있다는 걸 눈치채며 위기가 발생합니다.
+
+### 50-1. **Maarten:** (Llama a Íñigo, con la voz alterada) Íñigo, creo que alguien está revisando mis accesos al sistema interno.
+- **해석:** (다급한 목소리로 이니고에게 전화한다) 이니고, 누군가 제 내부 시스템 접속 기록을 살펴보고 있는 것 같아요.
+- **주요 단어:** `llamar` (동사) 전화하다 / `voz` (명사, 여) 목소리 / `alterado` (형용사) 동요한, 흥분한 / `creer` (동사) 생각하다, 믿다 / `acceso` (명사, 남) 접속, 접근 / `sistema` (명사, 남) 시스템
+- **문법:** `llamar a + 사람`(인칭 a). `creer que + 직설법`(긍정일 때 직설법; no creo que면 접속법). `estar + 현재분사` = 진행형. `al` = a + el.
+- **표현:** `con la voz alterada` = 떨리는/다급한 목소리로.
+- **시제:**
+  - `Llama` → llamar | 직설법 현재 3인칭 단수 | 지문 현재 | 규칙
+  - `alterada` → alterar | 과거분사 여성 단수 | voz를 꾸미는 형용사 | 규칙
+  - `creo` → creer | 직설법 현재 1인칭 단수 | 현재의 판단 | 규칙(단순과거 creyó는 y)
+  - `está revisando` → revisar | 직설법 현재진행 3인칭 단수 (estar + gerundio) | 바로 지금 진행 중인 일 | 규칙
+
+### 50-2. **Íñigo:** ¿Cómo lo sabe?
+- **해석:** 그걸 어떻게 아세요?
+- **주요 단어:** `saber` (동사) 알다
+- **문법:** `lo` — 앞 문장 내용을 받는 중성 대명사. usted 존칭.
+- **시제:**
+  - `sabe` → saber | 직설법 현재 3인칭 단수 | 현재 앎의 근거 질문 | 불규칙(1인칭 sé)
+
+### 50-3. **Maarten:** Un compañero de IT me comentó, de pasada, que hubo una auditoría de seguridad centrada en mi departamento esta semana.
+- **해석:** IT 부서 동료가 지나가는 말로, 이번 주에 제 부서를 중점적으로 한 보안 감사가 있었다고 하더라고요.
+- **주요 단어:** `compañero` (명사, 남) 동료 / `comentar` (동사) 언급하다 / `de pasada` 지나가는 말로 / `auditoría` (명사, 여) 감사 / `seguridad` (명사, 여) 보안 / `centrado en` ~에 초점을 맞춘 / `departamento` (명사, 남) 부서
+- **문법:** `hubo` — 존재의 haber(무인칭, 항상 3인칭 단수). `centrada` — auditoría에 일치.
+- **표현:** `de pasada` = 대수롭지 않게, 지나가며.
+- **시제:**
+  - `comentó` → comentar | 직설법 단순과거 3인칭 단수 | 과거 특정 순간의 발화(완결) | 규칙
+  - `hubo` → haber | 직설법 단순과거 3인칭 단수(무인칭) | 한 번 실시되고 끝난 사건 | 불규칙(hub-)
+  - `centrada` → centrar | 과거분사 여성 단수 | 형용사 | 규칙
+  - 비교: "esta semana"는 현재 기간이라 스페인 본토에선 보통 현재완료(ha habido)를 쓰지만, 동료가 말한 과거 시점 기준의 보고라 단순과거도 자연스러움. había(불완료)면 배경 묘사가 되어 "사건 발생"의 느낌이 약해짐.
+
+### 50-4. **Íñigo:** Eso podría ser rutina, o podría ser que sospechan de usted específicamente.
+- **해석:** 그건 일상적인 절차일 수도 있고, 아니면 특별히 당신을 의심하는 것일 수도 있어요.
+- **주요 단어:** `rutina` (명사, 여) 일상 업무, 정례 절차 / `sospechar de` ~를 의심하다 / `específicamente` (부사) 특별히
+- **문법:** `podría ser que + 직설법` — 구어에서 직설법 사용(규범적으로는 "puede ser que sospechen"처럼 접속법이 일반적). `sospechar de + 사람`.
+- **표현:** `o ... o` 구조로 두 가능성 제시.
+- **시제:**
+  - `podría` → poder | 조건법 단순 3인칭 단수 | 불확실한 가능성 추측 | 불규칙(podr-)
+  - `ser` → ser | 부정사 | 앞에서 설명
+  - `sospechan` → sospechar | 직설법 현재 3인칭 복수 | 현재 상황(주어는 막연한 "그들") | 규칙
+  - 비교: "puede ser que sospechen"(접속법)이 표준적; 직설법은 가능성을 좀 더 현실적으로 느끼는 구어 뉘앙스.
+
+### 50-5. **Maarten:** No puedo arriesgarme a asumir que es rutina.
+- **해석:** 그게 일상 절차라고 섣불리 가정하는 위험을 감수할 순 없어요.
+- **주요 단어:** `arriesgarse a` ~하는 위험을 감수하다 / `asumir` (동사) 가정하다, 받아들이다
+- **문법:** `arriesgarme` — 재귀대명사가 부정사 뒤. `arriesgarse a + 부정사`. `asumir que + 직설법`.
+- **시제:**
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `arriesgarme` → arriesgarse | 부정사(재귀) | poder + 부정사 | 규칙(철자 g→gu: arriesgue)
+  - `asumir` → asumir | 부정사 | a 뒤 | 규칙
+  - `es` → ser | 직설법 현재 3인칭 단수 | 가정 내용 | 불규칙
+
+### 50-6. **Íñigo:** Voy a avisar a Álvaro y a Carlos de inmediato.
+- **해석:** 당장 알바로와 카를로스에게 알릴게요.
+- **주요 단어:** `avisar` (동사) 알리다 / `de inmediato` 즉시
+- **문법:** `ir a + 부정사` 가까운 미래. `avisar a + 사람`(인칭 a).
+- **시제:**
+  - `Voy` → ir | 직설법 현재 1인칭 단수 | ir a로 즉각적 계획 | 불규칙
+  - `avisar` → avisar | 부정사 | 규칙
+
+### 50-7. **Íñigo:** Necesitamos evaluar si hay que sacarlo de ahí antes de que sea tarde.
+- **해석:** 너무 늦기 전에 당신을 거기서 빼내야 할지 판단해야 해요.
+- **주요 단어:** `evaluar` (동사) 평가하다 / `hay que` ~해야 한다(무인칭) / `sacar` (동사) 빼내다 / `ahí` (부사) 거기 / `tarde` (부사) 늦게
+- **문법:** `si` = 간접의문 "~인지". `hay que + 부정사` 무인칭 의무. `sacarlo` — lo(당신)가 부정사 뒤. `antes de que + 접속법`.
+- **표현:** `antes de que sea tarde` = "늦기 전에" 관용구.
+- **시제:**
+  - `Necesitamos` → necesitar | 직설법 현재 1인칭 복수 | 현재의 필요 | 규칙
+  - `evaluar` → evaluar | 부정사 | 규칙(ú 강세: evalúo)
+  - `hay` → haber | 직설법 현재 3인칭 단수(무인칭) | hay que 의무 구문 | 불규칙(hay)
+  - `sacar` → sacar | 부정사 | 규칙(철자 c→qu: saque)
+  - `sea` → ser | 접속법 현재 3인칭 단수 | antes de que 뒤 필수 접속법 | 불규칙
+
+### 50-8. **Maarten:** (Con miedo) Tengo familia aquí, Íñigo.
+- **해석:** (겁에 질려) 여기 가족이 있어요, 이니고.
+- **주요 단어:** `miedo` (명사, 남) 두려움 / `familia` (명사, 여) 가족
+- **문법:** 특이사항 없음
+- **시제:**
+  - `Tengo` → tener | 직설법 현재 1인칭 단수 | 현재 상황 | 불규칙(tengo)
+
+### 50-9. **Maarten:** No puedo simplemente desaparecer sin más.
+- **해석:** 그냥 아무렇지 않게 사라져 버릴 수는 없어요.
+- **주요 단어:** `simplemente` (부사) 그냥 / `desaparecer` (동사) 사라지다 / `sin más` 그냥, 별다른 이유/절차 없이
+- **문법:** poder + 부정사 부정.
+- **표현:** `sin más` = "달랑, 그냥 그렇게".
+- **시제:**
+  - `puedo` → poder | 직설법 현재 1인칭 단수 | 앞에서 설명
+  - `desaparecer` → desaparecer | 부정사 | 활용 시 1인칭 desaparezco 불규칙
+
+### 50-10. **Íñigo:** Lo sé.
+- **해석:** 알아요.
+- **주요 단어:** `saber` (동사) 알다
+- **문법:** `lo` — 앞 내용을 받는 중성 대명사(스페인어는 "그것을" 생략하지 않음).
+- **시제:**
+  - `sé` → saber | 직설법 현재 1인칭 단수 | 현재의 앎 | 불규칙(sé, 재귀대명사 se와 구별하는 강세)
+
+### 50-11. **Íñigo:** Vamos a encontrar la forma de protegerlo sin que eso signifique arrancarlo de su vida por completo.
+- **해석:** 당신을 삶에서 완전히 떼어 놓는 일 없이 보호할 방법을 찾아낼 겁니다.
+- **주요 단어:** `encontrar` (동사) 찾다 / `forma` (명사, 여) 방법 / `proteger` (동사) 보호하다 / `significar` (동사) 의미하다 / `arrancar` (동사) 뽑아내다, 떼어 내다 / `por completo` 완전히
+- **문법:** `la forma de + 부정사` = "~할 방법". `sin que + 접속법` — 항상 접속법. `protegerlo`, `arrancarlo` — lo(당신)가 부정사 뒤.
+- **표현:** `arrancar a alguien de su vida` = 삶의 터전에서 뿌리째 뽑아내다(비유).
+- **시제:**
+  - `Vamos` → ir | 직설법 현재 1인칭 복수 | ir a + 부정사로 확신 있는 약속 | 불규칙
+  - `encontrar` → encontrar | 부정사 | 활용 시 o→ue
+  - `proteger` → proteger | 부정사 | 활용 시 철자 g→j(protejo)
+  - `signifique` → significar | 접속법 현재 3인칭 단수 | sin que 뒤 필수 접속법 | 철자 변화(c→qu)
+  - `arrancar` → arrancar | 부정사 | significar의 목적어 | 규칙(접속법 arranque)
+
+### 50-12. **Maarten:** Eso espero, de verdad.
+- **해석:** 정말 그러길 바라요.
+- **주요 단어:** `esperar` (동사) 바라다 / `de verdad` 정말로
+- **문법:** `eso`가 목적어로 문두에 와서 강조("그걸 바란다").
+- **표현:** `Eso espero` = "그러길 바라요" 관용구.
+- **시제:**
+  - `espero` → esperar | 직설법 현재 1인칭 단수 | 현재의 바람 | 규칙

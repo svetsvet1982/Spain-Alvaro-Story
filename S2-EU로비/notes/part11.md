@@ -351,6 +351,7 @@
 ### 47-17. **Álvaro:** Entiendo.
 - **해석:** 알겠습니다.
 - **주요 단어:** `entender` (동사) 이해하다
+- **문법:** 특이사항 없음
 - **시제:**
   - `Entiendo` → entender | 직설법 현재 1인칭 단수 | 지금 이해함 | 불규칙(e→ie)
 
@@ -379,6 +380,7 @@
 ### 47-20. **Álvaro:** Por supuesto.
 - **해석:** 물론이죠.
 - **주요 단어:** `por supuesto` (부사구) 물론
+- **문법:** 특이사항 없음
 - **시제:** 동사 없음.
 
 ### 47-21. **Álvaro:** Gracias por su tiempo, señor Verhoeven.
@@ -457,6 +459,7 @@
 ### 48-7. **Álvaro:** ¿Qué tipo de instrucciones?
 - **해석:** 어떤 종류의 지시인데?
 - **주요 단어:** `tipo` (명사, 남) 종류
+- **문법:** `qué + 명사` = "어떤 ~" 의문 형용사 용법, 동사 생략(¿Qué tipo de instrucciones son?).
 - **시제:** 동사 없음.
 
 ### 48-8. **Camila:** "Mantener flexibilidad en jurisdicciones periféricas, mientras se asegura debilidad estructural en los umbrales centrales de reporte."
@@ -494,6 +497,8 @@
 
 ### 48-12. **Camila:** Exactamente.
 - **해석:** 바로 그거야.
+- **주요 단어:** `exactamente` (부사) 정확히
+- **문법:** 특이사항 없음
 - **시제:** 동사 없음.
 
 ### 48-13. **Camila:** Así parece que el sistema sigue funcionando, aunque en la práctica ya no detecta lo que debería.

@@ -208,3 +208,254 @@
 - **문법:** `lo`가 앞 문장 내용을 받는 중성 대명사.
 - **표현:** `la verdad` 앞에서 설명.
 - **시제:** `Ríe` → reír, 직설법 현재 3인칭 단수(지문) / `espero` → esperar, 직설법 현재 1인칭 단수
+
+## 장면 15. 하비에르에게 털어놓다
+> 알바로가 하비에르에게 이번 사건의 전모를 설명합니다. 이번엔 보도가 불가능한 국가안보 사안임을 확인합니다.
+
+### 15-1. **Javier:** Álvaro, llevas días desaparecido.
+- **해석:** 알바로, 너 며칠째 연락도 없이 사라졌잖아.
+- **주요 단어:** `llevar` (동사) (시간을) 보내다 / `día` (명사, 남) 날 / `desaparecido` (형용사) 사라진
+- **문법:** `llevar + 기간 + 형용사/과거분사` = ~한 상태로 (기간)째이다.
+- **표현:** `estar desaparecido` = 연락이 끊기다, 잠수 타다(구어).
+- **시제:** `llevas` → llevar, 직설법 현재 2인칭 단수 / `desaparecido` → desaparecer, 과거분사(형용사적)
+
+### 15-2. **Javier:** ¿Qué ha pasado?
+- **해석:** 무슨 일이야?
+- **주요 단어:** `pasar` (동사) 일어나다
+- **문법:** 스페인식 현재완료(최근 일).
+- **시제:** `ha pasado` → pasar, 직설법 현재완료 3인칭 단수
+
+### 15-3. **Álvaro:** Un caso de espionaje industrial en una central nuclear.
+- **해석:** 원자력 발전소의 산업 스파이 사건이었어.
+- **주요 단어:** `central nuclear` 원자력 발전소 / `espionaje industrial` 앞에서 설명
+- **문법:** 동사 생략된 명사구 답변.
+- **시제:** 동사 없음
+
+### 15-4. **Álvaro:** El más delicado que he hecho hasta ahora.
+- **해석:** 지금까지 한 것 중 가장 민감한 사건이야.
+- **주요 단어:** `delicado` (형용사) 민감한, 까다로운 / `hasta ahora` 지금까지
+- **문법:** 최상급 `el más + 형용사 + que`. `El`은 caso 생략.
+- **시제:** `he hecho` → hacer, 직설법 현재완료 1인칭 단수
+
+### 15-5. **Javier:** (Sorprendido) ¿Y podemos publicar algo?
+- **해석:** (놀라며) 그럼 뭐라도 기사로 낼 수 있어?
+- **주요 단어:** `sorprendido` (형용사) 놀란 / `publicar` (동사) 게재하다, 보도하다
+- **문법:** `poder + 부정사`.
+- **시제:** `Sorprendido` → sorprender, 과거분사(지문) / `podemos` → poder, 직설법 현재 1인칭 복수 / `publicar` → 부정사
+
+### 15-6. **Álvaro:** Me temo que no, al menos no con detalles.
+- **해석:** 아쉽지만 안 돼. 적어도 자세한 내용은 안 돼.
+- **주요 단어:** `temerse` (재귀동사) 우려하다 / `al menos` 적어도 / `detalle` (명사, 남) 세부 사항
+- **문법:** `temerse que no` = 유감스럽게도 아니다 (que no로 문장 대체).
+- **표현:** `Me temo que ...` = "유감이지만 ~인 것 같아" 완곡한 부정 전달.
+- **시제:** `temo` → temerse, 직설법 현재 1인칭 단수
+
+### 15-7. **Álvaro:** Carlos ya me advirtió que esto queda clasificado por seguridad nacional.
+- **해석:** 카를로스가 이미 이건 국가안보 때문에 기밀로 분류된다고 경고했어.
+- **주요 단어:** `advertir` (동사) 경고하다, 주의를 주다 / `quedar` (동사) ~한 상태가 되다 / `clasificado` (형용사) 기밀로 분류된 / `seguridad nacional` 국가안보
+- **문법:** `advertir que + 직설법`(사실 전달). `quedar + 과거분사` = ~한 상태로 남다. `por` 이유.
+- **시제:** `advirtió` → advertir, 직설법 단순과거 3인칭 단수(e→i) / `queda` → quedar, 직설법 현재 3인칭 단수 / `clasificado` → clasificar, 과거분사
+
+### 15-8. **Javier:** Entiendo, aunque es frustrante no poder contar algo así.
+- **해석:** 이해해. 그래도 이런 걸 말할 수 없다니 답답하다.
+- **주요 단어:** `entender` (동사) 이해하다 / `frustrante` (형용사) 답답한, 좌절감을 주는 / `contar` (동사) 이야기하다
+- **문법:** `es + 형용사 + 부정사` 무인칭 구문(부정사가 실질 주어). `aunque + 직설법` = 사실인 양보.
+- **시제:** `Entiendo` → entender, 직설법 현재 1인칭 단수 / `es` → ser, 직설법 현재 3인칭 단수 / `poder` → 부정사 / `contar` → 부정사
+
+### 15-9. **Álvaro:** Lo sé.
+- **해석:** 알아.
+- **주요 단어:** 앞에서 설명
+- **문법:** 앞에서 설명(중성 lo).
+- **시제:** `sé` → saber, 직설법 현재 1인칭 단수
+
+### 15-10. **Álvaro:** Pero en este caso, prefiero que la central esté segura a tener un titular.
+- **해석:** 하지만 이번 경우엔 헤드라인을 얻는 것보다 발전소가 안전한 게 더 좋아.
+- **주요 단어:** `preferir` (동사) 선호하다 / `seguro` (형용사) 안전한 / `titular` (명사, 남) 기사 제목, 헤드라인
+- **문법:** `preferir que + 접속법`(주어가 다름). `preferir A a B` = B보다 A를 선호. 상태이므로 `estar seguro`.
+- **시제:** `prefiero` → preferir, 직설법 현재 1인칭 단수 / `esté` → estar, 접속법 현재 3인칭 단수 / `tener` → 부정사
+
+### 15-11. **Javier:** Tiene sentido, dicho así.
+- **해석:** 그렇게 말하니까 말이 되네.
+- **주요 단어:** `tener sentido` 일리가 있다 / `dicho` (decir 과거분사) 말해진
+- **문법:** 절대분사구문 `dicho así` = 그렇게 말하면.
+- **표현:** `Dicho así` = "그렇게 놓고 보면".
+- **시제:** `Tiene` → tener, 직설법 현재 3인칭 단수 / `dicho` → decir, 과거분사
+
+### 15-12. **Javier:** ¿Al menos me puedes contar los detalles en confianza?
+- **해석:** 적어도 나한테만 살짝 자세히 말해줄 수 있어?
+- **주요 단어:** `al menos` 앞에서 설명 / `en confianza` 사적으로, 믿고
+- **문법:** 간접목적 대명사 `me`가 활용 동사 앞(= puedes contarme 도 가능).
+- **표현:** `en confianza` = 비밀로 하고 믿고 털어놓는.
+- **시제:** `puedes` → poder, 직설법 현재 2인칭 단수 / `contar` → 부정사
+
+### 15-13. **Álvaro:** Extraoficialmente, sí.
+- **해석:** 비공식적으로는, 그래.
+- **주요 단어:** `extraoficialmente` (부사) 비공식적으로
+- **문법:** 특이사항 없음
+- **표현:** 기자 세계의 "오프 더 레코드" 뉘앙스.
+- **시제:** 동사 없음
+
+### 15-14. **Álvaro:** Una ingeniera con deudas, un intermediario internacional, y una filtración de los planos del sistema de refrigeración de emergencia.
+- **해석:** 빚이 있는 여성 엔지니어, 국제 브로커, 그리고 비상 냉각 시스템 설계도 유출.
+- **주요 단어:** `ingeniera` (명사, 여) 여성 엔지니어 / `deuda` (명사, 여) 빚 / `filtración` (명사, 여) 유출 / `plano` (명사, 남) 도면, 설계도 / `refrigeración` (명사, 여) 냉각 / `emergencia` (명사, 여) 비상
+- **문법:** 명사 나열. `del` = de + el.
+- **시제:** 동사 없음
+
+### 15-15. **Javier:** Suena a una película, la verdad.
+- **해석:** 진짜 영화 같네.
+- **주요 단어:** `sonar a` ~처럼 들리다
+- **문법:** `sonar a + 명사` = ~같이 들리다. sonar는 o→ue 어간 변화.
+- **표현:** `la verdad` 앞에서 설명.
+- **시제:** `Suena` → sonar, 직설법 현재 3인칭 단수
+
+### 15-16. **Álvaro:** Se sintió como una, en el peor sentido posible.
+- **해석:** 최악의 의미로 영화처럼 느껴졌어.
+- **주요 단어:** `sentirse` 앞에서 설명 / `peor` (형용사) 더 나쁜, 최악의 / `sentido` (명사, 남) 의미
+- **문법:** `una` = una película(대명사적 용법). `el peor ... posible` 최상급 강조.
+- **시제:** `Se sintió` → sentirse, 직설법 단순과거 3인칭 단수
+
+### 15-17. **Álvaro:** El nivel de riesgo era completamente distinto a cualquier cosa anterior.
+- **해석:** 위험 수준이 이전의 어떤 일과도 완전히 달랐어.
+- **주요 단어:** `nivel` (명사, 남) 수준 / `completamente` (부사) 완전히 / `distinto a` ~와 다른
+- **문법:** `distinto a/de` 비교. 과거 상태 묘사로 불완료과거.
+- **시제:** `era` → ser, 직설법 불완료과거 3인칭 단수
+
+### 15-18. **Javier:** Me alegra que hayas vuelto entero, entonces.
+- **해석:** 그럼 네가 무사히 돌아와서 다행이다.
+- **주요 단어:** `alegrar` (동사) 기쁘게 하다 / `volver` (동사) 돌아오다 / `entero` (형용사) 온전한
+- **문법:** `me alegra que + 접속법`(감정 표현). 완료된 일이므로 접속법 현재완료.
+- **표현:** `volver entero` = 멀쩡히(무사히) 돌아오다.
+- **시제:** `alegra` → alegrar, 직설법 현재 3인칭 단수 / `hayas vuelto` → volver, 접속법 현재완료 2인칭 단수
+
+### 15-19. **Álvaro:** Yo también me alegro, créeme.
+- **해석:** 나도 다행이야, 정말로.
+- **주요 단어:** `alegrarse` (재귀동사) 기뻐하다 / `creer` (동사) 믿다
+- **문법:** `alegrarse`(재귀) vs `alegrar a alguien`(앞 문장) 구조 차이. 긍정명령에서 대명사가 뒤에 붙음(créeme, 강세 표시 추가).
+- **표현:** `créeme` = "내 말 믿어" 강조.
+- **시제:** `me alegro` → alegrarse, 직설법 현재 1인칭 단수 / `créeme` → creer, 긍정명령 2인칭 단수(tú) + me
+
+## 장면 16. 축배와 마무리
+> 며칠 후, 알바로가 카를로스와 소니아 프라도와 함께 저녁을 먹으며 사건을 마무리합니다.
+
+### 16-1. **Carlos:** (Levantando la copa) Por el caso más delicado que hemos cerrado juntos, Álvaro.
+- **해석:** (잔을 들며) 우리가 함께 해결한 가장 민감한 사건을 위하여, 알바로.
+- **주요 단어:** `levantar` (동사) 들어 올리다 / `copa` (명사, 여) 잔 / `cerrar` (동사) (사건을) 종결하다
+- **문법:** 건배사 `Por + 명사` = ~을 위하여. 최상급 `el caso más delicado que`.
+- **표현:** `cerrar un caso` = 사건을 종결하다.
+- **시제:** `Levantando` → levantar, 현재분사(지문) / `hemos cerrado` → cerrar, 직설법 현재완료 1인칭 복수
+
+### 16-2. **Álvaro:** Brindo por eso, con mucho gusto.
+- **해석:** 기꺼이 그걸 위해 건배하죠.
+- **주요 단어:** `brindar por` ~을 위해 건배하다 / `con mucho gusto` 기꺼이
+- **문법:** 특이사항 없음
+- **시제:** `Brindo` → brindar, 직설법 현재 1인칭 단수
+
+### 16-3. **Sonia:** Me alegra haber podido ayudar con la formación previa.
+- **해석:** 사전 교육으로 도움이 될 수 있어서 기뻐요.
+- **주요 단어:** `ayudar` (동사) 돕다 / `formación` (명사, 여) 교육, 훈련 / `previo` (형용사) 사전의
+- **문법:** 주어가 같아 `me alegra + 부정사`. `haber podido` 완료부정사(이미 한 일).
+- **시제:** `alegra` → alegrar, 직설법 현재 3인칭 단수 / `haber podido` → poder, 완료부정사 / `ayudar` → 부정사
+
+### 16-4. **Sonia:** Parece que sirvió de algo.
+- **해석:** 뭔가 쓸모가 있었던 것 같네요.
+- **주요 단어:** `servir de` ~로 쓸모 있다
+- **문법:** `parece que + 직설법`(긍정 판단).
+- **표현:** `servir de algo` = 조금이라도 도움이 되다.
+- **시제:** `Parece` → parecer, 직설법 현재 3인칭 단수 / `sirvió` → servir, 직설법 단순과거 3인칭 단수(e→i)
+
+### 16-5. **Álvaro:** Sirvió muchísimo, Sonia.
+- **해석:** 엄청 도움이 됐어요, 소니아.
+- **주요 단어:** `muchísimo` (부사) 아주 많이
+- **문법:** `-ísimo` 절대최상급.
+- **시제:** `Sirvió` → servir, 직설법 단순과거 3인칭 단수
+
+### 16-6. **Álvaro:** No habría sabido ni por dónde empezar sin su ayuda.
+- **해석:** 당신 도움이 없었다면 어디서부터 시작해야 할지도 몰랐을 거예요.
+- **주요 단어:** `empezar` (동사) 시작하다 / `ayuda` (명사, 여) 도움
+- **문법:** 조건법 완료 = 과거 사실의 반대 가정 결과. `sin su ayuda`가 조건절 역할. `ni` = ~조차. `por dónde + 부정사` 간접의문.
+- **표현:** `no saber ni por dónde empezar` = 어디서부터 손대야 할지조차 모르다.
+- **시제:** `habría sabido` → saber, 조건법 완료 1인칭 단수 / `empezar` → 부정사
+
+### 16-7. **Carlos:** Elena ha empezado a colaborar plenamente.
+- **해석:** 엘레나가 전면적으로 협조하기 시작했어.
+- **주요 단어:** `colaborar` (동사) 협조하다 / `plenamente` (부사) 완전히
+- **문법:** `empezar a + 부정사` 앞에서 설명.
+- **시제:** `ha empezado` → empezar, 직설법 현재완료 3인칭 단수 / `colaborar` → 부정사
+
+### 16-8. **Carlos:** Eso ayudará a entender mejor la red completa detrás del intermediario.
+- **해석:** 그러면 중개인 뒤에 있는 전체 네트워크를 더 잘 파악하는 데 도움이 될 거야.
+- **주요 단어:** `entender` 앞에서 설명 / `red` (명사, 여) 네트워크, 조직망 / `detrás de` ~ 뒤에
+- **문법:** `ayudar a + 부정사`. 단순미래.
+- **시제:** `ayudará` → ayudar, 직설법 미래 3인칭 단수 / `entender` → 부정사
+
+### 16-9. **Álvaro:** ¿Y el consorcio energético extranjero?
+- **해석:** 그럼 그 외국 에너지 컨소시엄은요?
+- **주요 단어:** 앞에서 설명
+- **문법:** `¿Y + 명사?` = ~은 어떻게 돼요?(생략 의문).
+- **시제:** 동사 없음
+
+### 16-10. **Álvaro:** ¿Habrá consecuencias diplomáticas?
+- **해석:** 외교적 파장이 있을까요?
+- **주요 단어:** `consecuencia` (명사, 여) 결과, 파장 / `diplomático` (형용사) 외교의
+- **문법:** 무인칭 haber의 미래형.
+- **시제:** `Habrá` → haber, 직설법 미래 3인칭 단수(무인칭)
+
+### 16-11. **Carlos:** Se está gestionando a otro nivel, fuera de mi competencia directa.
+- **해석:** 그건 내 직접 권한 밖의, 다른 차원에서 처리되고 있어.
+- **주요 단어:** `gestionar` (동사) 처리하다, 관리하다 / `competencia` (명사, 여) 권한, 관할 / `fuera de` ~ 밖에
+- **문법:** 수동 se + 진행형(estar + 현재분사).
+- **표현:** `a otro nivel` = 더 높은(다른) 선에서.
+- **시제:** `Se está gestionando` → gestionar, 직설법 현재진행 3인칭 단수(수동 se)
+
+### 16-12. **Carlos:** Pero sí, habrá consecuencias.
+- **해석:** 하지만 그래, 파장은 있을 거야.
+- **주요 단어:** 앞에서 설명
+- **문법:** `sí`로 긍정 강조.
+- **시제:** `habrá` → haber, 직설법 미래 3인칭 단수(무인칭)
+
+### 16-13. **Sonia:** Y espero que esto sirva para reforzar la seguridad en otras instalaciones similares, no solo en Peña Alta.
+- **해석:** 그리고 이번 일이 페냐 알타뿐 아니라 비슷한 다른 시설들의 보안 강화에도 도움이 되길 바라요.
+- **주요 단어:** `servir para` ~에 쓸모 있다 / `reforzar` 앞에서 설명 / `similar` (형용사) 비슷한 / `no solo` ~뿐만 아니라
+- **문법:** `esperar que + 접속법`(주어가 다름, 바람).
+- **시제:** `espero` → esperar, 직설법 현재 1인칭 단수 / `sirva` → servir, 접속법 현재 3인칭 단수 / `reforzar` → 부정사
+
+### 16-14. **Carlos:** Ese es exactamente el objetivo del informe que estamos preparando.
+- **해석:** 그게 바로 우리가 준비하고 있는 보고서의 목적이야.
+- **주요 단어:** `exactamente` (부사) 정확히 / `objetivo` (명사, 남) 목표 / `informe` (명사, 남) 보고서 / `preparar` (동사) 준비하다
+- **문법:** 관계대명사 `que`. 진행형.
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `estamos preparando` → preparar, 직설법 현재진행 1인칭 복수
+
+### 16-15. **Álvaro:** Me alegra que, para variar, este caso termine generando algo constructivo a largo plazo.
+- **해석:** 웬일로 이번 사건은 결국 장기적으로 뭔가 건설적인 걸 만들어 내게 돼서 기뻐요.
+- **주요 단어:** `variar` (동사) 바꾸다 / `terminar` (동사) 끝나다 / `generar` (동사) 만들어 내다 / `constructivo` (형용사) 건설적인 / `a largo plazo` 장기적으로
+- **문법:** `me alegra que + 접속법`. `terminar + 현재분사` = 결국 ~하게 되다.
+- **표현:** `para variar` = "모처럼, 웬일로" (평소와 다르게 좋은 일이라는 뉘앙스, 반어적으로도 쓰임).
+- **시제:** `alegra` → alegrar, 직설법 현재 3인칭 단수 / `variar` → 부정사 / `termine` → terminar, 접속법 현재 3인칭 단수 / `generando` → generar, 현재분사
+
+### 16-16. **Carlos:** Así es.
+- **해석:** 그렇지.
+- **주요 단어:** `así` 그렇게
+- **문법:** 특이사항 없음
+- **표현:** 동의 관용구 "맞아".
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수
+
+### 16-17. **Carlos:** Bueno, disfrutemos de la cena.
+- **해석:** 자, 저녁 즐기자.
+- **주요 단어:** `disfrutar de` ~을 즐기다 / `cena` (명사, 여) 저녁 식사
+- **문법:** 1인칭 복수 명령(권유) = 접속법 현재 1인칭 복수 형태.
+- **표현:** `Bueno` 화제 전환 담화표지.
+- **시제:** `disfrutemos` → disfrutar, 명령법(접속법 현재 형태) 1인칭 복수
+
+### 16-18. **Carlos:** Nos lo hemos ganado, sobre todo tú, Álvaro.
+- **해석:** 우린 이럴 자격이 있어, 특히 너 말이야, 알바로.
+- **주요 단어:** `ganarse` (재귀동사) (노력으로) 얻다 / `sobre todo` 앞에서 설명
+- **문법:** 재귀 `nos` + 직접목적 `lo` 순서(재귀·간접 → 직접). `lo`는 "이 저녁/휴식" 전체.
+- **표현:** `Nos lo hemos ganado` = "우리가 받을 만하다".
+- **시제:** `hemos ganado` → ganarse, 직설법 현재완료 1인칭 복수
+
+### 16-19. **Álvaro:** Por un descanso muy merecido, entonces.
+- **해석:** 그럼, 정말 누릴 만한 휴식을 위하여.
+- **주요 단어:** `descanso` (명사, 남) 휴식 / `merecido` (형용사) 받을 만한
+- **문법:** 건배사 `Por + 명사`(앞에서 설명).
+- **표현:** `bien merecido / muy merecido` = 충분히 누릴 자격이 있는.
+- **시제:** 동사 없음(`merecido`는 merecer의 과거분사가 형용사로 쓰임)

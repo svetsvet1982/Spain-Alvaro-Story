@@ -316,3 +316,150 @@
 - **문법:** `alguno`는 남성 단수 명사 앞에서 `algún`. 관계대명사 `que` + 조건법(완곡). 동사(¿Hay ...?) 생략.
 - **시제:** `debería` → deber, 조건법 1인칭 단수 / `evitar` → 동사원형
 
+### 2-49. **Ignacio:** No exageres tus conocimientos.
+- **해석:** 네 지식을 과장하지 마.
+- **주요 단어:** `exagerar` (동사) 과장하다 / `conocimientos` (명사, 복수) 지식, 학식
+- **문법:** tú에 대한 부정 명령은 접속법 현재 사용(`no exageres`). 긍정형은 exagera.
+- **시제:** `exageres` → exagerar, 부정 명령(접속법 현재) 2인칭 단수
+
+### 2-50. **Ignacio:** La gente que realmente sabe de esto detecta enseguida a quien solo ha memorizado cuatro términos.
+- **해석:** 이 분야를 정말 아는 사람들은 용어 몇 개만 외운 사람을 금방 알아봐.
+- **주요 단어:** `gente` (명사, 단수 취급) 사람들 / `realmente` (부사) 정말로 / `detectar` (동사) 알아채다, 탐지하다 / `enseguida` (부사) 곧바로 / `memorizar` (동사) 외우다
+- **문법:** `la gente`는 집합명사라 동사 단수(sabe, detecta). `a quien` = 선행사를 포함한 관계대명사 + 인칭 a("~한 사람을"). 현재완료 `ha memorizado`.
+- **표현:** `cuatro términos` = 스페인어 구어에서 `cuatro`는 "몇 개 안 되는, 쥐꼬리만한"의 뜻(cuatro gatos 등).
+- **시제:** `sabe` → saber, 직설법 현재 3인칭 단수 / `detecta` → detectar, 직설법 현재 3인칭 단수 / `ha memorizado` → memorizar, 직설법 현재완료 3인칭 단수
+
+### 2-51. **Ignacio:** Es mejor mostrar curiosidad genuina que fingir saberlo todo.
+- **해석:** 다 아는 척하는 것보다 진심 어린 호기심을 보이는 게 나아.
+- **주요 단어:** `mejor` (형용사) 더 나은 / `mostrar` (동사) 보여 주다 / `curiosidad` (명사) 호기심 / `genuino` (형용사) 진정한 / `fingir` (동사) ~인 척하다
+- **문법:** `Es mejor A que B`(동사원형 비교). `saberlo todo`: 대명사 lo가 동사원형 뒤에 붙고, `todo`가 목적어일 때 중복 lo 사용(lo sé todo).
+- **표현:** `fingir saberlo todo` = 모든 걸 아는 척하다.
+- **시제:** `es` → ser, 직설법 현재 3인칭 단수 / `mostrar`, `fingir`, `saber` → 동사원형
+
+### 2-52. **Álvaro:** Buen consejo.
+- **해석:** 좋은 조언이네요.
+- **주요 단어:** `buen` (형용사) 좋은 (bueno의 어미 탈락형) / `consejo` (명사) 조언
+- **문법:** `bueno`는 남성 단수 명사 앞에서 `buen`.
+- **시제:** 동사 없음
+
+### 2-53. **Álvaro:** ¿Practicamos con alguna pieza de ejemplo?
+- **해석:** 예시 작품으로 연습해 볼까요?
+- **주요 단어:** `practicar` (동사) 연습하다 / `ejemplo` (명사) 예시
+- **문법:** 직설법 현재 1인칭 복수 의문문으로 제안("~할까요?").
+- **표현:** `¿Practicamos...?`처럼 현재형 의문문은 가벼운 제안에 흔히 쓰임.
+- **시제:** `practicamos` → practicar, 직설법 현재 1인칭 복수
+
+### 2-54. **Ignacio:** Claro.
+- **해석:** 물론이지.
+- **주요 단어:** `claro` (부사/감탄사) 물론
+- **문법:** 특이사항 없음
+- **시제:** 동사 없음
+
+### 2-55. **Ignacio:** Aquí tengo una réplica de un huaco retrato.
+- **해석:** 여기 와코 레트라토 복제품이 있어.
+- **주요 단어:** `aquí` (부사) 여기 / `réplica` (명사) 복제품, 레플리카
+- **문법:** `tener`로 "가지고 있다 → 여기 있다" 표현.
+- **시제:** `tengo` → tener, 직설법 현재 1인칭 단수
+
+### 2-56. **Ignacio:** Dime qué observas.
+- **해석:** 뭐가 보이는지 말해 봐.
+- **주요 단어:** `decir` (동사) 말하다 / `observar` (동사) 관찰하다
+- **문법:** tú 긍정 명령 `di`(불규칙) + 간접목적대명사 `me`가 뒤에 붙음 → `dime`. 간접의문문 `qué observas`.
+- **시제:** `di(me)` → decir, 명령법 2인칭 단수 (불규칙) / `observas` → observar, 직설법 현재 2인칭 단수
+
+### 2-57. **Álvaro:** (Examinándola) Veo el rostro, bastante detallado.
+- **해석:** (그것을 살펴보며) 얼굴이 보이네요, 꽤 정교하게 묘사돼 있어요.
+- **주요 단어:** `examinar` (동사) 살펴보다, 검사하다 / `ver` (동사) 보다 / `bastante` (부사) 꽤 / `detallado` (형용사) 세밀한
+- **문법:** `Examinándola`: 현재분사 + 직접목적대명사 la(réplica)가 뒤에 붙고 강세 부호 추가. `detallado`는 rostro에 일치.
+- **시제:** `examinándola` → examinar, 현재분사 / `veo` → ver, 직설법 현재 1인칭 단수 / `detallado` → detallar, 과거분사(형용사 용법)
+
+### 2-58. **Álvaro:** ¿Qué debería estar buscando exactamente?
+- **해석:** 정확히 뭘 찾아봐야 하나요?
+- **주요 단어:** `buscar` (동사) 찾다 / `exactamente` (부사) 정확히
+- **문법:** `deber + estar + 현재분사` = 진행형에 당위를 더함("~하고 있어야 하다"). 조건법으로 완곡.
+- **시제:** `debería` → deber, 조건법 1인칭 단수 / `estar` → 동사원형 / `buscando` → buscar, 현재분사
+
+### 2-59. **Ignacio:** Fíjate en la simetría del rostro, la calidad del pulido, y sobre todo, en cómo se conecta la cabeza con el cuerpo de la vasija.
+- **해석:** 얼굴의 대칭, 광택 처리의 품질, 그리고 무엇보다 머리가 그릇 몸체와 어떻게 이어지는지를 잘 봐.
+- **주요 단어:** `fijarse en` (재귀동사) ~에 주목하다 / `simetría` (명사) 대칭 / `calidad` (명사) 품질 / `pulido` (명사) 광택 작업, 연마 / `conectarse con` ~와 연결되다 / `cabeza` (명사) 머리 / `cuerpo` (명사) 몸체
+- **문법:** 재귀동사 tú 긍정 명령 `fija + te` → `fíjate`(강세 추가). `en cómo + 직설법` 간접의문문. `se conecta`는 재귀/수동의 se.
+- **표현:** `Fíjate en...` = "~을 잘 봐, ~에 주목해". `sobre todo` 앞에서 설명.
+- **시제:** `fíjate` → fijarse, 명령법 2인칭 단수 / `conecta` → conectar(se), 직설법 현재 3인칭 단수
+
+### 2-60. **Ignacio:** Los falsificadores suelen fallar en esa transición.
+- **해석:** 위조범들은 대개 그 이어지는 부분에서 실수를 해.
+- **주요 단어:** `soler` 앞에서 설명 / `fallar` (동사) 실패하다, 실수하다 / `transición` (명사) 이행부, 전환 부분
+- **문법:** `soler + 동사원형`(앞에서 설명). `fallar en` = ~에서 실수하다.
+- **시제:** `suelen` → soler, 직설법 현재 3인칭 복수 (o→ue) / `fallar` → 동사원형
+
+### 2-61. **Álvaro:** Ahora que lo dice, se nota una ligera diferencia en la textura ahí.
+- **해석:** 말씀하시고 보니, 거기 질감에 약간 차이가 느껴지네요.
+- **주요 단어:** `ahora que` 이제 ~하니까 / `notarse` (동사) 눈에 띄다, 느껴지다 / `ligero` (형용사) 가벼운, 약간의 / `textura` (명사) 질감
+- **문법:** `lo dice`: 중성 lo(그 말), usted 주어 3인칭 단수. `se nota` = 무인칭/수동의 se("~이 드러나다").
+- **표현:** `Ahora que lo dice(s)` = "말씀하시니까 (생각해 보니)"의 관용 표현. 알바로는 여전히 usted 사용.
+- **시제:** `dice` → decir, 직설법 현재 3인칭 단수(usted) / `nota` → notar(se), 직설법 현재 3인칭 단수
+
+### 2-62. **Ignacio:** Exacto, buen ojo.
+- **해석:** 맞아, 눈썰미가 좋네.
+- **주요 단어:** `buen ojo` 좋은 안목, 눈썰미
+- **문법:** 특이사항 없음
+- **표현:** `(Tener) buen ojo` = 안목이 있다.
+- **시제:** 동사 없음
+
+### 2-63. **Ignacio:** Vas a aprender rápido, Daniel.
+- **해석:** 금방 배우겠구나, 다니엘.
+- **주요 단어:** `aprender` (동사) 배우다 / `rápido` (부사적 용법) 빨리
+- **문법:** `ir a + 동사원형` = 가까운 미래/예측. `rápido`는 형용사가 부사처럼 쓰인 것(= rápidamente).
+- **시제:** `vas` → ir, 직설법 현재 2인칭 단수 / `aprender` → 동사원형
+
+### 2-64. **Álvaro:** Eso espero.
+- **해석:** 그러길 바라요.
+- **주요 단어:** `esperar` (동사) 바라다
+- **문법:** 목적어 `eso`가 동사 앞으로 나온 어순.
+- **표현:** `Eso espero` = "그랬으면 좋겠네요"의 관용 표현.
+- **시제:** `espero` → esperar, 직설법 현재 1인칭 단수
+
+### 2-65. **Álvaro:** Dos meses no dan para mucho margen de error.
+- **해석:** 두 달로는 실수할 여유가 별로 없거든요.
+- **주요 단어:** `mes` (명사) 달, 월 / `dar para` ~하기에 충분하다 / `margen de error` (명사구) 오차 범위, 실수할 여유
+- **문법:** `dar para + 명사/동사원형` = "~할 만큼이 되다, 충분하다"(주어 dos meses → 3인칭 복수).
+- **표현:** `no dar para mucho` = "그다지 여유가 없다" 스페인식 구어.
+- **시제:** `dan` → dar, 직설법 현재 3인칭 복수
+
+### 2-66. **Ignacio:** Nos quedan casi dos semanas de formación intensiva.
+- **해석:** 집중 교육이 거의 2주 남았어.
+- **주요 단어:** `quedar` (동사) 남다 / `casi` (부사) 거의 / `semana` (명사) 주 / `formación` (명사) 교육, 훈련 / `intensivo` (형용사) 집중적인
+- **문법:** `quedar`는 gustar형 동사: 간접목적 `nos` + 동사 + 주어(dos semanas → 복수 quedan).
+- **시제:** `quedan` → quedar, 직설법 현재 3인칭 복수
+
+### 2-67. **Ignacio:** Para cuando termines, sonarás lo bastante convincente.
+- **해석:** 교육을 마칠 때쯤이면 충분히 설득력 있게 들릴 거야.
+- **주요 단어:** `para cuando` ~할 때쯤에는 / `terminar` (동사) 끝내다 / `sonar` 앞에서 설명 / `lo bastante` 충분히 / `convincente` (형용사) 설득력 있는
+- **문법:** 미래의 시점을 나타내는 `(para) cuando + 접속법` → `termines`. 주절은 직설법 미래. `lo bastante + 형용사` = "충분히 ~한".
+- **시제:** `termines` → terminar, 접속법 현재 2인칭 단수 / `sonarás` → sonar, 직설법 미래 2인칭 단수
+
+### 2-68. **Álvaro:** Confío en usted, profesor.
+- **해석:** 선생님만 믿겠습니다.
+- **주요 단어:** `confiar en` ~을 믿다, 신뢰하다 / `profesor` (명사) 선생님, 교수
+- **문법:** `confiar en + 사람`. 전치사 뒤 usted.
+- **시제:** `confío` → confiar, 직설법 현재 1인칭 단수 (í 강세)
+
+### 2-69. **Ignacio:** Llámame Ignacio, por favor.
+- **해석:** 그냥 이그나시오라고 불러, 제발.
+- **주요 단어:** `llamar` (동사) 부르다
+- **문법:** tú 긍정 명령 `llama` + 직접목적대명사 `me` → `llámame`(강세 추가).
+- **표현:** 호칭을 편하게 하자는 제안 — usted/profesor 대신 tú와 이름으로 부르라는 뜻. 스페인에서는 격식 없이 이름·tú를 쓰는 경향이 강함.
+- **시제:** `llámame` → llamar, 명령법 2인칭 단수
+
+### 2-70. **Ignacio:** Y ahora, sigamos.
+- **해석:** 자, 이제 계속하자.
+- **주요 단어:** `seguir` (동사) 계속하다
+- **문법:** nosotros 명령형(접속법 현재 1인칭 복수) `sigamos`.
+- **시제:** `sigamos` → seguir, 명령법(접속법 현재 형태) 1인칭 복수 (e→i, gu→g)
+
+### 2-71. **Ignacio:** Todavía nos queda hablar de los principales mercados de destino y cómo se mueven estas piezas fuera de Perú.
+- **해석:** 아직 주요 판매 목적지 시장들과, 이 작품들이 어떻게 페루 밖으로 옮겨지는지에 대해 이야기할 게 남았어.
+- **주요 단어:** `todavía` (부사) 아직 / `principal` (형용사) 주요한 / `destino` (명사) 목적지 / `moverse` (동사) 움직이다, 유통되다 / `fuera de` ~ 밖으로
+- **문법:** `nos queda + 동사원형` = "우리에게 ~할 일이 남아 있다"(주어가 동사원형이라 단수). 간접의문문 `cómo se mueven`. `se mueven`은 재귀/수동의 se.
+- **표현:** `mercados de destino` = 밀반출 작품이 향하는 도착지 시장.
+- **시제:** `queda` → quedar, 직설법 현재 3인칭 단수 / `hablar` → 동사원형 / `mueven` → mover(se), 직설법 현재 3인칭 복수 (o→ue)

@@ -1,16 +1,18 @@
-"""notes/part*.md 를 합쳐 해설.md 와 해설.docx 를 만든다."""
-import glob, os, re
+"""<폴더>/notes/part*.md 를 합쳐 <폴더>/해설.md 와 <폴더>/해설.docx 를 만든다.
+
+사용법: python3 build_docx.py 85-110
+"""
+import glob, os, re, sys
 from docx import Document
 from docx.shared import Pt, RGBColor
 from docx.oxml.ns import qn
 
-HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(HERE)
-TITLE = "알바로 이야기 (85-110) — 문장별 스페인어 해설"
+folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), sys.argv[1])
+TITLE = f"알바로 이야기 ({sys.argv[1]}) — 문장별 스페인어 해설"
 
-parts = sorted(glob.glob(os.path.join(HERE, "part*.md")))
+parts = sorted(glob.glob(os.path.join(folder, "notes", "part*.md")))
 md = f"# {TITLE}\n\n" + "\n\n".join(open(p, encoding="utf-8").read().strip() for p in parts) + "\n"
-open(os.path.join(ROOT, "해설.md"), "w", encoding="utf-8").write(md)
+open(os.path.join(folder, "해설.md"), "w", encoding="utf-8").write(md)
 
 doc = Document()
 st = doc.styles["Normal"]
@@ -43,5 +45,5 @@ for line in md.splitlines():
     else:
         add_runs(doc.add_paragraph(), s)
 
-doc.save(os.path.join(ROOT, "해설.docx"))
+doc.save(os.path.join(folder, "해설.docx"))
 print(len(parts), "parts,", md.count("\n### "), "sentences")
